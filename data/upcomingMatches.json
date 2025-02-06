@@ -22,13 +22,6 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Nexus",
-        "secondPlayer": "NVCC Alex",
-        "scheduledAt": "02/08/2025 17:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
         "firstPlayer": "RattyRy",
         "secondPlayer": "Moody",
         "scheduledAt": "02/08/2025 19:00:00 UTC",
@@ -57,7 +50,7 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "NVCC Alex",
+        "firstPlayer": "Nexus",
         "secondPlayer": "Shura",
         "scheduledAt": "02/09/2025 19:00:00 UTC",
         "matchType": 0
