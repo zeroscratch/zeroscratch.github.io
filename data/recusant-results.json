@@ -3,22 +3,6 @@
     {
       "gameId": "1",
       "player1": {
-        "name": "Nexus",
-        "score": 0,
-        "outcome": ""
-      },
-      "player2": {
-        "name": "NVCC Alex",
-        "score": 0,
-        "outcome": ""
-      },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
-    },
-    {
-      "gameId": "2",
-      "player1": {
         "name": "RattyRy",
         "score": 0,
         "outcome": ""
@@ -33,7 +17,7 @@
       "imageLink": ""
     },
     {
-      "gameId": "3",
+      "gameId": "2",
       "player1": {
         "name": "Elymis",
         "score": 0,
@@ -49,7 +33,7 @@
       "imageLink": ""
     },
     {
-      "gameId": "4",
+      "gameId": "3",
       "player1": {
         "name": "ChrisChrass",
         "score": 0,
@@ -65,9 +49,9 @@
       "imageLink": ""
     },
     {
-      "gameId": "5",
+      "gameId": "4",
       "player1": {
-        "name": "NVCC Alex",
+        "name": "Nexus",
         "score": 0,
         "outcome": ""
       },
