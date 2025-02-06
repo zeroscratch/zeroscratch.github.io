@@ -1,0 +1,476 @@
+{
+    "golden_order": [
+        {
+            "agheelStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "consumablesStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "crackedPotsStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "fallingstarStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "fourFriendlyNpcsStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "graftedScionStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "margetSixParriesStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "shield": "testing",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "millicentInvaderStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "torrent": "Yes",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "torrent": "No",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "torrent": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "torrent": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "torrent": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "runebearStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "testing",
+                        "division": "Redmane"
+                    }
+                }
+            ]
+        }
+    ],
+    "crucible": [
+        {
+            "agheelStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "consumablesStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "crackedPotsStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "fallingstarStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "fourFriendlyNpcsStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "graftedScionStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "margetSixParriesStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "shield": "testing",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "square off",
+                        "shield": "testing",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "millicentInvaderStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "torrent": "Yes",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "torrent": "No",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "torrent": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "torrent": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "torrent": "square off",
+                        "division": "Redmane"
+                    }
+                }
+            ],
+            "runebearStats": [
+                {
+                    "Nexus": {
+                        "time": "1:20",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Nartok": {
+                        "time": "1:30",
+                        "weapon": "No Square Off",
+                        "division": "Redmane"
+                    },
+                    "Shura": {
+                        "time": "1:24",
+                        "weapon": "square off",
+                        "division": "Redmane"
+                    },
+                    "John": {
+                        "time": "1:30",
+                        "weapon": "square off",
+                        "division": "Recusants"
+                    },
+                    "Derf": {
+                        "time": "1:00",
+                        "weapon": "testing",
+                        "division": "Redmane"
+                    }
+                }
+            ]
+        }
+    ]
+}

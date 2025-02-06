@@ -1,0 +1,48 @@
+{
+    "goldenOrder": [
+        {
+            "title": "Upcoming Match",
+            "firstPlayer": "John",
+            "secondPlayer": "Amber",
+            "scheduledAt": "1/23/2025 11:43:00 UTC",
+            "matchType": 0
+        },
+        {
+            "title": "Upcoming Match",
+            "firstPlayer": "Chris",
+            "secondPlayer": "Smith",
+            "scheduledAt": "1/22/2025 2:12:00 UTC",
+            "matchType": 0
+        },
+        {
+            "title": "Upcoming Match",
+            "firstPlayer": "Monica",
+            "secondPlayer": "Ryan",
+            "scheduledAt": "1/26/2025 3:00:00 UTC",
+            "matchType": 1
+        }
+    ],
+    "crucible": [
+        {
+            "title": "Upcoming Match",
+            "firstPlayer": "John",
+            "secondPlayer": "Amber",
+            "scheduledAt": "1/23/2025 11:43:00 UTC",
+            "matchType": 0
+        },
+        {
+            "title": "Upcoming Match",
+            "firstPlayer": "Chris",
+            "secondPlayer": "Smith",
+            "scheduledAt": "1/22/2025 2:12:00 UTC",
+            "matchType": 0
+        },
+        {
+            "title": "Upcoming Match",
+            "firstPlayer": "Monica",
+            "secondPlayer": "Ryan",
+            "scheduledAt": "1/26/2025 3:00:00 UTC",
+            "matchType": 1
+        }
+    ]
+}

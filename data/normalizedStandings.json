@@ -1,0 +1,78 @@
+{
+    "goldenOrder": [
+        {
+            "redmanes": [
+                {
+                    "standing": 2,
+                    "name": "John",
+                    "wins": 5,
+                    "losses": 10,
+                    "squares": 11,
+                    "lines": 3,
+                    "games": 34,
+                    "wr": "23%",
+                    "twitch": "https://www.twitch.tv/beardandthehair"
+                },
+                {
+                    "standing": 1,
+                    "name": "Amber",
+                    "wins": 15,
+                    "losses": 5,
+                    "squares": 1,
+                    "lines": 7,
+                    "games": 31,
+                    "wr": "20%",
+                    "twitch": "https://www.twitch.tv/itsshura"
+                }
+            ],
+            "recusants": [
+                {
+                    "standing": 2,
+                    "name": "John",
+                    "wins": 5,
+                    "losses": 10,
+                    "squares": 11,
+                    "lines": 3,
+                    "games": 34,
+                    "wr": "23%",
+                    "twitch": "https://www.twitch.tv/beardandthehair"
+                },
+                {
+                    "standing": 1,
+                    "name": "Amber",
+                    "wins": 15,
+                    "losses": 5,
+                    "squares": 1,
+                    "lines": 7,
+                    "games": 31,
+                    "wr": "20%",
+                    "twitch": "https://www.twitch.tv/itsshura"
+                }
+            ]
+        }
+    ],
+    "crucible": [
+        {
+            "standing": 2,
+            "name": "John",
+            "wins": 5,
+            "losses": 10,
+            "squares": 11,
+            "lines": 3,
+            "games": 34,
+            "wr": "23%",
+            "twitch": ""
+        },
+        {
+            "standing": 1,
+            "name": "Amber",
+            "wins": 15,
+            "losses": 5,
+            "squares": 1,
+            "lines": 7,
+            "games": 31,
+            "wr": "20%",
+            "twitch": ""
+        }
+    ]
+}
