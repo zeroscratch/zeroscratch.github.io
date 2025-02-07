@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "0",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -17,7 +17,7 @@
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -27,8 +27,8 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "0",
-         "player_deaths": "0",
+         "boss_deaths": "1",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Full Grown Fallingstar": {
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -52,7 +52,7 @@
          "ratio": ""
        },
        "Sewer Mohg": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -62,12 +62,12 @@
          "ratio": ""
        },
        "Godrick": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
        "Rykard": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -76,7 +76,7 @@
          "player_deaths": "0",
          "ratio": ""
        },
-       "Red Wolf": {
+       "Red Wolf of Radagon": {
          "boss_deaths": "0",
          "player_deaths": "0",
          "ratio": ""
@@ -87,11 +87,6 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "0",
-         "player_deaths": "0",
-         "ratio": ""
-       },
-       "Ancestor Spirit": {
          "boss_deaths": "0",
          "player_deaths": "0",
          "ratio": ""
@@ -107,8 +102,8 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "0",
-         "player_deaths": "0",
+         "boss_deaths": "1",
+         "player_deaths": "1",
          "ratio": ""
        }
      },

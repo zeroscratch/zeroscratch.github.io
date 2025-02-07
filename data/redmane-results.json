@@ -4,17 +4,17 @@
       "gameId": "1",
       "player1": {
         "name": "Rambler",
-        "score": 0,
-        "outcome": ""
+        "score": 13,
+        "outcome": "Majority"
       },
       "player2": {
         "name": "Derf",
-        "score": 0,
-        "outcome": ""
+        "score": 8,
+        "outcome": "Lost"
       },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
+      "matchTime": "01:28:58",
+      "vodLink": "https://www.twitch.tv/videos/2375032162?t=00h21m06s",
+      "imageLink": "/img/rambler-v-derf.png"
     },
     {
       "gameId": "2",
