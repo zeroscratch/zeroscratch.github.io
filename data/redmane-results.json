@@ -20,17 +20,17 @@
       "gameId": "2",
       "player1": {
         "name": "Ginger",
-        "score": 0,
-        "outcome": ""
+        "score": 7,
+        "outcome": "Lost"
       },
       "player2": {
         "name": "Dino",
-        "score": 0,
-        "outcome": ""
+        "score": 13,
+        "outcome": "Majority"
       },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
+      "matchTime": "01:35:32",
+      "vodLink": "https://www.twitch.tv/videos/2375032162?t=02h12m29s",
+      "imageLink": "/img/dino-v-ginger.png"
     },
     {
       "gameId": "3",
