@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -22,12 +22,12 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "1",
+         "boss_deaths": "3",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -42,16 +42,21 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "1",
+         "boss_deaths": "3",
          "player_deaths": "1",
          "ratio": ""
        },
        "Sewer Mohg": {
+         "boss_deaths": "1",
+         "player_deaths": "0",
+         "ratio": ""
+       },
+       "Goldfrey": {
          "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
@@ -62,7 +67,7 @@
          "ratio": ""
        },
        "Godrick": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -72,22 +77,22 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "1",
+         "boss_deaths": "3",
          "player_deaths": "2",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "1",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "1",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "1",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -109,6 +114,11 @@
        "Ekzykes": {
          "boss_deaths": "1",
          "player_deaths": "1",
+         "ratio": ""
+       },
+       "Rune Bear": {
+         "boss_deaths": "2",
+         "player_deaths": "0",
          "ratio": ""
        }
      },

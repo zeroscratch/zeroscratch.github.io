@@ -36,17 +36,17 @@
       "gameId": "3",
       "player1": {
         "name": "Asym",
-        "score": 0,
-        "outcome": ""
+        "score": 10,
+        "outcome": "Lost"
       },
       "player2": {
         "name": "Helios",
-        "score": 0,
-        "outcome": ""
+        "score": 13,
+        "outcome": "Majority"
       },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
+      "matchTime": "01:41:31",
+      "vodLink": "https://www.twitch.tv/videos/2375218647?t=00h39m43s",
+      "imageLink": "/img/asym-v-helios.png"
     },
     {
       "gameId": "4",
