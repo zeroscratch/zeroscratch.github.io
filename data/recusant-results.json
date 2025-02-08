@@ -20,17 +20,17 @@
       "gameId": "2",
       "player1": {
         "name": "Elymis",
-        "score": 0,
-        "outcome": ""
+        "score": 5,
+        "outcome": "Lost"
       },
       "player2": {
         "name": "Stocko",
-        "score": 0,
-        "outcome": ""
+        "score": 9,
+        "outcome": "Bingo"
       },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
+      "matchTime": "00:56:27",
+      "vodLink": "https://www.twitch.tv/videos/2375907492?t=02h22m14s",
+      "imageLink": "/img/stocko-v-elymis.png"
     },
     {
       "gameId": "3",

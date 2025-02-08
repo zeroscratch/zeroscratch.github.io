@@ -2,17 +2,17 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "1",
-         "player_deaths": "0",
+         "boss_deaths": "2",
+         "player_deaths": "1",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -124,6 +124,11 @@
        "Wormface": {
          "boss_deaths": "1",
          "player_deaths": "4",
+         "ratio": ""
+       },
+       "Loretta": {
+         "boss_deaths": "1",
+         "player_deaths": "0",
          "ratio": ""
        }
      },
