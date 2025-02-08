@@ -2,17 +2,17 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -22,7 +22,7 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -92,12 +92,12 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "3",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "5",
+         "boss_deaths": "10",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -119,6 +119,11 @@
        "Rune Bear": {
          "boss_deaths": "2",
          "player_deaths": "0",
+         "ratio": ""
+       },
+       "Wormface": {
+         "boss_deaths": "1",
+         "player_deaths": "4",
          "ratio": ""
        }
      },

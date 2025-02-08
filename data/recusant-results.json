@@ -4,17 +4,17 @@
       "gameId": "1",
       "player1": {
         "name": "RattyRy",
-        "score": 0,
-        "outcome": ""
+        "score": 9,
+        "outcome": "Lost"
       },
       "player2": {
         "name": "Moody",
-        "score": 0,
-        "outcome": ""
+        "score": 13,
+        "outcome": "Majority"
       },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
+      "matchTime": "01:34:11",
+      "vodLink": "https://www.twitch.tv/videos/2375907492?t=00h21m57s",
+      "imageLink": "rattyry-v-moody.png"
     },
     {
       "gameId": "2",
