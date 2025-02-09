@@ -52,17 +52,17 @@
       "gameId": "4",
       "player1": {
         "name": "Nexus",
-        "score": 0,
-        "outcome": ""
+        "score": 13,
+        "outcome": "Majority"
       },
       "player2": {
         "name": "Shura",
-        "score": 0,
-        "outcome": ""
+        "score": 5,
+        "outcome": "Lost"
       },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
+      "matchTime": "01:16:33",
+      "vodLink": "https://www.twitch.tv/videos/2376782983?t=02h26m55s",
+      "imageLink": "/img/nexus-v-shura.png"
     }
    ]
  }

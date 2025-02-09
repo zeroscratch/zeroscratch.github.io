@@ -7,7 +7,7 @@
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "3",
+         "boss_deaths": "5",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -77,8 +77,8 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "4",
-         "player_deaths": "2",
+         "boss_deaths": "6",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
@@ -92,13 +92,13 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "5",
-         "player_deaths": "0",
+         "boss_deaths": "6",
+         "player_deaths": "1",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "13",
-         "player_deaths": "3",
+         "boss_deaths": "18",
+         "player_deaths": "4",
          "ratio": ""
        },
        "Abductor Virgins": {
