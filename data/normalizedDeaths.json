@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "6",
+         "boss_deaths": "8",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
