@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -37,8 +37,8 @@
          "ratio": ""
        },
        "Godskin Apostle": {
-         "boss_deaths": "1",
-         "player_deaths": "0",
+         "boss_deaths": "2",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Radahn": {
@@ -47,8 +47,8 @@
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "6",
-         "player_deaths": "1",
+         "boss_deaths": "7",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Sewer Mohg": {
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -97,13 +97,13 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "11",
-         "player_deaths": "1",
+         "boss_deaths": "13",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Abductor Virgins": {
-         "boss_deaths": "0",
-         "player_deaths": "0",
+         "boss_deaths": "1",
+         "player_deaths": "4",
          "ratio": ""
        },
        "Tree Sentinel Duo": {
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -132,6 +132,16 @@
          "ratio": ""
        },
        "Valiant Gargs": {
+         "boss_deaths": "1",
+         "player_deaths": "0",
+         "ratio": ""
+       },
+       "Death Rite Bird": {
+         "boss_deaths": "2",
+         "player_deaths": "6",
+         "ratio": ""
+       },
+       "Black Blade Kindred": {
          "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
