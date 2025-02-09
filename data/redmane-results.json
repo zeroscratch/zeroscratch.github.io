@@ -52,17 +52,17 @@
       "gameId": "4",
       "player1": {
         "name": "Strump",
-        "score": 0,
-        "outcome": ""
+        "score": 12,
+        "outcome": "Lost"
       },
       "player2": {
         "name": "Helios",
-        "score": 0,
-        "outcome": ""
+        "score": 13,
+        "outcome": "Majority"
       },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
+      "matchTime": "01:54:28",
+      "vodLink": "https://www.twitch.tv/videos/2375907492?t=03h56m33s",
+      "imageLink": "/img/helios-v-strump.png"
     },
     {
       "gameId": "5",

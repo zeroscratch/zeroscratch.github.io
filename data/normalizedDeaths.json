@@ -2,22 +2,22 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "0",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "1",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "1",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -32,22 +32,22 @@
          "ratio": ""
        },
        "Full Grown Fallingstar": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
        "Godskin Apostle": {
-         "boss_deaths": "0",
+         "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "4",
+         "boss_deaths": "6",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -72,22 +72,22 @@
          "ratio": ""
        },
        "Rykard": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "2",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "10",
+         "boss_deaths": "11",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -112,7 +112,7 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -127,6 +127,11 @@
          "ratio": ""
        },
        "Loretta": {
+         "boss_deaths": "1",
+         "player_deaths": "0",
+         "ratio": ""
+       },
+       "Valiant Gargs": {
          "boss_deaths": "1",
          "player_deaths": "0",
          "ratio": ""
