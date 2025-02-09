@@ -63,22 +63,6 @@
       "matchTime": "01:54:28",
       "vodLink": "https://www.twitch.tv/videos/2375907492?t=03h56m33s",
       "imageLink": "/img/helios-v-strump.png"
-    },
-    {
-      "gameId": "5",
-      "player1": {
-        "name": "Serious",
-        "score": 0,
-        "outcome": ""
-      },
-      "player2": {
-        "name": "Raa",
-        "score": 0,
-        "outcome": ""
-      },
-      "matchTime": "00:00:00",
-      "vodLink": "",
-      "imageLink": ""
     }
   ]
 }
