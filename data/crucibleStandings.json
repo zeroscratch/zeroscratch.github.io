@@ -6,7 +6,9 @@
             "wins": 1,
             "losses": 1,
             "games": 1,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 3,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -14,7 +16,10 @@
             "wins": 2,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 1,
+            "opponentLoss": 3
+            
           },
           {
             "standing": 0,
@@ -22,7 +27,9 @@
             "wins": 2,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 1,
+            "opponentLoss": 3
           },
           {
             "standing": 0,
@@ -30,7 +37,9 @@
             "wins": 2,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 1,
+            "opponentLoss": 3
           },
           {
             "standing": 0,
@@ -38,7 +47,9 @@
             "wins": 2,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 0,
+            "opponentLoss": 4
           },
           {
             "standing": 0,
@@ -46,7 +57,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -55,7 +68,9 @@
             "losses": 0,
             "points": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -63,7 +78,9 @@
             "wins": 2,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 1,
+            "opponentLoss": 3
           },
           {
             "standing": 0,
@@ -71,7 +88,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -79,7 +98,9 @@
             "wins": 2,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 3
           },
           {
             "standing": 0,
@@ -87,7 +108,9 @@
             "wins": 2,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -95,7 +118,9 @@
             "wins": 1,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 0,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -103,7 +128,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 3,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -111,7 +138,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 3
           },
           {
             "standing": 0,
@@ -119,7 +148,9 @@
             "wins": 0,
             "losses": 0,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 0,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -127,7 +158,9 @@
             "wins": 0,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 0
           },
           {
             "standing": 0,
@@ -135,7 +168,9 @@
             "wins": 1,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 4,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -143,7 +178,9 @@
             "wins": 0,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 4,
+            "opponentLoss": 0
           },
           {
             "standing": 0,
@@ -151,7 +188,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -159,7 +198,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 1,
+            "opponentLoss": 3
           },
           {
             "standing": 0,
@@ -167,7 +208,9 @@
             "wins": 0,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 3,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -175,15 +218,19 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
-            "name": "Christian",
+            "name": "JLegacy",
             "wins": 0,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 1,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -191,7 +238,9 @@
             "wins": 0,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -199,7 +248,9 @@
             "wins": 0,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 3,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -207,7 +258,9 @@
             "wins": 0,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -215,7 +268,9 @@
             "wins": 0,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 1
           },
           {
             "standing": 0,
@@ -223,7 +278,9 @@
             "wins": 0,
             "losses": 2,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 3,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -231,7 +288,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 2,
+            "opponentLoss": 2
           },
           {
             "standing": 0,
@@ -239,7 +298,9 @@
             "wins": 1,
             "losses": 1,
             "games": 0,
-            "wr": "0%"
+            "wr": "0%",
+            "opponentWins": 1,
+            "opponentLoss": 3
           }
     ]
 

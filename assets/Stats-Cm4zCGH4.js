@@ -1,0 +1,1 @@
+import{l as o,_ as t,c as a,g as s,i as c,o as n}from"./index-CLY6gicG.js";const r={name:"Stats",components:{DeathsRecord:o}};function _(p,d,f,l,m,i){const e=c("DeathsRecord");return n(),a("div",null,[s(e)])}const h=t(r,[["render",_],["__scopeId","data-v-a6ff6aff"]]);export{h as default};
