@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -22,7 +22,7 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -37,18 +37,18 @@
          "ratio": ""
        },
        "Godskin Apostle": {
-         "boss_deaths": "2",
-         "player_deaths": "2",
+         "boss_deaths": "3",
+         "player_deaths": "10",
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "0",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "7",
-         "player_deaths": "2",
+         "boss_deaths": "8",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Sewer Mohg": {
@@ -92,7 +92,7 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "6",
+         "boss_deaths": "9",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -137,8 +137,8 @@
          "ratio": ""
        },
        "Death Rite Bird": {
-         "boss_deaths": "3",
-         "player_deaths": "6",
+         "boss_deaths": "4",
+         "player_deaths": "7",
          "ratio": ""
        },
        "Black Blade Kindred": {
