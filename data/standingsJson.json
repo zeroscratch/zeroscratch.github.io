@@ -15,10 +15,10 @@
         "standing": 0,
         "name": "Dino",
         "wins": 1,
-        "losses": 0,
-        "squares": 13,
+        "losses": 1,
+        "squares": 23,
         "lines": 0,
-        "games": 1,
+        "games": 2,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/dinossb"
       },
@@ -92,11 +92,11 @@
       {
         "standing": 0,
         "name": "Strump",
-        "wins": 0,
+        "wins": 1,
         "losses": 1,
-        "squares": 12,
+        "squares": 25,
         "lines": 0,
-        "games": 1,
+        "games": 2,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/strump1"
       }
