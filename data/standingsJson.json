@@ -184,9 +184,9 @@
             "name": "Shura",
             "wins": 1,
             "losses": 1,
-            "squares": 9,
+            "squares": 14,
             "lines": 1,
-            "games": 1,
+            "games": 2,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/itsshura"
           },
@@ -197,7 +197,7 @@
             "losses": 1,
             "squares": 14,
             "lines": 1,
-            "games": 1,
+            "games": 2,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/stockosunday"
           }
