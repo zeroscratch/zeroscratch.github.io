@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -32,7 +32,7 @@
          "ratio": ""
        },
        "Full Grown Fallingstar": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -66,8 +66,8 @@
          "player_deaths": "0",
          "ratio": ""
        },
-       "Godrick": {
-         "boss_deaths": "8",
+       "Godrick The Grafted": {
+         "boss_deaths": "9",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "9",
+         "boss_deaths": "10",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -97,12 +97,12 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "19",
+         "boss_deaths": "20",
          "player_deaths": "5",
          "ratio": ""
        },
        "Abductor Virgins": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "4",
          "ratio": ""
        },
@@ -112,7 +112,7 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "2",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
