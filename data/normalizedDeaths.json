@@ -2,22 +2,22 @@
    "divisions": {
      "golder_order": {
        "Margit": {
-         "boss_deaths": "10",
+         "boss_deaths": "12",
          "player_deaths": "0",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "6",
+         "boss_deaths": "8",
          "player_deaths": "1",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "0",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -47,7 +47,7 @@
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "8",
+         "boss_deaths": "10",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -57,8 +57,8 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "1",
-         "player_deaths": "0",
+         "boss_deaths": "2",
+         "player_deaths": "1",
          "ratio": ""
        },
        "Lord of Blood": {
@@ -67,12 +67,12 @@
          "ratio": ""
        },
        "Godrick": {
-         "boss_deaths": "6",
+         "boss_deaths": "8",
          "player_deaths": "0",
          "ratio": ""
        },
        "Rykard": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,17 +82,17 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "7",
+         "boss_deaths": "9",
          "player_deaths": "2",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "4",
+         "boss_deaths": "6",
          "player_deaths": "0",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "10",
+         "boss_deaths": "12",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -107,12 +107,12 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "1",
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "1",
          "ratio": ""
        },
