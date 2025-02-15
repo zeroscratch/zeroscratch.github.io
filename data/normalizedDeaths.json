@@ -22,7 +22,7 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "9",
+         "boss_deaths": "10",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,12 +82,12 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "10",
+         "boss_deaths": "11",
          "player_deaths": "2",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -107,8 +107,8 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "4",
-         "player_deaths": "1",
+         "boss_deaths": "5",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Ekzykes": {
@@ -149,7 +149,7 @@
      },
      "crucible": {
        "Margit": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "2",
          "ratio": "0"
        },
