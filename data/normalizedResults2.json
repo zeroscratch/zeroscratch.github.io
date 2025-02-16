@@ -63,11 +63,11 @@
               },
               {
                 "gameId": "7",
-                "player1": { "name": "Helios", "score": 0, "outcome": "" },
-                "player2": { "name": "Rambler", "score": 0, "outcome": "" },
+                "player1": { "name": "Helios", "score": 13, "outcome": "Majority" },
+                "player2": { "name": "Rambler", "score": 6, "outcome": "Lost" },
                 "matchTime": "00:00:00",
-                "vodLink": "",
-                "imageLink": ""
+                "vodLink": "https://www.twitch.tv/videos/2381925983?t=06h11m51s",
+                "imageLink": "/img/helios-v-rambler.png"
                },
                {
                 "gameId": "8",
