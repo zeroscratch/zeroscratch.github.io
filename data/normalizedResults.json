@@ -71,11 +71,11 @@
                },
                {
                 "gameId": "8",
-                "player1": { "name": "Raa", "score": 0, "outcome": "" },
-                "player2": { "name": "Derf", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00",
+                "player1": { "name": "Raa", "score": 7, "outcome": "Lost" },
+                "player2": { "name": "Derf", "score": 13, "outcome": "Majority" },
+                "matchTime": "01:24:21",
                 "vodLink": "",
-                "imageLink": ""
+                "imageLink": "/img/raa-v-derf.png"
                }
             ]
          },
