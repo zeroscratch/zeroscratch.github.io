@@ -454,6 +454,14 @@
             "matchTime": "01:03:32",
             "vodLink": "",
             "imageLink": "/img/crucible/champ-v-harv.png"
+         },
+         {
+            "gameId": "36",
+            "player1": { "name": "Malte", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Androisius", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:26:37",
+            "vodLink": "",
+            "imageLink": "/img/crucible/malte-v-andro.png"
          }
       ]
    },
@@ -462,7 +470,7 @@
       "matches": 
       [
          {
-            "gameId": "36",
+            "gameId": "37",
             "player1": { "name": "Torsadz", "score": 5, "outcome": "Lost" },
             "player2": { "name": "Daggar97", "score": 10, "outcome": "Bingo" },
             "matchTime": "01:33:50",

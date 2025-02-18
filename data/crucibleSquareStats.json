@@ -1,0 +1,896 @@
+{
+	"Kill Godrick while summoning Nepheli Loux": { 
+		"Completed": 6, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Rennala after she summons 4 times": { 
+		"Completed": 4, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Radahn without summoning NPCs": { 
+		"Completed": 1, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Morgott, the Omen King": { 
+		"Completed": 0, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill an Ancestor Spirit": { 
+		"Completed": 1, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Margit with 6+ parries": { 
+		"Completed": 4, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Leonine Misbegotten": { 
+		"Completed": 8, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Red Wolf boss": { 
+		"Completed": 9, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Godskin Noble without Sleep": { 
+		"Completed": 1, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Godskin Apostle": { 
+		"Completed": 5, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Godfrey (Gold Spirit)": { 
+		"Completed": 4, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Loretta (Blue Spirit)": { 
+		"Completed": 6, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Return Millicent's Needle": { 
+		"Completed": 8, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Grafted Scion (Chapel of Anticipation)": { 
+		"Completed": 6, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Soldier of Godrick bare fist only": { 
+		"Completed": 7, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Limgrave Tree Sentinel with a +0 weapon only": { 
+		"Completed": 8, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Agheel with a +0 weapon only": { 
+		"Completed": 7, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Tree Sentinel duo": { 
+		"Completed": 7, 
+		"Appeared": 12,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Crucible Knight and Misbegotten Warrior duo": { 
+		"Completed": 5, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Elemer of the Briar": { 
+		"Completed": 4, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Putrid Crystalian trio": { 
+		"Completed": 3, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Wormface Boss": { 
+		"Completed": 1, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Bloodhound Knight while summoning Blaidd": { 
+		"Completed": 8, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Greyoll without status effects": { 
+		"Completed": 3, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 4 Bosses with the word 'God' in it": { 
+		"Completed": 6, 
+		"Appeared": 14,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 4 Bosses with the word 'Knight' in it": { 
+		"Completed": 4, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 4 Evergoals": { 
+		"Completed": 2, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Dragonkin Soldier": { 
+		"Completed": 5, 
+		"Appeared": 10,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Magma Wyrm boss": { 
+		"Completed": 7, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Fallingstar Beast": { 
+		"Completed": 2, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Solo Gargoyle": { 
+		"Completed": 4, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill an Omenkiller Boss": { 
+		"Completed": 3, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Ensha": { 
+		"Completed": 3, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Deathbird and a Death Rite Bird": { 
+		"Completed": 0, 
+		"Appeared": 1,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Deathbirds": { 
+		"Completed": 4, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Cemetery Shades": { 
+		"Completed": 4, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 Erdtree Watchdogs": { 
+		"Completed": 3, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Duelists": { 
+		"Completed": 5, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Black Knife Assassins": { 
+		"Completed": 1, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Crucible Knights": { 
+		"Completed": 1, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 Crucible Knights": { 
+		"Completed": 0, 
+		"Appeared": 1,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 Dragon Heart bosses (not Greyoll)": { 
+		"Completed": 5, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 Avatars": { 
+		"Completed": 5, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Night's Cavalry": { 
+		"Completed": 2, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 Night's Cavalry": { 
+		"Completed": 2, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Bell Bearing Hunters (not Elemer)": { 
+		"Completed": 1, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 duo/ trio bosses": { 
+		"Completed": 1, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 duo/ trio bosses in Caelid/ Dragonbarrow": { 
+		"Completed": 0, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 duo/ trio bosses in Altus/ Gelmir": { 
+		"Completed": 2, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 5 bosses that ride a horse": { 
+		"Completed": 6, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 5 bosses with 'tree' in their name": { 
+		"Completed": 4, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Remembrance boss colossal armaments only": { 
+		"Completed": 4, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Remembrance boss daggers or fists only": { 
+		"Completed": 7, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Remembrance boss whips or flails only": { 
+		"Completed": 4, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Caelid/ Dragonbarrow boss sorcery only": { 
+		"Completed": 2, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Liurnia boss incantations only": { 
+		"Completed": 5, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a Remembrance boss w/ remembrance weapon only": { 
+		"Completed": 7, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Finish off a boss with the explosive physick": { 
+		"Completed": 2, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 7 bosses in Limgrave/ Weeping": { 
+		"Completed": 2, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 4 bosses in The Weeping Peninsula": { 
+		"Completed": 2, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 6 bosses in Liurnia/ Chapel of Anticipation": { 
+		"Completed": 7, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 5 bosses in Caelid/ Dragonbarrow": { 
+		"Completed": 2, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 5 bosses in Altus Plateau/ Mt. Gelmir": { 
+		"Completed": 4, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill an Onyx Lord boss": { 
+		"Completed": 7, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 2 catacomb dungeons": { 
+		"Completed": 1, 
+		"Appeared": 1,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 3 catacomb dungeons": { 
+		"Completed": 5, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 2 cave, grotto, or hideaway dungeons": { 
+		"Completed": 3, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 3 cave, grotto, or hideaway dungeons": { 
+		"Completed": 2, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 4 cave, grotto, or hideaway dungeons": { 
+		"Completed": 3, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 2 tunnel or precipice dungeons": { 
+		"Completed": 3, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete 3 tunnel or precipice dungeons": { 
+		"Completed": 1, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Complete an Altus Plateau/ Mt. Gelmir Hero's Grave": { 
+		"Completed": 3, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 3 ruins bosses": { 
+		"Completed": 7, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 3 different Remembrances": { 
+		"Completed": 3, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire Smithing-stone Bell Bearing [1] and [2]": { 
+		"Completed": 3, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire Grave and Ghost Glovewort Bell Bearings [1]": { 
+		"Completed": 6, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 3 Imbued Sword Keys": { 
+		"Completed": 6, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire Margit's and Mohg's Shackles": { 
+		"Completed": 0, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Restore Godrick’s Great Rune": { 
+		"Completed": 9, 
+		"Appeared": 11,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Restore Radahn’s Great Rune": { 
+		"Completed": 6, 
+		"Appeared": 13,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Rykard, Lord of Blasphemy": { 
+		"Completed": 3, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Somber +9 weapon": { 
+		"Completed": 2, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Smithing-stone +12 weapon": { 
+		"Completed": 10, 
+		"Appeared": 10,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Spirit Ash +4 summon": { 
+		"Completed": 3, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Sacred Flask +5": { 
+		"Completed": 5, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Sacred Flask +6": { 
+		"Completed": 6, 
+		"Appeared": 11,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 10 Sacred Flask charges": { 
+		"Completed": 5, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 10 Physick Flask tears": { 
+		"Completed": 4, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 10 Cracked Pots": { 
+		"Completed": 10, 
+		"Appeared": 10,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 5 Ritual Pots": { 
+		"Completed": 7, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Take Rya's hand to Volcano Manor": { 
+		"Completed": 8, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Return Thops' academy key": { 
+		"Completed": 5, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Invade and defeat Magnus the Beast Claw": { 
+		"Completed": 2, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Dupe a Remembrance at a Mausoleum": { 
+		"Completed": 7, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Memory of Grace with 50k+ Runes": { 
+		"Completed": 3, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Defeat 3 NPC invaders": { 
+		"Completed": 7, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 4 friendly NPCs (no hermit merchants)": { 
+		"Completed": 7, 
+		"Appeared": 7,
+		"Ratio": 0,
+		"Appearance": 0 
+	},
+	"Kill Gurranq": { 
+		"Completed": 3, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Use AoW Lightning Ram to kill 10 sheep": { 
+		"Completed": 6, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Learn 10 different sorceries": { 
+		"Completed": 6, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Learn 12 different incantations": { 
+		"Completed": 5, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Rune Level 55": { 
+		"Completed": 1, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"25 Faith (no rebirth or buffs)": { 
+		"Completed": 3, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"25 Arcane (no rebirth or buffs)": { 
+		"Completed": 5, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"25 Int (no rebirth or buffs)": { 
+		"Completed": 5, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Tree spirits": { 
+		"Completed": 2, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Collect 6 unique Staves": { 
+		"Completed": 8, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Collect 3 Paintings": { 
+		"Completed": 8, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Collect 4 unique Seals": { 
+		"Completed": 5, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a boss while riding Torrent the entire fight": { 
+		"Completed": 8, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill a boss Consumables only": { 
+		"Completed": 7, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 4 Memory Stones": { 
+		"Completed": 4, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill the Vyke Invader": { 
+		"Completed": 5, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Cleanse the Frenzy-Flaming Tower": { 
+		"Completed": 2, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 3 Whetblades (including Whetstone Knife)": { 
+		"Completed": 7, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 3 Larval Tears": { 
+		"Completed": 1, 
+		"Appeared": 2,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 4 Larval Tears": { 
+		"Completed": 0, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Atone for your sins at Turtle Pope": { 
+		"Completed": 5, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Defeat Eleonora, Violet Bloody Finger": { 
+		"Completed": 3, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Return Boc's Needle": { 
+		"Completed": 11, 
+		"Appeared": 11,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Feed 2 Deathroot to Gurranq": { 
+		"Completed": 3, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Feed 3 Deathroot to Gurranq": { 
+		"Completed": 1, 
+		"Appeared": 1,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Defeat Millicent Invader in Caelid": { 
+		"Completed": 11, 
+		"Appeared": 11,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Draconic Tree Sentinel": { 
+		"Completed": 8, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Sewer Mohg": { 
+		"Completed": 0, 
+		"Appeared": 10,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Decaying Ekzykes": { 
+		"Completed": 3, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill The Runebear boss": { 
+		"Completed": 6, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Troll bosses": { 
+		"Completed": 6, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire a Cerulean, Crimson, and Viridian Talisman": { 
+		"Completed": 6, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire a Great Ghost Glovewort": { 
+		"Completed": 3, 
+		"Appeared": 9,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 4 Unique Status Effects AoWs": { 
+		"Completed": 2, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire Radagon and Godfrey's Icons": { 
+		"Completed": 1, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire both Scarseals": { 
+		"Completed": 6, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire Ritual Sword and Ritual Shield": { 
+		"Completed": 2, 
+		"Appeared": 11,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire an Exultation Talisman": { 
+		"Completed": 0, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill the Sleeping Golem (Leyndell)": { 
+		"Completed": 7, 
+		"Appeared": 10,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire Blue Dancer Charm": { 
+		"Completed": 4, 
+		"Appeared": 4,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill the Cleanrot Knight Duo": { 
+		"Completed": 5, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill the Fire Prelate in Fort Laiedd": { 
+		"Completed": 6, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Misbegotten bosses": { 
+		"Completed": 7, 
+		"Appeared": 10,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill Dung Eater": { 
+		"Completed": 0, 
+		"Appeared": 8,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill an Altus Boss Perfume Bottles Only": { 
+		"Completed": 4, 
+		"Appeared": 6,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire 4 Talismans w/ 'Drake' in the name": { 
+		"Completed": 11, 
+		"Appeared": 12,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+   "Acquire Erdtree's Favor": { 
+		"Completed": 5, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+   "Kill the Queen Ant in Ainsel River": { 
+		"Completed": 4, 
+		"Appeared": 5,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+   "Complete a Flame Chariot Assassination bare fist only": { 
+		"Completed": 6, 
+		"Appeared": 7,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Kill 2 Lion Guardians": { 
+		"Completed": 0, 
+		"Appeared": 1,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+	"Acquire the Lion's Claw Ash of War": { 
+		"Completed": 2, 
+		"Appeared": 3,
+		"Ratio": 0, 
+		"Appearance": 0 
+	},
+   "Acquire the Square Off Ash of War": { 
+		"Completed": 9, 
+		"Appeared": 10,
+		"Ratio": 0, 
+		"Appearance": 0 
+	}
+}
