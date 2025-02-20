@@ -1,0 +1,206 @@
+{
+   "Starting-Class": {
+      "Claymore": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Grave Scythe": {
+         "type": "Scythe",
+         "upgrade": 0,
+         "used": 3
+      },
+      "Rotten Battle Hammer": {
+         "type": "Great Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Warpick": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Celebrant's Skull": {
+         "type": "Great Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Noble's Slender Sword": {
+         "type": "Straight Sword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Hammer": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Large Club": {
+         "type": "Great Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Helphen's Steeple": {
+         "type": "Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Flamberge": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Morning Star": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Steel-Wire Torch": {
+         "type": "Torch",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Dismounter": {
+         "type": "Curved Greatsword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Flail": {
+         "type": "Flail",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Bastard Sword": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Iron Ball": {
+         "type": "Fist",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Longsword": {
+         "type": "Straight Sword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Spiked Club": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Weathered Straight Sword": {
+         "type": "Straight Sword",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Chainlink Flail": {
+         "type": "Flail",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Forked Hatchet": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Scorpion's Stinger": {
+         "type": "Dagger",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Gargoyle's Greatsword": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Rotten Staff": {
+         "type": "Colossal Weapon",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Stone Club": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 2
+      }
+   },
+   "Looted-Weapon": {
+      "Dragon-Hunter's Great Katana": {
+         "type": "Katana",
+         "upgrade": 1,
+         "used": 2
+      },
+      "Meteoric Ore Blade": {
+         "type": "Katana",
+         "upgrade": 1,
+         "used": 5
+      },
+      "Miquellan Knight's Sword": {
+         "type": "Straight Sword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Watchdog's Staff": {
+         "type": "Colossal Weapon",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Rakshasa's Great Katana": {
+         "type": "Katana",
+         "upgrade": 1,
+         "used": 2
+      },
+      "Dragon Halberd": {
+         "type": "Halberd",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Golden Halberd": {
+         "type": "Halberd",
+         "upgrade": 1,
+         "used": 2
+      },
+      "Banished Halberd +8": {
+         "type": "Halberd",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Alabaster Lord's Sword": {
+         "type": "Greatsword",
+         "upgrade": 1,
+         "used": 2
+      },
+      "Claymore": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Rosus' Axe": {
+         "type": "Axe",
+         "upgrade": 1,
+         "used": 2
+      },
+      "Dragonscale Blade": {
+         "type": "Katana",
+         "upgrade": 1,
+         "used": 2
+      },
+      "Helphen's Steeple": {
+         "type": "Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Sword of Milos": {
+         "type": "Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Falx": {
+         "type": "Curved Sword",
+         "upgrade": 1,
+         "used": 2
+      }
+   }
+}
