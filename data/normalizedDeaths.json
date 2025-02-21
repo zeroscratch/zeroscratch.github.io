@@ -1,18 +1,18 @@
 {
    "divisions": {
      "golder_order": {
-       "Margit": {
-         "boss_deaths": "17",
-         "player_deaths": "1",
+       "Margit, The Fell Omen": {
+         "boss_deaths": "19",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "8",
+         "boss_deaths": "10",
          "player_deaths": "1",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -22,13 +22,13 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "5",
+         "boss_deaths": "7",
          "player_deaths": "0",
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "4",
-         "player_deaths": "2",
+         "boss_deaths": "5",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Full Grown Fallingstar": {
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "11",
+         "boss_deaths": "13",
          "player_deaths": "1",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "12",
+         "boss_deaths": "14",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "13",
+         "boss_deaths": "15",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -77,17 +77,17 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "3",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "12",
+         "boss_deaths": "14",
          "player_deaths": "2",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -137,7 +137,7 @@
          "ratio": ""
        },
        "Death Rite Bird": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "7",
          "ratio": ""
        },

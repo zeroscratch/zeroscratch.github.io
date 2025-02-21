@@ -83,7 +83,7 @@
       "Longsword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 1
+         "used": 3
       },
       "Spiked Club": {
          "type": "Hammer",
@@ -130,7 +130,7 @@
       "Dragon-Hunter's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 2
+         "used": 3
       },
       "Meteoric Ore Blade": {
          "type": "Katana",
@@ -165,7 +165,7 @@
       "Banished Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",

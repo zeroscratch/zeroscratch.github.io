@@ -86,11 +86,11 @@
             [
               {
                 "gameId": "9",
-                "player1": { "name": "Ginger", "score": 0, "outcome": "" },
-                "player2": { "name": "Rambler", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00", 
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "Ginger", "score": 10, "outcome": "Lost" },
+                "player2": { "name": "Rambler", "score": 13, "outcome": "Majority" },
+                "matchTime": "01:39:57",
+                "vodLink": "https://www.twitch.tv/videos/2387390621?t=00h18m43s",
+                "imageLink": "/img/ginger-v-rambler.png"
               },
               {
                 "gameId": "10",

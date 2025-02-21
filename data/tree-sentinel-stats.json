@@ -8,5 +8,10 @@
       "time": "3:05",
       "weapon": "Hammer",
       "division": "Recusants"
+   },
+   "Ginger": {
+      "time": "2:45",
+      "weapon": "Longsword",
+      "division": "Redmane"
    }
 }
