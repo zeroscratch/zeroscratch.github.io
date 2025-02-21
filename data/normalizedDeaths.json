@@ -22,12 +22,12 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "7",
-         "player_deaths": "0",
+         "boss_deaths": "8",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "14",
+         "boss_deaths": "15",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -92,7 +92,7 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "19",
+         "boss_deaths": "20",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -107,12 +107,12 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "2",
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -122,7 +122,7 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "4",
          "ratio": ""
        },

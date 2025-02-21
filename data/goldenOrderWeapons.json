@@ -124,6 +124,11 @@
          "type": "Hammer",
          "upgrade": 0,
          "used": 2
+      },
+      "Black Steel Greathammer": {
+         "type": "Great Hammer",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -185,7 +190,7 @@
       "Dragonscale Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 2
+         "used": 3
       },
       "Helphen's Steeple": {
          "type": "Greatsword",
@@ -201,6 +206,16 @@
          "type": "Curved Sword",
          "upgrade": 1,
          "used": 2
+      },
+      "Longsword": {
+         "type": "Straight Sword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Ordovis's Greatsword": {
+         "type": "Greatsword",
+         "upgrade": 1,
+         "used": 1
       }
    }
 }
