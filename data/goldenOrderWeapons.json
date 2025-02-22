@@ -129,6 +129,11 @@
          "type": "Great Hammer",
          "upgrade": 0,
          "used": 2
+      },
+      "Banished Knight's Halberd": {
+         "type": "Halberd",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -167,7 +172,7 @@
          "upgrade": 1,
          "used": 2
       },
-      "Banished Halberd +8": {
+      "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
          "used": 3
@@ -175,7 +180,7 @@
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 2
+         "used": 4
       },
       "Claymore": {
          "type": "Greatsword",

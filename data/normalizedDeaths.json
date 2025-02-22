@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "19",
+         "boss_deaths": "20",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -22,12 +22,12 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "2",
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -42,13 +42,13 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "1",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "14",
-         "player_deaths": "3",
+         "boss_deaths": "15",
+         "player_deaths": "4",
          "ratio": ""
        },
        "Sewer Mohg": {
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "15",
+         "boss_deaths": "16",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -77,12 +77,12 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "3",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "15",
+         "boss_deaths": "16",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -122,7 +122,7 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "4",
          "ratio": ""
        },
@@ -142,7 +142,7 @@
          "ratio": ""
        },
        "Black Blade Kindred": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "1",
          "ratio": ""
        },
