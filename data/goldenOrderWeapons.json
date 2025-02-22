@@ -139,6 +139,11 @@
          "type": "Halberd",
          "upgrade": 0,
          "used": 1
+      },
+      "Star Fist": {
+         "type": "Fist",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -165,7 +170,7 @@
       "Rakshasa's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 4
+         "used": 5
       },
       "Dragon Halberd": {
          "type": "Halberd",
@@ -180,7 +185,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 3
+         "used": 5
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
