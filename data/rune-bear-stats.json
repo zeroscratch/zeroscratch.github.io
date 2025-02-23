@@ -3,5 +3,10 @@
       "time": "10:20",
       "weapon": "Stone Club",
       "division": "Recusants"
+   },
+   "Serious": {
+      "time": "8:05",
+      "weapon": "Lordsworn's Greatsword",
+      "division": "Redmane"
    }
 }

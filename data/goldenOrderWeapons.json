@@ -159,6 +159,11 @@
          "type": "Greatsword",
          "upgrade": 0,
          "used": 1
+      },
+      "Lordsworn's Greatsword": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -200,7 +205,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 6
+         "used": 7
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -244,6 +249,21 @@
       },
       "Ordovis's Greatsword": {
          "type": "Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Rotten Battle Hammer": {
+         "type": "Great Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Zamor Curved Sword": {
+         "type": "Curved Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Star-Lined Sword": {
+         "type": "Katana",
          "upgrade": 1,
          "used": 1
       }

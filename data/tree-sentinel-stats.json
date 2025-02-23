@@ -13,5 +13,10 @@
       "time": "2:45",
       "weapon": "Longsword",
       "division": "Redmane"
+   },
+   "Serious": {
+      "time": "2:56",
+      "weapon": "Lordsworn's Greatsword",
+      "division": "Redmane"
    }
 }

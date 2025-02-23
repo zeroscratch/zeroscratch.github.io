@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "23",
+         "boss_deaths": "25",
          "player_deaths": "2",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "18",
-         "player_deaths": "5",
+         "boss_deaths": "20",
+         "player_deaths": "6",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "19",
+         "boss_deaths": "21",
          "player_deaths": "4",
          "ratio": ""
        },
@@ -57,7 +57,7 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "19",
+         "boss_deaths": "21",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "5",
+         "boss_deaths": "7",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -132,7 +132,7 @@
          "ratio": ""
        },
        "Valiant Gargs": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
