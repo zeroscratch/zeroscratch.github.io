@@ -25,11 +25,11 @@
       {
         "standing": 0,
         "name": "Derf",
-        "wins": 1,
+        "wins": 2,
         "losses": 2,
-        "squares": 28,
+        "squares": 41,
         "lines": 0,
-        "games": 3,
+        "games": 4,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/dandyderfdude"
       },
@@ -82,10 +82,10 @@
         "standing": 0,
         "name": "Serious",
         "wins": 0,
-        "losses": 1,
-        "squares": 7,
+        "losses": 2,
+        "squares": 19,
         "lines": 0,
-        "games": 1,
+        "games": 2,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/seriouschallenges"
       },

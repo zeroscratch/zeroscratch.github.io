@@ -149,6 +149,16 @@
          "type": "Greatsword",
          "upgrade": 0,
          "used": 1
+      },
+      "Mantis Blade": {
+         "type": "Curved Sword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Forked Greatsword": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -165,7 +175,7 @@
       "Miquellan Knight's Sword": {
          "type": "Straight Sword",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Watchdog's Staff": {
          "type": "Colossal Weapon",
@@ -190,7 +200,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 5
+         "used": 6
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",

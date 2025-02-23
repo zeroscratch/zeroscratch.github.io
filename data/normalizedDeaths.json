@@ -2,17 +2,17 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "22",
+         "boss_deaths": "23",
          "player_deaths": "2",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "11",
+         "boss_deaths": "13",
          "player_deaths": "1",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "11",
+         "boss_deaths": "13",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -22,8 +22,8 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "11",
-         "player_deaths": "2",
+         "boss_deaths": "12",
+         "player_deaths": "5",
          "ratio": ""
        },
        "Fallingstar Beast": {
@@ -32,7 +32,7 @@
          "ratio": ""
        },
        "Full Grown Fallingstar": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "16",
-         "player_deaths": "3",
+         "boss_deaths": "18",
+         "player_deaths": "5",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "17",
+         "boss_deaths": "19",
          "player_deaths": "4",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "18",
+         "boss_deaths": "19",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,12 +82,12 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "2",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "9",
+         "boss_deaths": "10",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -112,7 +112,7 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "1",
          "ratio": ""
        },
