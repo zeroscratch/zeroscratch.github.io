@@ -235,11 +235,11 @@
              },
              {
               "gameId": "12",
-              "player1": { "name": "Nartock", "score": 0, "outcome": "" },
-              "player2": { "name": "Shura", "score": 0, "outcome": "" },
-              "matchTime": "00:00:00",
-              "vodLink": "",
-              "imageLink": ""
+              "player1": { "name": "Nartock", "score": 7, "outcome": "Lost" },
+              "player2": { "name": "Shura", "score": 6, "outcome": "Bingo" },
+              "matchTime": "01:00:55",
+              "vodLink": "https://www.twitch.tv/videos/2389111443?t=00h33m24s",
+              "imageLink": "/img/nartock-v-shura.png"
              }
           ]
        }

@@ -133,7 +133,7 @@
       "Banished Knight's Halberd": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Vulgar Militia Saw": {
          "type": "Halberd",
@@ -144,6 +144,11 @@
          "type": "Fist",
          "upgrade": 0,
          "used": 2
+      },
+      "Banished Knight's Greatsword": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -190,7 +195,7 @@
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 4
+         "used": 6
       },
       "Claymore": {
          "type": "Greatsword",
