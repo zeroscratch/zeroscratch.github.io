@@ -1,1 +1,0 @@
-import{m as o,_ as t,c as a,i as s,j as c,o as n}from"./index-BBfH-q7N.js";const r={name:"Stats",components:{DeathsRecord:o}};function _(p,d,f,m,l,i){const e=c("DeathsRecord");return n(),a("div",null,[s(e)])}const h=t(r,[["render",_],["__scopeId","data-v-a6ff6aff"]]);export{h as default};
