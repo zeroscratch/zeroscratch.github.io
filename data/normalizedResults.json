@@ -89,7 +89,7 @@
                 "player1": { "name": "Ginger", "score": 10, "outcome": "Lost" },
                 "player2": { "name": "Rambler", "score": 13, "outcome": "Majority" },
                 "matchTime": "01:39:57",
-                "vodLink": "https://www.twitch.tv/videos/2387390621?t=00h18m43s",
+                "vodLink": "https://youtu.be/y10na5N5Uds?si=-LxK7-nJt5vnnU3T",
                 "imageLink": "/img/ginger-v-rambler.png"
               },
               {
@@ -97,7 +97,7 @@
                 "player1": { "name": "Asym", "score": 13, "outcome": "Majority" },
                 "player2": { "name": "Derf", "score": 7, "outcome": "Lost" },
                 "matchTime": "01:12:50", 
-                "vodLink": "https://www.twitch.tv/videos/2387390621?t=02h17m48s",
+                "vodLink": "https://youtu.be/K6wAAsKPj8s?si=iIO2hbNKSuv-M0HU",
                 "imageLink": "/img/asym-v-derf.png"
               },
               {
@@ -105,7 +105,7 @@
                 "player1": { "name": "Derf", "score": 13, "outcome": "Majority" },
                 "player2": { "name": "Serious", "score": 12, "outcome": "Lost" },
                 "matchTime": "01:55:28",
-                "vodLink": "https://www.twitch.tv/videos/2389111443?t=02h26m10s",
+                "vodLink": "https://youtu.be/pgScXEqdTLw?si=Pe8L_j3SnfTQCNqJ",
                 "imageLink": "/img/derf-v-serious.png"
                },
                {
@@ -113,7 +113,7 @@
                 "player1": { "name": "Raa", "score": 8, "outcome": "Lost" },
                 "player2": { "name": "Serious", "score": 13, "outcome": "Majority" },
                 "matchTime": "01:24:38",
-                "vodLink": "https://www.twitch.tv/videos/2389111443?t=04h38m14s",
+                "vodLink": "https://youtu.be/b5n-SdQye7I?si=TDoo9bUwmpmfjZtv",
                 "imageLink": "/img/raa-v-serious.png"
                }
             ]
@@ -206,7 +206,7 @@
               "player1": { "name": "ChrisChrass", "score": 10, "outcome": "Lost" }, 
               "player2": { "name": "Stocko", "score": 13, "outcome": "Majority" }, 
               "matchTime": "01:25:24",
-              "vodLink": "https://www.twitch.tv/videos/2388253222?t=00h24m46s",
+              "vodLink": "https://youtu.be/GbtTdMZjLKI?si=5nXY64oMcX-9L4fx",
               "imageLink": "/img/stocko-v-chris.png"
              },
              { 
@@ -214,7 +214,7 @@
               "player1": { "name": "Elymis", "score": 13, "outcome": "Majority" },
               "player2": { "name": "Moody", "score": 12, "outcome": "Lost" },
               "matchTime": "01:50:59", 
-              "vodLink": "https://www.twitch.tv/videos/2388253222?t=02h21m40s",
+              "vodLink": "https://youtu.be/5CoE0WXt5Ks?si=MopXPVwfvU6NzRbD",
               "imageLink": "/img/elymis-v-moody.png"
              },
              { 
@@ -222,7 +222,7 @@
               "player1": { "name": "Nexus", "score": 13, "outcome": "Majority" },
               "player2": { "name": "RattyRy", "score": 10, "outcome": "Lost" },
               "matchTime": "01:44:45",
-              "vodLink": "https://www.twitch.tv/videos/2388253222?t=04h30m44s",
+              "vodLink": "https://youtu.be/c4T7CkIT2fQ?si=OY59VUe5rZGVAWnG",
               "imageLink": "/img/nexus-v-rattyry.png"
              },
              {
@@ -230,7 +230,7 @@
               "player1": { "name": "Nartock", "score": 7, "outcome": "Lost" },
               "player2": { "name": "Shura", "score": 6, "outcome": "Bingo" },
               "matchTime": "01:00:55",
-              "vodLink": "https://www.twitch.tv/videos/2389111443?t=00h33m24s",
+              "vodLink": "https://youtu.be/aOoy_t_j8rg?si=dVkfebeUpTSPoY18",
               "imageLink": "/img/nartock-v-shura.png"
              }
           ]
