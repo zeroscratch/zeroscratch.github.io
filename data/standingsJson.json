@@ -37,10 +37,10 @@
         "standing": 0,
         "name": "Ginger",
         "wins": 1,
-        "losses": 2,
-        "squares": 26,
+        "losses": 3,
+        "squares": 33,
         "lines": 1,
-        "games": 3,
+        "games": 4,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/gingergaming08"
       },
@@ -92,11 +92,11 @@
       {
         "standing": 0,
         "name": "Strump",
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
-        "squares": 25,
+        "squares": 38,
         "lines": 0,
-        "games": 2,
+        "games": 3,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/strump1"
       }

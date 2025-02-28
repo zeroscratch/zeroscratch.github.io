@@ -164,6 +164,11 @@
          "type": "Greatsword",
          "upgrade": 0,
          "used": 2
+      },
+      "Broadsword" : {  
+         "type": "Straight Sword",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -225,7 +230,7 @@
       "Dragonscale Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 3
+         "used": 5
       },
       "Helphen's Steeple": {
          "type": "Greatsword",
