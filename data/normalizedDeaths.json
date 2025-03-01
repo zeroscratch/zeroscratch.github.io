@@ -37,7 +37,7 @@
          "ratio": ""
        },
        "Godskin Apostle": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "20",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "27",
+         "boss_deaths": "28",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -112,12 +112,12 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "1",
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "1",
          "ratio": ""
        },

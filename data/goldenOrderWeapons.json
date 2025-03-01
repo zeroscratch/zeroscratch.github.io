@@ -169,6 +169,11 @@
          "type": "Straight Sword",
          "upgrade": 0,
          "used": 2
+      },
+      "Great Katana": {
+         "type": "Katana",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -180,7 +185,7 @@
       "Meteoric Ore Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 5
+         "used": 6
       },
       "Miquellan Knight's Sword": {
          "type": "Straight Sword",
