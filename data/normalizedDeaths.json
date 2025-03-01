@@ -22,13 +22,13 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "5",
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "11",
-         "player_deaths": "4",
+         "boss_deaths": "12",
+         "player_deaths": "6",
          "ratio": ""
        },
        "Full Grown Fallingstar": {
@@ -77,12 +77,12 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "9",
-         "player_deaths": "4",
+         "boss_deaths": "10",
+         "player_deaths": "5",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "26",
+         "boss_deaths": "27",
          "player_deaths": "2",
          "ratio": ""
        },

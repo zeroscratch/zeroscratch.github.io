@@ -168,7 +168,7 @@
       "Broadsword" : {  
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 2
+         "used": 4
       },
       "Great Katana": {
          "type": "Katana",
@@ -240,7 +240,7 @@
       "Dragonscale Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 5
+         "used": 7
       },
       "Helphen's Steeple": {
          "type": "Greatsword",
