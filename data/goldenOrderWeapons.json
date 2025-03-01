@@ -93,7 +93,7 @@
       "Weathered Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Chainlink Flail": {
          "type": "Flail",
@@ -174,6 +174,11 @@
          "type": "Katana",
          "upgrade": 0,
          "used": 2
+      },
+      "Veteran's Prosthesis": {
+         "type": "Fist",
+         "upgrade": 1,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -215,7 +220,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 7
+         "used": 9
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -280,6 +285,16 @@
       "Flamberge": {
          "type": "Greatsword",
          "upgrade": 0,
+         "used": 1
+      },
+      "Death's Poker": {
+         "type": "Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Moonrithyll's Knight Sword": {
+         "type": "Colossal Sword",
+         "upgrade": 1,
          "used": 1
       }
    }
