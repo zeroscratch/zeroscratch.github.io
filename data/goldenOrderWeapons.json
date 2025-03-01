@@ -43,7 +43,7 @@
       "Helphen's Steeple": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 1
+         "used": 3
       },
       "Flamberge": {
          "type": "Greatsword",
@@ -205,7 +205,7 @@
       "Dragon Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Golden Halberd": {
          "type": "Halberd",

@@ -128,7 +128,7 @@
                 "player1": { "name": "Ginger", "score": 7, "outcome": "Lost" },
                 "player2": { "name": "Strump", "score": 13, "outcome": "Majority" },
                 "matchTime": "01:15:18",
-                "vodLink": "https://www.twitch.tv/videos/2393444197?t=04h27m50s",
+                "vodLink": "https://youtu.be/VfQqrsjhfZo?si=yk_6XYHzbBdiJgxc",
                 "imageLink": "/img/ginger-v-strump.png"
               },
               {
@@ -136,7 +136,7 @@
                 "player1": { "name": "Dino", "score": 9, "outcome": "Lost" },
                 "player2": { "name": "Asym", "score": 13, "outcome": "Majority" },
                 "matchTime": "01:09:16", 
-                "vodLink": "https://www.twitch.tv/videos/2393444197?t=06h19m48s",
+                "vodLink": "https://youtu.be/zqT6wIz138A?si=EVfWdzFZBZziLl8a",
                 "imageLink": "/img/dino-v-asym.png"
               },
               {
@@ -281,11 +281,11 @@
             [
               {
                 "gameId": "13",
-                "player1": { "name": "ChrisChrass", "score": 0, "outcome": "" },
-                "player2": { "name": "RattyRy", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00",
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "ChrisChrass", "score": 13, "outcome": "Majority" },
+                "player2": { "name": "RattyRy", "score": 9, "outcome": "Lost" },
+                "matchTime": "01:26:48",
+                "vodLink": "https://www.twitch.tv/videos/2394306858?t=02h32m58s",
+                "imageLink": "/img/rattyry-v-chris.png"
               },
               {
                 "gameId": "14",

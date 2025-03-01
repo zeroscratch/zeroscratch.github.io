@@ -2,13 +2,13 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "26",
+         "boss_deaths": "28",
          "player_deaths": "2",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "14",
-         "player_deaths": "1",
+         "boss_deaths": "15",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Agheel": {
@@ -47,7 +47,7 @@
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "22",
+         "boss_deaths": "23",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "24",
+         "boss_deaths": "25",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "1",
          "ratio": ""
        },
