@@ -48,7 +48,7 @@
       "Flamberge": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 2
+         "used": 1
       },
       "Morning Star": {
          "type": "Hammer",
@@ -275,6 +275,11 @@
       "Star-Lined Sword": {
          "type": "Katana",
          "upgrade": 1,
+         "used": 1
+      },
+      "Flamberge": {
+         "type": "Greatsword",
+         "upgrade": 0,
          "used": 1
       }
    }
