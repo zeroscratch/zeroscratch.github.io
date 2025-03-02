@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "31",
+         "boss_deaths": "33",
          "player_deaths": "5",
          "ratio": ""
        },
@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "6",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "26",
+         "boss_deaths": "27",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "25",
+         "boss_deaths": "26",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,12 +82,12 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "27",
+         "boss_deaths": "28",
          "player_deaths": "2",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "30",
+         "boss_deaths": "31",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -117,12 +117,12 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "10",
-         "player_deaths": "2",
+         "boss_deaths": "11",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "5",
          "ratio": ""
        },
@@ -138,12 +138,12 @@
        },
        "Death Rite Bird": {
          "boss_deaths": "6",
-         "player_deaths": "7",
+         "player_deaths": "8",
          "ratio": ""
        },
        "Black Blade Kindred": {
-         "boss_deaths": "5",
-         "player_deaths": "7",
+         "boss_deaths": "7",
+         "player_deaths": "9",
          "ratio": ""
        },
         "Morgott, The Omen King": {
