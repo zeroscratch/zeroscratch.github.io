@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "29",
+         "boss_deaths": "31",
          "player_deaths": "5",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "15",
+         "boss_deaths": "16",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -42,17 +42,17 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "21",
+         "boss_deaths": "23",
          "player_deaths": "6",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "24",
+         "boss_deaths": "26",
          "player_deaths": "6",
          "ratio": ""
        },
        "Sewer Mohg": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "24",
+         "boss_deaths": "25",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "28",
+         "boss_deaths": "30",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -142,7 +142,7 @@
          "ratio": ""
        },
        "Black Blade Kindred": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "7",
          "ratio": ""
        },

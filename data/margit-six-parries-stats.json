@@ -10,5 +10,11 @@
       "weapon": "Dragon Halberd",
       "shield": "Buckler",
       "division": "Recusants"
+   },
+   "Nartock": {
+      "time": "11:22",
+      "weapon": "Stone Club",
+      "shield": "Spiral Horned Shield",
+      "division": "Recusants"
    }
 }

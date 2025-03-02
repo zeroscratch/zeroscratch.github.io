@@ -179,6 +179,16 @@
          "type": "Fist",
          "upgrade": 1,
          "used": 1
+      },
+      "Smithscript Cirque": {
+         "type": "Curved Sword",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Lordsworn's Straight Sword": {
+         "type": "Straight Sword",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -210,7 +220,7 @@
       "Dragon Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 2
+         "used": 3
       },
       "Golden Halberd": {
          "type": "Halberd",
@@ -295,6 +305,21 @@
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",
          "upgrade": 1,
+         "used": 1
+      },
+      "Stone Club": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Great Katana": {
+         "type": "Katana",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Iron Ball": { 
+         "type": "Fist",
+         "upgrade": 0,
          "used": 1
       }
    }
