@@ -313,8 +313,8 @@
                },
                {
                 "gameId": "17",
-                "player1": { "name": "Stocko", "score": 13, "outcome": "Bingo" },
-                "player2": { "name": "Nexus", "score": 5, "outcome": "Lost" },
+                "player1": { "name": "Stocko", "score": 5, "outcome": "Lost" },
+                "player2": { "name": "Nexus", "score": 13, "outcome": "Bingo" },
                 "matchTime": "01:16:41",
                 "vodLink": "https://www.twitch.tv/videos/2395318374?t=04h45m43s",
                 "imageLink": "/img/Nexus-v-Stocko.png"
