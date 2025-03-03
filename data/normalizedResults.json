@@ -307,7 +307,7 @@
                 "gameId": "16",
                 "player1": { "name": "Shura", "score": 13, "outcome": "Majority" },
                 "player2": { "name": "RattyRy", "score": 7, "outcome": "Lost" },
-                "matchTime": "01:28:06",
+                "matchTime": "01:27:54",
                 "vodLink": "https://www.twitch.tv/videos/2395318374?t=04h45m43s",
                 "imageLink": "/img/Ratty-v-Shura.png"
                },
@@ -315,7 +315,7 @@
                 "gameId": "17",
                 "player1": { "name": "Stocko", "score": 5, "outcome": "Lost" },
                 "player2": { "name": "Nexus", "score": 13, "outcome": "Bingo" },
-                "matchTime": "01:16:41",
+                "matchTime": "01:16:37",
                 "vodLink": "https://www.twitch.tv/videos/2395318374?t=04h45m43s",
                 "imageLink": "/img/Nexus-v-Stocko.png"
                }
