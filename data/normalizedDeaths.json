@@ -2,8 +2,8 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "33",
-         "player_deaths": "5",
+         "boss_deaths": "36",
+         "player_deaths": "6",
          "ratio": ""
        },
        "Tree Sentinel": {
@@ -22,8 +22,8 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "14",
-         "player_deaths": "5",
+         "boss_deaths": "15",
+         "player_deaths": "6",
          "ratio": ""
        },
        "Fallingstar Beast": {
@@ -42,8 +42,8 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "24",
-         "player_deaths": "6",
+         "boss_deaths": "27",
+         "player_deaths": "7",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
@@ -57,7 +57,7 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "4",
+         "boss_deaths": "5",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "26",
+         "boss_deaths": "29",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,18 +82,18 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "28",
-         "player_deaths": "2",
+         "boss_deaths": "31",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "13",
-         "player_deaths": "0",
+         "boss_deaths": "15",
+         "player_deaths": "1",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "27",
-         "player_deaths": "1",
+         "boss_deaths": "30",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Avatars": {
@@ -102,22 +102,22 @@
          "ratio": ""
        },
        "Abductor Virgins": {
-         "boss_deaths": "7",
-         "player_deaths": "6",
+         "boss_deaths": "10",
+         "player_deaths": "7",
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "10",
+         "boss_deaths": "11",
          "player_deaths": "2",
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "1",
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "11",
+         "boss_deaths": "12",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -137,12 +137,12 @@
          "ratio": ""
        },
        "Death Rite Bird": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "8",
          "ratio": ""
        },
        "Black Blade Kindred": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "9",
          "ratio": ""
        },

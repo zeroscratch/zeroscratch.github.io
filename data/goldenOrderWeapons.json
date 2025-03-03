@@ -8,7 +8,7 @@
       "Grave Scythe": {
          "type": "Scythe",
          "upgrade": 0,
-         "used": 3
+         "used": 4
       },
       "Rotten Battle Hammer": {
          "type": "Great Hammer",
@@ -189,6 +189,21 @@
          "type": "Straight Sword",
          "upgrade": 0,
          "used": 1
+      },
+      "Great Stars": {
+         "type": "Great Hammer",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Curved Club": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Reduvia": {
+         "type": "Dagger",
+         "upgrade": 1,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -230,7 +245,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 9
+         "used": 10
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -321,6 +336,16 @@
          "type": "Fist",
          "upgrade": 0,
          "used": 1
+      },
+      "Star Fist": {
+         "type": "Fist",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Storm Hawk Axe": {
+         "type": "Axe",
+         "upgrade": 1,
+         "used": 2
       }
    }
 }
