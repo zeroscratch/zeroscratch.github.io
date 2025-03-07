@@ -93,7 +93,7 @@
       "Weathered Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 3
+         "used": 4
       },
       "Chainlink Flail": {
          "type": "Flail",
@@ -204,6 +204,11 @@
          "type": "Dagger",
          "upgrade": 1,
          "used": 1
+      },
+      "Rakshasa's Great Katana": {
+         "type": "Katana",
+         "upgrade": 1,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -260,7 +265,7 @@
       "Rosus' Axe": {
          "type": "Axe",
          "upgrade": 1,
-         "used": 3
+         "used": 4
       },
       "Dragonscale Blade": {
          "type": "Katana",
@@ -346,6 +351,11 @@
          "type": "Axe",
          "upgrade": 1,
          "used": 2
+      },
+      "Monk's Flamemace": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 1
       }
    }
 }
