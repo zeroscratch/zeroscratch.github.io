@@ -391,11 +391,11 @@
               },
               {
                 "gameId": "19",
-                "player1": { "name": "ChrisChrass", "score": 0, "outcome": "" },
-                "player2": { "name": "Shura", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00", 
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "ChrisChrass", "score": 8, "outcome": "Lost" },
+                "player2": { "name": "Shura", "score": 13, "outcome": "Majority" },
+                "matchTime": "01:43:35", 
+                "vodLink": "https://www.twitch.tv/videos/2400458340?t=00h19m53s",
+                "imageLink": "/img/chris-v-shura.png"
               },
               {
                 "gameId": "20",
