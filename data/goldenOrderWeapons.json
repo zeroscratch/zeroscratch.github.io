@@ -93,7 +93,7 @@
       "Weathered Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 4
+         "used": 5
       },
       "Chainlink Flail": {
          "type": "Flail",
@@ -214,13 +214,18 @@
          "type": "Axe",
          "upgrade": 1,
          "used": 2
+      },
+      "Club": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
       "Dragon-Hunter's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 3
+         "used": 5
       },
       "Meteoric Ore Blade": {
          "type": "Katana",

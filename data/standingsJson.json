@@ -117,10 +117,10 @@
             "standing": 0,
             "name": "Elymis",
             "wins": 3,
-            "losses": 1,
-            "squares": 44,
+            "losses": 2,
+            "squares": 56,
             "lines": 0,
-            "games": 4,
+            "games": 5,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/elymis"
           },
@@ -171,11 +171,11 @@
           {
             "standing": 0,
             "name": "RattyRy",
-            "wins": 0,
+            "wins": 1,
             "losses": 4,
-            "squares": 35,
+            "squares": 48,
             "lines": 0,
-            "games": 4,
+            "games": 5,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/rattyry"
           },

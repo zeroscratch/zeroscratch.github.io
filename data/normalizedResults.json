@@ -407,11 +407,11 @@
                },
                {
                 "gameId": "21",
-                "player1": { "name": "Elymis", "score": 0, "outcome": "" },
-                "player2": { "name": "RattyRy", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00",
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "Elymis", "score": 12, "outcome": "Lost" },
+                "player2": { "name": "RattyRy", "score": 13, "outcome": "Majority" },
+                "matchTime": "01:36:46",
+                "vodLink": "https://www.twitch.tv/videos/2400458340?t=04h21m13s",
+                "imageLink": "/img/ratty-v-elymis.png"
                },
                {
                 "gameId": "22",
