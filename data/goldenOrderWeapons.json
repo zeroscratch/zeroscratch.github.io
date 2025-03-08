@@ -209,6 +209,11 @@
          "type": "Katana",
          "upgrade": 1,
          "used": 1
+      },
+      "Icerind Hatchet": {
+         "type": "Axe",
+         "upgrade": 1,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -245,7 +250,7 @@
       "Golden Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 3
+         "used": 4
       },
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
@@ -355,6 +360,11 @@
       "Monk's Flamemace": {
          "type": "Hammer",
          "upgrade": 0,
+         "used": 1
+      },
+      "Bloodhound's Fang": {
+         "type": "Curved Greatsword",
+         "upgrade": 1,
          "used": 1
       }
    }

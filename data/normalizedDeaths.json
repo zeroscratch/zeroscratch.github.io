@@ -7,12 +7,12 @@
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "16",
+         "boss_deaths": "18",
          "player_deaths": "2",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "14",
+         "boss_deaths": "15",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "27",
+         "boss_deaths": "28",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "31",
+         "boss_deaths": "37",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -122,12 +122,12 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "5",
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -137,7 +137,7 @@
          "ratio": ""
        },
        "Death Rite Bird": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "8",
          "ratio": ""
        },
