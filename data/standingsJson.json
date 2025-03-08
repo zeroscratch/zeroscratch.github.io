@@ -105,11 +105,11 @@
         {
             "standing": 0,
             "name": "Chris Chrass",
-            "wins": 1,
+            "wins": 2,
             "losses": 2,
-            "squares": 31,
+            "squares": 44,
             "lines": 0,
-            "games": 3,
+            "games": 4,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/chris_chrass"
           },
@@ -161,10 +161,10 @@
             "standing": 0,
             "name": "NVCC Alex",
             "wins": 0,
-            "losses": 2,
-            "squares": 13,
+            "losses": 3,
+            "squares": 18,
             "lines": 0,
-            "games": 2,
+            "games": 3,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/latenightgamedev"
           },
