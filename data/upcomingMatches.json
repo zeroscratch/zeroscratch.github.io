@@ -45,35 +45,35 @@
         "title": "Upcoming Match",
         "firstPlayer": "Dino",
         "secondPlayer": "Derf",
-        "scheduledAt": "03/10/2025 01:00:00 UTC",
+        "scheduledAt": "03/10/2025 00:00:00 UTC",
         "matchType": 0
     },
     {
         "title": "Upcoming Match",
         "firstPlayer": "Raa",
         "secondPlayer": "Ginger",
-        "scheduledAt": "03/09/2025 17:00:00 UTC",
+        "scheduledAt": "03/09/2025 16:00:00 UTC",
         "matchType": 0
     },
     {
         "title": "Upcoming Match",
         "firstPlayer": "Raa",
         "secondPlayer": "Strump",
-        "scheduledAt": "03/09/2025 19:00:00 UTC",
+        "scheduledAt": "03/09/2025 18:00:00 UTC",
         "matchType": 0
     },
     {
         "title": "Upcoming Match",
         "firstPlayer": "Rambler",
         "secondPlayer": "Serious",
-        "scheduledAt": "03/09/2025 21:00:00 UTC",
+        "scheduledAt": "03/09/2025 20:00:00 UTC",
         "matchType": 0
     },
     {
         "title": "Upcoming Match",
         "firstPlayer": "Stocko",
         "secondPlayer": "NVCC Alex",
-        "scheduledAt": "03/09/2025 23:00:00 UTC",
+        "scheduledAt": "03/09/2025 22:00:00 UTC",
         "matchType": 0
     }
 ]
