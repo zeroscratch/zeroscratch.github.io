@@ -161,10 +161,10 @@
             "standing": 0,
             "name": "NVCC Alex",
             "wins": 0,
-            "losses": 3,
-            "squares": 18,
+            "losses": 4,
+            "squares": 25,
             "lines": 0,
-            "games": 3,
+            "games": 4,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/latenightgamedev"
           },
@@ -193,11 +193,11 @@
           {
             "standing": 0,
             "name": "Stocko",
-            "wins": 2,
+            "wins": 3,
             "losses": 2,
-            "squares": 32,
+            "squares": 45,
             "lines": 1,
-            "games": 4,
+            "games": 5,
             "wr": "0%",
             "twitch": "https://www.twitch.tv/stockosunday"
           }
