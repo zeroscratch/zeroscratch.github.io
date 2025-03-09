@@ -2,8 +2,8 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "45",
-         "player_deaths": "6",
+         "boss_deaths": "47",
+         "player_deaths": "7",
          "ratio": ""
        },
        "Tree Sentinel": {
@@ -22,7 +22,7 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "17",
+         "boss_deaths": "18",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -33,11 +33,11 @@
        },
        "Full Grown Fallingstar": {
          "boss_deaths": "3",
-         "player_deaths": "0",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Godskin Apostle": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "20",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "31",
+         "boss_deaths": "33",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -82,17 +82,17 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "39",
+         "boss_deaths": "41",
          "player_deaths": "5",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "18",
-         "player_deaths": "1",
+         "boss_deaths": "19",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "33",
+         "boss_deaths": "34",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -122,7 +122,7 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "9",
+         "boss_deaths": "10",
          "player_deaths": "5",
          "ratio": ""
        },
