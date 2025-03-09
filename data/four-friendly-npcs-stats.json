@@ -18,5 +18,10 @@
       "time": "9:39",
       "weapon": "Club",
       "division": "Recusants"
+   },
+   "Ginger":{  
+      "time":"6:10",
+      "weapon":"Sacrificial Axe",
+      "division":"Redmane"
    }
 }

@@ -168,7 +168,7 @@
       "Broadsword" : {  
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 4
+         "used": 5
       },
       "Great Katana": {
          "type": "Katana",
@@ -222,6 +222,16 @@
       },
       "Beastclaw Greathammer": {
          "type": "Great Hammer",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Sacrificial Axe":{ 
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Pike": {
+         "type": "Spear",
          "upgrade": 0,
          "used": 1
       }
@@ -270,7 +280,7 @@
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 6
+         "used": 7
       },
       "Claymore": {
          "type": "Greatsword",
@@ -285,7 +295,7 @@
       "Dragonscale Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 7
+         "used": 8
       },
       "Helphen's Steeple": {
          "type": "Greatsword",
