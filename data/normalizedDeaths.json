@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "39",
+         "boss_deaths": "41",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "15",
+         "boss_deaths": "17",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -22,13 +22,13 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "16",
+         "boss_deaths": "17",
          "player_deaths": "6",
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "15",
-         "player_deaths": "6",
+         "boss_deaths": "16",
+         "player_deaths": "8",
          "ratio": ""
        },
        "Full Grown Fallingstar": {
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "39",
+         "boss_deaths": "44",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "10",
+         "boss_deaths": "11",
          "player_deaths": "1",
          "ratio": ""
        },
