@@ -188,11 +188,11 @@
                },
                {
                 "gameId": "20",
-                "player1": { "name": "Raa", "score": 0, "outcome": "" },
-                "player2": { "name": "Strump", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00",
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "Raa", "score": 6, "outcome": "Lost" },
+                "player2": { "name": "Strump", "score": 10, "outcome": "Bingo" },
+                "matchTime": "01:08:14",
+                "vodLink": "https://www.twitch.tv/videos/2401340958?t=02h16m56s",
+                "imageLink": "/img/strump-v-raa.png"
                },
                {
                 "gameId": "21",

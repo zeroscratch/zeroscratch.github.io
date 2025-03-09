@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "43",
+         "boss_deaths": "45",
          "player_deaths": "6",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "19",
+         "boss_deaths": "21",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "38",
+         "boss_deaths": "39",
          "player_deaths": "5",
          "ratio": ""
        },
@@ -92,12 +92,12 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "31",
+         "boss_deaths": "33",
          "player_deaths": "2",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "46",
+         "boss_deaths": "50",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "14",
+         "boss_deaths": "15",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "11",
+         "boss_deaths": "12",
          "player_deaths": "1",
          "ratio": ""
        },
