@@ -73,7 +73,7 @@
       "Bastard Sword": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Iron Ball": {
          "type": "Fist",
@@ -173,7 +173,7 @@
       "Great Katana": {
          "type": "Katana",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Veteran's Prosthesis": {
          "type": "Fist",
@@ -295,7 +295,7 @@
       "Falx": {
          "type": "Curved Sword",
          "upgrade": 1,
-         "used": 2
+         "used": 3
       },
       "Longsword": {
          "type": "Straight Sword",

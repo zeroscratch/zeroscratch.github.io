@@ -172,11 +172,11 @@
               },
               {
                 "gameId": "18",
-                "player1": { "name": "Rambler", "score": 0, "outcome": "" },
-                "player2": { "name": "Asym", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00", 
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "Rambler", "score": 12, "outcome": "Lost" },
+                "player2": { "name": "Asym", "score": 13, "outcome": "Majority" },
+                "matchTime": "01:52:20", 
+                "vodLink": "https://www.twitch.tv/videos/2400458340?t=06h24m04s",
+                "imageLink": "/img/asym-v-rambler.png"
               },
               {
                 "gameId": "19",
