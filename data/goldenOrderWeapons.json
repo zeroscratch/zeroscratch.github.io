@@ -93,7 +93,7 @@
       "Weathered Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 7
+         "used": 8
       },
       "Chainlink Flail": {
          "type": "Flail",
@@ -188,7 +188,7 @@
       "Lordsworn's Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Great Stars": {
          "type": "Great Hammer",
@@ -240,7 +240,7 @@
       "Dragon-Hunter's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 5
+         "used": 6
       },
       "Meteoric Ore Blade": {
          "type": "Katana",
@@ -260,7 +260,7 @@
       "Rakshasa's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 5
+         "used": 6
       },
       "Dragon Halberd": {
          "type": "Halberd",

@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "47",
+         "boss_deaths": "49",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -12,17 +12,17 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "17",
+         "boss_deaths": "18",
          "player_deaths": "0",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "11",
+         "boss_deaths": "12",
          "player_deaths": "10",
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "18",
+         "boss_deaths": "19",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "31",
+         "boss_deaths": "32",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "33",
+         "boss_deaths": "35",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -77,12 +77,12 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "10",
+         "boss_deaths": "12",
          "player_deaths": "5",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "41",
+         "boss_deaths": "43",
          "player_deaths": "5",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "1",
          "ratio": ""
        },

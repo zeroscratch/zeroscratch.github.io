@@ -1,9 +1,4 @@
 {
-   "Ginger": {
-      "time": "5:17",
-      "weapon": "Longsword",
-      "division": "Redmane"
-   },
    "Asym": {
       "time": "3:05",
       "weapon": "Grave Scythe",
@@ -28,5 +23,10 @@
       "time": "2:52",
       "weapon": "Godskin Peeler",
       "division": "Recusants"
+   },
+   "Dino": {
+      "time": "2:51",
+      "weapon": "Lordsworn's Straight Sword",
+      "division": "Redmane"
    }
 }
