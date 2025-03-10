@@ -4,13 +4,13 @@
            {
               "division": "Redmane",
               "week": 1,
-              "matches": 
+              "matches":
               [
                 {
                   "gameId": "1",
                   "player1": { "name": "Rambler", "score": 13, "outcome": "Majority" },
                   "player2": { "name": "Derf", "score": 8, "outcome": "Lost" },
-                  "matchTime": "01:28:58", 
+                  "matchTime": "01:28:58",
                   "vodLink": "https://youtu.be/_hVNnMV6sdk?si=4_Ma4KrHEYuE1RU5",
                   "imageLink": "/img/rambler-v-derf.png"
                 },
@@ -18,7 +18,7 @@
                   "gameId": "2",
                   "player1": { "name": "Ginger", "score": 7, "outcome": "Lost" },
                   "player2": { "name": "Dino", "score": 13, "outcome": "Majority" },
-                  "matchTime": "01:35:32", 
+                  "matchTime": "01:35:32",
                   "vodLink": "https://youtu.be/z6BzbA_7BTk?si=vS0eBYrbaHXqMNEl",
                   "imageLink": "/img/dino-v-ginger.png"
                 },
@@ -49,7 +49,7 @@
                 "gameId": "5",
                 "player1": { "name": "Ginger", "score": 9, "outcome": "Bingo" },
                 "player2": { "name": "Serious", "score": 7, "outcome": "Lost" },
-                "matchTime": "01:09:14", 
+                "matchTime": "01:09:14",
                 "vodLink": "https://youtu.be/6MVtsJTyO3I?si=7FyIbovTRWOe0uf7",
                 "imageLink": "/img/ginger-v-serious.png"
               },
@@ -57,7 +57,7 @@
                 "gameId": "6",
                 "player1": { "name": "Dino", "score": 10, "outcome": "Lost" },
                 "player2": { "name": "Strump", "score": 13, "outcome": "Majority" },
-                "matchTime": "01:22:54", 
+                "matchTime": "01:22:54",
                 "vodLink": "https://youtu.be/fNOwgJsJRjA?si=WuLLtAwN2VI29Tg9",
                 "imageLink": "/img/dino-v-strump.png"
               },
@@ -96,7 +96,7 @@
                 "gameId": "10",
                 "player1": { "name": "Asym", "score": 13, "outcome": "Majority" },
                 "player2": { "name": "Derf", "score": 7, "outcome": "Lost" },
-                "matchTime": "01:12:50", 
+                "matchTime": "01:12:50",
                 "vodLink": "https://youtu.be/K6wAAsKPj8s?si=iIO2hbNKSuv-M0HU",
                 "imageLink": "/img/asym-v-derf.png"
               },
@@ -135,7 +135,7 @@
                 "gameId": "14",
                 "player1": { "name": "Dino", "score": 9, "outcome": "Lost" },
                 "player2": { "name": "Asym", "score": 13, "outcome": "Majority" },
-                "matchTime": "01:09:16", 
+                "matchTime": "01:09:16",
                 "vodLink": "https://youtu.be/zqT6wIz138A?si=EVfWdzFZBZziLl8a",
                 "imageLink": "/img/dino-v-asym.png"
               },
@@ -174,7 +174,7 @@
                 "gameId": "18",
                 "player1": { "name": "Rambler", "score": 12, "outcome": "Lost" },
                 "player2": { "name": "Asym", "score": 13, "outcome": "Majority" },
-                "matchTime": "01:52:20", 
+                "matchTime": "01:52:20",
                 "vodLink": "https://www.twitch.tv/videos/2400458340?t=06h24m04s",
                 "imageLink": "/img/asym-v-rambler.png"
               },
@@ -215,25 +215,25 @@
            {
               "division": "Recusants",
               "week": 1,
-              "matches": 
+              "matches":
               [
-                 { 
-                  "gameId": "1", 
-                 "player1": { "name": "RattyRy", "score": 9, "outcome": "Lost" }, 
-                 "player2": { "name": "Moody", "score": 13, "outcome": "Majority" }, 
+                 {
+                  "gameId": "1",
+                 "player1": { "name": "RattyRy", "score": 9, "outcome": "Lost" },
+                 "player2": { "name": "Moody", "score": 13, "outcome": "Majority" },
                  "matchTime": "01:34:05",
                   "vodLink": "https://youtu.be/3QsBsp5DMwU?si=-HxaFKCszD98X9Mm",
                   "imageLink": "/img/rattyry-v-moody.png"
                  },
-                 { 
+                 {
                   "gameId": "2",
                   "player1": { "name": "Elymis", "score": 5, "outcome": "Lost" },
                   "player2": { "name": "Stocko", "score": 9, "outcome": "Bingo" },
-                  "matchTime": "00:56:27", 
+                  "matchTime": "00:56:27",
                   "vodLink": "https://youtu.be/cHRmxOLgnLs?si=c7ceG4rDzTUATfx0",
                   "imageLink": "/img/stocko-v-elymis.png"
                  },
-                 { 
+                 {
                   "gameId": "3",
                   "player1": { "name": "ChrisChrass", "score": 8, "outcome": "Lost" },
                   "player2": { "name": "Nartock", "score": 11, "outcome": "Bingo" },
@@ -254,25 +254,25 @@
            {
             "division": "Recusants",
             "week": 2,
-            "matches": 
+            "matches":
             [
-               { 
-                "gameId": "5", 
-               "player1": { "name": "Elymis", "score": 13, "outcome": "Majority" }, 
-               "player2": { "name": "NVCC Alex", "score": 10, "outcome": "Lost" }, 
+               {
+                "gameId": "5",
+               "player1": { "name": "Elymis", "score": 13, "outcome": "Majority" },
+               "player2": { "name": "NVCC Alex", "score": 10, "outcome": "Lost" },
                "matchTime": "01:42:39",
                 "vodLink": "https://youtu.be/knqgEwntMfo?si=9g50fYAvFftGdwv2",
                 "imageLink": "/img/elymis-v-alex.png"
                },
-               { 
+               {
                 "gameId": "6",
                 "player1": { "name": "Nartock", "score": 10, "outcome": "Bingo" },
                 "player2": { "name": "Moody", "score": 7, "outcome": "Lost" },
-                "matchTime": "01:05:31", 
+                "matchTime": "01:05:31",
                 "vodLink": "https://youtu.be/NG2msmAPqpo?si=bw3HTTUnuMkIkTvL",
                 "imageLink": "/img/nartock-v-moody.png"
                },
-               { 
+               {
                 "gameId": "7",
                 "player1": { "name": "Stocko", "score": 5, "outcome": "Lost" },
                 "player2": { "name": "Shura", "score": 9, "outcome": "Bingo" },
@@ -293,25 +293,25 @@
          {
           "division": "Recusants",
           "week": 3,
-          "matches": 
+          "matches":
           [
-             { 
-              "gameId": "9", 
-              "player1": { "name": "ChrisChrass", "score": 10, "outcome": "Lost" }, 
-              "player2": { "name": "Stocko", "score": 13, "outcome": "Majority" }, 
+             {
+              "gameId": "9",
+              "player1": { "name": "ChrisChrass", "score": 10, "outcome": "Lost" },
+              "player2": { "name": "Stocko", "score": 13, "outcome": "Majority" },
               "matchTime": "01:25:24",
               "vodLink": "https://youtu.be/GbtTdMZjLKI?si=5nXY64oMcX-9L4fx",
               "imageLink": "/img/stocko-v-chris.png"
              },
-             { 
+             {
               "gameId": "10",
               "player1": { "name": "Elymis", "score": 13, "outcome": "Majority" },
               "player2": { "name": "Moody", "score": 12, "outcome": "Lost" },
-              "matchTime": "01:50:59", 
+              "matchTime": "01:50:59",
               "vodLink": "https://youtu.be/5CoE0WXt5Ks?si=MopXPVwfvU6NzRbD",
               "imageLink": "/img/elymis-v-moody.png"
              },
-             { 
+             {
               "gameId": "11",
               "player1": { "name": "Nexus", "score": 13, "outcome": "Majority" },
               "player2": { "name": "RattyRy", "score": 10, "outcome": "Lost" },
@@ -346,7 +346,7 @@
                 "gameId": "14",
                 "player1": { "name": "Moody", "score": 2, "outcome": "Lost" },
                 "player2": { "name": "Nexus", "score": 7, "outcome": "Bingo" },
-                "matchTime": "00:44:00", 
+                "matchTime": "00:44:00",
                 "vodLink": "https://youtu.be/a44FQBGlFZM?si=Qd7lsGye2hvs080z",
                 "imageLink": "/img/nexus-v-moody.png"
               },
@@ -393,7 +393,7 @@
                 "gameId": "19",
                 "player1": { "name": "ChrisChrass", "score": 8, "outcome": "Lost" },
                 "player2": { "name": "Shura", "score": 13, "outcome": "Majority" },
-                "matchTime": "01:43:35", 
+                "matchTime": "01:43:35",
                 "vodLink": "https://www.twitch.tv/videos/2400458340?t=00h19m53s",
                 "imageLink": "/img/chris-v-shura.png"
               },
@@ -425,9 +425,9 @@
          }
         ],
   "crucible": [
-   { 
+   {
       "week": 1,
-      "matches": 
+      "matches":
       [
          {
             "gameId": "1",
@@ -439,7 +439,7 @@
          },
          {
             "gameId": "2",
-            "player1": { "name": "AngryPhilospher", "score": 10, "outcome": "Lost" },
+            "player1": { "name": "AngryPhilosopher", "score": 10, "outcome": "Lost" },
             "player2": { "name": "Noya", "score": 13, "outcome": "Majority" },
             "matchTime": "01:45:37",
             "vodLink": "",
@@ -537,7 +537,7 @@
    },
    {
       "week": 2,
-      "matches": 
+      "matches":
       [
          {
             "gameId": "14",
@@ -581,7 +581,7 @@
          },
          {
             "gameId": "19",
-            "player1": { "name": "AngryPhilospher", "score": 10, "outcome": "Majority" },
+            "player1": { "name": "AngryPhilosopher", "score": 10, "outcome": "Majority" },
             "player2": { "name": "Astormyz", "score": 3, "outcome": "Lost" },
             "matchTime": "02:00:00",
             "vodLink": "",
@@ -639,12 +639,12 @@
    },
    {
       "week": 3,
-      "matches": 
+      "matches":
       [
          {
             "gameId": "26",
             "player1": { "name": "Lorian", "score": 12, "outcome": "Bingo" },
-            "player2": { "name": "AngryPhilospher", "score": 5, "outcome": "Lost" },
+            "player2": { "name": "AngryPhilosopher", "score": 5, "outcome": "Lost" },
             "matchTime": "01:37:20",
             "vodLink": "",
             "imageLink": "/img/crucible/lorian-v-ap.png"
@@ -778,7 +778,7 @@
          {
             "gameId": "42",
             "player1": { "name": "Harv", "score": 13, "outcome": "Majority" },
-            "player2": { "name": "AngryPhilospher", "score": 6, "outcome": "Lost" },
+            "player2": { "name": "AngryPhilosopher", "score": 6, "outcome": "Lost" },
             "matchTime": "01:49:41",
             "vodLink": "",
             "imageLink": "/img/crucible/harv-v-ap.png"
@@ -858,8 +858,172 @@
       ]
    },
    {
-      "week": 9,
-      "matches": 
+      "week": 5,
+      "matches":
+      [
+         {
+            "gameId": "53",
+            "player1": { "name": "Androisius", "score": 9, "outcome": "Lost" },
+            "player2": { "name": "AngryPhilosopher", "score": 13, "outcome": "Majority" },
+            "matchTime": "01:54:27",
+            "vodLink": "",
+            "imageLink": "/img/crucible/ap-v-andro.png"
+         },
+         {
+            "gameId": "54",
+            "player1": { "name": "EldenWiki", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Malte", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:45:47",
+            "vodLink": "",
+            "imageLink": "/img/crucible/malte-v-wiki.png"
+         },
+         {
+            "gameId": "55",
+            "player1": { "name": "Harv", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Jerz", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:53:04",
+            "vodLink": "",
+            "imageLink": "/img/crucible/harv-v-jerz.png"
+         },
+         {
+            "gameId": "56",
+            "player1": { "name": "Loeles", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Noya", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:36:22",
+            "vodLink": "",
+            "imageLink": "/img/crucible/loe-v-noya.png"
+         },
+         {
+            "gameId": "57",
+            "player1": { "name": "Cronys", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Burton", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:28:42",
+            "vodLink": "",
+            "imageLink": "/img/crucible/cronys-v-burton.png"
+         },
+         {
+            "gameId": "58",
+            "player1": { "name": "Psiphicode", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Fits", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:27:58",
+            "vodLink": "",
+            "imageLink": "/img/crucible/psi-v-fits.png"
+         },
+         {
+            "gameId": "59",
+            "player1": { "name": "Wander", "score": 11, "outcome": "Lost" },
+            "player2": { "name": "Lorian", "score": 13, "outcome": "Majority" },
+            "matchTime": "01:29:25",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wander-v-lorian.png"
+         },
+         {
+            "gameId": "60",
+            "player1": { "name": "Daggar97", "score": 10, "outcome": "Bingo" },
+            "player2": { "name": "Seljuz", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:35:02",
+            "vodLink": "",
+            "imageLink": "/img/crucible/daggar-v-seljuz.png"
+         },
+         {
+            "gameId": "61",
+            "player1": { "name": "Champ", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Distortz", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:59:29",
+            "vodLink": "",
+            "imageLink": "/img/crucible/champ-v-distortz.png"
+         }
+      ]
+   },
+   {
+      "week": 6,
+      "matches":
+      [
+         {
+            "gameId": "62",
+            "player1": { "name": "Torsadz", "score": 6, "outcome": "Lost" },
+            "player2": { "name": "Fits", "score": 13, "outcome": "Majority" },
+            "matchTime": "01:20:54",
+            "vodLink": "",
+            "imageLink": "/img/crucible/torsadz-v-fits.png"
+         },
+         {
+            "gameId": "63",
+            "player1": { "name": "Shaka", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Kashmor", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:47:47",
+            "vodLink": "",
+            "imageLink": "/img/crucible/shaka-v-kashmor.png"
+         },
+         {
+            "gameId": "64",
+            "player1": { "name": "Cronys", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Noya", "score": 12, "outcome": "Lost" },
+            "matchTime": "01:39:58",
+            "vodLink": "",
+            "imageLink": "/img/crucible/cronys-v-noya.png"
+         },
+         {
+            "gameId": "65",
+            "player1": { "name": "JLegacy", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Astormyz", "score": 4, "outcome": "Lost" },
+            "matchTime": "01:15:24",
+            "vodLink": "",
+            "imageLink": "/img/crucible/jlegacy-v-astormyz.png"
+         },
+         {
+            "gameId": "66",
+            "player1": { "name": "Loeles", "score": 5, "outcome": "Lost" },
+            "player2": { "name": "Snowy", "score": 13, "outcome": "Majority" },
+            "matchTime": "01:25:11",
+            "vodLink": "",
+            "imageLink": "/img/crucible/loe-v-snowy.png"
+         },
+         {
+            "gameId": "67",
+            "player1": { "name": "EldenWiki", "score": 6, "outcome": "Lost" },
+            "player2": { "name": "Champ", "score": 13, "outcome": "Majority" },
+            "matchTime": "01:28:14",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wiki-v-champ.png"
+         },
+         {
+            "gameId": "68",
+            "player1": { "name": "Harv", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Maiorskills", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:32:16",
+            "vodLink": "",
+            "imageLink": "/img/crucible/harv-v-maior.png"
+         },
+         {
+            "gameId": "69",
+            "player1": { "name": "Seljuz", "score": 7, "outcome": "Lost" },
+            "player2": { "name": "Lorian", "score": 13, "outcome": "Majority" },
+            "matchTime": "01:29:03",
+            "vodLink": "",
+            "imageLink": "/img/crucible/seljuz-v-lorian.png"
+         },
+         {
+            "gameId": "70",
+            "player1": { "name": "Malte", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Shawn", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:59:44",
+            "vodLink": "",
+            "imageLink": "/img/crucible/malte-v-shawn.png"
+         },
+         {
+            "gameId": "71",
+            "player1": { "name": "Saetan", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "AngryPhilosopher", "score": 5, "outcome": "Lost" },
+            "matchTime": "01:22:47",
+            "vodLink": "",
+            "imageLink": "/img/crucible/saetan-v-ap.png"
+         }
+      ]
+   },
+   {
+      "week": 7,
+      "matches":
       [
          {
             "gameId": "52",
@@ -868,6 +1032,34 @@
             "matchTime": "01:33:50",
             "vodLink": "",
             "imageLink": "/img/crucible/torsadz-v-daggar97.png"
+         }
+      ]
+   },
+   {
+      "week": 8,
+      "matches":
+      [
+         {
+            "gameId": "72",
+            "player1": { "name": "Torsadz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "JLegacy", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:52:00",
+            "vodLink": "",
+            "imageLink": "/img/crucible/torsadz-v-jlegacy.png"
+         }
+      ]
+   },
+   {
+      "week": 9,
+      "matches":
+      [
+         {
+            "gameId": "73",
+            "player1": { "name": "Torsadz", "score": 6, "outcome": "Bingo" },
+            "player2": { "name": "Astormyz", "score": 3, "outcome": "Lost" },
+            "matchTime": "01:18:48",
+            "vodLink": "",
+            "imageLink": "/img/crucible/torsadz-v-astormyz.png"
          }
       ]
    }

@@ -3,73 +3,73 @@
         {
             "standing": 0,
             "name": "Cronys",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
-            "games": 1,
+            "games": 0,
             "wr": "0%",
-            "opponentWins": 16,
-            "opponentLoss": 12
+            "opponentWins": 20,
+            "opponentLoss": 19
           },
           {
             "standing": 0,
             "name": "Snowy",
-            "wins": 5,
+            "wins": 6,
             "losses": 0,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 18,
-            "opponentLoss": 10
+            "opponentWins": 24,
+            "opponentLoss": 16
           },
           {
             "standing": 0,
             "name": "Fits",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 16,
-            "opponentLoss": 9
+            "opponentWins": 22,
+            "opponentLoss": 17
           },
           {
             "standing": 0,
             "name": "Seljuz",
             "wins": 3,
-            "losses": 2,
+            "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 14,
-            "opponentLoss": 11
+            "opponentWins": 20,
+            "opponentLoss": 17
           },
           {
             "standing": 0,
             "name": "Maiorskills",
             "wins": 4,
-            "losses": 1,
+            "losses": 2,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 14,
-            "opponentLoss": 11
+            "opponentWins": 22,
+            "opponentLoss": 14
           },
           {
             "standing": 0,
             "name": "Eldenwiki",
             "wins": 3,
-            "losses": 2,
+            "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 10,
-            "opponentLoss": 15
+            "opponentWins": 16,
+            "opponentLoss": 19
           },
           {
             "standing": 0,
             "name": "PsiPhi",
-            "wins": 4,
+            "wins": 5,
             "losses": 1,
             "points": 0,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 16,
-            "opponentLoss": 8
+            "opponentWins": 25,
+            "opponentLoss": 11
           },
           {
             "standing": 0,
@@ -78,84 +78,114 @@
             "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 9,
-            "opponentLoss": 12
+            "opponentWins": 13,
+            "opponentLoss": 15
           },
           {
             "standing": 0,
             "name": "Daggar",
             "wins": 4,
-            "losses": 1,
+            "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 18,
-            "opponentLoss": 10
+            "opponentWins": 28,
+            "opponentLoss": 15
           },
           {
             "standing": 0,
             "name": "Loeless",
             "wins": 4,
-            "losses": 1,
+            "losses": 2,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 15,
-            "opponentLoss": 10
+            "opponentWins": 23,
+            "opponentLoss": 12
           },
           {
             "standing": 0,
             "name": "Doitz",
-            "wins": 1,
-            "losses": 0,
+            "wins": 2,
+            "losses": 2,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 1,
-            "opponentLoss": 4
+            "opponentWins": 13,
+            "opponentLoss": 11
           },
           {
             "standing": 0,
             "name": "Noya",
             "wins": 3,
-            "losses": 2,
+            "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 13,
-            "opponentLoss": 12
+            "opponentWins": 17,
+            "opponentLoss": 18
           },
           {
             "standing": 0,
             "name": "Jerzounek",
-            "wins": 2,
+            "wins": 3,
             "losses": 2,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 11,
-            "opponentLoss": 8
-          },
-          {
-            "standing": 0,
-            "name": "Harv",
-            "wins": 3,
-            "losses": 1,
-            "games": 0,
-            "wr": "0%",
-            "opponentWins": 8,
+            "opponentWins": 16,
             "opponentLoss": 11
           },
           {
             "standing": 0,
+            "name": "Harv",
+            "wins": 5,
+            "losses": 1,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 17,
+            "opponentLoss": 16
+          },
+          {
+            "standing": 0,
             "name": "Malte",
-            "wins": 2,
+            "wins": 3,
             "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 14,
-            "opponentLoss": 10
+            "opponentWins": 20,
+            "opponentLoss": 16
           },
           {
             "standing": 0,
             "name": "Torsadz",
             "wins": 4,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 26,
+            "opponentLoss": 26
+          },
+          {
+            "standing": 0,
+            "name": "Shaka",
+            "wins": 2,
             "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 17,
+            "opponentLoss": 22
+          },
+          {
+            "standing": 0,
+            "name": "Lorian",
+            "wins": 4,
+            "losses": 2,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 16,
+            "opponentLoss": 19
+          },
+          {
+            "standing": 0,
+            "name": "AngryPhilosopher",
+            "wins": 1,
+            "losses": 5,
             "games": 0,
             "wr": "0%",
             "opponentWins": 17,
@@ -163,43 +193,13 @@
           },
           {
             "standing": 0,
-            "name": "Shaka",
-            "wins": 1,
+            "name": "Saetan",
+            "wins": 2,
             "losses": 4,
             "games": 0,
             "wr": "0%",
             "opponentWins": 14,
-            "opponentLoss": 14
-          },
-          {
-            "standing": 0,
-            "name": "Lorian",
-            "wins": 3,
-            "losses": 2,
-            "games": 0,
-            "wr": "0%",
-            "opponentWins": 10,
-            "opponentLoss": 15
-          },
-          {
-            "standing": 0,
-            "name": "AngryPhilospher",
-            "wins": 1,
-            "losses": 4,
-            "games": 0,
-            "wr": "0%",
-            "opponentWins": 12,
-            "opponentLoss": 12
-          },
-          {
-            "standing": 0,
-            "name": "Saetan",
-            "wins": 1,
-            "losses": 4,
-            "games": 0,
-            "wr": "0%",
-            "opponentWins": 11,
-            "opponentLoss": 14
+            "opponentLoss": 22
           },
           {
             "standing": 0,
@@ -208,78 +208,78 @@
             "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 15,
-            "opponentLoss": 12
+            "opponentWins": 17,
+            "opponentLoss": 15
           },
           {
             "standing": 0,
             "name": "JLegacy",
-            "wins": 0,
+            "wins": 2,
             "losses": 2,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 6,
-            "opponentLoss": 7
+            "opponentWins": 8,
+            "opponentLoss": 18
           },
           {
             "standing": 0,
             "name": "Androisius",
             "wins": 2,
-            "losses": 3,
+            "losses": 4,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 7,
-            "opponentLoss": 17
+            "opponentWins": 12,
+            "opponentLoss": 21
           },
           {
             "standing": 0,
             "name": "Shawn",
             "wins": 2,
-            "losses": 3,
+            "losses": 4,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 9,
-            "opponentLoss": 16
+            "opponentWins": 15,
+            "opponentLoss": 20
           },
           {
             "standing": 0,
             "name": "Astormyz",
             "wins": 1,
-            "losses": 4,
+            "losses": 5,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 8,
-            "opponentLoss": 15
+            "opponentWins": 12,
+            "opponentLoss": 23
           },
           {
             "standing": 0,
             "name": "Kashmor",
             "wins": 1,
-            "losses": 3,
+            "losses": 5,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 7,
-            "opponentLoss": 16
+            "opponentWins": 11,
+            "opponentLoss": 24
           },
           {
             "standing": 0,
             "name": "Champion",
-            "wins": 3,
+            "wins": 4,
             "losses": 2,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 14,
-            "opponentLoss": 10
+            "opponentWins": 21,
+            "opponentLoss": 15
           },
           {
             "standing": 0,
             "name": "Wander",
-            "wins": 2,
+            "wins": 3,
             "losses": 3,
             "games": 0,
             "wr": "0%",
-            "opponentWins": 13,
-            "opponentLoss": 12
+            "opponentWins": 17,
+            "opponentLoss": 18
           }
     ]
 
