@@ -123,7 +123,7 @@
       "Stone Club": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Black Steel Greathammer": {
          "type": "Great Hammer",
@@ -234,6 +234,16 @@
          "type": "Spear",
          "upgrade": 0,
          "used": 1
+      },
+      "Iron Cleaver": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Grossmesser": {
+         "type": "Curved Sword",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -290,7 +300,7 @@
       "Rosus' Axe": {
          "type": "Axe",
          "upgrade": 1,
-         "used": 4
+         "used": 6
       },
       "Dragonscale Blade": {
          "type": "Katana",

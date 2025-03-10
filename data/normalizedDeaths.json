@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "49",
+         "boss_deaths": "51",
          "player_deaths": "7",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "21",
+         "boss_deaths": "23",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -17,12 +17,12 @@
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "10",
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "19",
+         "boss_deaths": "21",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -42,13 +42,13 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "32",
+         "boss_deaths": "36",
          "player_deaths": "7",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "27",
-         "player_deaths": "6",
+         "boss_deaths": "29",
+         "player_deaths": "7",
          "ratio": ""
        },
        "Sewer Mohg": {
@@ -57,8 +57,8 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "5",
-         "player_deaths": "1",
+         "boss_deaths": "6",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Lord of Blood": {
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "35",
+         "boss_deaths": "36",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -77,32 +77,32 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "5",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "43",
+         "boss_deaths": "45",
          "player_deaths": "5",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "19",
+         "boss_deaths": "21",
          "player_deaths": "2",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "34",
+         "boss_deaths": "38",
          "player_deaths": "2",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "50",
-         "player_deaths": "10",
+         "boss_deaths": "56",
+         "player_deaths": "12",
          "ratio": ""
        },
        "Abductor Virgins": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -112,7 +112,7 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "11",
+         "boss_deaths": "12",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -127,13 +127,13 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "1",
          "ratio": ""
        },
        "Valiant Gargs": {
          "boss_deaths": "3",
-         "player_deaths": "4",
+         "player_deaths": "5",
          "ratio": ""
        },
        "Death Rite Bird": {
