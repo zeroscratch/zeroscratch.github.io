@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "53",
+         "boss_deaths": "54",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "19",
+         "boss_deaths": "20",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "16",
+         "boss_deaths": "17",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -37,17 +37,17 @@
          "ratio": ""
        },
        "Godskin Apostle": {
-         "boss_deaths": "6",
-         "player_deaths": "20",
+         "boss_deaths": "7",
+         "player_deaths": "21",
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "37",
+         "boss_deaths": "38",
          "player_deaths": "7",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "31",
+         "boss_deaths": "32",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -82,22 +82,22 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "45",
+         "boss_deaths": "46",
          "player_deaths": "5",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "2",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "38",
+         "boss_deaths": "39",
          "player_deaths": "2",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "56",
+         "boss_deaths": "59",
          "player_deaths": "12",
          "ratio": ""
        },
@@ -122,12 +122,12 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "10",
+         "boss_deaths": "11",
          "player_deaths": "5",
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "14",
+         "boss_deaths": "15",
          "player_deaths": "1",
          "ratio": ""
        },

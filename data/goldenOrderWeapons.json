@@ -163,7 +163,7 @@
       "Lordsworn's Greatsword": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 2
+         "used": 4
       },
       "Broadsword" : {  
          "type": "Straight Sword",
@@ -255,7 +255,7 @@
       "Meteoric Ore Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 6
+         "used": 7
       },
       "Miquellan Knight's Sword": {
          "type": "Straight Sword",
@@ -315,7 +315,7 @@
       "Sword of Milos": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Falx": {
          "type": "Curved Sword",
