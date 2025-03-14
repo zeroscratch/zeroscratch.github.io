@@ -88,12 +88,12 @@
       "Spiked Club": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Weathered Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 8
+         "used": 9
       },
       "Chainlink Flail": {
          "type": "Flail",
@@ -270,7 +270,7 @@
       "Rakshasa's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 6
+         "used": 7
       },
       "Dragon Halberd": {
          "type": "Halberd",
@@ -300,7 +300,7 @@
       "Rosus' Axe": {
          "type": "Axe",
          "upgrade": 1,
-         "used": 6
+         "used": 7
       },
       "Dragonscale Blade": {
          "type": "Katana",

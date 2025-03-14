@@ -2,23 +2,23 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "51",
+         "boss_deaths": "53",
          "player_deaths": "7",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "2",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "18",
+         "boss_deaths": "19",
          "player_deaths": "0",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "13",
-         "player_deaths": "10",
+         "boss_deaths": "14",
+         "player_deaths": "12",
          "ratio": ""
        },
        "Bols": {
@@ -42,17 +42,17 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "36",
+         "boss_deaths": "37",
          "player_deaths": "7",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "29",
+         "boss_deaths": "31",
          "player_deaths": "7",
          "ratio": ""
        },
        "Sewer Mohg": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "36",
+         "boss_deaths": "37",
          "player_deaths": "0",
          "ratio": ""
        },
@@ -77,7 +77,7 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "5",
          "ratio": ""
        },
@@ -102,7 +102,7 @@
          "ratio": ""
        },
        "Abductor Virgins": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "7",
          "ratio": ""
        },

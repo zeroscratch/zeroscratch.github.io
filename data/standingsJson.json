@@ -70,11 +70,11 @@
         "standing": 0,
         "name": "Rambler",
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "points": 0,
-        "squares": 57,
+        "squares": 68,
         "lines": 0,
-        "games": 5,
+        "games": 6,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/rambler_ing"
       },
@@ -92,11 +92,11 @@
       {
         "standing": 0,
         "name": "Strump",
-        "wins": 3,
+        "wins": 4,
         "losses": 1,
-        "squares": 48,
+        "squares": 61,
         "lines": 1,
-        "games": 4,
+        "games": 5,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/strump1"
       }
