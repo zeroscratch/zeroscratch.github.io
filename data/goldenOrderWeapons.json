@@ -53,7 +53,7 @@
       "Morning Star": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Steel-Wire Torch": {
          "type": "Torch",
@@ -244,6 +244,11 @@
          "type": "Curved Sword",
          "upgrade": 0,
          "used": 1
+      },
+      "Cane Sword": {
+         "type": "Straight Sword",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -285,7 +290,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 10
+         "used": 11
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
