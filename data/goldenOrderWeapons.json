@@ -249,6 +249,16 @@
          "type": "Straight Sword",
          "upgrade": 0,
          "used": 1
+      },
+      "Noble's Estoc": {
+         "type": "Thrusting Sword",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Troll Knight's Sword": {
+         "type": "Colossal Sword",
+         "upgrade": 1,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -280,7 +290,7 @@
       "Dragon Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 3
+         "used": 5
       },
       "Golden Halberd": {
          "type": "Halberd",
