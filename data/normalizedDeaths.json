@@ -7,7 +7,7 @@
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "25",
+         "boss_deaths": "26",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -98,11 +98,11 @@
        },
        "Avatars": {
          "boss_deaths": "63",
-         "player_deaths": "15",
+         "player_deaths": "16",
          "ratio": ""
        },
        "Abductor Virgins": {
-         "boss_deaths": "16",
+         "boss_deaths": "17",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -122,13 +122,13 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "12",
+         "boss_deaths": "13",
          "player_deaths": "5",
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "16",
-         "player_deaths": "1",
+         "boss_deaths": "17",
+         "player_deaths": "2",
          "ratio": ""
        },
        "Valiant Gargs": {

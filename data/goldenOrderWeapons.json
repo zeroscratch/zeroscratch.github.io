@@ -28,7 +28,7 @@
       "Noble's Slender Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Hammer": {
          "type": "Hammer",
@@ -123,7 +123,7 @@
       "Stone Club": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 3
+         "used": 4
       },
       "Black Steel Greathammer": {
          "type": "Great Hammer",
@@ -325,7 +325,7 @@
       "Helphen's Steeple": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Sword of Milos": {
          "type": "Greatsword",
@@ -400,7 +400,7 @@
       "Storm Hawk Axe": {
          "type": "Axe",
          "upgrade": 1,
-         "used": 2
+         "used": 3
       },
       "Monk's Flamemace": {
          "type": "Hammer",
