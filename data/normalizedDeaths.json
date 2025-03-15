@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "39",
+         "boss_deaths": "40",
          "player_deaths": "7",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "32",
+         "boss_deaths": "33",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -97,8 +97,8 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "62",
-         "player_deaths": "14",
+         "boss_deaths": "63",
+         "player_deaths": "15",
          "ratio": ""
        },
        "Abductor Virgins": {
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "15",
+         "boss_deaths": "16",
          "player_deaths": "3",
          "ratio": ""
        },
