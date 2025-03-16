@@ -251,11 +251,11 @@
                },
                {
                 "gameId": "27",
-                "player1": { "name": "Derf", "score": 0, "outcome": "" },
-                "player2": { "name": "Strump", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00",
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "Derf", "score": 7, "outcome": "Lost" },
+                "player2": { "name": "Strump", "score": 13, "outcome": "Majority" },
+                "matchTime": "01:25:28",
+                "vodLink": "https://www.twitch.tv/videos/2407330843?t=05h53m05s",
+                "imageLink": "/img/strump-v-derf.png"
                }
             ]
          },
