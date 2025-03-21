@@ -28,7 +28,7 @@
       "Noble's Slender Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 3
+         "used": 6
       },
       "Hammer": {
          "type": "Hammer",
@@ -63,7 +63,7 @@
       "Dismounter": {
          "type": "Curved Greatsword",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Flail": {
          "type": "Flail",
@@ -163,7 +163,7 @@
       "Lordsworn's Greatsword": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 5
+         "used": 6
       },
       "Broadsword" : {  
          "type": "Straight Sword",
@@ -259,6 +259,16 @@
          "type": "Colossal Sword",
          "upgrade": 1,
          "used": 2
+      },
+      "Jawbone Axe": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Milady": {
+         "type": "Light Greatsword Sword",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -285,7 +295,7 @@
       "Rakshasa's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 8
+         "used": 9
       },
       "Dragon Halberd": {
          "type": "Halberd",
@@ -300,7 +310,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 11
+         "used": 12
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -370,7 +380,7 @@
       "Death's Poker": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 1
+         "used": 4
       },
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",
@@ -385,7 +395,7 @@
       "Great Katana": {
          "type": "Katana",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Iron Ball": { 
          "type": "Fist",
@@ -400,7 +410,7 @@
       "Storm Hawk Axe": {
          "type": "Axe",
          "upgrade": 1,
-         "used": 3
+         "used": 5
       },
       "Monk's Flamemace": {
          "type": "Hammer",
@@ -409,6 +419,21 @@
       },
       "Bloodhound's Fang": {
          "type": "Curved Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Uchigatana": {
+         "type": "Katana",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Highland Axe": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Inseparable Sword": {
+         "type": "Greatsword",
          "upgrade": 1,
          "used": 1
       }

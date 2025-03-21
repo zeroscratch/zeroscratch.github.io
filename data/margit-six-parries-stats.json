@@ -22,5 +22,11 @@
       "weapon": "Grossmesser",
       "shield": "Gilded Iron Shield",
       "division": "Recusants"
+   },
+   "Serious": {
+      "time": "18:11",
+      "weapon": "Banished Knight's Halberd +8",
+      "shield": "Blue-Gold Kite Shield",
+      "division": "Redmane"
    }
 }

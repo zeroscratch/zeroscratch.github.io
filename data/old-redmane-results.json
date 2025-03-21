@@ -1,0 +1,68 @@
+{
+  "matches": [
+    {
+      "gameId": "1",
+      "player1": {
+        "name": "Rambler",
+        "score": 13,
+        "outcome": "Majority"
+      },
+      "player2": {
+        "name": "Derf",
+        "score": 8,
+        "outcome": "Lost"
+      },
+      "matchTime": "01:28:58",
+      "vodLink": "https://www.twitch.tv/videos/2375032162?t=00h21m06s",
+      "imageLink": "/img/rambler-v-derf.png"
+    },
+    {
+      "gameId": "2",
+      "player1": {
+        "name": "Ginger",
+        "score": 7,
+        "outcome": "Lost"
+      },
+      "player2": {
+        "name": "Dino",
+        "score": 13,
+        "outcome": "Majority"
+      },
+      "matchTime": "01:35:32",
+      "vodLink": "https://www.twitch.tv/videos/2375032162?t=02h12m29s",
+      "imageLink": "/img/dino-v-ginger.png"
+    },
+    {
+      "gameId": "3",
+      "player1": {
+        "name": "Asym",
+        "score": 10,
+        "outcome": "Lost"
+      },
+      "player2": {
+        "name": "Helios",
+        "score": 13,
+        "outcome": "Majority"
+      },
+      "matchTime": "01:41:31",
+      "vodLink": "https://www.twitch.tv/videos/2375218647?t=00h39m43s",
+      "imageLink": "/img/asym-v-helios.png"
+    },
+    {
+      "gameId": "4",
+      "player1": {
+        "name": "Strump",
+        "score": 12,
+        "outcome": "Lost"
+      },
+      "player2": {
+        "name": "Helios",
+        "score": 13,
+        "outcome": "Majority"
+      },
+      "matchTime": "01:54:28",
+      "vodLink": "https://www.twitch.tv/videos/2375907492?t=03h56m33s",
+      "imageLink": "/img/helios-v-strump.png"
+    }
+  ]
+}
