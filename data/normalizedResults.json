@@ -266,8 +266,8 @@
             [
               {
                 "gameId": "28",
-                "player1": { "name": "Ginger", "score": 11, "outcome": "" },
-                "player2": { "name": "Asym", "score": 13, "outcome": "" },
+                "player1": { "name": "Ginger", "score": 11, "outcome": "Lost" },
+                "player2": { "name": "Asym", "score": 13, "outcome": "Majority" },
                 "matchTime": "01:39:05",
                 "vodLink": "https://www.twitch.tv/videos/2411588955?t=02h18m33s",
                 "imageLink": "/img/ginger-v-asym.png"
