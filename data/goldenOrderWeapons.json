@@ -18,7 +18,7 @@
       "Warpick": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Celebrant's Skull": {
          "type": "Great Hammer",
@@ -123,7 +123,7 @@
       "Stone Club": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 4
+         "used": 5
       },
       "Black Steel Greathammer": {
          "type": "Great Hammer",
@@ -340,7 +340,7 @@
       "Sword of Milos": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 2
+         "used": 3
       },
       "Falx": {
          "type": "Curved Sword",
@@ -434,6 +434,11 @@
       },
       "Inseparable Sword": {
          "type": "Greatsword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Troll Knight's Sword": {
+         "type": "Colossal Sword",
          "upgrade": 1,
          "used": 1
       }

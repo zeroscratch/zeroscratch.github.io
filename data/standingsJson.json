@@ -3,11 +3,11 @@
       {
         "standing": 0,
         "name": "Asym",
-        "wins": 3,
+        "wins": 4,
         "losses": 3,
-        "squares": 69,
+        "squares": 82,
         "lines": 0,
-        "games": 6,
+        "games": 7,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/asymmetrical56"
       },
@@ -37,10 +37,10 @@
         "standing": 0,
         "name": "Ginger",
         "wins": 2,
-        "losses": 4,
-        "squares": 45,
+        "losses": 5,
+        "squares": 56,
         "lines": 2,
-        "games": 6,
+        "games": 7,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/gingergaming08"
       },

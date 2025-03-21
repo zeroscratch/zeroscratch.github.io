@@ -266,11 +266,11 @@
             [
               {
                 "gameId": "28",
-                "player1": { "name": "Ginger", "score": 0, "outcome": "" },
-                "player2": { "name": "Asym", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00",
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "Ginger", "score": 11, "outcome": "" },
+                "player2": { "name": "Asym", "score": 13, "outcome": "" },
+                "matchTime": "01:39:05",
+                "vodLink": "https://www.twitch.tv/videos/2411588955?t=02h18m33s",
+                "imageLink": "/img/ginger-v-asym.png"
               },
               {
                 "gameId": "29",

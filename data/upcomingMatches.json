@@ -8,13 +8,6 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Dino",
-        "secondPlayer": "Rambler",
-        "scheduledAt": "03/21/2025 22:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
         "firstPlayer": "Chris Chrass",
         "secondPlayer": "Nexus",
         "scheduledAt": "03/22/2025 16:00:00 UTC",
