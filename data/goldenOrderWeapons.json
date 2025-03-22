@@ -113,7 +113,7 @@
       "Gargoyle's Greatsword": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 2
+         "used": 4
       },
       "Rotten Staff": {
          "type": "Colossal Weapon",
@@ -300,7 +300,7 @@
       "Dragon Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 5
+         "used": 6
       },
       "Golden Halberd": {
          "type": "Halberd",
@@ -375,7 +375,7 @@
       "Flamberge": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Death's Poker": {
          "type": "Greatsword",

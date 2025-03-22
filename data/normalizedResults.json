@@ -563,11 +563,11 @@
             [
               {
                 "gameId": "28",
-                "player1": { "name": "ChrisChrass", "score": 0, "outcome": "" },
-                "player2": { "name": "Nexus", "score": 0, "outcome": "" },
-                "matchTime": "00:00:00",
-                "vodLink": "",
-                "imageLink": ""
+                "player1": { "name": "ChrisChrass", "score": 5, "outcome": "Lost" },
+                "player2": { "name": "Nexus", "score": 10, "outcome": "Bingo" },
+                "matchTime": "01:06:13",
+                "vodLink": "https://www.twitch.tv/videos/2412343944?t=02h32m44s",
+                "imageLink": "/img/nexus-v-chris.png"
               },
               {
                 "gameId": "29",
