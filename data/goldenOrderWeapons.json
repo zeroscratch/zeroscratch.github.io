@@ -173,7 +173,7 @@
       "Great Katana": {
          "type": "Katana",
          "upgrade": 0,
-         "used": 3
+         "used": 4
       },
       "Veteran's Prosthesis": {
          "type": "Fist",
@@ -203,7 +203,7 @@
       "Reduvia": {
          "type": "Dagger",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Rakshasa's Great Katana": {
          "type": "Katana",
@@ -430,7 +430,7 @@
       "Highland Axe": {
          "type": "Axe",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Inseparable Sword": {
          "type": "Greatsword",

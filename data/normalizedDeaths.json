@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "65",
+         "boss_deaths": "67",
          "player_deaths": "8",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "28",
+         "boss_deaths": "29",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "20",
+         "boss_deaths": "21",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "45",
+         "boss_deaths": "46",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "55",
+         "boss_deaths": "57",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "67",
+         "boss_deaths": "68",
          "player_deaths": "16",
          "ratio": "" 
        },
@@ -143,7 +143,7 @@
        },
        "Black Blade Kindred": {
          "boss_deaths": "11",
-         "player_deaths": "11",
+         "player_deaths": "14",
          "ratio": ""
        },
         "Morgott, The Omen King": {
