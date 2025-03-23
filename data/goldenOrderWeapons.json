@@ -188,7 +188,7 @@
       "Lordsworn's Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 2
+         "used": 4
       },
       "Great Stars": {
          "type": "Great Hammer",
@@ -320,7 +320,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 13
+         "used": 15
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -380,7 +380,7 @@
       "Star-Lined Sword": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Flamberge": {
          "type": "Greatsword",

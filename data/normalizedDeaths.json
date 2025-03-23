@@ -2,17 +2,17 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "69",
+         "boss_deaths": "70",
          "player_deaths": "8",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "30",
+         "boss_deaths": "31",
          "player_deaths": "3",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "25",
+         "boss_deaths": "26",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -22,8 +22,8 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "23",
-         "player_deaths": "7",
+         "boss_deaths": "24",
+         "player_deaths": "8",
          "ratio": ""
        },
        "Fallingstar Beast": {
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "49",
+         "boss_deaths": "50",
          "player_deaths": "7",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "37",
+         "boss_deaths": "38",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "47",
+         "boss_deaths": "48",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "59",
+         "boss_deaths": "60",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -92,13 +92,13 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "47",
+         "boss_deaths": "50",
          "player_deaths": "2",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "68",
-         "player_deaths": "16",
+         "boss_deaths": "72",
+         "player_deaths": "18",
          "ratio": "" 
        },
        "Abductor Virgins": {
@@ -117,8 +117,8 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "17",
-         "player_deaths": "3",
+         "boss_deaths": "18",
+         "player_deaths": "4",
          "ratio": ""
        },
        "Wormface": {
