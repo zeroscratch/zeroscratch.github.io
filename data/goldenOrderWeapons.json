@@ -278,6 +278,11 @@
       "Battle Axe": {
          "type": "Axe",
          "upgrade": 0,
+         "used": 2
+      },
+      "Shamshir": {
+         "type": "Dagger",
+         "upgrade": 0,
          "used": 1
       }
    },
@@ -350,7 +355,7 @@
       "Sword of Milos": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 3
+         "used": 4
       },
       "Falx": {
          "type": "Curved Sword",

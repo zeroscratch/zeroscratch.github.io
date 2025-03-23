@@ -2,8 +2,8 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "70",
-         "player_deaths": "8",
+         "boss_deaths": "72",
+         "player_deaths": "9",
          "ratio": ""
        },
        "Tree Sentinel": {
@@ -17,8 +17,8 @@
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "18",
-         "player_deaths": "14",
+         "boss_deaths": "19",
+         "player_deaths": "15",
          "ratio": ""
        },
        "Bols": {
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "22",
+         "boss_deaths": "23",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "50",
+         "boss_deaths": "51",
          "player_deaths": "7",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "38",
+         "boss_deaths": "39",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -67,13 +67,13 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "48",
+         "boss_deaths": "50",
          "player_deaths": "1",
          "ratio": ""
        },
        "Rykard": {
-         "boss_deaths": "3",
-         "player_deaths": "0",
+         "boss_deaths": "4",
+         "player_deaths": "1",
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
