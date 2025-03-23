@@ -269,6 +269,16 @@
          "type": "Light Greatsword Sword",
          "upgrade": 0,
          "used": 1
+      },
+      "Uchigatana": {
+         "type": "Katana",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Battle Axe": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -310,12 +320,12 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 12
+         "used": 13
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 9
+         "used": 10
       },
       "Claymore": {
          "type": "Greatsword",

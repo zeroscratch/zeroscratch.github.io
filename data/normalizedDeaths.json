@@ -2,17 +2,17 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "67",
+         "boss_deaths": "69",
          "player_deaths": "8",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "29",
+         "boss_deaths": "30",
          "player_deaths": "3",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "24",
+         "boss_deaths": "25",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "47",
+         "boss_deaths": "49",
          "player_deaths": "7",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "46",
+         "boss_deaths": "47",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,12 +82,12 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "57",
+         "boss_deaths": "59",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "24",
+         "boss_deaths": "25",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -122,13 +122,13 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "13",
-         "player_deaths": "5",
+         "boss_deaths": "14",
+         "player_deaths": "6",
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "18",
-         "player_deaths": "2",
+         "boss_deaths": "19",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Valiant Gargs": {
@@ -142,8 +142,8 @@
          "ratio": ""
        },
        "Black Blade Kindred": {
-         "boss_deaths": "11",
-         "player_deaths": "14",
+         "boss_deaths": "12",
+         "player_deaths": "16",
          "ratio": ""
        },
         "Morgott, The Omen King": {
