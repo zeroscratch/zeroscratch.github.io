@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "72",
+         "boss_deaths": "74",
          "player_deaths": "9",
          "ratio": ""
        },
@@ -17,12 +17,12 @@
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "19",
-         "player_deaths": "15",
+         "boss_deaths": "20",
+         "player_deaths": "17",
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "24",
+         "boss_deaths": "25",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -42,13 +42,13 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "51",
-         "player_deaths": "7",
+         "boss_deaths": "53",
+         "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "39",
-         "player_deaths": "10",
+         "boss_deaths": "40",
+         "player_deaths": "11",
          "ratio": ""
        },
        "Sewer Mohg": {
@@ -57,17 +57,17 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "2",
          "ratio": ""
        },
        "Lord of Blood": {
-         "boss_deaths": "0",
-         "player_deaths": "0",
+         "boss_deaths": "1",
+         "player_deaths": "5",
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "50",
+         "boss_deaths": "51",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -92,7 +92,7 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "50",
+         "boss_deaths": "52",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -102,8 +102,8 @@
          "ratio": "" 
        },
        "Abductor Virgins": {
-         "boss_deaths": "20",
-         "player_deaths": "10",
+         "boss_deaths": "21",
+         "player_deaths": "11",
          "ratio": ""
        },
        "Tree Sentinel Duo": {
@@ -147,7 +147,7 @@
          "ratio": ""
        },
         "Morgott, The Omen King": {
-          "boss_deaths": "1",
+          "boss_deaths": "2",
           "player_deaths": "0",
           "ratio": ""
        }
