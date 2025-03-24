@@ -54,5 +54,12 @@
         "secondPlayer": "Stocko",
         "scheduledAt": "03/23/2025 22:00:00 UTC",
         "matchType": 0
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Rambler",
+        "secondPlayer": "Dino",
+        "scheduledAt": "03/24/2025 23:00:00 UTC",
+        "matchType": 0
     }
 ]

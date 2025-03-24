@@ -1,0 +1,1 @@
+import{d as o,P as a,_ as n,c as s,a as r,i as c,j as d,o as p}from"./index-CE68MHYh.js";const _=o({name:"Stats",components:{PieChart:a}});function i(l,e,m,f,u,C){const t=d("PieChart");return p(),s("div",null,[e[0]||(e[0]=r("h1",null,"Golden Order",-1)),c(t)])}const $=n(_,[["render",i],["__scopeId","data-v-2758348f"]]);export{$ as default};

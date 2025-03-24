@@ -9,7 +9,15 @@
         "lines": 0,
         "games": 7,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/asymmetrical56"
+        "twitch": "https://www.twitch.tv/asymmetrical56",
+        "qualified": "yes",
+        "victory":
+        [
+          "Derf",
+          "Dino",
+          "Rambler",
+          "Ginger"
+        ]
       },
       {
         "standing": 0,
@@ -20,7 +28,13 @@
         "lines": 0,
         "games": 5,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/dinossb"
+        "twitch": "https://www.twitch.tv/dinossb",
+        "qualified": "maybe",
+        "victory":
+        [
+          "Ginger",
+          "Derf"
+        ]
       },
       {
         "standing": 0,
@@ -31,7 +45,13 @@
         "lines": 0,
         "games": 7,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/dandyderfdude"
+        "twitch": "https://www.twitch.tv/dandyderfdude",
+        "qualified": "no",
+        "victory":
+        [
+          "Raa",
+          "Serious"
+        ]
       },
       {
         "standing": 0,
@@ -42,7 +62,13 @@
         "lines": 2,
         "games": 7,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/gingergaming08"
+        "twitch": "https://www.twitch.tv/gingergaming08",
+        "qualified": "no",
+        "victory":
+        [
+          "Serious",
+          "Helios"
+        ]
       },
       {
         "standing": 0,
@@ -53,7 +79,16 @@
         "lines": 0,
         "games": 7,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/lazyhelios"
+        "twitch": "https://www.twitch.tv/lazyhelios",
+        "qualified": "yes",
+        "victory":
+        [
+          "Strump",
+          "Rambler",
+          "Serious",
+          "Raa",
+          "Derf"
+        ]
       },
       {
         "standing": 0,
@@ -64,7 +99,13 @@
         "lines": 1,
         "games": 6,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/jonasraa"
+        "twitch": "https://www.twitch.tv/jonasraa",
+        "qualified": "maybe",
+        "victory":
+        [
+          "Asym",
+          "Ginger"
+        ]
       },
       {
         "standing": 0,
@@ -76,7 +117,14 @@
         "lines": 0,
         "games": 6,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/rambler_ing"
+        "twitch": "https://www.twitch.tv/rambler_ing",
+        "qualified": "maybe",
+        "victory":
+        [
+          "Derf",
+          "Ginger",
+          "Serious"
+        ]
       },
       {
         "standing": 0,
@@ -87,7 +135,14 @@
         "lines": 0,
         "games": 8,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/seriouschallenges"
+        "twitch": "https://www.twitch.tv/seriouschallenges",
+        "qualified": "no",
+        "victory":
+        [
+          "Raa",
+          "Asym",
+          "Dino"
+        ]
       },
       {
         "standing": 0,
@@ -98,7 +153,17 @@
         "lines": 1,
         "games": 7,
         "wr": "0%",
-        "twitch": "https://www.twitch.tv/strump1"
+        "twitch": "https://www.twitch.tv/strump1",
+        "qualified": "yes",
+        "victory":
+        [
+          "Dino",
+          "Ginger",
+          "Raa",
+          "Rambler",
+          "Serious",
+          "Derf"
+        ]
       }
     ],
     "Recusants": [
@@ -111,7 +176,14 @@
             "lines": 0,
             "games": 8,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/chris_chrass"
+            "twitch": "https://www.twitch.tv/chris_chrass",
+            "qualified": "no",
+            "victory":
+            [
+              "RattyRy",
+              "NVCC Alex",
+              "Moody"
+            ]
           },
           {
             "standing": 0,
@@ -122,7 +194,15 @@
             "lines": 0,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/elymis"
+            "twitch": "https://www.twitch.tv/elymis",
+            "qualified": "maybe",
+            "victory":
+            [
+              "NVCC Alex",
+              "Moody",
+              "Nartock",
+              "Chris Chrass"
+            ]
           },
           {
             "standing": 0,
@@ -133,7 +213,13 @@
             "lines": 1,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/o_imoodyy"
+            "twitch": "https://www.twitch.tv/o_imoodyy",
+            "qualified": "no",
+            "victory":
+            [
+              "RattyRy",
+              "NVCC Alex"
+            ]
           },
           {
             "standing": 0,
@@ -144,7 +230,16 @@
             "lines": 2,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/nartock_"
+            "twitch": "https://www.twitch.tv/nartock_",
+            "qualified": "maybe",
+            "victory":
+            [
+              "Chris Chrass",
+              "Moody",
+              "NexusUpNext",
+              "NVCC Alex",
+              "Stocko"
+            ]
           },
           {
             "standing": 0,
@@ -155,7 +250,17 @@
             "lines": 4,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/nexusupnext"
+            "twitch": "https://www.twitch.tv/nexusupnext",
+            "qualified": "yes",
+            "victory":
+            [
+              "Shura",
+              "NVCC Alex",
+              "RattyRy",
+              "Stocko",
+              "Chris Chrass",
+              "Moody"
+            ]
           },
           {
             "standing": 0,
@@ -166,7 +271,12 @@
             "lines": 0,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/latenightgamedev"
+            "twitch": "https://www.twitch.tv/latenightgamedev",
+            "qualified": "no",
+            "victory":
+            [
+
+            ]
           },
           {
             "standing": 0,
@@ -177,7 +287,13 @@
             "lines": 1,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/rattyry"
+            "twitch": "https://www.twitch.tv/rattyry",
+            "qualified": "no",
+            "victory":
+            [
+              "Elymis",
+              "NVCC Alex"
+            ]
           },
           {
             "standing": 0,
@@ -188,7 +304,17 @@
             "lines": 3,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/itsshura"
+            "twitch": "https://www.twitch.tv/itsshura",
+            "qualified": "yes",
+            "victory":
+            [
+              "Stocko",
+              "Nartock",
+              "RattyRy",
+              "Chris Chrass",
+              "Elymis",
+              "Moody"
+            ]
           },
           {
             "standing": 0,
@@ -199,7 +325,15 @@
             "lines": 1,
             "games": 7,
             "wr": "0%",
-            "twitch": "https://www.twitch.tv/stockosunday"
+            "twitch": "https://www.twitch.tv/stockosunday",
+            "qualified": "maybe",
+            "victory":
+            [
+              "Elymis",
+              "NVCC Alex",
+              "Chris Chrass",
+              "RattyRy"
+            ]
           }
     ]
 }
