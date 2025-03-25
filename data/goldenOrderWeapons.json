@@ -73,7 +73,7 @@
       "Bastard Sword": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Iron Ball": {
          "type": "Fist",
@@ -168,7 +168,7 @@
       "Broadsword" : {  
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 7
+         "used": 8
       },
       "Great Katana": {
          "type": "Katana",
@@ -355,7 +355,7 @@
       "Sword of Milos": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 4
+         "used": 6
       },
       "Falx": {
          "type": "Curved Sword",

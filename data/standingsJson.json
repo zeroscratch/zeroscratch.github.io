@@ -22,18 +22,19 @@
       {
         "standing": 0,
         "name": "Dino",
-        "wins": 2,
+        "wins": 3,
         "losses": 3,
-        "squares": 56,
+        "squares": 69,
         "lines": 0,
-        "games": 5,
+        "games": 6,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/dinossb",
         "qualified": "maybe",
         "victory":
         [
           "Ginger",
-          "Derf"
+          "Derf",
+          "Rambler"
         ]
       },
       {
@@ -111,11 +112,11 @@
         "standing": 0,
         "name": "Rambler",
         "wins": 3,
-        "losses": 3,
+        "losses": 4,
         "points": 0,
-        "squares": 68,
+        "squares": 76,
         "lines": 0,
-        "games": 6,
+        "games": 7,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/rambler_ing",
         "qualified": "maybe",

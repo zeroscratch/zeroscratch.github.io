@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "74",
+         "boss_deaths": "76",
          "player_deaths": "9",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "31",
+         "boss_deaths": "33",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -27,8 +27,8 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "23",
-         "player_deaths": "8",
+         "boss_deaths": "25",
+         "player_deaths": "9",
          "ratio": ""
        },
        "Full Grown Fallingstar": {
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "53",
+         "boss_deaths": "54",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "51",
+         "boss_deaths": "52",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -77,12 +77,12 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "16",
-         "player_deaths": "5",
+         "boss_deaths": "17",
+         "player_deaths": "6",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "60",
+         "boss_deaths": "62",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -92,12 +92,12 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "52",
-         "player_deaths": "2",
+         "boss_deaths": "56",
+         "player_deaths": "3",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "72",
+         "boss_deaths": "75",
          "player_deaths": "18",
          "ratio": "" 
        },
