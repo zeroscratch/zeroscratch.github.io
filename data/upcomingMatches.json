@@ -1,65 +1,58 @@
 [
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Ginger",
-        "secondPlayer": "Asym",
-        "scheduledAt": "03/21/2025 20:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
-        "firstPlayer": "Chris Chrass",
-        "secondPlayer": "Nexus",
-        "scheduledAt": "03/22/2025 16:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
-        "firstPlayer": "Helios",
-        "secondPlayer": "Derf",
-        "scheduledAt": "03/22/2025 18:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
-        "firstPlayer": "Stocko",
-        "secondPlayer": "RattyRy",
-        "scheduledAt": "03/22/2025 20:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
-        "firstPlayer": "Chris Chrass",
-        "secondPlayer": "Elymis",
-        "scheduledAt": "03/23/2025 16:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
-        "firstPlayer": "Serious",
-        "secondPlayer": "Strump",
-        "scheduledAt": "03/23/2025 18:00:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
-        "firstPlayer": "Moody",
-        "secondPlayer": "NVCC Alex",
-        "scheduledAt": "03/23/2025 20:00:00 UTC",
+        "firstPlayer": "Derf",
+        "secondPlayer": "Ginger",
+        "scheduledAt": "03/29/2025 16:00:00 UTC",
         "matchType": 0
     },
     {
         "title": "Upcoming Match",
         "firstPlayer": "Nartock",
-        "secondPlayer": "Stocko",
-        "scheduledAt": "03/23/2025 22:00:00 UTC",
+        "secondPlayer": "RattyRy",
+        "scheduledAt": "03/29/2025 18:00:00 UTC",
         "matchType": 0
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Rambler",
-        "secondPlayer": "Dino",
-        "scheduledAt": "03/24/2025 23:00:00 UTC",
+        "firstPlayer": "Daggar",
+        "secondPlayer": "Lorian",
+        "scheduledAt": "03/29/2025 20:00:00 UTC",
+        "matchType": 0
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Strump",
+        "secondPlayer": "Asym",
+        "scheduledAt": "03/29/2025 22:00:00 UTC",
+        "matchType": 0
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Stocko",
+        "secondPlayer": "Moody",
+        "scheduledAt": "03/30/2025 16:00:00 UTC",
+        "matchType": 0
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Raa",
+        "secondPlayer": "Rambler",
+        "scheduledAt": "03/30/2025 18:00:00 UTC",
+        "matchType": 0
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Dino",
+        "secondPlayer": "Helios",
+        "scheduledAt": "03/30/2025 20:00:00 UTC",
+        "matchType": 0
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Shura",
+        "secondPlayer": "NVCC Alex",
+        "scheduledAt": "03/30/2025 22:00:00 UTC",
         "matchType": 0
     }
 ]

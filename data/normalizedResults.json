@@ -298,6 +298,45 @@
               }
             ]
          },
+         {
+            "division": "Redmane",
+            "week": 8,
+            "matches":
+            [
+              {
+                "gameId": "32",
+                "player1": { "name": "Derf", "score": 0, "outcome": "" },
+                "player2": { "name": "Ginger", "score": 0, "outcome": "" },
+                "matchTime": "00:00:00",
+                "vodLink": "",
+                "imageLink": ""
+              },
+               {
+                "gameId": "33",
+                "player1": { "name": "Strump", "score": 0, "outcome": "" },
+                "player2": { "name": "Asym", "score": 0, "outcome": "" },
+                "matchTime": "00:00:00",
+                "vodLink": "",
+                "imageLink": ""
+              },
+               {
+                "gameId": "34",
+                "player1": { "name": "Raa", "score": 0, "outcome": "" },
+                "player2": { "name": "Rambler", "score": 0, "outcome": "" },
+                "matchTime": "00:00:00",
+                "vodLink": "",
+                "imageLink": ""
+               },
+              {
+                "gameId": "35",
+                "player1": { "name": "Dino", "score": 0, "outcome": "" },
+                "player2": { "name": "Helios", "score": 0, "outcome": "" },
+                "matchTime": "00:00:00",
+                "vodLink": "",
+                "imageLink": ""
+              }
+            ]
+         },
            {
               "division": "Recusants",
               "week": 1,
@@ -600,6 +639,37 @@
                 "matchTime": "01:56:39",
                 "vodLink": "https://www.twitch.tv/videos/2413385900?t=05h25m56s",
                 "imageLink": "/img/nartock-v-stocko.png"
+               }
+            ]
+         },
+         {
+            "division": "Recusants",
+            "week": 8,
+            "matches":
+            [
+              {
+                "gameId": "33",
+                "player1": { "name": "Nartock", "score": 0, "outcome": "" },
+                "player2": { "name": "RattyRy", "score": 0, "outcome": "" },
+                "matchTime": "00:00:00",
+                "vodLink": "",
+                "imageLink": ""
+              },
+               {
+                "gameId": "34",
+                "player1": { "name": "Stocko", "score": 0, "outcome": "" },
+                "player2": { "name": "Moody", "score": 0, "outcome": "" },
+                "matchTime": "00:00:00",
+                "vodLink": "",
+                "imageLink": ""
+              },
+               {
+                "gameId": "35",
+                "player1": { "name": "Shura", "score": 0, "outcome": "" },
+                "player2": { "name": "NVCC Alex", "score": 0, "outcome": "" },
+                "matchTime": "00:00:00",
+                "vodLink": "",
+                "imageLink": ""
                }
             ]
          }
