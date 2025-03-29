@@ -28,7 +28,7 @@
       "Noble's Slender Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 6
+         "used": 7
       },
       "Hammer": {
          "type": "Hammer",
@@ -118,7 +118,7 @@
       "Rotten Staff": {
          "type": "Colossal Weapon",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Stone Club": {
          "type": "Hammer",
@@ -320,7 +320,7 @@
       "Golden Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 4
+         "used": 5
       },
       "Banished Knight's Halberd +8": {
          "type": "Halberd",

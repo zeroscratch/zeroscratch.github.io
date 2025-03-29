@@ -2,8 +2,8 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "76",
-         "player_deaths": "9",
+         "boss_deaths": "78",
+         "player_deaths": "11",
          "ratio": ""
        },
        "Tree Sentinel": {
@@ -12,13 +12,13 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "26",
+         "boss_deaths": "27",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "20",
-         "player_deaths": "17",
+         "boss_deaths": "21",
+         "player_deaths": "18",
          "ratio": ""
        },
        "Bols": {
@@ -32,7 +32,7 @@
          "ratio": ""
        },
        "Full Grown Fallingstar": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -47,7 +47,7 @@
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "40",
+         "boss_deaths": "41",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -57,7 +57,7 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "52",
+         "boss_deaths": "54",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "62",
+         "boss_deaths": "63",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "19",
+         "boss_deaths": "20",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -147,7 +147,7 @@
          "ratio": ""
        },
         "Morgott, The Omen King": {
-          "boss_deaths": "2",
+          "boss_deaths": "3",
           "player_deaths": "0",
           "ratio": ""
        }
