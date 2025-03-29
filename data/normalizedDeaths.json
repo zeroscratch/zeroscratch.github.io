@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "78",
+         "boss_deaths": "80",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -12,12 +12,12 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "27",
+         "boss_deaths": "28",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "18",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "54",
+         "boss_deaths": "55",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "63",
+         "boss_deaths": "64",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -92,13 +92,13 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "56",
+         "boss_deaths": "58",
          "player_deaths": "3",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "75",
-         "player_deaths": "18",
+         "boss_deaths": "78",
+         "player_deaths": "20",
          "ratio": "" 
        },
        "Abductor Virgins": {

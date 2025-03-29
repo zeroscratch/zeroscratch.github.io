@@ -88,7 +88,7 @@
       "Spiked Club": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Weathered Straight Sword": {
          "type": "Straight Sword",
@@ -168,7 +168,7 @@
       "Broadsword" : {  
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 8
+         "used": 9
       },
       "Great Katana": {
          "type": "Katana",
@@ -295,7 +295,7 @@
       "Meteoric Ore Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 8
+         "used": 10
       },
       "Miquellan Knight's Sword": {
          "type": "Straight Sword",
