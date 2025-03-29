@@ -588,7 +588,7 @@
                {
                 "gameId": "27",
                 "player1": { "name": "Moody", "score": 2, "outcome": "Lost" },
-                "player2": { "name": "Shura", "score": 9, "outcome": "Majority" },
+                "player2": { "name": "Shura", "score": 9, "outcome": "Bingo" },
                 "matchTime": "01:06:48",
                 "vodLink": "https://www.twitch.tv/videos/2407330843?t=04h18m24s",
                 "imageLink": "/img/shura-v-moody.png"
