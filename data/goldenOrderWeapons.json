@@ -248,7 +248,7 @@
       "Cane Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Noble's Estoc": {
          "type": "Thrusting Sword",
@@ -410,7 +410,7 @@
       "Death's Poker": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 6
+         "used": 9
       },
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",

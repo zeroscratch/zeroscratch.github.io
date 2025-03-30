@@ -12,17 +12,17 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "28",
+         "boss_deaths": "29",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "18",
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "25",
+         "boss_deaths": "26",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "56",
+         "boss_deaths": "58",
          "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "43",
+         "boss_deaths": "44",
          "player_deaths": "12",
          "ratio": ""
        },
@@ -77,17 +77,17 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "18",
+         "boss_deaths": "20",
          "player_deaths": "6",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "68",
+         "boss_deaths": "70",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "28",
+         "boss_deaths": "30",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "80",
+         "boss_deaths": "82",
          "player_deaths": "20",
          "ratio": "" 
        },
