@@ -193,7 +193,7 @@
       "Great Stars": {
          "type": "Great Hammer",
          "upgrade": 0,
-         "used": 1
+         "used": 3
       },
       "Curved Club": {
          "type": "Hammer",
@@ -410,7 +410,7 @@
       "Death's Poker": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 4
+         "used": 6
       },
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",

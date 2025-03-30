@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "83",
+         "boss_deaths": "85",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "55",
+         "boss_deaths": "56",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -62,12 +62,12 @@
          "ratio": ""
        },
        "Lord of Blood": {
-         "boss_deaths": "1",
+         "boss_deaths": "2",
          "player_deaths": "5",
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "56",
+         "boss_deaths": "58",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -77,17 +77,17 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "17",
+         "boss_deaths": "18",
          "player_deaths": "6",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "66",
+         "boss_deaths": "68",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "26",
+         "boss_deaths": "28",
          "player_deaths": "2",
          "ratio": ""
        },
