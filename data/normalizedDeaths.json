@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "80",
+         "boss_deaths": "81",
          "player_deaths": "11",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "33",
+         "boss_deaths": "34",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -42,13 +42,13 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "54",
+         "boss_deaths": "55",
          "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "41",
-         "player_deaths": "11",
+         "boss_deaths": "43",
+         "player_deaths": "12",
          "ratio": ""
        },
        "Sewer Mohg": {
@@ -57,7 +57,7 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "55",
+         "boss_deaths": "56",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,12 +82,12 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "64",
+         "boss_deaths": "65",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "25",
+         "boss_deaths": "26",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "78",
+         "boss_deaths": "80",
          "player_deaths": "20",
          "ratio": "" 
        },
@@ -107,7 +107,7 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -133,7 +133,7 @@
        },
        "Valiant Gargs": {
          "boss_deaths": "3",
-         "player_deaths": "5",
+         "player_deaths": "6",
          "ratio": ""
        },
        "Death Rite Bird": {

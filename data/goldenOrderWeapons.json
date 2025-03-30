@@ -284,6 +284,16 @@
          "type": "Dagger",
          "upgrade": 0,
          "used": 1
+      },
+      "Falx": {
+         "type": "Curved Sword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Devonia's Hammer": {
+         "type": "Colossal Weapon",
+         "upgrade": 1,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -410,7 +420,7 @@
       "Great Katana": {
          "type": "Katana",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Iron Ball": { 
          "type": "Fist",
@@ -440,7 +450,7 @@
       "Uchigatana": {
          "type": "Katana",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Highland Axe": {
          "type": "Axe",
@@ -459,6 +469,11 @@
       },
       "Wing of Astel": {
          "type": "Curved Sword",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Anvil Hammer": {
+         "type": "Colossal Weapon",
          "upgrade": 1,
          "used": 1
       }
