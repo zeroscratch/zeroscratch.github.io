@@ -294,6 +294,11 @@
          "type": "Colossal Weapon",
          "upgrade": 1,
          "used": 1
+      },
+      "Highland Axe": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
