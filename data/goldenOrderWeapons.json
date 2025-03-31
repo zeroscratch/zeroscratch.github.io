@@ -48,7 +48,7 @@
       "Flamberge": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Morning Star": {
          "type": "Hammer",
@@ -299,6 +299,16 @@
          "type": "Axe",
          "upgrade": 0,
          "used": 1
+      },
+      "Messmer's Soldier Axe": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Venomous Fang": {
+         "type": "Claw",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -480,6 +490,11 @@
       "Anvil Hammer": {
          "type": "Colossal Weapon",
          "upgrade": 1,
+         "used": 1
+      },
+      "Bastard Sword": {
+         "type": "Greatsword",
+         "upgrade": 0,
          "used": 1
       }
    }

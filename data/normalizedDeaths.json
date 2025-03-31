@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "85",
+         "boss_deaths": "86",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -27,8 +27,8 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "25",
-         "player_deaths": "9",
+         "boss_deaths": "26",
+         "player_deaths": "10",
          "ratio": ""
        },
        "Full Grown Fallingstar": {
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "58",
+         "boss_deaths": "59",
          "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "44",
+         "boss_deaths": "45",
          "player_deaths": "12",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "58",
+         "boss_deaths": "59",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -92,17 +92,17 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "59",
+         "boss_deaths": "61",
          "player_deaths": "4",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "83",
-         "player_deaths": "20",
+         "boss_deaths": "85",
+         "player_deaths": "22",
          "ratio": "" 
        },
        "Abductor Virgins": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "11",
          "ratio": ""
        },

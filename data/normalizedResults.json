@@ -334,6 +334,14 @@
                 "matchTime": "01:32:04",
                 "vodLink": "https://www.twitch.tv/videos/2419588476?t=02h19m59s",
                 "imageLink": "/img/dino-v-helios.png"
+              },
+              {
+                "gameId": "36",
+                "player1": { "name": "Dino", "score": 6, "outcome": "Lost" },
+                "player2": { "name": "Raa", "score": 10, "outcome": "Bingo" },
+                "matchTime": "01:32:04",
+                "vodLink": "https://www.twitch.tv/videos/2420310356?t=00h18m05s",
+                "imageLink": "/img/raa-v-dino.png"
               }
             ]
          },

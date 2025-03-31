@@ -23,13 +23,13 @@
         "standing": 0,
         "name": "Dino",
         "wins": 3,
-        "losses": 4,
-        "squares": 80,
+        "losses": 5,
+        "squares": 86,
         "lines": 0,
-        "games": 7,
+        "games": 8,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/dinossb",
-        "qualified": "maybe",
+        "qualified": "no",
         "victory":
         [
           "Ginger",
@@ -94,11 +94,11 @@
       {
         "standing": 0,
         "name": "Raa",
-        "wins": 2,
+        "wins": 3,
         "losses": 5,
-        "squares": 57,
-        "lines": 1,
-        "games": 6,
+        "squares": 67,
+        "lines": 2,
+        "games": 8,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/jonasraa",
         "qualified": "no",
@@ -119,7 +119,7 @@
         "games": 8,
         "wr": "0%",
         "twitch": "https://www.twitch.tv/rambler_ing",
-        "qualified": "maybe",
+        "qualified": "yes",
         "victory":
         [
           "Derf",
