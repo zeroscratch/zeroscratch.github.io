@@ -12,17 +12,17 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "29",
+         "boss_deaths": "30",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "24",
+         "boss_deaths": "25",
          "player_deaths": "18",
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "26",
+         "boss_deaths": "27",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "70",
+         "boss_deaths": "71",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "82",
+         "boss_deaths": "83",
          "player_deaths": "20",
          "ratio": "" 
        },
@@ -107,8 +107,8 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "14",
-         "player_deaths": "3",
+         "boss_deaths": "15",
+         "player_deaths": "4",
          "ratio": ""
        },
        "Ekzykes": {
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "20",
+         "boss_deaths": "21",
          "player_deaths": "3",
          "ratio": ""
        },

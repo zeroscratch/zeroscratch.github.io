@@ -188,7 +188,7 @@
       "Lordsworn's Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 4
+         "used": 6
       },
       "Great Stars": {
          "type": "Great Hammer",
@@ -340,7 +340,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 15
+         "used": 17
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -450,7 +450,7 @@
       "Bloodhound's Fang": {
          "type": "Curved Greatsword",
          "upgrade": 1,
-         "used": 1
+         "used": 3
       },
       "Uchigatana": {
          "type": "Katana",
