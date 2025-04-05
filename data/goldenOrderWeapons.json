@@ -8,7 +8,7 @@
       "Grave Scythe": {
          "type": "Scythe",
          "upgrade": 0,
-         "used": 4
+         "used": 6
       },
       "Rotten Battle Hammer": {
          "type": "Great Hammer",
@@ -460,7 +460,7 @@
       "Bloodhound's Fang": {
          "type": "Curved Greatsword",
          "upgrade": 1,
-         "used": 3
+         "used": 5
       },
       "Uchigatana": {
          "type": "Katana",

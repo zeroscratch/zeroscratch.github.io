@@ -2,22 +2,22 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "86",
+         "boss_deaths": "88",
          "player_deaths": "11",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "35",
+         "boss_deaths": "36",
          "player_deaths": "3",
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "30",
+         "boss_deaths": "31",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "25",
+         "boss_deaths": "26",
          "player_deaths": "18",
          "ratio": ""
        },
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "59",
+         "boss_deaths": "60",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -62,12 +62,12 @@
          "ratio": ""
        },
        "Lord of Blood": {
-         "boss_deaths": "2",
+         "boss_deaths": "3",
          "player_deaths": "5",
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "59",
+         "boss_deaths": "60",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "71",
+         "boss_deaths": "72",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -102,7 +102,7 @@
          "ratio": "" 
        },
        "Abductor Virgins": {
-         "boss_deaths": "22",
+         "boss_deaths": "23",
          "player_deaths": "11",
          "ratio": ""
        },
