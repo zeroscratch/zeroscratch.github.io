@@ -6,7 +6,7 @@
          "player2": { "name": "Asym", "score": 9, "outcome": "Lost" , "division": "redmane"},
          "matchTime": "01:24:44",
          "vodLink": "https://www.twitch.tv/videos/2424965203?t=00h23m46s",
-         "imageLink": "public/img/nartock-v-asym.png",
+         "imageLink": "/img/nartock-v-asym.png",
          "scheduledAt": "2025-04-05T20:00:00Z"
       },
       {
