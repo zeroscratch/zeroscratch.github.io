@@ -1,24 +1,24 @@
 [
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Raa",
-        "secondPlayer": "Dino",
-        "scheduledAt": "03/31/2025 15:30:00 UTC",
-        "matchType": 0
-    },
-    {
-        "title": "Upcoming Match",
         "firstPlayer": "Nartock",
-        "secondPlayer": "RattyRy",
-        "scheduledAt": "03/29/2025 18:00:00 UTC",
-        "matchType": 0
+        "secondPlayer": "Asym",
+        "scheduledAt": "04/05/2025 20:00:00 UTC",
+        "matchType": 2
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Daggar",
-        "secondPlayer": "Lorian",
-        "scheduledAt": "03/29/2025 20:00:00 UTC",
-        "matchType": 0
+        "firstPlayer": "Helios",
+        "secondPlayer": "Stocko",
+        "scheduledAt": "04/06/2025 16:00:00 UTC",
+        "matchType": 2
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Shura",
+        "secondPlayer": "Rambler",
+        "scheduledAt": "04/07/2025 20:00:00 UTC",
+        "matchType": 2
     },
     {
         "title": "Upcoming Match",

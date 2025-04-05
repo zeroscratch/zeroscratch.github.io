@@ -189,7 +189,7 @@
           {
             "standing": 0,
             "name": "Elymis",
-            "wins": 4,
+            "wins": 5,
             "losses": 3,
             "squares": 77,
             "lines": 0,
@@ -246,7 +246,7 @@
             "standing": 0,
             "name": "NexusUpNext",
             "wins": 6,
-            "losses": 1,
+            "losses": 2,
             "squares": 76,
             "lines": 4,
             "games": 7,
