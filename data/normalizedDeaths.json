@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "88",
+         "boss_deaths": "89",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -42,22 +42,22 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "60",
+         "boss_deaths": "62",
          "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "45",
+         "boss_deaths": "46",
          "player_deaths": "12",
          "ratio": ""
        },
        "Sewer Mohg": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "0",
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "9",
+         "boss_deaths": "10",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "60",
+         "boss_deaths": "61",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -77,17 +77,17 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "20",
+         "boss_deaths": "21",
          "player_deaths": "6",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "72",
+         "boss_deaths": "73",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "30",
+         "boss_deaths": "31",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -97,8 +97,8 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "85",
-         "player_deaths": "22",
+         "boss_deaths": "88",
+         "player_deaths": "26",
          "ratio": "" 
        },
        "Abductor Virgins": {

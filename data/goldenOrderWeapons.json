@@ -309,6 +309,16 @@
          "type": "Claw",
          "upgrade": 0,
          "used": 1
+      },
+      "Longhaft Axe": {
+         "type": "Great Axe",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Rogier's Rapier": {
+         "type": "Thrusting Sword",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -490,11 +500,16 @@
       "Anvil Hammer": {
          "type": "Colossal Weapon",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Bastard Sword": {
          "type": "Greatsword",
          "upgrade": 0,
+         "used": 1
+      },
+      "Commander Standard": {
+         "type": "Halberd",
+         "upgrade": 1,
          "used": 1
       }
    }

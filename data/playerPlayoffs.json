@@ -2,20 +2,20 @@
    "match-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Nartock", "score": 10, "outcome": "Bingo", "division": "recusant" },
+         "player1": { "name": "Nartock", "score": 10, "outcome": "Nartock Bingo Win", "division": "recusant" },
          "player2": { "name": "Asym", "score": 9, "outcome": "Lost" , "division": "redmane"},
          "matchTime": "01:24:44",
          "vodLink": "https://www.twitch.tv/videos/2424965203?t=00h23m46s",
-         "imageLink": "/img/nartock-v-asym.png",
+         "imageLink": "/img/nartock-v-asym-1.png",
          "scheduledAt": "2025-04-05T20:00:00Z"
       },
       {
          "gameid": 2,
-         "player1": { "name": "Nartock", "score": 0, "outcome": "", "division": "recusant"},
-         "player2": { "name": "Asym", "score": 0, "outcome": "", "division": "redmane" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Nartock", "score": 13, "outcome": "Nartock Majority Win", "division": "recusant"},
+         "player2": { "name": "Asym", "score": 8, "outcome": "Lost", "division": "redmane" },
+         "matchTime": "01:25:29",
+         "vodLink": "https://www.twitch.tv/videos/2424965203?t=02h14m12s",
+         "imageLink": "/img/nartock-v-asym-2.png",
          "scheduledAt": "2025-04-05T22:00:00Z"
       }
    ],
