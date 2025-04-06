@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "90",
+         "boss_deaths": "92",
          "player_deaths": "11",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "36",
+         "boss_deaths": "37",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -42,13 +42,13 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "64",
+         "boss_deaths": "65",
          "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "47",
-         "player_deaths": "12",
+         "boss_deaths": "48",
+         "player_deaths": "13",
          "ratio": ""
        },
        "Sewer Mohg": {
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "62",
+         "boss_deaths": "64",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "75",
+         "boss_deaths": "76",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -92,12 +92,12 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "61",
+         "boss_deaths": "64",
          "player_deaths": "4",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "88",
+         "boss_deaths": "91",
          "player_deaths": "26",
          "ratio": "" 
        },
@@ -122,8 +122,8 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "14",
-         "player_deaths": "6",
+         "boss_deaths": "15",
+         "player_deaths": "7",
          "ratio": ""
        },
        "Loretta": {

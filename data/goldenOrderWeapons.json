@@ -53,7 +53,7 @@
       "Morning Star": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 3
+         "used": 4
       },
       "Steel-Wire Torch": {
          "type": "Torch",
@@ -188,7 +188,7 @@
       "Lordsworn's Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 6
+         "used": 7
       },
       "Great Stars": {
          "type": "Great Hammer",
@@ -345,7 +345,7 @@
       "Rakshasa's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 9
+         "used": 10
       },
       "Dragon Halberd": {
          "type": "Halberd",
@@ -365,7 +365,7 @@
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 10
+         "used": 11
       },
       "Claymore": {
          "type": "Greatsword",
@@ -430,7 +430,7 @@
       "Death's Poker": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 9
+         "used": 10
       },
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",

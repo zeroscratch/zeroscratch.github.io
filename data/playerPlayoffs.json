@@ -31,11 +31,11 @@
       },
       {
          "gameid": 2,
-         "player1": { "name": "Helios", "score": 0, "outcome": "" },
-         "player2": { "name": "Stocko", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Helios", "score": 13, "outcome": "Helios Majority Win", "division": "redmane" },
+         "player2": { "name": "Stocko", "score": 9, "outcome": "Lost", "division": "recusant" },
+         "matchTime": "01:32:15",
+         "vodLink": "https://www.twitch.tv/videos/2425704380?t=02h29m42s",
+         "imageLink": "/img/helios-v-stocko-2.png",
          "scheduledAt": "2025-04-06T18:00:00Z"
       }
    ]
