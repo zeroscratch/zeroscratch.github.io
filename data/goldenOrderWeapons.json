@@ -33,7 +33,7 @@
       "Hammer": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Large Club": {
          "type": "Great Hammer",
@@ -48,7 +48,7 @@
       "Flamberge": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Morning Star": {
          "type": "Hammer",
@@ -460,7 +460,7 @@
       "Storm Hawk Axe": {
          "type": "Axe",
          "upgrade": 1,
-         "used": 5
+         "used": 6
       },
       "Monk's Flamemace": {
          "type": "Hammer",
@@ -509,6 +509,11 @@
       },
       "Commander Standard": {
          "type": "Halberd",
+         "upgrade": 1,
+         "used": 1
+      },
+      "Rotten Staff": {
+         "type": "Colossal Weapon",
          "upgrade": 1,
          "used": 1
       }

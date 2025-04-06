@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "89",
+         "boss_deaths": "90",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "31",
+         "boss_deaths": "32",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "26",
+         "boss_deaths": "27",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "62",
+         "boss_deaths": "64",
          "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "46",
+         "boss_deaths": "47",
          "player_deaths": "12",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "61",
+         "boss_deaths": "62",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,12 +82,12 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "73",
+         "boss_deaths": "75",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "31",
+         "boss_deaths": "33",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -102,7 +102,7 @@
          "ratio": "" 
        },
        "Abductor Virgins": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -132,7 +132,7 @@
          "ratio": ""
        },
        "Valiant Gargs": {
-         "boss_deaths": "3",
+         "boss_deaths": "4",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -142,8 +142,8 @@
          "ratio": ""
        },
        "Black Blade Kindred": {
-         "boss_deaths": "12",
-         "player_deaths": "16",
+         "boss_deaths": "13",
+         "player_deaths": "20",
          "ratio": ""
        },
         "Morgott, The Omen King": {
