@@ -38,5 +38,25 @@
          "imageLink": "/img/helios-v-stocko-2.png",
          "scheduledAt": "2025-04-06T18:00:00Z"
       }
+   ],
+   "match-3": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Rambler", "score": 0, "outcome": "", "division": "redmane" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-04-07T20:00:00Z"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Rambler", "score": 0, "outcome": "", "division": "redmane" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-04-07T22:00:00Z"
+      }
    ]
 }
