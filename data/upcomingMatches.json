@@ -22,17 +22,17 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Strump",
-        "secondPlayer": "Asym",
-        "scheduledAt": "03/29/2025 22:00:00 UTC",
-        "matchType": 0
+        "firstPlayer": "Shura",
+        "secondPlayer": "Rambler",
+        "scheduledAt": "04/08/2025 18:30:00 UTC",
+        "matchType": 2
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Stocko",
-        "secondPlayer": "Moody",
-        "scheduledAt": "03/30/2025 16:00:00 UTC",
-        "matchType": 0
+        "firstPlayer": "Nexus",
+        "secondPlayer": "Strump",
+        "scheduledAt": "04/08/2025 21:30:00 UTC",
+        "matchType": 2
     },
     {
         "title": "Upcoming Match",

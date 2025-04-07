@@ -42,7 +42,7 @@
    "match-3": [
       {
          "gameid": 1,
-         "player1": { "name": "Shura", "score": 6, "outcome": "", "division": "recusant" },
+         "player1": { "name": "Shura", "score": 6, "outcome": "Lost", "division": "recusant" },
          "player2": { "name": "Rambler", "score": 5, "outcome": "Rambler Bingo Win", "division": "redmane" },
          "matchTime": "00:58:24",
          "vodLink": "https://www.twitch.tv/videos/2426753608?t=00h23m06s",
@@ -52,11 +52,40 @@
       {
          "gameid": 2,
          "player1": { "name": "Shura", "score": 12, "outcome": "Shura Bingo Win", "division": "recusant" },
-         "player2": { "name": "Rambler", "score": 0, "outcome": "Lost", "division": "redmane" },
+         "player2": { "name": "Rambler", "score": 7, "outcome": "Lost", "division": "redmane" },
          "matchTime": "01:19:02",
          "vodLink": "https://www.twitch.tv/videos/2426753608?t=01h43m56s",
          "imageLink": "/img/rambler-v-shura-2.png",
          "scheduledAt": "2025-04-07T22:00:00Z"
+      },
+      {
+         "gameid": 3,
+         "player1": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Rambler", "score": 0, "outcome": "", "division": "redmane" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-04-08T18:30:00Z"
+      }
+   ],
+   "match-4": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Strump", "score": 0, "outcome": "", "division": "redmane" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-04-08T21:30:00Z"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Strump", "score": 0, "outcome": "", "division": "redmane" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-04-08T23:30:00Z"
       }
    ]
 }
