@@ -60,11 +60,11 @@
       },
       {
          "gameid": 3,
-         "player1": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
-         "player2": { "name": "Rambler", "score": 0, "outcome": "", "division": "redmane" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Shura", "score": 13, "outcome": "Shura Majority Win", "division": "recusant" },
+         "player2": { "name": "Rambler", "score": 5, "outcome": "Lost", "division": "redmane" },
+         "matchTime": "01:14:23",
+         "vodLink": "https://www.twitch.tv/videos/2427536382?t=00h19m42s",
+         "imageLink": "/img/rambler-v-shura-3.png",
          "scheduledAt": "2025-04-08T18:30:00Z"
       }
    ],
