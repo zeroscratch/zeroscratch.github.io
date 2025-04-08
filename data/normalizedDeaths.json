@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "92",
+         "boss_deaths": "93",
          "player_deaths": "11",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "37",
+         "boss_deaths": "38",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -17,7 +17,7 @@
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "26",
+         "boss_deaths": "27",
          "player_deaths": "18",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "65",
+         "boss_deaths": "66",
          "player_deaths": "8",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "48",
+         "boss_deaths": "50",
          "player_deaths": "13",
          "ratio": ""
        },
@@ -57,7 +57,7 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "10",
+         "boss_deaths": "11",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -67,12 +67,12 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "64",
+         "boss_deaths": "65",
          "player_deaths": "1",
          "ratio": ""
        },
        "Rykard": {
-         "boss_deaths": "5",
+         "boss_deaths": "6",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -82,22 +82,22 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "76",
+         "boss_deaths": "78",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "33",
+         "boss_deaths": "35",
          "player_deaths": "2",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "64",
+         "boss_deaths": "67",
          "player_deaths": "4",
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "91",
+         "boss_deaths": "92",
          "player_deaths": "26",
          "ratio": "" 
        },
@@ -112,7 +112,7 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "16",
+         "boss_deaths": "17",
          "player_deaths": "2",
          "ratio": ""
        },

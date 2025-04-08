@@ -319,13 +319,23 @@
          "type": "Thrusting Sword",
          "upgrade": 0,
          "used": 1
+      },
+      "Hand Axe": {
+         "type": "Axe",
+         "upgrade": 0,
+         "used": 1
+      },
+      "Greathorn Hammer": {
+         "type": "Great Hammer",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
       "Dragon-Hunter's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 6
+         "used": 8
       },
       "Meteoric Ore Blade": {
          "type": "Katana",

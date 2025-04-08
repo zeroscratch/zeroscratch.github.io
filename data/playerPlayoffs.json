@@ -71,11 +71,11 @@
    "match-4": [
       {
          "gameid": 1,
-         "player1": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
-         "player2": { "name": "Strump", "score": 0, "outcome": "", "division": "redmane" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Nexus", "score": 13, "outcome": "Nexus Majority Win", "division": "recusant" },
+         "player2": { "name": "Strump", "score": 11, "outcome": "Lost", "division": "redmane" },
+         "matchTime": "01:40:35",
+         "vodLink": "https://www.twitch.tv/videos/2427536382?t=02h56m34s",
+         "imageLink": "/img/nexus-v-strump-1.png",
          "scheduledAt": "2025-04-08T20:30:00Z"
       },
       {
