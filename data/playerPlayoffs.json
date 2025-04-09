@@ -80,11 +80,11 @@
       },
       {
          "gameid": 2,
-         "player1": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
-         "player2": { "name": "Strump", "score": 0, "outcome": "", "division": "redmane" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Nexus", "score": 9, "outcome": "Nexus Bingo Win", "division": "recusant" },
+         "player2": { "name": "Strump", "score": 2, "outcome": "Lost", "division": "redmane" },
+         "matchTime": "00:57:59",
+         "vodLink": "https://www.twitch.tv/videos/2427536382?t=05h04m07s",
+         "imageLink": "/img/nexus-v-strump-2.png",
          "scheduledAt": "2025-04-08T22:30:00Z"
       }
    ]

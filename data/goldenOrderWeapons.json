@@ -168,7 +168,7 @@
       "Broadsword" : {  
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 9
+         "used": 11
       },
       "Great Katana": {
          "type": "Katana",
@@ -526,6 +526,11 @@
          "type": "Colossal Weapon",
          "upgrade": 1,
          "used": 1
+      },
+      "Grafted Blade Greatsword": {
+         "type": "Colossal Sword",
+         "upgrade": 1,
+         "used": 2
       }
    }
 }

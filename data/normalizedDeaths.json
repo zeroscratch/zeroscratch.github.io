@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "93",
+         "boss_deaths": "94",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "32",
+         "boss_deaths": "33",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "27",
+         "boss_deaths": "29",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -42,8 +42,8 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "66",
-         "player_deaths": "8",
+         "boss_deaths": "68",
+         "player_deaths": "9",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "65",
+         "boss_deaths": "66",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -77,7 +77,7 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "92",
+         "boss_deaths": "93",
          "player_deaths": "26",
          "ratio": "" 
        },
@@ -107,8 +107,8 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "15",
-         "player_deaths": "4",
+         "boss_deaths": "16",
+         "player_deaths": "5",
          "ratio": ""
        },
        "Ekzykes": {
