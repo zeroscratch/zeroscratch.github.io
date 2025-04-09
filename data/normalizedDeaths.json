@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "94",
+         "boss_deaths": "97",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -12,7 +12,7 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "33",
+         "boss_deaths": "35",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -22,8 +22,8 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "27",
-         "player_deaths": "8",
+         "boss_deaths": "29",
+         "player_deaths": "9",
          "ratio": ""
        },
        "Fallingstar Beast": {
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "68",
+         "boss_deaths": "69",
          "player_deaths": "9",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "66",
+         "boss_deaths": "68",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -77,22 +77,22 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "22",
+         "boss_deaths": "23",
          "player_deaths": "6",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "78",
+         "boss_deaths": "80",
          "player_deaths": "8",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "35",
+         "boss_deaths": "36",
          "player_deaths": "2",
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "67",
+         "boss_deaths": "71",
          "player_deaths": "4",
          "ratio": ""
        },
@@ -107,23 +107,23 @@
          "ratio": ""
        },
        "Tree Sentinel Duo": {
-         "boss_deaths": "16",
+         "boss_deaths": "18",
          "player_deaths": "5",
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "17",
+         "boss_deaths": "19",
          "player_deaths": "2",
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "18",
+         "boss_deaths": "19",
          "player_deaths": "4",
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "15",
-         "player_deaths": "7",
+         "boss_deaths": "17",
+         "player_deaths": "8",
          "ratio": ""
        },
        "Loretta": {
@@ -137,7 +137,7 @@
          "ratio": ""
        },
        "Death Rite Bird": {
-         "boss_deaths": "8",
+         "boss_deaths": "9",
          "player_deaths": "8",
          "ratio": ""
        },

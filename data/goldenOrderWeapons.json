@@ -3,7 +3,7 @@
       "Claymore": {
          "type": "Greatsword",
          "upgrade": 0,
-         "used": 2
+         "used": 4
       },
       "Grave Scythe": {
          "type": "Scythe",
@@ -28,7 +28,7 @@
       "Noble's Slender Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 7
+         "used": 9
       },
       "Hammer": {
          "type": "Hammer",
@@ -258,7 +258,7 @@
       "Troll Knight's Sword": {
          "type": "Colossal Sword",
          "upgrade": 1,
-         "used": 2
+         "used": 4
       },
       "Jawbone Axe": {
          "type": "Axe",
@@ -329,13 +329,23 @@
          "type": "Great Hammer",
          "upgrade": 0,
          "used": 1
+      },
+      "Falchion": {
+         "type": "Curved Sword",
+         "upgrade": 0,
+         "used": 2
+      },
+      "Iron Greatsword": {
+         "type": "Greatsword",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
       "Dragon-Hunter's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 8
+         "used": 10
       },
       "Meteoric Ore Blade": {
          "type": "Katana",
@@ -355,7 +365,7 @@
       "Rakshasa's Great Katana": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 10
+         "used": 12
       },
       "Dragon Halberd": {
          "type": "Halberd",
@@ -425,7 +435,7 @@
       "Zamor Curved Sword": {
          "type": "Curved Greatsword",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Star-Lined Sword": {
          "type": "Katana",
@@ -445,7 +455,7 @@
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Stone Club": {
          "type": "Hammer",
@@ -465,7 +475,7 @@
       "Star Fist": {
          "type": "Fist",
          "upgrade": 0,
-         "used": 1
+         "used": 2
       },
       "Storm Hawk Axe": {
          "type": "Axe",
