@@ -790,6 +790,14 @@
             "matchTime": "01:16:13",
             "vodLink": "",
             "imageLink": "/img/crucible/harv-v-malte.png"
+         },
+         {
+            "gameId": "14",
+            "player1": { "name": "JLegacy", "score": 12, "outcome": "Majority" },
+            "player2": { "name": "AngryPhilosopher", "score": 11, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/crucible/j-v-ap.png"
          }
       ]
    },
@@ -798,7 +806,7 @@
       "matches":
       [
          {
-            "gameId": "14",
+            "gameId": "15",
             "player1": { "name": "Psiphicode", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Jerz", "score": 11, "outcome": "Lost" },
             "matchTime": "01:38:16",
@@ -806,7 +814,7 @@
             "imageLink": "/img/crucible/psi-v-jerz.png"
          },
          {
-            "gameId": "15",
+            "gameId": "16",
             "player1": { "name": "Shaka", "score": 4, "outcome": "Lost" },
             "player2": { "name": "Maiorskills", "score": 13, "outcome": "Majority" },
             "matchTime": "01:18:38",
@@ -814,7 +822,7 @@
             "imageLink": "/img/crucible/shaka-v-maiorskills.png"
          },
          {
-            "gameId": "16",
+            "gameId": "17",
             "player1": { "name": "Wander", "score": 7, "outcome": "Bingo" },
             "player2": { "name": "Shawn", "score": 5, "outcome": "Lost" },
             "matchTime": "01:23:29",
@@ -822,7 +830,7 @@
             "imageLink": "/img/crucible/wander-v-shawn.png"
          },
          {
-            "gameId": "17",
+            "gameId": "18",
             "player1": { "name": "Androisius", "score": 2, "outcome": "Lost" },
             "player2": { "name": "Burton", "score": 7, "outcome": "Bingo" },
             "matchTime": "01:09:33",
@@ -830,7 +838,7 @@
             "imageLink": "/img/crucible/androi-v-burton.png"
          },
          {
-            "gameId": "18",
+            "gameId": "19",
             "player1": { "name": "Torsadz", "score": 10, "outcome": "Majority" },
             "player2": { "name": "Kashmor", "score": 8, "outcome": "Lost" },
             "matchTime": "02:00:00",
@@ -838,7 +846,7 @@
             "imageLink": "/img/crucible/torsadz-v-kashmor.png"
          },
          {
-            "gameId": "19",
+            "gameId": "20",
             "player1": { "name": "AngryPhilosopher", "score": 10, "outcome": "Majority" },
             "player2": { "name": "Astormyz", "score": 3, "outcome": "Lost" },
             "matchTime": "02:00:00",
@@ -846,7 +854,7 @@
             "imageLink": "/img/crucible/ap-v-astormyz.png"
          },
          {
-            "gameId": "20",
+            "gameId": "21",
             "player1": { "name": "Loeless", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Cronys", "score": 12, "outcome": "Lost" },
             "matchTime": "01:41:29",
@@ -854,7 +862,7 @@
             "imageLink": "/img/crucible/loe-v-cronys.PNG"
          },
          {
-            "gameId": "21",
+            "gameId": "22",
             "player1": { "name": "Lorian", "score": 8, "outcome": "Bingo" },
             "player2": { "name": "Nazmoza", "score": 5, "outcome": "Lost" },
             "matchTime": "01:21:20",
@@ -862,7 +870,7 @@
             "imageLink": "/img/crucible/lorian-v-nazmoza.png"
          },
          {
-            "gameId": "22",
+            "gameId": "23",
             "player1": { "name": "Snowy", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Malte", "score": 9, "outcome": "Lost" },
             "matchTime": "01:36:27",
@@ -870,7 +878,7 @@
             "imageLink": "/img/crucible/snowy-v-malte.png"
          },
          {
-            "gameId": "23",
+            "gameId": "24",
             "player1": { "name": "Seljuz", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Noya", "score": 10, "outcome": "Lost" },
             "matchTime": "01:51:21",
@@ -878,7 +886,7 @@
             "imageLink": "/img/crucible/seljuz-v-noya.JPG"
          },
          {
-            "gameId": "24",
+            "gameId": "25",
             "player1": { "name": "Fits", "score": 11, "outcome": "Bingo" },
             "player2": { "name": "Wiki", "score": 2, "outcome": "Lost" },
             "matchTime": "01:22:26",
@@ -886,12 +894,28 @@
             "imageLink": "/img/crucible/fits-v-wiki.png"
          },
          {
-            "gameId": "25",
+            "gameId": "26",
             "player1": { "name": "Champ", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Saetan", "score": 4, "outcome": "Lost" },
             "matchTime": "01:15:45",
             "vodLink": "",
             "imageLink": "/img/crucible/champ-v-saetan.png"
+         },
+         {
+            "gameId": "27",
+            "player1": { "name": "Doitz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Daggar97", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:33:01",
+            "vodLink": "",
+            "imageLink": "/img/crucible/doitz-v-dagger.png"
+         },
+         {
+            "gameId": "28",
+            "player1": { "name": "Harv", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Doitz", "score": 12, "outcome": "Lost" },
+            "matchTime": "01:43:31",
+            "vodLink": "",
+            "imageLink": "/img/crucible/doitz-v-harv.png"
          }
       ]
    },
@@ -900,7 +924,7 @@
       "matches":
       [
          {
-            "gameId": "26",
+            "gameId": "29",
             "player1": { "name": "Lorian", "score": 12, "outcome": "Bingo" },
             "player2": { "name": "AngryPhilosopher", "score": 5, "outcome": "Lost" },
             "matchTime": "01:37:20",
@@ -908,7 +932,7 @@
             "imageLink": "/img/crucible/lorian-v-ap.png"
          },
          {
-            "gameId": "27",
+            "gameId": "30",
             "player1": { "name": "Shaka", "score": 12, "outcome": "Majority" },
             "player2": { "name": "Saetan", "score": 10, "outcome": "Lost" },
             "matchTime": "02:00:00",
@@ -916,7 +940,7 @@
             "imageLink": "/img/crucible/shaka-v-saetan.png"
          },
          {
-            "gameId": "28",
+            "gameId": "31",
             "player1": { "name": "Maiorskills", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Seljuz", "score": 8, "outcome": "Lost" },
             "matchTime": "01:15:25",
@@ -924,7 +948,7 @@
             "imageLink": "/img/crucible/maiorskills-v-seljuz.png"
          },
          {
-            "gameId": "29",
+            "gameId": "32",
             "player1": { "name": "Burton", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Torsadz", "score": 7, "outcome": "Lost" },
             "matchTime": "01:27:33",
@@ -932,7 +956,7 @@
             "imageLink": "/img/crucible/burton-v-torsadz.png"
          },
          {
-            "gameId": "30",
+            "gameId": "33",
             "player1": { "name": "Daggar97", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Cronys", "score": 9, "outcome": "Lost" },
             "matchTime": "01:30:07",
@@ -940,7 +964,7 @@
             "imageLink": "/img/crucible/daggar-v-cronys.PNG"
          },
          {
-            "gameId": "31",
+            "gameId": "34",
             "player1": { "name": "Loeless", "score": 11, "outcome": "Bingo" },
             "player2": { "name": "Fits", "score": 5, "outcome": "Lost" },
             "matchTime": "01:18:32",
@@ -948,7 +972,7 @@
             "imageLink": "/img/crucible/loe-v-fits.PNG"
          },
          {
-            "gameId": "32",
+            "gameId": "35",
             "player1": { "name": "Noya", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Wiki", "score": 6, "outcome": "Lost" },
             "matchTime": "01:35:30",
@@ -956,7 +980,7 @@
             "imageLink": "/img/crucible/noya-v-wiki.png"
          },
          {
-            "gameId": "33",
+            "gameId": "36",
             "player1": { "name": "Shawn", "score": 10, "outcome": "Bingo" },
             "player2": { "name": "Nazmoza", "score": 5, "outcome": "Lost" },
             "matchTime": "01:13:55",
@@ -964,7 +988,7 @@
             "imageLink": "/img/crucible/nazmoza-v-shawn.png"
          },
          {
-            "gameId": "34",
+            "gameId": "37",
             "player1": { "name": "Snowy", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Psiphicode", "score": 7, "outcome": "Lost" },
             "matchTime": "01:36:31",
@@ -972,7 +996,7 @@
             "imageLink": "/img/crucible/snowy-v-psi.png"
          },
          {
-            "gameId": "35",
+            "gameId": "38",
             "player1": { "name": "Wander", "score": 9, "outcome": "Bingo" },
             "player2": { "name": "Distortz", "score": 1, "outcome": "Lost" },
             "matchTime": "01:12:53",
@@ -980,7 +1004,7 @@
             "imageLink": "/img/crucible/wander-v-distortz.png"
          },
          {
-            "gameId": "36",
+            "gameId": "39",
             "player1": { "name": "Champ", "score": 7, "outcome": "Bingo" },
             "player2": { "name": "Harv", "score": 6, "outcome": "Lost" },
             "matchTime": "01:03:32",
@@ -988,7 +1012,7 @@
             "imageLink": "/img/crucible/champ-v-harv.png"
          },
          {
-            "gameId": "37",
+            "gameId": "40",
             "player1": { "name": "Malte", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Androisius", "score": 6, "outcome": "Lost" },
             "matchTime": "01:26:37",
@@ -996,12 +1020,20 @@
             "imageLink": "/img/crucible/malte-v-andro.png"
          },
          {
-            "gameId": "38",
+            "gameId": "41",
             "player1": { "name": "Astormyz", "score": 8, "outcome": "Majority" },
             "player2": { "name": "Kashmor", "score": 7, "outcome": "Lost" },
             "matchTime": "02:02:56",
             "vodLink": "",
             "imageLink": "/img/crucible/astormyz-v-kashmor.png"
+         },
+         {
+            "gameId": "42",
+            "player1": { "name": "Jerz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "JLegacy", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:38:00",
+            "vodLink": "",
+            "imageLink": "/img/crucible/jerz-v-j.png"
          }
       ]
    },
@@ -1010,7 +1042,7 @@
       "matches":
       [
          {
-            "gameId": "39",
+            "gameId": "43",
             "player1": { "name": "Jerz", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Burton", "score": 11, "outcome": "Lost" },
             "matchTime": "01:38:40",
@@ -1018,7 +1050,7 @@
             "imageLink": "/img/crucible/jerz-v-burton.png"
          },
          {
-            "gameId": "40",
+            "gameId": "44",
             "player1": { "name": "Maiorskills", "score": 5, "outcome": "Bingo" },
             "player2": { "name": "Loeless", "score": 5, "outcome": "Lost" },
             "matchTime": "01:02:00",
@@ -1026,7 +1058,7 @@
             "imageLink": "/img/crucible/loe-v-maior.png"
          },
          {
-            "gameId": "41",
+            "gameId": "45",
             "player1": { "name": "Cronys", "score": 13, "outcome": "Bingo" },
             "player2": { "name": "Torsadz", "score": 6, "outcome": "Lost" },
             "matchTime": "01:27:00",
@@ -1034,7 +1066,7 @@
             "imageLink": "/img/crucible/cronys-v-torsadz.png"
          },
          {
-            "gameId": "42",
+            "gameId": "46",
             "player1": { "name": "Harv", "score": 13, "outcome": "Majority" },
             "player2": { "name": "AngryPhilosopher", "score": 6, "outcome": "Lost" },
             "matchTime": "01:49:41",
@@ -1042,7 +1074,7 @@
             "imageLink": "/img/crucible/harv-v-ap.png"
          },
          {
-            "gameId": "43",
+            "gameId": "47",
             "player1": { "name": "Androisius", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Nazmoza", "score": 10, "outcome": "Lost" },
             "matchTime": "01:47:56",
@@ -1050,7 +1082,7 @@
             "imageLink": "/img/crucible/androi-v-nazmoza.png"
          },
          {
-            "gameId": "44",
+            "gameId": "48",
             "player1": { "name": "Malte", "score": 9, "outcome": "Bingo" },
             "player2": { "name": "Shaka", "score": 4, "outcome": "Lost" },
             "matchTime": "00:58:50",
@@ -1058,7 +1090,7 @@
             "imageLink": "/img/crucible/malte-v-shaka.png"
          },
          {
-            "gameId": "45",
+            "gameId": "49",
             "player1": { "name": "Snowy", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Daggar97", "score": 11, "outcome": "Lost" },
             "matchTime": "01:41:04",
@@ -1066,7 +1098,7 @@
             "imageLink": "/img/crucible/snowy-v-daggar.png"
          },
          {
-            "gameId": "46",
+            "gameId": "50",
             "player1": { "name": "Noya", "score": 11, "outcome": "Bingo" },
             "player2": { "name": "Distortz", "score": 1, "outcome": "Lost" },
             "matchTime": "01:19:00",
@@ -1074,7 +1106,7 @@
             "imageLink": "/img/crucible/noya-v-distortz.png"
          },
          {
-            "gameId": "47",
+            "gameId": "51",
             "player1": { "name": "Seljuz", "score": 8, "outcome": "Bingo" },
             "player2": { "name": "Wander", "score": 9, "outcome": "Lost" },
             "matchTime": "01:23:58",
@@ -1082,7 +1114,7 @@
             "imageLink": "/img/crucible/seljuz-v-wander.png"
          },
          {
-            "gameId": "48",
+            "gameId": "52",
             "player1": { "name": "Fits", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Lorian", "score": 7, "outcome": "Lost" },
             "matchTime": "01:31:43",
@@ -1090,7 +1122,7 @@
             "imageLink": "/img/crucible/fits-v-lorian.png"
          },
          {
-            "gameId": "49",
+            "gameId": "53",
             "player1": { "name": "Wiki", "score": 12, "outcome": "Majority" },
             "player2": { "name": "Shawn", "score": 12, "outcome": "Lost" },
             "matchTime": "02:15:00",
@@ -1098,7 +1130,7 @@
             "imageLink": "/img/crucible/wiki-v-shawn.png"
          },
          {
-            "gameId": "50",
+            "gameId": "54",
             "player1": { "name": "Psiphicode", "score": 9, "outcome": "Bingo" },
             "player2": { "name": "Champ", "score": 11, "outcome": "Lost" },
             "matchTime": "01:36:33",
@@ -1106,12 +1138,28 @@
             "imageLink": "/img/crucible/psi-v-champ.png"
          },
          {
-            "gameId": "51",
+            "gameId": "55",
             "player1": { "name": "Saetan", "score": 9, "outcome": "Bingo" },
             "player2": { "name": "Astormyz", "score": 5, "outcome": "Lost" },
             "matchTime": "01:19:30",
             "vodLink": "",
             "imageLink": "/img/crucible/saetan-v-astormzy.png"
+         },
+         {
+            "gameId": "56",
+            "player1": { "name": "JLegacy", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Kashmor", "score": 5, "outcome": "Lost" },
+            "matchTime": "01:40:29",
+            "vodLink": "",
+            "imageLink": "/img/crucible/j-v-kashmour.png"
+         },
+         {
+            "gameId": "57",
+            "player1": { "name": "Doitz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Burton", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:35:40",
+            "vodLink": "",
+            "imageLink": "/img/crucible/doitz-v-burton.png"
          }
       ]
    },
@@ -1120,15 +1168,15 @@
       "matches":
       [
          {
-            "gameId": "53",
+            "gameId": "58",
             "player1": { "name": "Androisius", "score": 13, "outcome": "Majority" },
             "player2": { "name": "AngryPhilosopher", "score": 9, "outcome": "Lost" },
             "matchTime": "01:54:27",
             "vodLink": "",
             "imageLink": "/img/crucible/ap-v-andro.png"
-         },
+         }, 
          {
-            "gameId": "54",
+            "gameId": "59",
             "player1": { "name": "EldenWiki", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Malte", "score": 7, "outcome": "Lost" },
             "matchTime": "01:45:47",
@@ -1136,7 +1184,7 @@
             "imageLink": "/img/crucible/malte-v-wiki.png"
          },
          {
-            "gameId": "55",
+            "gameId": "60",
             "player1": { "name": "Harv", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Jerz", "score": 11, "outcome": "Lost" },
             "matchTime": "01:53:04",
@@ -1144,7 +1192,7 @@
             "imageLink": "/img/crucible/harv-v-jerz.png"
          },
          {
-            "gameId": "56",
+            "gameId": "61",
             "player1": { "name": "Loeles", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Noya", "score": 11, "outcome": "Lost" },
             "matchTime": "01:36:22",
@@ -1152,7 +1200,7 @@
             "imageLink": "/img/crucible/loe-v-noya.png"
          },
          {
-            "gameId": "57",
+            "gameId": "62",
             "player1": { "name": "Cronys", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Burton", "score": 8, "outcome": "Lost" },
             "matchTime": "01:28:42",
@@ -1160,7 +1208,7 @@
             "imageLink": "/img/crucible/cronys-v-burton.png"
          },
          {
-            "gameId": "58",
+            "gameId": "63",
             "player1": { "name": "Psiphicode", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Fits", "score": 10, "outcome": "Lost" },
             "matchTime": "01:27:58",
@@ -1168,7 +1216,7 @@
             "imageLink": "/img/crucible/psi-v-fits.png"
          },
          {
-            "gameId": "59",
+            "gameId": "64",
             "player1": { "name": "Wander", "score": 11, "outcome": "Lost" },
             "player2": { "name": "Lorian", "score": 13, "outcome": "Majority" },
             "matchTime": "01:29:25",
@@ -1176,7 +1224,7 @@
             "imageLink": "/img/crucible/wander-v-lorian.png"
          },
          {
-            "gameId": "60",
+            "gameId": "65",
             "player1": { "name": "Daggar97", "score": 10, "outcome": "Bingo" },
             "player2": { "name": "Seljuz", "score": 7, "outcome": "Lost" },
             "matchTime": "01:35:02",
@@ -1184,12 +1232,44 @@
             "imageLink": "/img/crucible/daggar-v-seljuz.png"
          },
          {
-            "gameId": "61",
+            "gameId": "66",
             "player1": { "name": "Champ", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Distortz", "score": 7, "outcome": "Lost" },
             "matchTime": "01:59:29",
             "vodLink": "",
             "imageLink": "/img/crucible/champ-v-distortz.png"
+         },
+         {
+            "gameId": "67",
+            "player1": { "name": "Torsadz", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Shaka", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:43:30",
+            "vodLink": "",
+            "imageLink": ""
+         },
+         {
+            "gameId": "68",
+            "player1": { "name": "Snowy", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Maiorskills", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:43:40",
+            "vodLink": "",
+            "imageLink": "/img/crucible/snowy-v-maior.png"
+         },
+         {
+            "gameId": "69",
+            "player1": { "name": "Shawn", "score": 6, "outcome": "Bingo" },
+            "player2": { "name": "Saetan", "score": 4, "outcome": "Lost" },
+            "matchTime": "01:05:05",
+            "vodLink": "",
+            "imageLink": "/img/crucible/shawn-v-saetan.png"
+         },
+         {
+            "gameId": "70",
+            "player1": { "name": "Doitz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "JLegacy", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:25:25",
+            "vodLink": "",
+            "imageLink": "/img/crucible/doitz-v-j.png"
          }
       ]
    },
@@ -1198,7 +1278,7 @@
       "matches":
       [
          {
-            "gameId": "62",
+            "gameId": "71",
             "player1": { "name": "Torsadz", "score": 6, "outcome": "Lost" },
             "player2": { "name": "Fits", "score": 13, "outcome": "Majority" },
             "matchTime": "01:20:54",
@@ -1206,7 +1286,7 @@
             "imageLink": "/img/crucible/torsadz-v-fits.png"
          },
          {
-            "gameId": "63",
+            "gameId": "72",
             "player1": { "name": "Shaka", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Kashmor", "score": 6, "outcome": "Lost" },
             "matchTime": "01:47:47",
@@ -1214,7 +1294,7 @@
             "imageLink": "/img/crucible/shaka-v-kashmor.png"
          },
          {
-            "gameId": "64",
+            "gameId": "73",
             "player1": { "name": "Cronys", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Noya", "score": 12, "outcome": "Lost" },
             "matchTime": "01:39:58",
@@ -1222,7 +1302,7 @@
             "imageLink": "/img/crucible/cronys-v-noya.png"
          },
          {
-            "gameId": "65",
+            "gameId": "74",
             "player1": { "name": "JLegacy", "score": 8, "outcome": "Bingo" },
             "player2": { "name": "Astormyz", "score": 4, "outcome": "Lost" },
             "matchTime": "01:15:24",
@@ -1230,7 +1310,7 @@
             "imageLink": "/img/crucible/jlegacy-v-astormyz.png"
          },
          {
-            "gameId": "66",
+            "gameId": "75",
             "player1": { "name": "Loeles", "score": 5, "outcome": "Lost" },
             "player2": { "name": "Snowy", "score": 13, "outcome": "Majority" },
             "matchTime": "01:25:11",
@@ -1238,7 +1318,7 @@
             "imageLink": "/img/crucible/loe-v-snowy.png"
          },
          {
-            "gameId": "67",
+            "gameId": "76",
             "player1": { "name": "EldenWiki", "score": 6, "outcome": "Lost" },
             "player2": { "name": "Champ", "score": 13, "outcome": "Majority" },
             "matchTime": "01:28:14",
@@ -1246,7 +1326,7 @@
             "imageLink": "/img/crucible/wiki-v-champ.png"
          },
          {
-            "gameId": "68",
+            "gameId": "77",
             "player1": { "name": "Harv", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Maiorskills", "score": 6, "outcome": "Lost" },
             "matchTime": "01:32:16",
@@ -1254,7 +1334,7 @@
             "imageLink": "/img/crucible/harv-v-maior.png"
          },
          {
-            "gameId": "69",
+            "gameId": "78",
             "player1": { "name": "Seljuz", "score": 7, "outcome": "Lost" },
             "player2": { "name": "Lorian", "score": 13, "outcome": "Majority" },
             "matchTime": "01:29:03",
@@ -1262,7 +1342,7 @@
             "imageLink": "/img/crucible/seljuz-v-lorian.png"
          },
          {
-            "gameId": "70",
+            "gameId": "79",
             "player1": { "name": "Malte", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Shawn", "score": 11, "outcome": "Lost" },
             "matchTime": "01:59:44",
@@ -1270,12 +1350,36 @@
             "imageLink": "/img/crucible/malte-v-shawn.png"
          },
          {
-            "gameId": "71",
+            "gameId": "80",
             "player1": { "name": "Saetan", "score": 8, "outcome": "Bingo" },
             "player2": { "name": "AngryPhilosopher", "score": 5, "outcome": "Lost" },
             "matchTime": "01:22:47",
             "vodLink": "",
             "imageLink": "/img/crucible/saetan-v-ap.png"
+         },
+         {
+            "gameId": "81",
+            "player1": { "name": "Psiphicode", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Daggar97", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:18:00",
+            "vodLink": "",
+            "imageLink": "/img/crucible/psi-v-daggar.png"
+         },
+         {
+            "gameId": "82",
+            "player1": { "name": "Wander", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Androisius", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:24:41",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wander-v-andrio.png"
+         },
+         {
+            "gameId": "83",
+            "player1": { "name": "Jerz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Doitz", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:42:33",
+            "vodLink": "",
+            "imageLink": "/img/crucible/jerz-v-doitz.png"
          }
       ]
    },
@@ -1284,12 +1388,116 @@
       "matches":
       [
          {
-            "gameId": "52",
-            "player1": { "name": "Torsadz", "score": 5, "outcome": "Lost" },
-            "player2": { "name": "Daggar97", "score": 10, "outcome": "Bingo" },
-            "matchTime": "01:33:50",
+            "gameId": "84",
+            "player1": { "name": "Torsadz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "JLegacy", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:52:00",
             "vodLink": "",
-            "imageLink": "/img/crucible/torsadz-v-daggar97.png"
+            "imageLink": "/img/crucible/torsadz-v-jlegacy.png"
+         },
+         {
+            "gameId": "85",
+            "player1": { "name": "Shaka", "score": 11, "outcome": "Majority" },
+            "player2": { "name": "AngryPhilosopher", "score": 10, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/crucible/shaka-v-ap.png"
+         },
+         {
+            "gameId": "86",
+            "player1": { "name": "Malte", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Noya", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:16:21",
+            "vodLink": "",
+            "imageLink": "/img/crucible/malte-v-noya.png"
+         },
+         {
+            "gameId": "87",
+            "player1": { "name": "EldenWiki", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Wander", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:17:27",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wiki-v-wander.png"
+         },
+         {
+            "gameId": "88",
+            "player1": { "name": "EldenWiki", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Wander", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:17:27",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wiki-v-wander.png"
+         },
+         {
+            "gameId": "89",
+            "player1": { "name": "Daggar97", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Fits", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:26:18",
+            "vodLink": "",
+            "imageLink": "/img/crucible/daggar-v-fits.PNG"
+         },
+         {
+            "gameId": "90",
+            "player1": { "name": "Shawn", "score": 11, "outcome": "Majority" },
+            "player2": { "name": "Astormyz", "score": 6, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/crucible/shawn-v-astormyz.png"
+         },
+         {
+            "gameId": "91",
+            "player1": { "name": "Maiorskills", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Champ", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:37:28",
+            "vodLink": "",
+            "imageLink": "/img/crucible/maior-v-champ.png"
+         },
+         {
+            "gameId": "92",
+            "player1": { "name": "Loeless", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Lorian", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:48:07",
+            "vodLink": "",
+            "imageLink": "/img/crucible/loe-v-lorian.PNG"
+         },
+         {
+            "gameId": "93",
+            "player1": { "name": "Snowy", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Harv", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:25:22",
+            "vodLink": "",
+            "imageLink": "/img/crucible/snowy-v-harv.png"
+         },
+         {
+            "gameId": "94",
+            "player1": { "name": "Seljuz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Burton", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:54:31",
+            "vodLink": "",
+            "imageLink": "/img/crucible/seljuz-v-burton.png"
+         },
+         {
+            "gameId": "95",
+            "player1": { "name": "Cronys", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Psiphicode", "score": 5, "outcome": "Lost" },
+            "matchTime": "01:09:57",
+            "vodLink": "",
+            "imageLink": "/img/crucible/cronys-v-psi.png"
+         },
+         {
+            "gameId": "96",
+            "player1": { "name": "Saetan", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Kashmor", "score": 3, "outcome": "Lost" },
+            "matchTime": "01:17:07",
+            "vodLink": "",
+            "imageLink": "/img/crucible/saetan-v-kash.png"
+         },
+         {
+            "gameId": "97",
+            "player1": { "name": "Jerz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "EldenWiki", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:56:58",
+            "vodLink": "",
+            "imageLink": "/img/crucible/jerz-v-wiki.png"
          }
       ]
    },
@@ -1298,12 +1506,100 @@
       "matches":
       [
          {
-            "gameId": "72",
-            "player1": { "name": "Torsadz", "score": 13, "outcome": "Majority" },
-            "player2": { "name": "JLegacy", "score": 10, "outcome": "Lost" },
-            "matchTime": "01:52:00",
+            "gameId": "98",
+            "player1": { "name": "Torsadz", "score": 5, "outcome": "Lost" },
+            "player2": { "name": "Daggar97", "score": 10, "outcome": "Bingo" },
+            "matchTime": "01:33:50",
             "vodLink": "",
-            "imageLink": "/img/crucible/torsadz-v-jlegacy.png"
+            "imageLink": "/img/crucible/torsadz-v-daggar97.png"
+         },
+         {
+            "gameId": "99",
+            "player1": { "name": "AngryPhilosopher", "score": 7, "outcome": "Bingo" },
+            "player2": { "name": "Kashmor", "score": 1, "outcome": "Lost" },
+            "matchTime": "01:03:21",
+            "vodLink": "",
+            "imageLink": "/img/crucible/ap-v-kashmor.png"
+         },
+         {
+            "gameId": "100",
+            "player1": { "name": "Androisius", "score": 12, "outcome": "Bingo" },
+            "player2": { "name": "Astormyz", "score": 2, "outcome": "Lost" },
+            "matchTime": "01:58:59",
+            "vodLink": "",
+            "imageLink": "/img/crucible/androi-v-astormyz.png"
+         },
+         {
+            "gameId": "101",
+            "player1": { "name": "Malte", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Seljuz", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:42:01",
+            "vodLink": "",
+            "imageLink": "/img/crucible/malte-v-seljuz.png"
+         },
+         {
+            "gameId": "102",
+            "player1": { "name": "Doitz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Psiphicode", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:43:26",
+            "vodLink": "",
+            "imageLink": "/img/crucible/doitz-v-psi.png"
+         },
+         {
+            "gameId": "103",
+            "player1": { "name": "Lorian", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Champ", "score": 12, "outcome": "Lost" },
+            "matchTime": "01:48:41",
+            "vodLink": "",
+            "imageLink": "/img/crucible/lorian-v-champ.png"
+         },
+         {
+            "gameId": "104",
+            "player1": { "name": "Wander", "score": 7, "outcome": "Bingo" },
+            "player2": { "name": "Shaka", "score": 4, "outcome": "Lost" },
+            "matchTime": "01:06:44",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wander-v-shaka.png"
+         },
+         {
+            "gameId": "105",
+            "player1": { "name": "JLegacy", "score": 11, "outcome": "Majority" },
+            "player2": { "name": "Androisius", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:35:14",
+            "vodLink": "",
+            "imageLink": "/img/crucible/j-v-andrio.png"
+         },
+         {
+            "gameId": "106",
+            "player1": { "name": "Fits", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Doitz", "score": 12, "outcome": "Lost" },
+            "matchTime": "01:39:26",
+            "vodLink": "",
+            "imageLink": "/img/crucible/fits-v-doitz.png"
+         },
+         {
+            "gameId": "107",
+            "player1": { "name": "Jerz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Maiorskills", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:34:10",
+            "vodLink": "",
+            "imageLink": "/img/crucible/jerz-v-maior.png"
+         },
+         {
+            "gameId": "108",
+            "player1": { "name": "Loeless", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Harv", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:21:40",
+            "vodLink": "",
+            "imageLink": "/img/crucible/loe-v-harv.PNG"
+         },
+         {
+            "gameId": "109",
+            "player1": { "name": "Cronys", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Snowy", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:26:51",
+            "vodLink": "",
+            "imageLink": ""
          }
       ]
    },
@@ -1312,12 +1608,92 @@
       "matches":
       [
          {
-            "gameId": "73",
+            "gameId": "110",
             "player1": { "name": "Torsadz", "score": 6, "outcome": "Bingo" },
             "player2": { "name": "Astormyz", "score": 3, "outcome": "Lost" },
             "matchTime": "01:18:48",
             "vodLink": "",
             "imageLink": "/img/crucible/torsadz-v-astormyz.png"
+         },
+         {
+            "gameId": "111",
+            "player1": { "name": "Doitz", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Maiorskills", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:29:49",
+            "vodLink": "",
+            "imageLink": "/img/crucible/doitz-v-maior.png"
+         },
+         {
+            "gameId": "112",
+            "player1": { "name": "Seljuz", "score": 12, "outcome": "Majority" },
+            "player2": { "name": "Shawn", "score": 10, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/crucible/seljuz-v-shawn.png"
+         },
+         {
+            "gameId": "113",
+            "player1": { "name": "Malte", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Psiphicode", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:24:20",
+            "vodLink": "",
+            "imageLink": "/img/crucible/malte-v-psi.png"
+         },
+         {
+            "gameId": "114",
+            "player1": { "name": "Androisius", "score": 10, "outcome": "Bingo" },
+            "player2": { "name": "Astormyz", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:49:33",
+            "vodLink": "",
+            "imageLink": "/img/crucible/androi-v-storm.png"
+         },
+         {
+            "gameId": "115",
+            "player1": { "name": "Lorian", "score": 11, "outcome": "Bingo" },
+            "player2": { "name": "Daggar97", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:26:16",
+            "vodLink": "",
+            "imageLink": "/img/crucible/lorian-v-daggar.png"
+         },
+         {
+            "gameId": "116",
+            "player1": { "name": "Cronys", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Loeless", "score": 3, "outcome": "Lost" },
+            "matchTime": "00:54:12",
+            "vodLink": "",
+            "imageLink": "/img/crucible/cronys-v-loe.png"
+         },
+         {
+            "gameId": "117",
+            "player1": { "name": "Wander", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Champ", "score": 4, "outcome": "Lost" },
+            "matchTime": "00:57:19",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wander-v-champ.png"
+         },
+         {
+            "gameId": "118",
+            "player1": { "name": "EldenWiki", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Saetan", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:24:56",
+            "vodLink": "",
+            "imageLink": "/img/crucible/wiki-v-saetan.png"
+         },
+         {
+            "gameId": "119",
+            "player1": { "name": "Harv", "score": 9, "outcome": "Bingo" },
+            "player2": { "name": "Fits", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:18:30",
+            "vodLink": "",
+            "imageLink": "/img/crucible/harv-v-fits.png"
+         },
+         {
+            "gameId": "120",
+            "player1": { "name": "Snowy", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Jerz", "score": 10, "outcome": "Lost" },
+            "matchTime": "00:00:00",
+            "vodLink": "",
+            "imageLink": ""
          }
       ]
    }
