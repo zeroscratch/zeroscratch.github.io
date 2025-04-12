@@ -36,23 +36,23 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Raa",
-        "secondPlayer": "Rambler",
-        "scheduledAt": "03/30/2025 18:00:00 UTC",
-        "matchType": 0
+        "firstPlayer": "Loeless",
+        "secondPlayer": "Malte",
+        "scheduledAt": "04/12/2025 16:00:00 UTC",
+        "matchType": 2
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Dino",
-        "secondPlayer": "Helios",
-        "scheduledAt": "03/30/2025 20:00:00 UTC",
-        "matchType": 0
+        "firstPlayer": "Helios",
+        "secondPlayer": "Nartock",
+        "scheduledAt": "04/12/2025 18:00:00 UTC",
+        "matchType": 2
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Shura",
-        "secondPlayer": "NVCC Alex",
-        "scheduledAt": "03/30/2025 22:00:00 UTC",
-        "matchType": 0
+        "firstPlayer": "Snowy",
+        "secondPlayer": "Lorian",
+        "scheduledAt": "04/12/2025 22:00:00 UTC",
+        "matchType": 2
     }
 ]
