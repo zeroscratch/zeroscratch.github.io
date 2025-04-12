@@ -100,11 +100,11 @@
       },
       {
          "gameid": 2,
-         "player1": { "name": "Helios", "score": 0, "outcome": "", "division": "redmane" },
-         "player2": { "name": "Nartock", "score": 0, "outcome": "", "division": "recusant" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Helios", "score": 13, "outcome": "Helios Majority Win", "division": "redmane" },
+         "player2": { "name": "Nartock", "score": 11, "outcome": "Lost", "division": "recusant" },
+         "matchTime": "01:35:40",
+         "vodLink": "https://www.twitch.tv/videos/2430947463?t=04h23m59s",
+         "imageLink": "/img/helios-v-nartock-2.png",
          "scheduledAt": "2025-04-12T20:05:00Z"
       }
    ],
@@ -120,8 +120,8 @@
       },
       {
          "gameid": 2,
-         "player1": { "name": "Helios", "score": 0, "outcome": "", "division": "recusant" },
-         "player2": { "name": "Nartock", "score": 0, "outcome": "", "division": "recusant" },
+         "player1": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",

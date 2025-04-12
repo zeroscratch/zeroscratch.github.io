@@ -83,7 +83,7 @@
       "Longsword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 4
+         "used": 6
       },
       "Spiked Club": {
          "type": "Hammer",
@@ -380,7 +380,7 @@
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 17
+         "used": 18
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -450,7 +450,7 @@
       "Death's Poker": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 10
+         "used": 12
       },
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",

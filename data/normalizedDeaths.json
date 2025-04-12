@@ -2,12 +2,12 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "98",
+         "boss_deaths": "100",
          "player_deaths": "11",
          "ratio": ""
        },
        "Tree Sentinel": {
-         "boss_deaths": "38",
+         "boss_deaths": "39",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -22,12 +22,12 @@
          "ratio": ""
        },
        "Bols": {
-         "boss_deaths": "29",
+         "boss_deaths": "30",
          "player_deaths": "9",
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "30",
+         "boss_deaths": "31",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "70",
+         "boss_deaths": "71",
          "player_deaths": "9",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "50",
+         "boss_deaths": "52",
          "player_deaths": "13",
          "ratio": ""
        },
@@ -57,7 +57,7 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "11",
+         "boss_deaths": "13",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "68",
+         "boss_deaths": "69",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "82",
+         "boss_deaths": "83",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "93",
+         "boss_deaths": "97",
          "player_deaths": "26",
          "ratio": "" 
        },
