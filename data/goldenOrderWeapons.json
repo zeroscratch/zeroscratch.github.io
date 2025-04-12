@@ -93,7 +93,7 @@
       "Weathered Straight Sword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 9
+         "used": 11
       },
       "Chainlink Flail": {
          "type": "Flail",
@@ -395,7 +395,7 @@
       "Rosus' Axe": {
          "type": "Axe",
          "upgrade": 1,
-         "used": 7
+         "used": 8
       },
       "Dragonscale Blade": {
          "type": "Katana",
@@ -541,6 +541,11 @@
          "type": "Colossal Sword",
          "upgrade": 1,
          "used": 2
+      },
+      "Ghiza's Wheel": {
+         "type": "Colossal Weapon",
+         "upgrade": 1,
+         "used": 1
       }
    }
 }

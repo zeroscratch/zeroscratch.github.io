@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "97",
+         "boss_deaths": "98",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -12,12 +12,12 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "35",
+         "boss_deaths": "36",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "27",
+         "boss_deaths": "28",
          "player_deaths": "18",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "29",
+         "boss_deaths": "30",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -37,12 +37,12 @@
          "ratio": ""
        },
        "Godskin Apostle": {
-         "boss_deaths": "9",
+         "boss_deaths": "10",
          "player_deaths": "21",
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "69",
+         "boss_deaths": "70",
          "player_deaths": "9",
          "ratio": ""
        },
@@ -72,17 +72,17 @@
          "ratio": ""
        },
        "Rykard": {
-         "boss_deaths": "6",
+         "boss_deaths": "7",
          "player_deaths": "6",
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "6",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "80",
+         "boss_deaths": "82",
          "player_deaths": "8",
          "ratio": ""
        },
@@ -112,12 +112,12 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "19",
+         "boss_deaths": "20",
          "player_deaths": "2",
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "19",
+         "boss_deaths": "20",
          "player_deaths": "4",
          "ratio": ""
        },
