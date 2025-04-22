@@ -50,9 +50,16 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Snowy",
+        "firstPlayer": "Shura",
         "secondPlayer": "Lorian",
         "scheduledAt": "04/12/2025 22:00:00 UTC",
+        "matchType": 2
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Shura",
+        "secondPlayer": "Nexus",
+        "scheduledAt": "04/22/2025 21:00:00 UTC",
         "matchType": 2
     }
 ]
