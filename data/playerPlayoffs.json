@@ -111,21 +111,30 @@
    "match-6": [
       {
          "gameid": 1,
-         "player1": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
-         "player2": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Shura", "score": 10, "outcome": "Shura Bingo Win", "division": "recusant" },
+         "player2": { "name": "Nexus", "score": 8, "outcome": "Lost", "division": "recusant" },
+         "matchTime": "01:06:42",
+         "vodLink": "https://www.twitch.tv/videos/2439941112?t=00h22m23s",
+         "imageLink": "/img/shura-v-nexus-playoff-1.png",
          "scheduledAt": "2025-04-22T21:00:00Z"
       },
       {
          "gameid": 2,
+         "player1": { "name": "Shura", "score": 9, "outcome": "Lost", "division": "recusant" },
+         "player2": { "name": "Nexus", "score": 13, "outcome": "Nexus Majority Win", "division": "recusant" },
+         "matchTime": "01:47:13",
+         "vodLink": "https://www.twitch.tv/videos/2439941112?t=01h49m29s",
+         "imageLink": "/img/shura-v-nexus-playoff-2.png",
+         "scheduledAt": "2025-04-22T23:00:00Z"
+      },
+      {
+         "gameid": 3,
          "player1": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
          "player2": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": "2025-04-22T23:00:00Z"
+         "scheduledAt": "2025-04-23T21:00:00Z"
       }
    ]
 }
