@@ -18,7 +18,7 @@
       "Warpick": {
          "type": "Hammer",
          "upgrade": 0,
-         "used": 2
+         "used": 4
       },
       "Celebrant's Skull": {
          "type": "Great Hammer",
@@ -83,7 +83,7 @@
       "Longsword": {
          "type": "Straight Sword",
          "upgrade": 0,
-         "used": 6
+         "used": 8
       },
       "Spiked Club": {
          "type": "Hammer",
@@ -339,6 +339,11 @@
          "type": "Greatsword",
          "upgrade": 0,
          "used": 2
+      },
+      "Mace": {
+         "type": "Hammer",
+         "upgrade": 0,
+         "used": 2
       }
    },
    "Looted-Weapon": {
@@ -375,12 +380,12 @@
       "Golden Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 5
+         "used": 7
       },
       "Banished Knight's Halberd +8": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 18
+         "used": 20
       },
       "Alabaster Lord's Sword": {
          "type": "Greatsword",
@@ -490,12 +495,12 @@
       "Bloodhound's Fang": {
          "type": "Curved Greatsword",
          "upgrade": 1,
-         "used": 5
+         "used": 7
       },
       "Uchigatana": {
          "type": "Katana",
          "upgrade": 0,
-         "used": 2
+         "used": 3
       },
       "Highland Axe": {
          "type": "Axe",
@@ -545,6 +550,11 @@
       "Ghiza's Wheel": {
          "type": "Colossal Weapon",
          "upgrade": 1,
+         "used": 1
+      },
+      "Venomous Fang": {
+         "type": "Claw",
+         "upgrade": 0,
          "used": 1
       }
    }

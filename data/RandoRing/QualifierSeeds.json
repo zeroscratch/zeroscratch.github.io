@@ -6,5 +6,9 @@
    "Rauh Dawgs": {
       "player1": { "name": "Helios", "seed1Time": "01:00:00", "seed2Time": "01:00:00", "seed1Kills": 13, "seed2Kills": 4 },
       "player2": { "name": "Rambler", "seed1Time": "01:00:00", "seed2Time": "01:00:00", "seed1Kills": 13, "seed2Kills": 4 }
+   },
+   "Team-2": {
+      "player1": { "name": "Ginger", "seed1Time": "02:07:51", "seed2Time": "02:04:25", "seed1Kills": 0, "seed2Kills": 0 },
+      "player2": { "name": "J", "seed1Time": "01:56:18", "seed2Time": "02:23:01", "seed1Kills": 0, "seed2Kills": 0 }
    }
 }
