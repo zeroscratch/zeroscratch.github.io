@@ -375,7 +375,7 @@
       "Dragon Halberd": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 6
+         "used": 7
       },
       "Golden Halberd": {
          "type": "Halberd",
@@ -455,7 +455,7 @@
       "Death's Poker": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 12
+         "used": 13
       },
       "Moonrithyll's Knight Sword": {
          "type": "Colossal Sword",
