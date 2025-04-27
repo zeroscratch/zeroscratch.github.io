@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "104",
+         "boss_deaths": "105",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -12,12 +12,12 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "38",
+         "boss_deaths": "39",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "30",
+         "boss_deaths": "31",
          "player_deaths": "18",
          "ratio": ""
        },
@@ -27,7 +27,7 @@
          "ratio": ""
        },
        "Fallingstar Beast": {
-         "boss_deaths": "32",
+         "boss_deaths": "33",
          "player_deaths": "10",
          "ratio": ""
        },
@@ -42,7 +42,7 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "74",
+         "boss_deaths": "75",
          "player_deaths": "9",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "72",
+         "boss_deaths": "73",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -77,7 +77,7 @@
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "25",
+         "boss_deaths": "26",
          "player_deaths": "6",
          "ratio": ""
        },
@@ -92,7 +92,7 @@
          "ratio": ""
        },
        "Nights Cavs": {
-         "boss_deaths": "73",
+         "boss_deaths": "75",
          "player_deaths": "4",
          "ratio": ""
        },
@@ -117,7 +117,7 @@
          "ratio": ""
        },
        "Rune Bear": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "4",
          "ratio": ""
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "22",
+         "boss_deaths": "23",
          "player_deaths": "3",
          "ratio": ""
        },
