@@ -149,11 +149,11 @@
       },
       {
          "gameid": 2,
-         "player1": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
-         "player2": { "name": "Nartock", "score": 0, "outcome": "", "division": "recusant" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Nexus", "score": 6, "outcome": "Lost", "division": "recusant" },
+         "player2": { "name": "Nartock", "score": 13, "outcome": "Nartock Majority Win", "division": "recusant" },
+         "matchTime": "01:10:34",
+         "vodLink": "https://www.twitch.tv/videos/2444244332?t=02h00m38s",
+         "imageLink": "/img/nexus-v-nartock-playoff-2.png",
          "scheduledAt": "2025-04-27T19:40:00Z"
       }
    ]

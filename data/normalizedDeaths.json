@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "105",
+         "boss_deaths": "107",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -67,7 +67,7 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "73",
+         "boss_deaths": "75",
          "player_deaths": "1",
          "ratio": ""
        },
@@ -82,7 +82,7 @@
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "87",
+         "boss_deaths": "88",
          "player_deaths": "9",
          "ratio": ""
        },
@@ -97,7 +97,7 @@
          "ratio": ""
        },
        "Avatars": {
-         "boss_deaths": "99",
+         "boss_deaths": "100",
          "player_deaths": "27",
          "ratio": "" 
        },
@@ -127,7 +127,7 @@
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "23",
+         "boss_deaths": "24",
          "player_deaths": "3",
          "ratio": ""
        },

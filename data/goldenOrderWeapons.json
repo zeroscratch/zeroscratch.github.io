@@ -278,7 +278,7 @@
       "Battle Axe": {
          "type": "Axe",
          "upgrade": 0,
-         "used": 2
+         "used": 4
       },
       "Shamshir": {
          "type": "Dagger",
@@ -410,7 +410,7 @@
       "Helphen's Steeple": {
          "type": "Greatsword",
          "upgrade": 1,
-         "used": 2
+         "used": 4
       },
       "Sword of Milos": {
          "type": "Greatsword",
