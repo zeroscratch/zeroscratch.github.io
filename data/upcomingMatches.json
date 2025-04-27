@@ -68,5 +68,12 @@
         "secondPlayer": "Nexus",
         "scheduledAt": "04/23/2025 21:00:00 UTC",
         "matchType": 2
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Nexus",
+        "secondPlayer": "Nartock",
+        "scheduledAt": "04/27/2025 18:00:00 UTC",
+        "matchType": 2
     }
 ]

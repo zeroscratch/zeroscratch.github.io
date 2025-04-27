@@ -136,5 +136,25 @@
          "imageLink": "/img/shura-v-nexus-playoff-3.png",
          "scheduledAt": "2025-04-23T21:00:00Z"
       }
+   ],
+   "match-7": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Nartock", "score": 0, "outcome": "", "division": "recusant" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-04-27T18:00:00Z"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Nexus", "score": 0, "outcome": "", "division": "recusant" },
+         "player2": { "name": "Nartock", "score": 0, "outcome": "", "division": "recusant" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-04-27T20:00:00Z"
+      }
    ]
 }
