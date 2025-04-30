@@ -75,5 +75,12 @@
         "secondPlayer": "Nartock",
         "scheduledAt": "04/27/2025 18:00:00 UTC",
         "matchType": 2
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Helios",
+        "secondPlayer": "Shura",
+        "scheduledAt": "05/02/2025 21:00:00 UTC",
+        "matchType": 2
     }
 ]

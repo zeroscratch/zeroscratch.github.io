@@ -156,5 +156,25 @@
          "imageLink": "/img/nexus-v-nartock-playoff-2.png",
          "scheduledAt": "2025-04-27T19:40:00Z"
       }
+   ],
+   "match-8": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Helios", "score": 0, "outcome": "", "division": "redmane" },
+         "player2": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-05-02T21:00:00Z"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Helios", "score": 0, "outcome": "", "division": "redmane" },
+         "player2": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "2025-05-03T18:00:00Z"
+      }
    ]
 }
