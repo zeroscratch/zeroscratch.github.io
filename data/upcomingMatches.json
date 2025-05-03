@@ -82,5 +82,12 @@
         "secondPlayer": "Shura",
         "scheduledAt": "05/03/2025 15:00:00 UTC",
         "matchType": 2
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Snowy",
+        "secondPlayer": "Malte",
+        "scheduledAt": "05/03/2025 19:00:00 UTC",
+        "matchType": 2
     }
 ]
