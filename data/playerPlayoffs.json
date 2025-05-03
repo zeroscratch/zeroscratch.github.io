@@ -169,11 +169,11 @@
       },
       {
          "gameid": 2,
-         "player1": { "name": "Helios", "score": 0, "outcome": "", "division": "redmane" },
-         "player2": { "name": "Shura", "score": 0, "outcome": "", "division": "recusant" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Helios", "score": 11, "outcome": "Lost", "division": "redmane" },
+         "player2": { "name": "Shura", "score": 13, "outcome": "Shura Majority Win", "division": "recusant" },
+         "matchTime": "01:35:28",
+         "vodLink": "https://www.twitch.tv/videos/2449254687?t=00h22m55s",
+         "imageLink": "/img/shura-v-helios-playoff-2.png",
          "scheduledAt": "2025-05-03T15:00:00Z"
       }
    ]
