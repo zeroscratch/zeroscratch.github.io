@@ -138,7 +138,7 @@
       "Vulgar Militia Saw": {
          "type": "Halberd",
          "upgrade": 0,
-         "used": 1
+         "used": 3
       },
       "Star Fist": {
          "type": "Fist",
@@ -278,7 +278,7 @@
       "Battle Axe": {
          "type": "Axe",
          "upgrade": 0,
-         "used": 4
+         "used": 5
       },
       "Shamshir": {
          "type": "Dagger",
@@ -344,6 +344,11 @@
          "type": "Hammer",
          "upgrade": 0,
          "used": 2
+      },
+      "Gargoyle's Twinblade": {
+         "type": "Twinblade",
+         "upgrade": 0,
+         "used": 1
       }
    },
    "Looted-Weapon": {
@@ -405,7 +410,7 @@
       "Dragonscale Blade": {
          "type": "Katana",
          "upgrade": 1,
-         "used": 8
+         "used": 11
       },
       "Helphen's Steeple": {
          "type": "Greatsword",
@@ -535,7 +540,7 @@
       "Commander Standard": {
          "type": "Halberd",
          "upgrade": 1,
-         "used": 1
+         "used": 2
       },
       "Rotten Staff": {
          "type": "Colossal Weapon",

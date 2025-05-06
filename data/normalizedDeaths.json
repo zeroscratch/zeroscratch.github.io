@@ -2,7 +2,7 @@
    "divisions": {
      "golder_order": {
        "Margit, The Fell Omen": {
-         "boss_deaths": "107",
+         "boss_deaths": "109",
          "player_deaths": "11",
          "ratio": ""
        },
@@ -12,12 +12,12 @@
          "ratio": ""
        },
        "Agheel": {
-         "boss_deaths": "39",
+         "boss_deaths": "40",
          "player_deaths": "1",
          "ratio": ""
        },
        "Godskin Noble": {
-         "boss_deaths": "31",
+         "boss_deaths": "32",
          "player_deaths": "18",
          "ratio": ""
        },
@@ -42,12 +42,12 @@
          "ratio": ""
        },
        "Radahn": {
-         "boss_deaths": "75",
+         "boss_deaths": "78",
          "player_deaths": "9",
          "ratio": ""
        },
        "Draconic Tree Sentinel": {
-         "boss_deaths": "55",
+         "boss_deaths": "59",
          "player_deaths": "13",
          "ratio": ""
        },
@@ -57,7 +57,7 @@
          "ratio": ""
        },
        "Goldfrey": {
-         "boss_deaths": "13",
+         "boss_deaths": "14",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -67,27 +67,27 @@
          "ratio": ""
        },
        "Godrick The Grafted": {
-         "boss_deaths": "75",
+         "boss_deaths": "77",
          "player_deaths": "1",
          "ratio": ""
        },
        "Rykard": {
-         "boss_deaths": "7",
+         "boss_deaths": "8",
          "player_deaths": "6",
          "ratio": ""
        },
        "Crucible Misbegotten Duo": {
-         "boss_deaths": "26",
+         "boss_deaths": "27",
          "player_deaths": "6",
          "ratio": ""
        },
        "Red Wolf of Radagon": {
-         "boss_deaths": "88",
+         "boss_deaths": "91",
          "player_deaths": "9",
          "ratio": ""
        },
        "Rennala": {
-         "boss_deaths": "37",
+         "boss_deaths": "40",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -102,8 +102,8 @@
          "ratio": "" 
        },
        "Abductor Virgins": {
-         "boss_deaths": "26",
-         "player_deaths": "12",
+         "boss_deaths": "27",
+         "player_deaths": "13",
          "ratio": ""
        },
        "Tree Sentinel Duo": {
@@ -112,7 +112,7 @@
          "ratio": ""
        },
        "Ekzykes": {
-         "boss_deaths": "21",
+         "boss_deaths": "22",
          "player_deaths": "2",
          "ratio": ""
        },
@@ -122,12 +122,12 @@
          "ratio": ""
        },
        "Wormface": {
-         "boss_deaths": "18",
+         "boss_deaths": "19",
          "player_deaths": "8",
          "ratio": ""
        },
        "Loretta": {
-         "boss_deaths": "24",
+         "boss_deaths": "25",
          "player_deaths": "3",
          "ratio": ""
        },
@@ -142,12 +142,12 @@
          "ratio": ""
        },
        "Black Blade Kindred": {
-         "boss_deaths": "15",
-         "player_deaths": "20",
+         "boss_deaths": "16",
+         "player_deaths": "21",
          "ratio": ""
        },
         "Morgott, The Omen King": {
-          "boss_deaths": "3",
+          "boss_deaths": "4",
           "player_deaths": "0",
           "ratio": ""
        }
