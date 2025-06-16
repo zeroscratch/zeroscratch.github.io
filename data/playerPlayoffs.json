@@ -5,7 +5,7 @@
          "player1": { "name": "Nartock", "score": 10, "outcome": "Nartock Bingo Win", "division": "recusant" },
          "player2": { "name": "Asym", "score": 9, "outcome": "Lost" , "division": "redmane"},
          "matchTime": "01:24:44",
-         "vodLink": "https://www.twitch.tv/videos/2424965203?t=00h23m46s",
+         "vodLink": "https://youtu.be/9arl1szKycE?si=HrDt7HOXdB1-2gJq",
          "imageLink": "/img/nartock-v-asym-1.png",
          "scheduledAt": "2025-04-05T20:00:00Z"
       },
@@ -14,7 +14,7 @@
          "player1": { "name": "Nartock", "score": 13, "outcome": "Nartock Majority Win", "division": "recusant"},
          "player2": { "name": "Asym", "score": 8, "outcome": "Lost", "division": "redmane" },
          "matchTime": "01:25:29",
-         "vodLink": "https://www.twitch.tv/videos/2424965203?t=02h14m12s",
+         "vodLink": "https://youtu.be/9arl1szKycE?si=le_p_vKwK-rcnLEd&t=5658",
          "imageLink": "/img/nartock-v-asym-2.png",
          "scheduledAt": "2025-04-05T22:00:00Z"
       }
@@ -25,7 +25,7 @@
          "player1": { "name": "Helios", "score": 13, "outcome": "Helios Majority Win", "division": "redmane" },
          "player2": { "name": "Stocko", "score": 11, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:35:01",
-         "vodLink": "https://www.twitch.tv/videos/2425704380?t=00h30m45s",
+         "vodLink": "https://youtu.be/ffp1NLJP4UQ?si=eZflCt6ElQvwycQ0",
          "imageLink": "/img/helios-v-stocko-1.png",
          "scheduledAt": "2025-04-06T16:00:00Z"
       },
@@ -34,7 +34,7 @@
          "player1": { "name": "Helios", "score": 13, "outcome": "Helios Majority Win", "division": "redmane" },
          "player2": { "name": "Stocko", "score": 9, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:32:15",
-         "vodLink": "https://www.twitch.tv/videos/2425704380?t=02h29m42s",
+         "vodLink": "https://youtu.be/ffp1NLJP4UQ?si=MDTsflYcS12gpfTf&t=6083",
          "imageLink": "/img/helios-v-stocko-2.png",
          "scheduledAt": "2025-04-06T18:00:00Z"
       }
@@ -74,7 +74,7 @@
          "player1": { "name": "Nexus", "score": 13, "outcome": "Nexus Majority Win", "division": "recusant" },
          "player2": { "name": "Strump", "score": 11, "outcome": "Lost", "division": "redmane" },
          "matchTime": "01:40:35",
-         "vodLink": "https://www.twitch.tv/videos/2427536382?t=02h56m34s",
+         "vodLink": "https://youtu.be/TNgGGxtVCBg?si=KLVnU5SICq6G29-Y",
          "imageLink": "/img/nexus-v-strump-1.png",
          "scheduledAt": "2025-04-08T20:30:00Z"
       },
@@ -83,7 +83,7 @@
          "player1": { "name": "Nexus", "score": 9, "outcome": "Nexus Bingo Win", "division": "recusant" },
          "player2": { "name": "Strump", "score": 2, "outcome": "Lost", "division": "redmane" },
          "matchTime": "00:57:59",
-         "vodLink": "https://www.twitch.tv/videos/2427536382?t=05h04m07s",
+         "vodLink": "https://youtu.be/TNgGGxtVCBg?si=GpOusW6UQxdfwEMJ&t=6571",
          "imageLink": "/img/nexus-v-strump-2.png",
          "scheduledAt": "2025-04-08T22:30:00Z"
       }
