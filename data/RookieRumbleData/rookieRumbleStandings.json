@@ -1,0 +1,47 @@
+{
+   "Player 1": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "victory":
+      [
+
+      ]
+   },
+   "Player 2": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "victory":
+      [
+
+      ]
+   },
+   "Player 3": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "victory":
+      [
+         
+      ]
+   }
+}
