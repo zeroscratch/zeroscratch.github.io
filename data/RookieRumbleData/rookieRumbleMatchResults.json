@@ -1,0 +1,23 @@
+[
+   { 
+      "week": 1,
+      "matches":
+      [
+         {  "gameId": 1, 
+            "player1": { "name": "TurtleBeard", "score": 9, "outcome": "Bingo" }, 
+            "player2": { "name": "Thomas", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:26:46", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Thomas-v-TurtleBeard-Week1.png"
+         },
+         {
+            "gameId": 2,
+            "player1": { "name": "Void", "score": 9, "outcome": "Bingo" },
+            "player2": { "name": "Alenkor", "score": 1, "outcome": "Lost" },
+            "matchTime": "01:04:48",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Alenkor-v-Vord-Week1.png"
+         }
+      ]
+   }
+]

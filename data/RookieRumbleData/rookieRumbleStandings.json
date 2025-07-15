@@ -1,5 +1,5 @@
 {
-   "Player 1": {
+   "PhileyFinch": {
       "standing": 0,
       "wins": 0,
       "losses": 0,
@@ -7,14 +7,14 @@
       "lines": 0,
       "games": 0,
       "wr": "0%",
-      "twitch": "",
-      "qualified": "no",
+      "twitch": "https://www.twitch.tv/phileyfinch",
+      "qualified": "maybe",
       "victory":
       [
 
       ]
    },
-   "Player 2": {
+   "Samantha Teapot": {
       "standing": 0,
       "wins": 0,
       "losses": 0,
@@ -22,14 +22,29 @@
       "lines": 0,
       "games": 0,
       "wr": "0%",
-      "twitch": "",
-      "qualified": "no",
+      "twitch": "https://www.twitch.tv/samanthateapot",
+      "qualified": "maybe",
       "victory":
       [
 
       ]
    },
-   "Player 3": {
+   "TurtleBeard": {
+      "standing": 0,
+      "wins": 1,
+      "losses": 0,
+      "squares": 9,
+      "lines": 1,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/turtlebeard",
+      "qualified": "maybe",
+      "victory":
+      [
+         "Thomas"
+      ]
+   },
+   "Dyrax": {
       "standing": 0,
       "wins": 0,
       "losses": 0,
@@ -38,7 +53,277 @@
       "games": 0,
       "wr": "0%",
       "twitch": "",
-      "qualified": "no",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "KC_Brazos": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/kc_brazos",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "BlazeTheGabite": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Jxxman15167": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Alenkor": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 1,
+      "squares": 1,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/alenkor94",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "AngryPhilosopher": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "AmplSi": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/amplsi",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Thomas": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 1,
+      "squares": 6,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/pluryl",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Jibbe": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Vord": {
+      "standing": 0,
+      "wins": 1,
+      "losses": 0,
+      "squares": 9,
+      "lines": 1,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/vord_sr",
+      "qualified": "maybe",
+      "victory":
+      [
+         "Alenkor"
+      ]
+   },
+   "Vexphile": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/vexphile",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Lemon": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/l3m0_n",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Chewy": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Spfunkm": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Vakrash": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/vakrash",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Steakslyons": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Azdomiel": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/azdomiel",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Belbo786": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/belbo786",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Koppa Yaeger": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
       "victory":
       [
          

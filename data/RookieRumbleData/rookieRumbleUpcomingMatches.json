@@ -1,0 +1,30 @@
+[
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Lemon",
+        "secondPlayer": "Chewy",
+        "scheduledAt": "07/16/2025 00:30:00 UTC",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "TurtleBeard",
+        "secondPlayer": "Dyrax",
+        "scheduledAt": "07/16/2025 16:00:00 UTC",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Thomas",
+        "secondPlayer": "Jibbe",
+        "scheduledAt": "07/16/2025 17:00:00 UTC",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "BlazeTheGabite",
+        "secondPlayer": "PhileyFinch",
+        "scheduledAt": "07/17/2025 02:00:00 UTC",
+        "matchType": 1
+    }
+]
