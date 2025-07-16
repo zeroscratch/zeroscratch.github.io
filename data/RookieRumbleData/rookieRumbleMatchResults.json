@@ -20,7 +20,7 @@
          },
          {
             "gameId": 2,
-            "player1": { "name": "Lemon", "score": 10, "outcome": "Bingo" },
+            "player1": { "name": "Lemon", "score": 8, "outcome": "Bingo" },
             "player2": { "name": "Chewy", "score": 2, "outcome": "Lost" },
             "matchTime": "01:01:04",
             "vodLink": "",
