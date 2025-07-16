@@ -4,6 +4,7 @@
         "firstPlayer": "Lemon",
         "secondPlayer": "Chewy",
         "scheduledAt": "07/16/2025 00:30:00 UTC",
+        "ref": "Wiki",
         "matchType": 1
     },
     {
@@ -11,6 +12,7 @@
         "firstPlayer": "TurtleBeard",
         "secondPlayer": "Dyrax",
         "scheduledAt": "07/16/2025 16:00:00 UTC",
+        "ref": "BlazeTheGabite",
         "matchType": 1
     },
     {
@@ -18,6 +20,7 @@
         "firstPlayer": "Thomas",
         "secondPlayer": "Jibbe",
         "scheduledAt": "07/16/2025 17:00:00 UTC",
+        "ref": "Helios",
         "matchType": 1
     },
     {
@@ -25,6 +28,7 @@
         "firstPlayer": "BlazeTheGabite",
         "secondPlayer": "PhileyFinch",
         "scheduledAt": "07/17/2025 02:00:00 UTC",
+        "ref": "Lemon",
         "matchType": 1
     },
     {
@@ -32,6 +36,7 @@
         "firstPlayer": "Vakrash",
         "secondPlayer": "Lemon",
         "scheduledAt": "07/17/2025 17:00:00 UTC",
+        "ref": "Rambler",
         "matchType": 1
     },
     {
@@ -39,6 +44,23 @@
         "firstPlayer": "Vexphile",
         "secondPlayer": "Dyrax",
         "scheduledAt": "07/17/2025 19:00:00 UTC",
+        "ref": "Wiki",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "AngryPhilosopher",
+        "secondPlayer": "AmplSi",
+        "scheduledAt": "07/18/2025 17:30:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Spfunkm",
+        "secondPlayer": "Vakrash",
+        "scheduledAt": "07/18/2025 21:00:00 UTC",
+        "ref": "Cronys02",
         "matchType": 1
     }
 ]

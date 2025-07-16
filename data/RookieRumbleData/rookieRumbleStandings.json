@@ -32,8 +32,8 @@
    "TurtleBeard": {
       "standing": 0,
       "wins": 1,
-      "losses": 0,
-      "squares": 9,
+      "losses": 1,
+      "squares": 20,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -46,17 +46,17 @@
    },
    "Dyrax": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "squares": 0,
+      "squares": 13,
       "lines": 0,
       "games": 0,
       "wr": "0%",
-      "twitch": "",
+      "twitch": "https://www.twitch.tv/dyrax999",
       "qualified": "maybe",
       "victory":
       [
-         
+         "TurtleBeard"
       ]
    },
    "KC_Brazos": {
@@ -315,6 +315,36 @@
       ]
    },
    "Koppa Yaeger": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Vegard": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 0,
+      "squares": 0,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "maybe",
+      "victory":
+      [
+         
+      ]
+   },
+   "Falconraven": {
       "standing": 0,
       "wins": 0,
       "losses": 0,

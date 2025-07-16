@@ -19,12 +19,20 @@
             "imageLink": "/img/rookie/Alenkor-v-Vord-Week1.png"
          },
          {
-            "gameId": 2,
+            "gameId": 3,
             "player1": { "name": "Lemon", "score": 8, "outcome": "Bingo" },
             "player2": { "name": "Chewy", "score": 2, "outcome": "Lost" },
             "matchTime": "01:01:04",
             "vodLink": "",
             "imageLink": "/img/rookie/Chewy-v-Lemon-Week1.png"
+         },
+         {
+            "gameId": 4,
+            "player1": { "name": "Dyrax", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "TurtleBeard", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:51:12",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Dyrax-v-TurtleBeard-Week1.png"
          }
       ]
    }
