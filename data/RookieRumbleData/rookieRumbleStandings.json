@@ -2,8 +2,8 @@
    "PhileyFinch": {
       "standing": 0,
       "wins": 0,
-      "losses": 0,
-      "squares": 0,
+      "losses": 1,
+      "squares": 3,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -76,9 +76,9 @@
    },
    "BlazeTheGabite": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "squares": 0,
+      "squares": 13,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -86,7 +86,7 @@
       "qualified": "maybe",
       "victory":
       [
-         
+         "PhileyFinch"
       ]
    },
    "Jxxman15167": {
