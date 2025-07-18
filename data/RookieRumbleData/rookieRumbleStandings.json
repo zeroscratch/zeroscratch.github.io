@@ -243,8 +243,8 @@
    "Space Patrol Funk Machine": {
       "standing": 0,
       "wins": 0,
-      "losses": 0,
-      "squares": 0,
+      "losses": 1,
+      "squares": 6,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -257,17 +257,17 @@
    },
    "Vakrash": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 1,
-      "squares": 10,
-      "lines": 0,
+      "squares": 20,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vakrash",
       "qualified": "maybe",
       "victory":
       [
-         
+         "Space Patrol Funk Machine"
       ]
    },
    "Steakslyons": {
