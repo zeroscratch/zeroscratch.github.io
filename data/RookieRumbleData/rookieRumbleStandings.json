@@ -47,8 +47,8 @@
    "Dyrax": {
       "standing": 0,
       "wins": 1,
-      "losses": 0,
-      "squares": 13,
+      "losses": 1,
+      "squares": 20,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -74,7 +74,7 @@
          
       ]
    },
-   "BlazeTheGabite": {
+   "BlazeTheGible": {
       "standing": 0,
       "wins": 1,
       "losses": 0,
@@ -196,9 +196,9 @@
    },
    "Vexphile": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "squares": 0,
+      "squares": 13,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -206,14 +206,14 @@
       "qualified": "maybe",
       "victory":
       [
-         
+         "Dyrax"
       ]
    },
    "Lemon": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "squares": 8,
+      "squares": 21,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -221,7 +221,8 @@
       "qualified": "maybe",
       "victory":
       [
-         
+         "Chewy",
+         "Vakrash"
       ]
    },
    "Chewy": {
@@ -257,8 +258,8 @@
    "Vakrash": {
       "standing": 0,
       "wins": 0,
-      "losses": 0,
-      "squares": 0,
+      "losses": 1,
+      "squares": 10,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -277,7 +278,7 @@
       "lines": 0,
       "games": 0,
       "wr": "0%",
-      "twitch": "",
+      "twitch": "https://www.twitch.tv/steakslyons",
       "qualified": "maybe",
       "victory":
       [

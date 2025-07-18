@@ -44,11 +44,27 @@
          },
          {
             "gameId": 6,
-            "player1": { "name": "BlazeTheGabite", "score": 13, "outcome": "Majority" },
+            "player1": { "name": "BlazeTheGible", "score": 13, "outcome": "Majority" },
             "player2": { "name": "PhileyFinch", "score": 3, "outcome": "Lost" },
             "matchTime": "01:33:39",
             "vodLink": "",
             "imageLink": "/img/rookie/Blaze-v-Finch-Week1.png"
+         },
+         {
+            "gameId": 7,
+            "player1": { "name": "Lemon", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Vakrash", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:38:10",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Lemon-v-Vakrash-Week1.png"
+         },
+         {
+            "gameId": 8,
+            "player1": { "name": "Vexphile", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Dyrax", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:36:20",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vex-v-Dyrax-Week1.png"
          }
       ]
    }

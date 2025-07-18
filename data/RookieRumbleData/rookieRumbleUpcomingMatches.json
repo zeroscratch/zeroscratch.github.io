@@ -12,7 +12,7 @@
         "firstPlayer": "TurtleBeard",
         "secondPlayer": "Dyrax",
         "scheduledAt": "07/16/2025 16:00:00 UTC",
-        "ref": "BlazeTheGabite",
+        "ref": "BlazeTheGible",
         "matchType": 1
     },
     {
@@ -25,7 +25,7 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "BlazeTheGabite",
+        "firstPlayer": "BlazeTheGible",
         "secondPlayer": "PhileyFinch",
         "scheduledAt": "07/17/2025 04:00:00 UTC",
         "ref": "Lemon",
@@ -52,7 +52,7 @@
         "firstPlayer": "AngryPhilosopher",
         "secondPlayer": "AmplSi",
         "scheduledAt": "07/18/2025 17:30:00 UTC",
-        "ref": "Open",
+        "ref": "Cronys02",
         "matchType": 1
     },
     {
@@ -61,6 +61,102 @@
         "secondPlayer": "Vakrash",
         "scheduledAt": "07/18/2025 21:00:00 UTC",
         "ref": "Cronys02",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Steakslyons",
+        "secondPlayer": "Azdomiel",
+        "scheduledAt": "07/18/2025 22:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "KC_Brazos",
+        "secondPlayer": "BlazeTheGible",
+        "scheduledAt": "07/19/2025 02:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "PhileyFinch",
+        "secondPlayer": "Samantha Teapot",
+        "scheduledAt": "07/19/2025 08:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Belbo786",
+        "secondPlayer": "Azdomiel",
+        "scheduledAt": "07/19/2025 11:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Spfunkm",
+        "secondPlayer": "Samantha Teapot",
+        "scheduledAt": "07/19/2025 14:30:00 UTC",
+        "ref": "Shura",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Falconraven",
+        "secondPlayer": "Vegard",
+        "scheduledAt": "07/19/2025 17:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Chewy",
+        "secondPlayer": "Jibbe",
+        "scheduledAt": "07/19/2025 18:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Vord",
+        "secondPlayer": "Vexphile",
+        "scheduledAt": "07/19/2025 19:00:00 UTC",
+        "ref": "Jay",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Belbo786",
+        "secondPlayer": "Koppa Yaeger",
+        "scheduledAt": "07/19/2025 21:30:00 UTC",
+        "ref": "Wiki",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Jxxman15167",
+        "secondPlayer": "Alenkor",
+        "scheduledAt": "07/20/2025 04:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "KC_Brazos",
+        "secondPlayer": "Steakslyons",
+        "scheduledAt": "07/20/2025 16:00:00 UTC",
+        "ref": "Cronys02",
+        "matchType": 1
+    },
+    {
+        "title": "Upcoming Match",
+        "firstPlayer": "Jxxman15167",
+        "secondPlayer": "AmplSi",
+        "scheduledAt": "07/20/2025 21:00:00 UTC",
+        "ref": "Open",
         "matchType": 1
     }
 ]
