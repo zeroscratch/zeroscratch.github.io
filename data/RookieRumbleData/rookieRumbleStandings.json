@@ -121,24 +121,24 @@
    },
    "AngryPhilosopher": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "squares": 0,
-      "lines": 0,
+      "squares": 8,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "",
       "qualified": "maybe",
       "victory":
       [
-         
+         "AmplSi"
       ]
    },
    "AmplSi": {
       "standing": 0,
       "wins": 0,
-      "losses": 0,
-      "squares": 0,
+      "losses": 1,
+      "squares": 4,
       "lines": 0,
       "games": 0,
       "wr": "0%",

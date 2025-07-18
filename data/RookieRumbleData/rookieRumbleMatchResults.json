@@ -65,6 +65,14 @@
             "matchTime": "01:36:20",
             "vodLink": "",
             "imageLink": "/img/rookie/Vex-v-Dyrax-Week1.png"
+         },
+         {
+            "gameId": 9,
+            "player1": { "name": "AngryPhilosopher", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "AmplSi", "score": 4, "outcome": "Lost" },
+            "matchTime": "01:07:56",
+            "vodLink": "",
+            "imageLink": "/img/rookie/AP-v-AmplSi-Week1.png"
          }
       ]
    }
