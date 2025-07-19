@@ -166,17 +166,18 @@
    },
    "Jibbe": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "squares": 9,
-      "lines": 1,
+      "squares": 20,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/jibbebot",
       "qualified": "maybe",
       "victory":
       [
-         "Thomas"
+         "Thomas",
+         "Chewy"
       ]
    },
    "Vord": {
@@ -228,8 +229,8 @@
    "Chewy": {
       "standing": 0,
       "wins": 0,
-      "losses": 1,
-      "squares": 2,
+      "losses": 2,
+      "squares": 5,
       "lines": 0,
       "games": 0,
       "wr": "0%",
