@@ -105,14 +105,6 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Falconraven",
-        "secondPlayer": "Vegard",
-        "scheduledAt": "07/19/2025 17:00:00 UTC",
-        "ref": "Open",
-        "matchType": 1
-    },
-    {
-        "title": "Upcoming Match",
         "firstPlayer": "Chewy",
         "secondPlayer": "Jibbe",
         "scheduledAt": "07/19/2025 18:00:00 UTC",

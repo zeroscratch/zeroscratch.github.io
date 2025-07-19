@@ -89,6 +89,22 @@
             "matchTime": "02:00:00",
             "vodLink": "",
             "imageLink": "/img/rookie/Azdomiel-v-Steak-Week1.png"
+         },
+         {
+            "gameId": 12,
+            "player1": { "name": "PhileyFinch", "score": 6, "outcome": "Bingo" },
+            "player2": { "name": "Samantha Teapot", "score": 0, "outcome": "Lost" },
+            "matchTime": "01:12:59",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Finch-v-Samantha-Week1.png"
+         },
+         {
+            "gameId": 13,
+            "player1": { "name": "Belbo", "score": 7, "outcome": "Majority" },
+            "player2": { "name": "Azdomiel", "score": 5, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Belbo-v-Azdomiel-Week1.png"
          }
       ]
    }

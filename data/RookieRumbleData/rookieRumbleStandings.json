@@ -1,23 +1,23 @@
 {
    "PhileyFinch": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 1,
-      "squares": 3,
-      "lines": 0,
+      "squares": 9,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/phileyfinch",
       "qualified": "maybe",
       "victory":
       [
-
+         "Samantha Teapot"
       ]
    },
    "Samantha Teapot": {
       "standing": 0,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "squares": 0,
       "lines": 0,
       "games": 0,
@@ -288,8 +288,8 @@
    "Azdomiel": {
       "standing": 0,
       "wins": 0,
-      "losses": 1,
-      "squares": 4,
+      "losses": 2,
+      "squares": 9,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -302,9 +302,9 @@
    },
    "Belbo786": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "squares": 0,
+      "squares": 7,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -312,28 +312,13 @@
       "qualified": "maybe",
       "victory":
       [
-         
-      ]
-   },
-   "Koppa Yaeger": {
-      "standing": 0,
-      "wins": 0,
-      "losses": 0,
-      "squares": 0,
-      "lines": 0,
-      "games": 0,
-      "wr": "0%",
-      "twitch": "",
-      "qualified": "maybe",
-      "victory":
-      [
-         
+         "Azdomiel"
       ]
    },
    "Vegard": {
       "standing": 0,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "squares": 0,
       "lines": 0,
       "games": 0,
@@ -347,7 +332,7 @@
    },
    "Falconraven": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
       "squares": 0,
       "lines": 0,
@@ -357,7 +342,7 @@
       "qualified": "maybe",
       "victory":
       [
-         
+         "Vegard"
       ]
    }
 }
