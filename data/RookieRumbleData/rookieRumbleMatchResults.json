@@ -77,10 +77,18 @@
          {
             "gameId": 10,
             "player1": { "name": "Vakrash", "score": 10, "outcome": "Bingo" },
-            "player2": { "name": "AmplSi", "score": 6, "outcome": "Lost" },
+            "player2": { "name": "Spfunkm", "score": 6, "outcome": "Lost" },
             "matchTime": "01:12:12",
             "vodLink": "",
             "imageLink": "/img/rookie/Vakrash-v-Funk-Week1.png"
+         },
+         {
+            "gameId": 11,
+            "player1": { "name": "Steakslyons", "score": 8, "outcome": "Majority" },
+            "player2": { "name": "Azdomiel", "score": 4, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Azdomiel-v-Steak-Week1.png"
          }
       ]
    }
