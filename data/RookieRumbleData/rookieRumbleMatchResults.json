@@ -121,6 +121,14 @@
             "matchTime": "01:26:49",
             "vodLink": "",
             "imageLink": "/img/rookie/Chewy-v-Jibbe-Week1.png"
+         },
+         {
+            "gameId": 16,
+            "player1": { "name": "Vexphile", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Vord", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:20:08",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vex-v-Vord-Week1.png"
          }
       ]
    }

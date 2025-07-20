@@ -183,8 +183,8 @@
    "Vord": {
       "standing": 0,
       "wins": 1,
-      "losses": 0,
-      "squares": 9,
+      "losses": 1,
+      "squares": 18,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -197,9 +197,9 @@
    },
    "Vexphile": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "squares": 13,
+      "squares": 26,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -207,7 +207,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "Dyrax"
+         "Dyrax",
+         "Vord"
       ]
    },
    "Lemon": {
