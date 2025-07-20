@@ -25,14 +25,6 @@
     },
     {
         "title": "Upcoming Match",
-        "firstPlayer": "Strump",
-        "secondPlayer": "Jay",
-        "scheduledAt": "07/20/2025 17:00:00 UTC",
-        "bracket": "Semifinals",
-        "matchType": 1
-    },
-    {
-        "title": "Upcoming Match",
         "firstPlayer": "Elymis",
         "secondPlayer": "HooZher",
         "scheduledAt": "07/20/2025 20:00:00 UTC",
