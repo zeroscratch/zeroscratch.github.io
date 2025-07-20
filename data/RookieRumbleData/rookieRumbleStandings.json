@@ -61,17 +61,18 @@
    },
    "KC_Brazos": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "squares": 12,
-      "lines": 0,
+      "squares": 23,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/kc_brazos",
       "qualified": "maybe",
       "victory":
       [
-         "BlazeTheGible"
+         "BlazeTheGible",
+         "Steakslyons"
       ]
    },
    "BlazeTheGible": {
@@ -275,8 +276,8 @@
    "Steakslyons": {
       "standing": 0,
       "wins": 1,
-      "losses": 0,
-      "squares": 8,
+      "losses": 1,
+      "squares": 13,
       "lines": 0,
       "games": 0,
       "wr": "0%",
