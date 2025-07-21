@@ -12,7 +12,7 @@
          },
          {
             "gameId": 2,
-            "player1": { "name": "Void", "score": 9, "outcome": "Bingo" },
+            "player1": { "name": "Vord", "score": 9, "outcome": "Bingo" },
             "player2": { "name": "Alenkor", "score": 1, "outcome": "Lost" },
             "matchTime": "01:04:48",
             "vodLink": "",
@@ -145,6 +145,14 @@
             "matchTime": "01:52:16",
             "vodLink": "",
             "imageLink": "/img/rookie/KC-v-Steak-Week1.png"
+         },
+         {
+            "gameId": 19,
+            "player1": { "name": "AmplSi", "score": 11, "outcome": "Majority" },
+            "player2": { "name": "Jxxman", "score": 10, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/AmplSi-v-Jxxman-Week1.png"
          }
       ]
    }
