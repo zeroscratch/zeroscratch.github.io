@@ -108,8 +108,8 @@
    "Alenkor": {
       "standing": 0,
       "wins": 0,
-      "losses": 2,
-      "squares": 1,
+      "losses": 3,
+      "squares": 5,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -320,17 +320,17 @@
    },
    "Vegard": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 1,
-      "squares": 0,
-      "lines": 0,
+      "squares": 7,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "",
       "qualified": "maybe",
       "victory":
       [
-         
+         "Alenkor"
       ]
    },
    "Falconraven": {
