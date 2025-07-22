@@ -155,5 +155,18 @@
             "imageLink": "/img/rookie/AmplSi-v-Jxxman-Week1.png"
          }
       ]
+   },
+   { 
+      "week": 2,
+      "matches":
+      [
+         {  "gameId": 20, 
+            "player1": { "name": "Chewy", "score": 7, "outcome": "Majority" }, 
+            "player2": { "name": "Samantha Teapot", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Chewy-v-Samantha-Week2.png"
+         }
+      ]
    }
 ]

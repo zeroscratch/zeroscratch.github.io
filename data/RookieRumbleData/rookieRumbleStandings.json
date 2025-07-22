@@ -17,8 +17,8 @@
    "Samantha Teapot": {
       "standing": 0,
       "wins": 0,
-      "losses": 2,
-      "squares": 2,
+      "losses": 3,
+      "squares": 6,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -230,9 +230,9 @@
    },
    "Chewy": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 2,
-      "squares": 5,
+      "squares": 12,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -240,7 +240,7 @@
       "qualified": "maybe",
       "victory":
       [
-         
+         "Samantha Teapot"
       ]
    },
    "Space Patrol Funk Machine": {
