@@ -46,17 +46,18 @@
    },
    "Dyrax": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "squares": 20,
-      "lines": 0,
+      "squares": 28,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/dyrax999",
       "qualified": "maybe",
       "victory":
       [
-         "TurtleBeard"
+         "TurtleBeard",
+         "AmplSi"
       ]
    },
    "KC_Brazos": {
@@ -138,8 +139,8 @@
    "AmplSi": {
       "standing": 0,
       "wins": 1,
-      "losses": 1,
-      "squares": 15,
+      "losses": 2,
+      "squares": 17,
       "lines": 0,
       "games": 0,
       "wr": "0%",

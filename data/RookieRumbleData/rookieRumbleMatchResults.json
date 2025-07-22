@@ -173,6 +173,13 @@
             "matchTime": "01:14:00", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Vegard-v-Alenkor-Week2.png"
+         },
+         {  "gameId": 22, 
+            "player1": { "name": "Dyrax", "score": 8, "outcome": "Bingo" }, 
+            "player2": { "name": "AmplSi", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "00:55:29", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Dyrax-v-AmplSi-Week2.png"
          }
       ]
    }
