@@ -2,8 +2,8 @@
    "PhileyFinch": {
       "standing": 0,
       "wins": 1,
-      "losses": 1,
-      "squares": 9,
+      "losses": 2,
+      "squares": 16,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -276,9 +276,9 @@
    },
    "Steakslyons": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "squares": 13,
+      "squares": 22,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -286,7 +286,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "Azdomiel"
+         "Azdomiel",
+         "PhileyFinch"
       ]
    },
    "Azdomiel": {

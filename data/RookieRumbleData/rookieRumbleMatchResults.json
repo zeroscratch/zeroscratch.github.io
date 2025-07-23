@@ -180,6 +180,13 @@
             "matchTime": "00:55:29", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Dyrax-v-AmplSi-Week2.png"
+         },
+         {  "gameId": 23, 
+            "player1": { "name": "Steakslyons", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "PhileyFinch", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Finch-v-Steak-Week2.png"
          }
       ]
    }
