@@ -187,6 +187,13 @@
             "matchTime": "02:00:00", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Finch-v-Steak-Week2.png"
+         },
+         {  "gameId": 24, 
+            "player1": { "name": "Thomas", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Alenkor", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "01:38:49", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Thomas-v-Alenkor-Week2.png"
          }
       ]
    }
