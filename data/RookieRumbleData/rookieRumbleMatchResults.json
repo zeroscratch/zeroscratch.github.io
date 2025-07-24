@@ -215,6 +215,20 @@
             "matchTime": "01:47:41", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Jxxman-v-Steak-Week2.png"
+         },
+         {  "gameId": 28, 
+            "player1": { "name": "Thomas", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "Vegard", "score": 4, "outcome": "Lost" },
+            "matchTime": "00:58:33", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Vegard-v-Thomas-Week2.png"
+         },
+         {  "gameId": 29, 
+            "player1": { "name": "AngryPhilosopher", "score": 8, "outcome": "Bingo" },
+            "player2": { "name": "FalconRaven", "score": 1, "outcome": "Lost" },
+            "matchTime": "00:58:28", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/AP-v-Falcon-Week2.png"
          }
       ]
    }

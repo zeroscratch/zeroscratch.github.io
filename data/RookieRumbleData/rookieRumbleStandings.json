@@ -125,17 +125,18 @@
    },
    "AngryPhilosopher": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "squares": 21,
-      "lines": 2,
+      "squares": 29,
+      "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "",
       "qualified": "maybe",
       "victory":
       [
-         "AmplSi"
+         "AmplSi",
+         "FalconRaven"
       ]
    },
    "AmplSi": {
@@ -156,17 +157,18 @@
    },
    "Thomas": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
-      "squares": 26,
-      "lines": 0,
+      "squares": 34,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/pluryl",
       "qualified": "maybe",
       "victory":
       [
-         "Alenkor"
+         "Alenkor",
+         "Vegard"
       ]
    },
    "Jibbe": {
@@ -327,8 +329,8 @@
    "Vegard": {
       "standing": 0,
       "wins": 1,
-      "losses": 1,
-      "squares": 7,
+      "losses": 2,
+      "squares": 11,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -342,8 +344,8 @@
    "Falconraven": {
       "standing": 0,
       "wins": 1,
-      "losses": 0,
-      "squares": 13,
+      "losses": 1,
+      "squares": 14,
       "lines": 1,
       "games": 0,
       "wr": "0%",
