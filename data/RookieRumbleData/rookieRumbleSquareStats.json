@@ -36,8 +36,8 @@
 		"Appearance Percentage": 0
    },
    "Kill Margit with 6+ parries": {
-      "Completed":  5,
-		"Appeared":   6,
+      "Completed":  6,
+		"Appeared":   7,
 		"Completed Percentage":      0,
 		"Appearance Percentage": 0
    },
@@ -90,8 +90,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Grafted Scion (Chapel of Anticipation)": {
-		"Completed":  6,
-		"Appeared":   6,
+		"Completed":  7,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -156,8 +156,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 4 Bosses with the word 'God' in it": {
-		"Completed":  0,
-		"Appeared":   3,
+		"Completed":  1,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -174,8 +174,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill a Dragonkin Soldier": {
-		"Completed":  6,
-		"Appeared":   9,
+		"Completed":  7,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -247,19 +247,19 @@
 	},
 	"Kill 2 Black Knife Assassins": {
 		"Completed":  4,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Crucible Knights": {
 		"Completed":  3,
-		"Appeared":   5,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 3 Dragon Heart bosses (not Greyoll)": {
 		"Completed":  4,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -300,8 +300,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 2 duo/ trio bosses in Caelid/ Dragonbarrow": {
-		"Completed":  1,
-		"Appeared":   2,
+		"Completed":  2,
+		"Appeared":   3,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -331,13 +331,13 @@
 	},
 	"Kill a Remembrance boss daggers or fists only": {
 		"Completed":  0,
-		"Appeared":   1,
+		"Appeared":   2,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill a Remembrance boss whips or flails only": {
-		"Completed":  4,
-		"Appeared":   5,
+		"Completed":  5,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -463,7 +463,7 @@
 	},
 	"Acquire Grave and Ghost Glovewort Bell Bearings [1]": {
 		"Completed":  1,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -522,8 +522,8 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire 9 Sacred Flask charges": {
-		"Completed":  6,
-		"Appeared":   7,
+		"Completed":  7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -558,8 +558,8 @@
 		"Appearance Percentage": 0
 	},
 	"Invade and defeat Magnus the Beast Claw": {
-		"Completed":  4,
-		"Appeared":   8,
+		"Completed":  5,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -576,14 +576,14 @@
 		"Appearance Percentage": 0
 	},
 	"Defeat 3 NPC invaders": {
-		"Completed":  7,
-		"Appeared":   8,
+		"Completed":  8,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 4 friendly NPCs (no hermit merchants)": {
-		"Completed":  7,
-		"Appeared":   9,
+		"Completed":  8,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -624,14 +624,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Tree spirits": {
-		"Completed":  1,
-		"Appeared":   4,
+		"Completed":  2,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Collect 6 unique Staves": {
-		"Completed":  6,
-		"Appeared":   8,
+		"Completed":  7,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -702,8 +702,8 @@
 		"Appearance Percentage": 0
 	},
 	"Defeat Eleonora, Violet Bloody Finger": {
-		"Completed":  6,
-		"Appeared":   8,
+		"Completed":  7,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -726,8 +726,8 @@
 		"Appearance Percentage": 0
 	},
 	"Defeat Millicent Invader in Caelid": {
-		"Completed":  6,
-		"Appeared":   7,
+		"Completed":  7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -775,7 +775,7 @@
 	},
 	"Acquire Radagon and Godfrey's Icons": {
 		"Completed":  4,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -792,8 +792,8 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire an Exultation Talisman": {
-		"Completed":  1,
-		"Appeared":   6,
+		"Completed":  2,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -810,20 +810,20 @@
 		"Appearance Percentage": 0
 	},
 	"Kill the Cleanrot Knight Duo": {
-		"Completed":  3,
-		"Appeared":   6,
+		"Completed":  4,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill the Fire Prelate in Fort Laiedd": {
 		"Completed":  2,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Misbegotten bosses": {
 		"Completed":  3,
-		"Appeared":   5,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -834,8 +834,8 @@
 		"Appearance Percentage": 0
 	},
    "Acquire Erdtree's Favor": {
-		"Completed":  3,
-		"Appeared":   3,
+		"Completed":  4,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},

@@ -174,8 +174,8 @@
    "Jibbe": {
       "standing": 0,
       "wins": 2,
-      "losses": 1,
-      "squares": 26,
+      "losses": 2,
+      "squares": 33,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -204,10 +204,10 @@
    },
    "Vexphile": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "squares": 26,
-      "lines": 0,
+      "squares": 36,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vexphile",
@@ -215,7 +215,8 @@
       "victory":
       [
          "Dyrax",
-         "Vord"
+         "Vord",
+         "Jibbe"
       ]
    },
    "Lemon": {
