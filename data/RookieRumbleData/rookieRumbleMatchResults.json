@@ -194,6 +194,27 @@
             "matchTime": "01:38:49", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Thomas-v-Alenkor-Week2.png"
+         },
+         {  "gameId": 25,
+            "player1": { "name": "TurtleBeard", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "AmplSi", "score": 12, "outcome": "Lost" }, 
+            "matchTime": "02:15:00", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/AmplSi-v-TurtleBeard-Week2.png"
+         },
+         {  "gameId": 26,
+            "player1": { "name": "Lemon", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Jibbe", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:18:30", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Lemon-v-Jibbe-Week2.png"
+         },
+         {  "gameId": 27, 
+            "player1": { "name": "Jxxman", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Steakslyons", "score": 5, "outcome": "Lost" },
+            "matchTime": "01:47:41", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Jxxman-v-Steak-Week2.png"
          }
       ]
    }

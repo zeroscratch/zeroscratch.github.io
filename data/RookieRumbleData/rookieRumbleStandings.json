@@ -32,8 +32,8 @@
    "TurtleBeard": {
       "standing": 0,
       "wins": 1,
-      "losses": 1,
-      "squares": 20,
+      "losses": 2,
+      "squares": 32,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -41,7 +41,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "Thomas"
+         "Thomas",
+         "TurtleBeard"
       ]
    },
    "Dyrax": {
@@ -93,17 +94,18 @@
    },
    "Jxxman15167": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "squares": 23,
-      "lines": 1,
+      "squares": 36,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "",
       "qualified": "maybe",
       "victory":
       [
-         "Alenkor"
+         "Alenkor",
+         "Steakslyons"
       ]
    },
    "Alenkor": {
@@ -138,9 +140,9 @@
    },
    "AmplSi": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
-      "squares": 17,
+      "squares": 29,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -148,7 +150,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "Jxxman15167"
+         "Jxxman15167",
+         "TurtleBeard"
       ]
    },
    "Thomas": {
@@ -169,8 +172,8 @@
    "Jibbe": {
       "standing": 0,
       "wins": 2,
-      "losses": 0,
-      "squares": 20,
+      "losses": 1,
+      "squares": 26,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -215,9 +218,9 @@
    },
    "Lemon": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "squares": 21,
+      "squares": 34,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -226,7 +229,8 @@
       "victory":
       [
          "Chewy",
-         "Vakrash"
+         "Vakrash",
+         "Jibbe"
       ]
    },
    "Chewy": {
@@ -277,8 +281,8 @@
    "Steakslyons": {
       "standing": 0,
       "wins": 2,
-      "losses": 1,
-      "squares": 22,
+      "losses": 2,
+      "squares": 27,
       "lines": 0,
       "games": 0,
       "wr": "0%",
