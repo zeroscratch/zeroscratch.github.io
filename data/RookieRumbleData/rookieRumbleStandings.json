@@ -79,8 +79,8 @@
    "BlazeTheGible": {
       "standing": 0,
       "wins": 1,
-      "losses": 1,
-      "squares": 24,
+      "losses": 2,
+      "squares": 27,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -269,17 +269,18 @@
    },
    "Vakrash": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "squares": 20,
-      "lines": 1,
+      "squares": 31,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vakrash",
       "qualified": "maybe",
       "victory":
       [
-         "Space Patrol Funk Machine"
+         "Space Patrol Funk Machine",
+         "BlazeTheGible"
       ]
    },
    "Steakslyons": {
