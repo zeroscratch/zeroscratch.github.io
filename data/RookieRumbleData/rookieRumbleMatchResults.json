@@ -236,6 +236,20 @@
             "matchTime": "01:11:01", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Jibbe-v-Vex-Week2.png"
+         },
+         {  "gameId": 31, 
+            "player1": { "name": "Spfunkm", "score": 10, "outcome": "Majority" },
+            "player2": { "name": "TurtleBeard", "score": 8, "outcome": "Lost" },
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Funk-v-Turtle-Week2.png"
+         },
+         {  "gameId": 32, 
+            "player1": { "name": "Lemon", "score": 7, "outcome": "Bingo" },
+            "player2": { "name": "KC_Brazos", "score": 3, "outcome": "Lost" },
+            "matchTime": "00:59:22",
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Lemon-v-KC-Week2.png"
          }
       ]
    }

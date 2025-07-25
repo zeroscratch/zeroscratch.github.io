@@ -32,8 +32,8 @@
    "TurtleBeard": {
       "standing": 0,
       "wins": 1,
-      "losses": 2,
-      "squares": 32,
+      "losses": 3,
+      "squares": 40,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -41,8 +41,7 @@
       "qualified": "maybe",
       "victory":
       [
-         "Thomas",
-         "TurtleBeard"
+         "Thomas"
       ]
    },
    "Dyrax": {
@@ -64,8 +63,8 @@
    "KC_Brazos": {
       "standing": 0,
       "wins": 2,
-      "losses": 0,
-      "squares": 23,
+      "losses": 1,
+      "squares": 26,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -221,10 +220,10 @@
    },
    "Lemon": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 0,
-      "squares": 34,
-      "lines": 1,
+      "squares": 41,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/l3m0_n",
@@ -233,7 +232,8 @@
       [
          "Chewy",
          "Vakrash",
-         "Jibbe"
+         "Jibbe",
+         "KC_Brazos"
       ]
    },
    "Chewy": {
@@ -253,9 +253,9 @@
    },
    "Space Patrol Funk Machine": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "squares": 13,
+      "squares": 23,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -263,7 +263,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "Samantha Teapot"
+         "Samantha Teapot",
+         "TurtleBeard"
       ]
    },
    "Vakrash": {
