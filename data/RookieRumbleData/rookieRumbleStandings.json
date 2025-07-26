@@ -17,8 +17,8 @@
    "Samantha Teapot": {
       "standing": 0,
       "wins": 0,
-      "losses": 3,
-      "squares": 6,
+      "losses": 4,
+      "squares": 9,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -26,7 +26,7 @@
       "qualified": "maybe",
       "victory":
       [
-
+         
       ]
    },
    "TurtleBeard": {
@@ -62,9 +62,9 @@
    },
    "KC_Brazos": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
-      "squares": 26,
+      "squares": 38,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -73,7 +73,8 @@
       "victory":
       [
          "BlazeTheGible",
-         "Steakslyons"
+         "Steakslyons",
+         "Belbo"
       ]
    },
    "BlazeTheGible": {
@@ -302,9 +303,9 @@
    },
    "Azdomiel": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 2,
-      "squares": 9,
+      "squares": 15,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -312,14 +313,14 @@
       "qualified": "maybe",
       "victory":
       [
-         
+         "Samantha Teapot"
       ]
    },
-   "Belbo786": {
+   "Belbo": {
       "standing": 0,
       "wins": 2,
-      "losses": 0,
-      "squares": 20,
+      "losses": 1,
+      "squares": 30,
       "lines": 1,
       "games": 0,
       "wr": "0%",

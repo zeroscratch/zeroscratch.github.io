@@ -264,6 +264,20 @@
             "matchTime": "01:34:18",
             "vodLink": "",
             "imageLink": "/img/rookie/Vord-v-Vegard-Week2.png"
+         },
+         {  "gameId": 35, 
+            "player1": { "name": "Azdomiel", "score": 6, "outcome": "Majority" },
+            "player2": { "name": "Samantha Teapot", "score": 3, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Azdomiel-v-Samantha-Week2.png"
+         },
+         {  "gameId": 36, 
+            "player1": { "name": "KC_Brazos", "score": 12, "outcome": "Majority" },
+            "player2": { "name": "Belbo", "score": 10, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/KC-v-Belbo-Week2.png"
          }
       ]
    }

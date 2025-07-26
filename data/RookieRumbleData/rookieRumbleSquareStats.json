@@ -7,13 +7,13 @@
    },
 	"Kill Rennala after she summons 4 times": {
       "Completed":  7,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage":      0,
 		"Appearance Percentage": 0
    },
 	"Kill Radahn without summoning NPCs": {
-      "Completed":  6,
-		"Appeared":   8,
+      "Completed":  7,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
    },
@@ -96,14 +96,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Soldier of Godrick bare fist only": {
-		"Completed":  1,
-		"Appeared":   4,
+		"Completed":  2,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill Limgrave Tree Sentinel with a +0 weapon only": {
-		"Completed":  7,
-		"Appeared":   7,
+		"Completed":  8,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -127,7 +127,7 @@
 	},
 	"Kill Elemer of the Briar": {
 		"Completed":  3,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -138,14 +138,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Wormface Boss": {
-		"Completed":  5,
-		"Appeared":   7,
+		"Completed":  6,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill Bloodhound Knight while summoning Blaidd": {
-		"Completed":  3,
-		"Appeared":   3,
+		"Completed":  4,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -169,7 +169,7 @@
 	},
 	"Complete 4 Evergaols":{
 		"Completed":  2,
-		"Appeared":   3,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -180,8 +180,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill a Magma Wyrm boss": {
-		"Completed":  4,
-		"Appeared":   6,
+		"Completed":  5,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -222,8 +222,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Cemetery Shades": {
-		"Completed":  4,
-		"Appeared":   6,
+		"Completed":  5,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -240,14 +240,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Duelists": {
-		"Completed":  6,
-		"Appeared":   10,
+		"Completed":  7,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Black Knife Assassins": {
-		"Completed":  6,
-		"Appeared":   7,
+		"Completed":  7,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -258,20 +258,20 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 3 Dragon Heart bosses (not Greyoll)": {
-		"Completed":  5,
-		"Appeared":   7,
-		"Completed Percentage": 0,
-		"Appearance Percentage": 0
-	},
-	"Kill 3 Avatars": {
-		"Completed":  5,
+		"Completed":  6,
 		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
+	"Kill 3 Avatars": {
+		"Completed":  6,
+		"Appeared":   9,
+		"Completed Percentage": 0,
+		"Appearance Percentage": 0
+	},
 	"Kill 2 Night's Cavalry": {
-		"Completed":  2,
-		"Appeared":   2,
+		"Completed":  3,
+		"Appeared":   3,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -289,13 +289,13 @@
 	},
 	"Kill the Dragonbarrow Bell Bearing Hunter": {
 		"Completed":  2,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 3 duo/ trio bosses": {
 		"Completed":  1,
-		"Appeared":   1,
+		"Appeared":   2,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -319,7 +319,7 @@
 	},
 	"Kill 5 bosses with 'tree' in their name": {
 		"Completed":  1,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -337,7 +337,7 @@
 	},
 	"Kill a Remembrance boss whips or flails only": {
 		"Completed":  5,
-		"Appeared":   8,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -355,7 +355,7 @@
 	},
 	"Kill a Remembrance boss w/ remembrance weapon only": {
 		"Completed":  2,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -426,8 +426,8 @@
 		"Appearance Percentage": 0
 	},
 	"Complete 2 tunnel or precipice dungeons": {
-		"Completed":  3,
-		"Appeared":   3,
+		"Completed":  4,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -444,8 +444,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 3 ruins bosses": {
-		"Completed":  7,
-		"Appeared":   8,
+		"Completed":  8,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -475,19 +475,19 @@
 	},
 	"Acquire Margit's and Mohg's Shackles": {
 		"Completed":  1,
-		"Appeared":   6,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Restore Godrick’s Great Rune": {
-		"Completed":  4,
-		"Appeared":   5,
+		"Completed":  6,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Restore Radahn’s Great Rune": {
-		"Completed":  2,
-		"Appeared":   5,
+		"Completed":  3,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -499,13 +499,13 @@
 	},
 	"Somber +9 weapon": {
 		"Completed":  0,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Spirit Ash +4 summon": {
-		"Completed":  2,
-		"Appeared":   5,
+		"Completed":  3,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -552,8 +552,8 @@
 		"Appearance Percentage": 0
 	},
 	"Return Thops' academy key": {
-		"Completed":  5,
-		"Appeared":   6,
+		"Completed":  6,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -589,13 +589,13 @@
 	},
 	"Kill Gurranq": {
 		"Completed":  1,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Use AoW Lightning Ram to kill 10 sheep": {
-		"Completed":  3,
-		"Appeared":   8,
+		"Completed":  4,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -607,19 +607,19 @@
 	},
 	"Learn 12 different incantations": {
 		"Completed":  3,
-		"Appeared":   5,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Rune Level 55": {
 		"Completed":  1,
-		"Appeared":   9,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"30 Int, Faith, or Arcane (no rebirth or buffs)": {
 		"Completed":  4,
-		"Appeared":   8,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -630,8 +630,8 @@
 		"Appearance Percentage": 0
 	},
 	"Collect 6 unique Staves": {
-		"Completed":  8,
-		"Appeared":   10,
+		"Completed":  10,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -666,8 +666,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill the Vyke Invader": {
-		"Completed":  3,
-		"Appeared":   5,
+		"Completed":  4,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -679,7 +679,7 @@
 	},
 	"Acquire 3 Whetblades (including Whetstone Knife)": {
 		"Completed":  5,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -691,7 +691,7 @@
 	},
 	"Acquire 4 Larval Tears": {
 		"Completed":  1,
-		"Appeared":   1,
+		"Appeared":   2,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -756,20 +756,20 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Troll bosses": {
-		"Completed":  8,
-		"Appeared":   9,
+		"Completed":  9,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Acquire a Cerulean, Crimson, and Viridian Talisman": {
-		"Completed":  5,
-		"Appeared":   8,
+		"Completed":  6,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Acquire 4 Unique Status Effects AoWs": {
-		"Completed":  5,
-		"Appeared":   6,
+		"Completed":  6,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -780,8 +780,8 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire both Scarseals": {
-		"Completed":  2,
-		"Appeared":   5,
+		"Completed":  3,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -804,14 +804,14 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire Blue Dancer Charm": {
-		"Completed":  10,
-		"Appeared":   11,
+		"Completed":  11,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill the Cleanrot Knight Duo": {
-		"Completed":  5,
-		"Appeared":   8,
+		"Completed":  6,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -834,14 +834,14 @@
 		"Appearance Percentage": 0
 	},
    "Acquire Erdtree's Favor": {
-		"Completed":  4,
-		"Appeared":   5,
+		"Completed":  6,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Acquire 2 Scorpion Charms": {
 		"Completed":  8,
-		"Appeared":   11,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
