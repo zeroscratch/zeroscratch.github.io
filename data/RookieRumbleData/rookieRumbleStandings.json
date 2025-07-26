@@ -188,17 +188,18 @@
    },
    "Vord": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "squares": 18,
-      "lines": 1,
+      "squares": 30,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vord_sr",
       "qualified": "maybe",
       "victory":
       [
-         "Alenkor"
+         "Alenkor",
+         "Vegard"
       ]
    },
    "Vexphile": {
@@ -332,12 +333,12 @@
    "Vegard": {
       "standing": 0,
       "wins": 1,
-      "losses": 2,
-      "squares": 11,
+      "losses": 3,
+      "squares": 19,
       "lines": 1,
       "games": 0,
       "wr": "0%",
-      "twitch": "",
+      "twitch": "https://www.twitch.tv/vegarddddddd",
       "qualified": "maybe",
       "victory":
       [

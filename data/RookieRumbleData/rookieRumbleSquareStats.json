@@ -6,20 +6,20 @@
 		"Appearance Percentage": 0
    },
 	"Kill Rennala after she summons 4 times": {
-      "Completed":  6,
-		"Appeared":   6,
+      "Completed":  7,
+		"Appeared":   7,
 		"Completed Percentage":      0,
 		"Appearance Percentage": 0
    },
 	"Kill Radahn without summoning NPCs": {
-      "Completed":  5,
-		"Appeared":   7,
+      "Completed":  6,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
    },
 	"Kill Morgott, the Omen King": {
       "Completed":  2,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
    },
@@ -31,7 +31,7 @@
    },
 	"Kill the Regal Ancestor Spirit (Nokron)": {
       "Completed":  2,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage":      0,
 		"Appearance Percentage": 0
    },
@@ -126,8 +126,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Elemer of the Briar": {
-		"Completed":  2,
-		"Appeared":   6,
+		"Completed":  3,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -180,8 +180,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill a Magma Wyrm boss": {
-		"Completed":  3,
-		"Appeared":   5,
+		"Completed":  4,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -288,8 +288,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill the Dragonbarrow Bell Bearing Hunter": {
-		"Completed":  1,
-		"Appeared":   3,
+		"Completed":  2,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -378,8 +378,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 5 bosses in Liurnia/ Chapel of Anticipation": {
-		"Completed":  8,
-		"Appeared":   12,
+		"Completed":  9,
+		"Appeared":   13,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -396,8 +396,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill an Onyx Lord boss": {
-		"Completed":  2,
-		"Appeared":   3,
+		"Completed":  3,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -444,8 +444,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 3 ruins bosses": {
-		"Completed":  6,
-		"Appeared":   7,
+		"Completed":  7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -463,7 +463,7 @@
 	},
 	"Acquire Grave and Ghost Glovewort Bell Bearings [1]": {
 		"Completed":  1,
-		"Appeared":   5,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -480,8 +480,8 @@
 		"Appearance Percentage": 0
 	},
 	"Restore Godrick’s Great Rune": {
-		"Completed":  3,
-		"Appeared":   4,
+		"Completed":  4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -499,13 +499,13 @@
 	},
 	"Somber +9 weapon": {
 		"Completed":  0,
-		"Appeared":   3,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Spirit Ash +4 summon": {
-		"Completed":  1,
-		"Appeared":   4,
+		"Completed":  2,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -534,14 +534,14 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire 10 Cracked Pots": {
-		"Completed":  7,
-		"Appeared":   9,
+		"Completed":  8,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Acquire 5 Ritual Pots": {
-		"Completed":  9,
-		"Appeared":   10,
+		"Completed":  10,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -576,8 +576,8 @@
 		"Appearance Percentage": 0
 	},
 	"Defeat 3 NPC invaders": {
-		"Completed":  8,
-		"Appeared":   9,
+		"Completed":  9,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -618,8 +618,8 @@
 		"Appearance Percentage": 0
 	},
 	"30 Int, Faith, or Arcane (no rebirth or buffs)": {
-		"Completed":  3,
-		"Appeared":   7,
+		"Completed":  4,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -648,14 +648,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill a boss while riding Torrent the entire fight": {
-		"Completed":  9,
-		"Appeared":   9,
+		"Completed":  10,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill a boss Consumables only": {
-		"Completed":  9,
-		"Appeared":   9,
+		"Completed":  10,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -702,14 +702,14 @@
 		"Appearance Percentage": 0
 	},
 	"Defeat Eleonora, Violet Bloody Finger": {
-		"Completed":  7,
-		"Appeared":   10,
+		"Completed":  8,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Return Boc's Needle": {
-		"Completed":  6,
-		"Appeared":   7,
+		"Completed":  7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -774,8 +774,8 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire Radagon and Godfrey's Icons": {
-		"Completed":  5,
-		"Appeared":   9,
+		"Completed":  6,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -816,14 +816,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill the Fire Prelate in Fort Laiedd": {
-		"Completed":  3,
-		"Appeared":   6,
+		"Completed":  4,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Misbegotten bosses": {
 		"Completed":  3,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},

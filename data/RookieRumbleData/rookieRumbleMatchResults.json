@@ -257,6 +257,13 @@
             "matchTime": "01:11:01",
             "vodLink": "",
             "imageLink": "/img/rookie/Vakrash-v-Blaze-Week2.png"
+         },
+         {  "gameId": 34, 
+            "player1": { "name": "Vord", "score": 12, "outcome": "Bingo" },
+            "player2": { "name": "Vegard", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:34:18",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vord-v-Vegard-Week2.png"
          }
       ]
    }
