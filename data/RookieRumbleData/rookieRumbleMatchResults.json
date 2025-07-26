@@ -278,6 +278,13 @@
             "matchTime": "02:00:00",
             "vodLink": "",
             "imageLink": "/img/rookie/KC-v-Belbo-Week2.png"
+         },
+         {  "gameId": 37, 
+            "player1": { "name": "Dyrax", "score": 9, "outcome": "Bingo" },
+            "player2": { "name": "Spfunkm", "score": 2, "outcome": "Lost" },
+            "matchTime": "01:11:23",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Dyrax-v-Funk-Week2.png"
          }
       ]
    }

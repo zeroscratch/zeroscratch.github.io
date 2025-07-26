@@ -46,10 +46,10 @@
    },
    "Dyrax": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
-      "squares": 28,
-      "lines": 1,
+      "squares": 37,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/dyrax999",
@@ -57,7 +57,8 @@
       "victory":
       [
          "TurtleBeard",
-         "AmplSi"
+         "AmplSi",
+         "Space Patrol Funk Machine"
       ]
    },
    "KC_Brazos": {
@@ -256,8 +257,8 @@
    "Space Patrol Funk Machine": {
       "standing": 0,
       "wins": 2,
-      "losses": 1,
-      "squares": 23,
+      "losses": 2,
+      "squares": 25,
       "lines": 1,
       "games": 0,
       "wr": "0%",
