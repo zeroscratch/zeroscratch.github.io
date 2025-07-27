@@ -285,6 +285,20 @@
             "matchTime": "01:11:23",
             "vodLink": "",
             "imageLink": "/img/rookie/Dyrax-v-Funk-Week2.png"
+         },
+         {  "gameId": 38, 
+            "player1": { "name": "Belbo", "score": 12, "outcome": "Majority" },
+            "player2": { "name": "FalconRaven", "score": 10, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Belbo-v-Falcon-Week2.png"
+         },
+         {  "gameId": 39, 
+            "player1": { "name": "Jxxman", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "PhileyFinch", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:42:55",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Jxxman-v-Finch-Week2.png"
          }
       ]
    }

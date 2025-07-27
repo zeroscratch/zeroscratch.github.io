@@ -1,13 +1,13 @@
 {
 	"Kill Godrick while summoning Nepheli Loux": {
-      "Completed": 7,
-		"Appeared":  8,
+      "Completed": 8,
+		"Appeared":  9,
 		"Completed Percentage":  0,
 		"Appearance Percentage": 0
    },
 	"Kill Rennala after she summons 4 times": {
-      "Completed":  7,
-		"Appeared":   9,
+      "Completed":  8,
+		"Appeared":   11,
 		"Completed Percentage":      0,
 		"Appearance Percentage": 0
    },
@@ -19,7 +19,7 @@
    },
 	"Kill Morgott, the Omen King": {
       "Completed":  2,
-		"Appeared":   8,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
    },
@@ -36,8 +36,8 @@
 		"Appearance Percentage": 0
    },
    "Kill Margit with 6+ parries": {
-      "Completed":  6,
-		"Appeared":   7,
+      "Completed":  7,
+		"Appeared":   8,
 		"Completed Percentage":      0,
 		"Appearance Percentage": 0
    },
@@ -60,8 +60,8 @@
 		"Appearance Percentage": 0
    },
 	"Kill a Godskin Noble without Sleep": {
-      "Completed":  1,
-		"Appeared":   6,
+      "Completed":  2,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
    },
@@ -78,8 +78,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Loretta (Blue Spirit)": {
-		"Completed":  4,
-		"Appeared":   6,
+		"Completed":  5,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -96,8 +96,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Soldier of Godrick bare fist only": {
-		"Completed":  2,
-		"Appeared":   6,
+		"Completed":  3,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -132,14 +132,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Putrid Crystalian trio": {
-		"Completed":  5,
-		"Appeared":   7,
+		"Completed":  6,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill Wormface Boss": {
-		"Completed":  6,
-		"Appeared":   9,
+		"Completed":  7,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -150,14 +150,14 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Greyoll without status effects": {
-		"Completed":  3,
-		"Appeared":   8,
+		"Completed":  4,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 4 Bosses with the word 'God' in it": {
-		"Completed":  1,
-		"Appeared":   4,
+		"Completed":  2,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -180,26 +180,26 @@
 		"Appearance Percentage": 0
 	},
 	"Kill a Magma Wyrm boss": {
-		"Completed":  5,
-		"Appeared":   8,
+		"Completed":  7,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill a Fallingstar Beast": {
-		"Completed":  8,
-		"Appeared":   10,
+		"Completed":  9,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill a Solo Gargoyle": {
-		"Completed":  3,
-		"Appeared":   10,
+		"Completed":  4,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill an Omenkiller Boss": {
-		"Completed":  3,
-		"Appeared":   3,
+		"Completed":  4,
+		"Appeared":   4,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -264,8 +264,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 3 Avatars": {
-		"Completed":  7,
-		"Appeared":   10,
+		"Completed":  8,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -288,8 +288,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill the Dragonbarrow Bell Bearing Hunter": {
-		"Completed":  2,
-		"Appeared":   5,
+		"Completed":  3,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -331,7 +331,7 @@
 	},
 	"Kill a Remembrance boss daggers or fists only": {
 		"Completed":  0,
-		"Appeared":   2,
+		"Appeared":   3,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -348,20 +348,20 @@
 		"Appearance Percentage": 0
 	},
 	"Kill a Liurnia boss incantations only": {
-		"Completed":  4,
-		"Appeared":   9,
+		"Completed":  5,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill a Remembrance boss w/ remembrance weapon only": {
 		"Completed":  2,
-		"Appeared":   8,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Finish off a boss with the explosive physick": {
-		"Completed":  5,
-		"Appeared":   7,
+		"Completed":  6,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -378,8 +378,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 5 bosses in Liurnia/ Chapel of Anticipation": {
-		"Completed":  10,
-		"Appeared":   14,
+		"Completed":  11,
+		"Appeared":   15,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -420,8 +420,8 @@
 		"Appearance Percentage": 0
 	},
 	"Complete 4 cave, grotto, or hideaway dungeons": {
-		"Completed":  4,
-		"Appeared":   4,
+		"Completed":  5,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -493,25 +493,25 @@
 	},
 	"Kill Rykard, Lord of Blasphemy": {
 		"Completed":  1,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Somber +9 weapon": {
-		"Completed":  0,
-		"Appeared":   5,
-		"Completed Percentage": 0,
-		"Appearance Percentage": 0
-	},
-	"Spirit Ash +4 summon": {
-		"Completed":  3,
+		"Completed":  1,
 		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
+	"Spirit Ash +4 summon": {
+		"Completed":  4,
+		"Appeared":   7,
+		"Completed Percentage": 0,
+		"Appearance Percentage": 0
+	},
 	"Sacred Flask +4": {
-		"Completed":  1,
-		"Appeared":   1,
+		"Completed":  2,
+		"Appeared":   2,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -534,8 +534,8 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire 10 Cracked Pots": {
-		"Completed":  9,
-		"Appeared":   11,
+		"Completed":  10,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -558,8 +558,8 @@
 		"Appearance Percentage": 0
 	},
 	"Invade and defeat Magnus the Beast Claw": {
-		"Completed":  5,
-		"Appeared":   10,
+		"Completed":  6,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -570,38 +570,38 @@
 		"Appearance Percentage": 0
 	},
 	"Memory of Grace with 50k+ Runes": {
-		"Completed":  5,
-		"Appeared":   6,
+		"Completed":  6,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Defeat 3 NPC invaders": {
-		"Completed":  9,
-		"Appeared":   10,
-		"Completed Percentage": 0,
-		"Appearance Percentage": 0
-	},
-	"Kill 4 friendly NPCs (no hermit merchants)": {
-		"Completed":  9,
+		"Completed":  10,
 		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
+	"Kill 4 friendly NPCs (no hermit merchants)": {
+		"Completed":  10,
+		"Appeared":   12,
+		"Completed Percentage": 0,
+		"Appearance Percentage": 0
+	},
 	"Kill Gurranq": {
-		"Completed":  1,
-		"Appeared":   9,
+		"Completed":  3,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Use AoW Lightning Ram to kill 10 sheep": {
-		"Completed":  4,
-		"Appeared":   9,
+		"Completed":  6,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Learn 10 different sorceries": {
-		"Completed":  2,
-		"Appeared":   6,
+		"Completed":  3,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -636,14 +636,14 @@
 		"Appearance Percentage": 0
 	},
 	"Collect 3 Paintings": {
-		"Completed":  4,
-		"Appeared":   4,
+		"Completed":  5,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Collect 4 unique Seals": {
-		"Completed":  2,
-		"Appeared":   4,
+		"Completed":  3,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -720,14 +720,14 @@
 		"Appearance Percentage": 0
 	},
 	"Feed 3 Deathroot to Gurranq": {
-		"Completed":  4,
-		"Appeared":   5,
+		"Completed":  5,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Defeat Millicent Invader in Caelid": {
-		"Completed":  7,
-		"Appeared":   9,
+		"Completed":  8,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -745,7 +745,7 @@
 	},
 	"Kill Decaying Ekzykes": {
 		"Completed":  2,
-		"Appeared":   5,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -780,8 +780,8 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire both Scarseals": {
-		"Completed":  3,
-		"Appeared":   6,
+		"Completed":  4,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -792,8 +792,8 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire an Exultation Talisman": {
-		"Completed":  2,
-		"Appeared":   7,
+		"Completed":  3,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -823,7 +823,7 @@
 	},
 	"Kill 2 Misbegotten bosses": {
 		"Completed":  3,
-		"Appeared":   8,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -846,8 +846,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Lion Guardians": {
-		"Completed":  1,
-		"Appeared":   4,
+		"Completed":  2,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -858,8 +858,8 @@
 		"Appearance Percentage": 0
 	},
    "Acquire the Square Off Ash of War": {
-		"Completed":  3,
-		"Appeared":   5,
+		"Completed":  4,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	}

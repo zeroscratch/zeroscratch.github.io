@@ -2,8 +2,8 @@
    "PhileyFinch": {
       "standing": 0,
       "wins": 1,
-      "losses": 2,
-      "squares": 16,
+      "losses": 3,
+      "squares": 23,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -93,11 +93,11 @@
          "PhileyFinch"
       ]
    },
-   "Jxxman15167": {
+   "Jxxman": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
-      "squares": 36,
+      "squares": 49,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -106,7 +106,8 @@
       "victory":
       [
          "Alenkor",
-         "Steakslyons"
+         "Steakslyons",
+         "PhileyFinch"
       ]
    },
    "Alenkor": {
@@ -152,7 +153,7 @@
       "qualified": "maybe",
       "victory":
       [
-         "Jxxman15167",
+         "Jxxman",
          "TurtleBeard"
       ]
    },
@@ -319,9 +320,9 @@
    },
    "Belbo": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
-      "squares": 30,
+      "squares": 42,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -329,7 +330,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "Azdomiel"
+         "Azdomiel",
+         "FalconRaven"
       ]
    },
    "Vegard": {
@@ -350,12 +352,12 @@
    "Falconraven": {
       "standing": 0,
       "wins": 1,
-      "losses": 1,
-      "squares": 14,
+      "losses": 2,
+      "squares": 24,
       "lines": 1,
       "games": 0,
       "wr": "0%",
-      "twitch": "",
+      "twitch": "https://www.twitch.tv/falconraven",
       "qualified": "maybe",
       "victory":
       [
