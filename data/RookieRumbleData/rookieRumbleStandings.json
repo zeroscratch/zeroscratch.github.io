@@ -192,8 +192,8 @@
    "Vord": {
       "standing": 0,
       "wins": 2,
-      "losses": 1,
-      "squares": 30,
+      "losses": 2,
+      "squares": 37,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -273,9 +273,9 @@
    },
    "Vakrash": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 1,
-      "squares": 31,
+      "squares": 44,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -284,7 +284,8 @@
       "victory":
       [
          "Space Patrol Funk Machine",
-         "BlazeTheGible"
+         "BlazeTheGible",
+         "Vord"
       ]
    },
    "Steakslyons": {

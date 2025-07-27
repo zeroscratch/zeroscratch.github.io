@@ -299,6 +299,13 @@
             "matchTime": "01:42:55",
             "vodLink": "",
             "imageLink": "/img/rookie/Jxxman-v-Finch-Week2.png"
+         },
+         {  "gameId": 40, 
+            "player1": { "name": "Vakrash", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Vord", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:18:31",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vakrash-v-Vord-Week2.png"
          }
       ]
    }

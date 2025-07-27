@@ -1,7 +1,7 @@
 {
 	"Kill Godrick while summoning Nepheli Loux": {
-      "Completed": 8,
-		"Appeared":  9,
+      "Completed": 9,
+		"Appeared":  10,
 		"Completed Percentage":  0,
 		"Appearance Percentage": 0
    },
@@ -12,8 +12,8 @@
 		"Appearance Percentage": 0
    },
 	"Kill Radahn without summoning NPCs": {
-      "Completed":  7,
-		"Appeared":   9,
+      "Completed":  8,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
    },
@@ -25,7 +25,7 @@
    },
 	"Kill the Ancestor Spirit in Siofra River": {
       "Completed":  0,
-		"Appeared":   3,
+		"Appeared":   4,
 		"Completed Percentage":      0,
 		"Appearance Percentage": 0
    },
@@ -73,7 +73,7 @@
 	},
 	"Kill Godfrey (Gold Spirit)": {
 		"Completed":  2,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -90,8 +90,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Grafted Scion (Chapel of Anticipation)": {
-		"Completed":  8,
-		"Appeared":   8,
+		"Completed":  9,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -138,8 +138,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Wormface Boss": {
-		"Completed":  7,
-		"Appeared":   10,
+		"Completed":  8,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -192,8 +192,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill a Solo Gargoyle": {
-		"Completed":  4,
-		"Appeared":   11,
+		"Completed":  5,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -241,19 +241,19 @@
 	},
 	"Kill 2 Duelists": {
 		"Completed":  7,
-		"Appeared":   11,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Black Knife Assassins": {
-		"Completed":  7,
-		"Appeared":   9,
+		"Completed":  8,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Crucible Knights": {
-		"Completed":  3,
-		"Appeared":   7,
+		"Completed":  4,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -264,8 +264,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 3 Avatars": {
-		"Completed":  8,
-		"Appeared":   11,
+		"Completed":  9,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -343,7 +343,7 @@
 	},
 	"Kill a Caelid/ Dragonbarrow boss sorcery only": {
 		"Completed":  0,
-		"Appeared":   7,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -385,7 +385,7 @@
 	},
 	"Kill 4 bosses in Caelid/ Dragonbarrow": {
 		"Completed":  1,
-		"Appeared":   4,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -510,8 +510,8 @@
 		"Appearance Percentage": 0
 	},
 	"Sacred Flask +4": {
-		"Completed":  2,
-		"Appeared":   2,
+		"Completed":  3,
+		"Appeared":   3,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -534,14 +534,14 @@
 		"Appearance Percentage": 0
 	},
 	"Acquire 10 Cracked Pots": {
-		"Completed":  10,
-		"Appeared":   12,
+		"Completed":  11,
+		"Appeared":   13,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Acquire 5 Ritual Pots": {
-		"Completed":  10,
-		"Appeared":   11,
+		"Completed":  11,
+		"Appeared":   12,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -600,14 +600,14 @@
 		"Appearance Percentage": 0
 	},
 	"Learn 10 different sorceries": {
-		"Completed":  3,
-		"Appeared":   7,
+		"Completed":  4,
+		"Appeared":   8,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Learn 12 different incantations": {
-		"Completed":  3,
-		"Appeared":   6,
+		"Completed":  4,
+		"Appeared":   7,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -624,8 +624,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill 2 Tree spirits": {
-		"Completed":  2,
-		"Appeared":   5,
+		"Completed":  3,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -642,26 +642,26 @@
 		"Appearance Percentage": 0
 	},
 	"Collect 4 unique Seals": {
-		"Completed":  3,
-		"Appeared":   5,
+		"Completed":  4,
+		"Appeared":   6,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill a boss while riding Torrent the entire fight": {
-		"Completed":  10,
-		"Appeared":   10,
+		"Completed":  11,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Kill a boss Consumables only": {
-		"Completed":  10,
-		"Appeared":   10,
+		"Completed":  11,
+		"Appeared":   11,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
 	"Acquire 4 Memory Stones": {
-		"Completed":  7,
-		"Appeared":   8,
+		"Completed":  8,
+		"Appeared":   9,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -672,8 +672,8 @@
 		"Appearance Percentage": 0
 	},
 	"Cleanse the Frenzy-Flaming Tower": {
-		"Completed":  4,
-		"Appeared":   4,
+		"Completed":  5,
+		"Appeared":   5,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
@@ -732,8 +732,8 @@
 		"Appearance Percentage": 0
 	},
 	"Kill Draconic Tree Sentinel": {
-		"Completed":  3,
-		"Appeared":   9,
+		"Completed":  4,
+		"Appeared":   10,
 		"Completed Percentage": 0,
 		"Appearance Percentage": 0
 	},
