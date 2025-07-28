@@ -306,6 +306,13 @@
             "matchTime": "01:18:31",
             "vodLink": "",
             "imageLink": "/img/rookie/Vakrash-v-Vord-Week2.png"
+         },
+         {  "gameId": 41, 
+            "player1": { "name": "BlazeTheGible", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "FalconRaven", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:59:41",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Blaze-v-Falcon-Week2.png"
          }
       ]
    }

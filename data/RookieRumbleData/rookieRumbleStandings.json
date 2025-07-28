@@ -80,9 +80,9 @@
    },
    "BlazeTheGible": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
-      "squares": 27,
+      "squares": 40,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -90,7 +90,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "PhileyFinch"
+         "PhileyFinch",
+         "FalconRaven"
       ]
    },
    "Jxxman": {
@@ -353,8 +354,8 @@
    "Falconraven": {
       "standing": 0,
       "wins": 1,
-      "losses": 2,
-      "squares": 24,
+      "losses": 3,
+      "squares": 33,
       "lines": 1,
       "games": 0,
       "wr": "0%",
