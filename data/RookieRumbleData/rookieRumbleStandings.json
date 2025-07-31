@@ -81,8 +81,8 @@
    "BlazeTheGible": {
       "standing": 0,
       "wins": 2,
-      "losses": 2,
-      "squares": 40,
+      "losses": 3,
+      "squares": 49,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -129,8 +129,8 @@
    "AngryPhilosopher": {
       "standing": 0,
       "wins": 3,
-      "losses": 0,
-      "squares": 29,
+      "losses": 1,
+      "squares": 30,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -192,10 +192,10 @@
    },
    "Vord": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 2,
-      "squares": 37,
-      "lines": 2,
+      "squares": 50,
+      "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vord_sr",
@@ -203,7 +203,8 @@
       "victory":
       [
          "Alenkor",
-         "Vegard"
+         "Vegard",
+         "BlazeTheGible"
       ]
    },
    "Vexphile": {
@@ -225,10 +226,10 @@
    },
    "Lemon": {
       "standing": 0,
-      "wins": 4,
+      "wins": 5,
       "losses": 0,
-      "squares": 41,
-      "lines": 2,
+      "squares": 46,
+      "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/l3m0_n",
@@ -238,7 +239,8 @@
          "Chewy",
          "Vakrash",
          "Jibbe",
-         "KC_Brazos"
+         "KC_Brazos",
+         "AngryPhilosopher"
       ]
    },
    "Chewy": {

@@ -1,9 +1,145 @@
 [
    {
         "title": "Upcoming Match",
-        "firstPlayer": "AngryPhilosopher",
+        "firstPlayer": "Thomas",
+        "secondPlayer": "Steakslyons",
+        "scheduledAt": "07/31/2025 18:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Jibbe",
+        "secondPlayer": "AmplSi",
+        "scheduledAt": "07/31/2025 20:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Chewy",
+        "secondPlayer": "TurtleBeard",
+        "scheduledAt": "08/01/2025 00:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Azdomiel",
         "secondPlayer": "FalconRaven",
-        "scheduledAt": "07/24/2025 18:00:00 UTC",
+        "scheduledAt": "08/01/2025 13:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "KC_Brazos",
+        "secondPlayer": "Dyrax",
+        "scheduledAt": "08/01/2025 15:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Spfunk",
+        "secondPlayer": "AmplSi",
+        "scheduledAt": "08/01/2025 18:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Thomas",
+        "secondPlayer": "Blaze",
+        "scheduledAt": "08/01/2025 18:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Azdomiel",
+        "secondPlayer": "Chewy",
+        "scheduledAt": "08/02/2025 00:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Vegard",
+        "secondPlayer": "PhileyFinch",
+        "scheduledAt": "08/02/2025 01:30:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Azdomiel",
+        "secondPlayer": "TurtleBeard",
+        "scheduledAt": "08/02/2025 09:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Vegard",
+        "secondPlayer": "Samantha",
+        "scheduledAt": "08/02/2025 09:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Alenkor",
+        "secondPlayer": "Samantha",
+        "scheduledAt": "08/02/2025 13:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Vakrash",
+        "secondPlayer": "KC_Brazos",
+        "scheduledAt": "08/02/2025 14:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Jibbe",
+        "secondPlayer": "Spfunk",
+        "scheduledAt": "08/02/2025 17:30:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Chewy",
+        "secondPlayer": "FalconRaven",
+        "scheduledAt": "08/02/2025 17:30:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Dyrax",
+        "secondPlayer": "Belbo",
+        "scheduledAt": "08/02/2025 19:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Vord",
+        "secondPlayer": "Steakslyons",
+        "scheduledAt": "08/02/2025 19:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Alenkor",
+        "secondPlayer": "PhileyFinch",
+        "scheduledAt": "08/03/2025 13:00:00 UTC",
         "ref": "Open",
         "matchType": 1
    }

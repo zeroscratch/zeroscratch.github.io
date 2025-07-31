@@ -315,5 +315,25 @@
             "imageLink": "/img/rookie/Blaze-v-Falcon-Week2.png"
          }
       ]
+   },
+   { 
+      "week": 3,
+      "matches":
+      [
+         {  "gameId": 42, 
+            "player1": { "name": "Lemon", "score": 5, "outcome": "Bingo" }, 
+            "player2": { "name": "AngryPhilosopher", "score": 1, "outcome": "Lost" }, 
+            "matchTime": "00:43:09", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Lemon-v-AP-Week3.png"
+         },
+         {  "gameId": 43, 
+            "player1": { "name": "Vord", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "BlazeTheGible", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:44:19", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Vord-v-Blaze-Week3.png"
+         }
+      ]
    }
 ]
