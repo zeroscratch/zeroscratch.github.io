@@ -347,6 +347,27 @@
             "matchTime": "01:39:21", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Turtle-v-Chewy-Week3.png"
+         },
+         {  "gameId": 46, 
+            "player1": { "name": "FalconRaven", "score": 11, "outcome": "Majority" }, 
+            "player2": { "name": "Azdomiel", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/AZ-v-Falcon-Week3.png"
+         },
+         {  "gameId": 47, 
+            "player1": { "name": "Dyrax", "score": 6, "outcome": "Bingo" }, 
+            "player2": { "name": "KC_Brazos", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "00:55:31", 
+            "vodLink": "",
+            "imageLink": "/img/rookie/Dyrax-v-KC-Week3.png"
+         },
+         {  "gameId": 48, 
+            "player1": { "name": "Spfunkm", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "AmplSi", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:59:09", 
+            "vodLink": "",
+            "imageLink": "/img/rookie/Funk-v-Amp-Week3.png"
          }
       ]
    }
