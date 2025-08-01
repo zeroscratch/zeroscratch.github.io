@@ -31,9 +31,9 @@
    },
    "TurtleBeard": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 3,
-      "squares": 40,
+      "squares": 53,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -41,7 +41,8 @@
       "qualified": "maybe",
       "victory":
       [
-         "Thomas"
+         "Thomas",
+         "Chewy"
       ]
    },
    "Dyrax": {
@@ -145,7 +146,7 @@
    "AmplSi": {
       "standing": 0,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "squares": 29,
       "lines": 0,
       "games": 0,
@@ -160,10 +161,10 @@
    },
    "Thomas": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 2,
-      "squares": 34,
-      "lines": 1,
+      "squares": 45,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/pluryl",
@@ -171,15 +172,16 @@
       "victory":
       [
          "Alenkor",
-         "Vegard"
+         "Vegard",
+         "Steakslyons"
       ]
    },
    "Jibbe": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 2,
-      "squares": 33,
-      "lines": 2,
+      "squares": 46,
+      "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/jibbebot",
@@ -187,7 +189,8 @@
       "victory":
       [
          "Thomas",
-         "Chewy"
+         "Chewy",
+         "AmplSi"
       ]
    },
    "Vord": {
@@ -246,8 +249,8 @@
    "Chewy": {
       "standing": 0,
       "wins": 1,
-      "losses": 2,
-      "squares": 12,
+      "losses": 3,
+      "squares": 14,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -294,8 +297,8 @@
    "Steakslyons": {
       "standing": 0,
       "wins": 2,
-      "losses": 2,
-      "squares": 27,
+      "losses": 3,
+      "squares": 36,
       "lines": 0,
       "games": 0,
       "wr": "0%",

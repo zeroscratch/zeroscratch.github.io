@@ -333,6 +333,20 @@
             "matchTime": "01:44:19", 
             "vodLink": "", 
             "imageLink": "/img/rookie/Vord-v-Blaze-Week3.png"
+         },
+         {  "gameId": 44, 
+            "player1": { "name": "Thomas", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Steakslyons", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:44:42", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Thomas-v-Steaks-Week3.png"
+         },
+         {  "gameId": 45, 
+            "player1": { "name": "TurtleBeard", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Chewy", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "01:39:21", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Turtle-v-Chewy-Week3.png"
          }
       ]
    }
