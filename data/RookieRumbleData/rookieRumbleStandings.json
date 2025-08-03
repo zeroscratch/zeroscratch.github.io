@@ -2,13 +2,13 @@
    "PhileyFinch": {
       "standing": 0,
       "wins": 1,
-      "losses": 4,
-      "squares": 32,
+      "losses": 5,
+      "squares": 43,
       "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/phileyfinch",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Samantha Teapot"
@@ -23,7 +23,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/samanthateapot",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          
@@ -117,17 +117,17 @@
    },
    "Alenkor": {
       "standing": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 4,
-      "squares": 13,
+      "squares": 26,
       "lines": 0,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/alenkor94",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
-         
+         "PhileyFinch"
       ]
    },
    "AngryPhilosopher": {
@@ -241,7 +241,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/l3m0_n",
-      "qualified": "maybe",
+      "qualified": "yes",
       "victory":
       [
          "Chewy",
@@ -326,26 +326,10 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/azdomiel",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Samantha Teapot"
-      ]
-   },
-   "Belbo": {
-      "standing": 0,
-      "wins": 3,
-      "losses": 1,
-      "squares": 42,
-      "lines": 1,
-      "games": 0,
-      "wr": "0%",
-      "twitch": "https://www.twitch.tv/belbo786",
-      "qualified": "maybe",
-      "victory":
-      [
-         "Azdomiel",
-         "FalconRaven"
       ]
    },
    "Vegard": {

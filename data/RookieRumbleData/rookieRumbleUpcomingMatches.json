@@ -142,5 +142,13 @@
         "scheduledAt": "08/03/2025 13:00:00 UTC",
         "ref": "Open",
         "matchType": 1
+   },
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Jxxman",
+        "secondPlayer": "Vakrash",
+        "scheduledAt": "08/03/2025 20:00:00 UTC",
+        "ref": "Open",
+        "matchType": 1
    }
 ]

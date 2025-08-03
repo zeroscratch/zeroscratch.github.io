@@ -424,6 +424,13 @@
             "matchTime": "01:33:03",
             "vodLink": "",
             "imageLink": "/img/rookie/Vord-v-Steaks-Week3.png"
+         },
+         {  "gameId": 57,
+            "player1": { "name": "Alenkor", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "PhileyFinch", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:46:39",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Finch-v-Alenkor-Week3.png"
          }
       ]
    }
