@@ -2,8 +2,8 @@
    "PhileyFinch": {
       "standing": 0,
       "wins": 1,
-      "losses": 3,
-      "squares": 23,
+      "losses": 4,
+      "squares": 32,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -17,8 +17,8 @@
    "Samantha Teapot": {
       "standing": 0,
       "wins": 0,
-      "losses": 4,
-      "squares": 9,
+      "losses": 5,
+      "squares": 11,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -31,10 +31,10 @@
    },
    "TurtleBeard": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
-      "squares": 53,
-      "lines": 1,
+      "squares": 60,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/turtlebeard",
@@ -42,7 +42,8 @@
       "victory":
       [
          "Thomas",
-         "Chewy"
+         "Chewy",
+         "Azdomiel"
       ]
    },
    "Dyrax": {
@@ -82,9 +83,9 @@
    },
    "BlazeTheGible": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
-      "squares": 49,
+      "squares": 62,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -93,7 +94,8 @@
       "victory":
       [
          "PhileyFinch",
-         "FalconRaven"
+         "FalconRaven",
+         "Thomas"
       ]
    },
    "Jxxman": {
@@ -163,8 +165,8 @@
    "Thomas": {
       "standing": 0,
       "wins": 3,
-      "losses": 2,
-      "squares": 45,
+      "losses": 3,
+      "squares": 56,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -179,10 +181,10 @@
    },
    "Jibbe": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
-      "squares": 46,
-      "lines": 3,
+      "squares": 59,
+      "lines": 4,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/jibbebot",
@@ -191,14 +193,15 @@
       [
          "Thomas",
          "Chewy",
-         "AmplSi"
+         "AmplSi",
+         "Space Patrol Funk Machine"
       ]
    },
    "Vord": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
-      "squares": 50,
+      "squares": 63,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -208,7 +211,8 @@
       [
          "Alenkor",
          "Vegard",
-         "BlazeTheGible"
+         "BlazeTheGible",
+         "Steakslyons"
       ]
    },
    "Vexphile": {
@@ -249,9 +253,9 @@
    },
    "Chewy": {
       "standing": 0,
-      "wins": 1,
-      "losses": 3,
-      "squares": 14,
+      "wins": 2,
+      "losses": 4,
+      "squares": 28,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -259,14 +263,15 @@
       "qualified": "maybe",
       "victory":
       [
-         "Samantha Teapot"
+         "Samantha Teapot",
+         "Azdomiel"
       ]
    },
    "Space Patrol Funk Machine": {
       "standing": 0,
       "wins": 3,
-      "losses": 2,
-      "squares": 38,
+      "losses": 3,
+      "squares": 44,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -299,8 +304,8 @@
    "Steakslyons": {
       "standing": 0,
       "wins": 2,
-      "losses": 3,
-      "squares": 36,
+      "losses": 4,
+      "squares": 42,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -315,8 +320,8 @@
    "Azdomiel": {
       "standing": 0,
       "wins": 1,
-      "losses": 3,
-      "squares": 23,
+      "losses": 4,
+      "squares": 31,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -345,9 +350,9 @@
    },
    "Vegard": {
       "standing": 0,
-      "wins": 1,
+      "wins": 3,
       "losses": 3,
-      "squares": 19,
+      "squares": 45,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -355,14 +360,16 @@
       "qualified": "maybe",
       "victory":
       [
-         "Alenkor"
+         "Alenkor",
+         "PhileyFinch",
+         "Samantha Teapot"
       ]
    },
    "Falconraven": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 3,
-      "squares": 44,
+      "squares": 57,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -371,7 +378,8 @@
       "victory":
       [
          "Vegard",
-         "Azdomiel"
+         "Azdomiel",
+         "Chewy"
       ]
    }
 }

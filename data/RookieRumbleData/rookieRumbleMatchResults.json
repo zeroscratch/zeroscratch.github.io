@@ -368,6 +368,62 @@
             "matchTime": "01:59:09", 
             "vodLink": "",
             "imageLink": "/img/rookie/Funk-v-Amp-Week3.png"
+         },
+         {  "gameId": 49,
+            "player1": { "name": "BlazeTheGible", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Thomas", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:43:07",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Blaze-v-Thomas-Week3.png"
+         },
+         {  "gameId": 50,
+            "player1": { "name": "Chewy", "score": 9, "outcome": "Majority" },
+            "player2": { "name": "Azdomiel", "score": 8, "outcome": "Lost" },
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/AZ-v-Chewy-Week3.png"
+         },
+         {  "gameId": 51,
+            "player1": { "name": "Vegard", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "PhileyFinch", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:41:30",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vegard-v-Finch-Week3.png"
+         },
+         {  "gameId": 52,
+            "player1": { "name": "TurtleBeard", "score": 7, "outcome": "Bingo" },
+            "player2": { "name": "Azdomiel", "score": 3, "outcome": "Lost" },
+            "matchTime": "01:09:17",
+            "vodLink": "",
+            "imageLink": "/img/rookie/AZ-v-Turtle-Week3.png"
+         },
+         {  "gameId": 53,
+            "player1": { "name": "Vegard", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Samantha Teapot", "score": 2, "outcome": "Lost" },
+            "matchTime": "01:31:41",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vegard-v-Samantha-Week3.png"
+         },
+         {  "gameId": 54,
+            "player1": { "name": "FalconRaven", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Chewy", "score": 5, "outcome": "Lost" },
+            "matchTime": "01:43:32",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Falcon-v-Chewy-Week3.png"
+         },
+         {  "gameId": 55,
+            "player1": { "name": "Jibbe", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Spfunkm", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:24:21",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Jibbe-v-Funk-Week3.png"
+         },
+         {  "gameId": 56,
+            "player1": { "name": "Vord", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Steakslyons", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:33:03",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vord-v-Steaks-Week3.png"
          }
       ]
    }
