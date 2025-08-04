@@ -17,7 +17,7 @@
    "Samantha Teapot": {
       "standing": 0,
       "wins": 0,
-      "losses": 5,
+      "losses": 6,
       "squares": 11,
       "lines": 0,
       "games": 0,
@@ -48,14 +48,14 @@
    },
    "Dyrax": {
       "standing": 0,
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "squares": 43,
       "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/dyrax999",
-      "qualified": "maybe",
+      "qualified": "yes",
       "victory":
       [
          "TurtleBeard",
@@ -67,8 +67,8 @@
    "KC_Brazos": {
       "standing": 0,
       "wins": 3,
-      "losses": 2,
-      "squares": 40,
+      "losses": 3,
+      "squares": 42,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -101,8 +101,8 @@
    "Jxxman": {
       "standing": 0,
       "wins": 3,
-      "losses": 1,
-      "squares": 49,
+      "losses": 2,
+      "squares": 57,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -117,17 +117,18 @@
    },
    "Alenkor": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 4,
-      "squares": 26,
-      "lines": 0,
+      "squares": 32,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/alenkor94",
       "qualified": "no",
       "victory":
       [
-         "PhileyFinch"
+         "PhileyFinch",
+         "Samantha Teapot"
       ]
    },
    "AngryPhilosopher": {
@@ -260,7 +261,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Samantha Teapot",
@@ -286,19 +287,21 @@
    },
    "Vakrash": {
       "standing": 0,
-      "wins": 3,
+      "wins": 5,
       "losses": 1,
-      "squares": 44,
-      "lines": 2,
+      "squares": 67,
+      "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vakrash",
-      "qualified": "maybe",
+      "qualified": "yes",
       "victory":
       [
          "Space Patrol Funk Machine",
          "BlazeTheGible",
-         "Vord"
+         "Vord",
+         "KC_Brazos",
+         "Jxxman"
       ]
    },
    "Steakslyons": {
@@ -310,7 +313,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/steakslyons",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Azdomiel",
@@ -320,8 +323,8 @@
    "Azdomiel": {
       "standing": 0,
       "wins": 1,
-      "losses": 4,
-      "squares": 31,
+      "losses": 5,
+      "squares": 34,
       "lines": 0,
       "games": 0,
       "wr": "0%",
