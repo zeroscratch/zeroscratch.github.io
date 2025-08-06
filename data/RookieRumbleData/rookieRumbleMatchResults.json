@@ -454,5 +454,18 @@
             "imageLink": "/img/rookie/Vakrash-v-Jxxman-Week3.png"
          }
       ]
+   },
+   { 
+      "week": 4,
+      "matches":
+      [
+         {  "gameId": 61, 
+            "player1": { "name": "Vexphile", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Lemon", "score": 12, "outcome": "Lost" }, 
+            "matchTime": "01:42:19", 
+            "vodLink": "", 
+            "imageLink": "/img/rookie/Vex-v-Lemon-Week4.png"
+         }
+      ]
    }
 ]
