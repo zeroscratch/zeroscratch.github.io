@@ -137,13 +137,13 @@
    "AngryPhilosopher": {
       "standing": 0,
       "wins": 3,
-      "losses": 2,
-      "squares": 35,
+      "losses": 4,
+      "squares": 40,
       "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "AmplSi",
