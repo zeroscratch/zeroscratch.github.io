@@ -1,9 +1,9 @@
 {
    "PhileyFinch": {
       "standing": 0,
-      "wins": 1,
+      "wins": 2,
       "losses": 5,
-      "squares": 43,
+      "squares": 51,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -11,7 +11,8 @@
       "qualified": "no",
       "victory":
       [
-         "Samantha Teapot"
+         "Samantha Teapot",
+         "Chewy"
       ]
    },
    "Samantha Teapot": {
@@ -31,9 +32,9 @@
    },
    "TurtleBeard": {
       "standing": 0,
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
-      "squares": 68,
+      "squares": 81,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -43,7 +44,8 @@
       [
          "Thomas",
          "Chewy",
-         "Azdomiel"
+         "Azdomiel",
+         "BlazeTheGible"
       ]
    },
    "Dyrax": {
@@ -73,7 +75,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/kc_brazos",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "BlazeTheGible",
@@ -84,13 +86,13 @@
    "BlazeTheGible": {
       "standing": 0,
       "wins": 3,
-      "losses": 3,
-      "squares": 62,
+      "losses": 4,
+      "squares": 74,
       "lines": 0,
       "games": 0,
       "wr": "0%",
       "twitch": "",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "PhileyFinch",
@@ -262,8 +264,8 @@
    "Chewy": {
       "standing": 0,
       "wins": 2,
-      "losses": 4,
-      "squares": 28,
+      "losses": 5,
+      "squares": 35,
       "lines": 0,
       "games": 0,
       "wr": "0%",

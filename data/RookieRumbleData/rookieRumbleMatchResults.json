@@ -528,6 +528,20 @@
             "matchTime": "01:09:21", 
             "vodLink": "",
             "imageLink": "/img/rookie/Lemon-v-Dyrax-Week4.png"
+         },
+         {  "gameId": 71, 
+            "player1": { "name": "TurtleBeard", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "BlazeTheGible", "score": 12, "outcome": "Lost" }, 
+            "matchTime": "01:52:17",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Turtle-v-Blaze-Week4.png"
+         },
+         {  "gameId": 72, 
+            "player1": { "name": "PhileyFinch", "score": 8, "outcome": "Majority" }, 
+            "player2": { "name": "Chewy", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Finch-v-Chewy-Week4.png"
          }
       ]
    }
