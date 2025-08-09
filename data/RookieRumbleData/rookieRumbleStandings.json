@@ -137,13 +137,13 @@
    "AngryPhilosopher": {
       "standing": 0,
       "wins": 3,
-      "losses": 3,
-      "squares": 40,
+      "losses": 4,
+      "squares": 48,
       "lines": 3,
       "games": 0,
       "wr": "0%",
       "twitch": "",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "AmplSi",
@@ -187,20 +187,21 @@
    },
    "Jibbe": {
       "standing": 0,
-      "wins": 4,
+      "wins": 5,
       "losses": 2,
-      "squares": 59,
+      "squares": 72,
       "lines": 4,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/jibbebot",
-      "qualified": "maybe",
+      "qualified": "yes",
       "victory":
       [
          "Thomas",
          "Chewy",
          "AmplSi",
-         "Space Patrol Funk Machine"
+         "Space Patrol Funk Machine",
+         "AngryPhilosopher"
       ]
    },
    "Vord": {
@@ -224,8 +225,8 @@
    "Vexphile": {
       "standing": 0,
       "wins": 6,
-      "losses": 0,
-      "squares": 75,
+      "losses": 1,
+      "squares": 86,
       "lines": 2,
       "games": 0,
       "wr": "0%",
@@ -280,13 +281,13 @@
    "Space Patrol Funk Machine": {
       "standing": 0,
       "wins": 3,
-      "losses": 3,
-      "squares": 44,
+      "losses": 4,
+      "squares": 54,
       "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Samantha Teapot",
@@ -296,9 +297,9 @@
    },
    "Vakrash": {
       "standing": 0,
-      "wins": 5,
+      "wins": 6,
       "losses": 1,
-      "squares": 67,
+      "squares": 80,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -310,7 +311,8 @@
          "BlazeTheGible",
          "Vord",
          "KC_Brazos",
-         "Jxxman"
+         "Jxxman",
+         "Vexphile"
       ]
    },
    "Steakslyons": {
@@ -365,9 +367,9 @@
    },
    "Falconraven": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
-      "squares": 57,
+      "squares": 69,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -377,7 +379,8 @@
       [
          "Vegard",
          "Azdomiel",
-         "Chewy"
+         "Chewy",
+         "Space Patrol Funk Machine"
       ]
    }
 }

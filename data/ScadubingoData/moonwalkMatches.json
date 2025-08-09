@@ -46,30 +46,30 @@
    "Semifinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Strump", "score": 0, "outcome": "" },
-         "player2": { "name": "Jay", "score": 0, "outcome": "" },
+         "player1": { "name": "Strump", "score": 5, "outcome": "Lost" },
+         "player2": { "name": "Jay", "score": 7, "outcome": "Majority" },
          "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "vodLink": "https://www.twitch.tv/videos/2535478661?t=00h07m20s",
+         "imageLink": "/img/scadubingo/strump-v-jay-semifinals-moonwalk.png",
          "scheduledAt": ""
       }
    ],
    "Semifinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Dino", "score": 0, "outcome": "" },
-         "player2": { "name": "HooZher", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Dino", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "HooZher", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:42:58",
+         "vodLink": "https://www.twitch.tv/videos/2534860997?t=00h05m08s",
+         "imageLink": "/img/scadubingo/hoozher-v-dino-semifinals-moonwalk.png",
          "scheduledAt": ""
       }
    ],
    "Finals": [
       {
          "gameid": 1,
-         "player1": { "name": "TBD", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player1": { "name": "Jay", "score": 0, "outcome": "" },
+         "player2": { "name": "HooZher", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",

@@ -542,6 +542,27 @@
             "matchTime": "02:00:00",
             "vodLink": "",
             "imageLink": "/img/rookie/Finch-v-Chewy-Week4.png"
+         },
+         {  "gameId": 73, 
+            "player1": { "name": "Jibbe", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "AngryPhilosopher", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "01:28:55",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Jibbe-v-AP-Week4.png"
+         },
+         {  "gameId": 74, 
+            "player1": { "name": "Vakrash", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Vexphile", "score": 11, "outcome": "Lost" }, 
+            "matchTime": "01:39:07",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vakrash-v-Vex-Week4.png"
+         },
+         {  "gameId": 75, 
+            "player1": { "name": "FalconRaven", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "Spfunkm", "score": 10, "outcome": "Lost" }, 
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Falcon-v-Funk-Week4.png"
          }
       ]
    }
