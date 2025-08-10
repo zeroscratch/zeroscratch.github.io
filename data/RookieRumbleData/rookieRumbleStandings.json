@@ -1,9 +1,9 @@
 {
    "PhileyFinch": {
       "standing": 0,
-      "wins": 2,
+      "wins": 3,
       "losses": 5,
-      "squares": 51,
+      "squares": 60,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -12,14 +12,15 @@
       "victory":
       [
          "Samantha Teapot",
-         "Chewy"
+         "Chewy",
+         "Azdomiel"
       ]
    },
    "Samantha Teapot": {
       "standing": 0,
       "wins": 0,
-      "losses": 7,
-      "squares": 15,
+      "losses": 8,
+      "squares": 16,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -51,8 +52,8 @@
    "Dyrax": {
       "standing": 0,
       "wins": 5,
-      "losses": 2,
-      "squares": 48,
+      "losses": 3,
+      "squares": 53,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -68,10 +69,10 @@
    },
    "KC_Brazos": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
-      "squares": 48,
-      "lines": 1,
+      "squares": 59,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/kc_brazos",
@@ -80,7 +81,8 @@
       [
          "BlazeTheGible",
          "Steakslyons",
-         "Belbo"
+         "Belbo",
+         "Space Patrol Funk Machine"
       ]
    },
    "BlazeTheGible": {
@@ -284,8 +286,8 @@
    "Space Patrol Funk Machine": {
       "standing": 0,
       "wins": 3,
-      "losses": 4,
-      "squares": 54,
+      "losses": 5,
+      "squares": 61,
       "lines": 1,
       "games": 0,
       "wr": "0%",
@@ -300,9 +302,9 @@
    },
    "Vakrash": {
       "standing": 0,
-      "wins": 6,
+      "wins": 7,
       "losses": 1,
-      "squares": 80,
+      "squares": 93,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -315,7 +317,8 @@
          "Vord",
          "KC_Brazos",
          "Jxxman",
-         "Vexphile"
+         "Vexphile",
+         "Dyrax"
       ]
    },
    "Steakslyons": {
@@ -337,10 +340,10 @@
    },
    "Azdomiel": {
       "standing": 0,
-      "wins": 1,
-      "losses": 5,
-      "squares": 34,
-      "lines": 0,
+      "wins": 2,
+      "losses": 6,
+      "squares": 48,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/azdomiel",

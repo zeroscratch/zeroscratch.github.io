@@ -584,6 +584,34 @@
             "matchTime": "00:55:55",
             "vodLink": "",
             "imageLink": "/img/rookie/Jibbe-v-Vegard-Week4.png"
+         },
+         {  "gameId": 79, 
+            "player1": { "name": "PhileyFinch", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Azdomiel", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Finch-v-Azdomiel-Week4.png"
+         },
+         {  "gameId": 80, 
+            "player1": { "name": "Azdomiel", "score": 7, "outcome": "Bingo" }, 
+            "player2": { "name": "Samantha Teapot", "score": 1, "outcome": "Lost" }, 
+            "matchTime": "01:22:58",
+            "vodLink": "",
+            "imageLink": "/img/rookie/AZ-v-Samantha-Week4.png"
+         },
+         {  "gameId": 81, 
+            "player1": { "name": "Vakrash", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Dyrax", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "01:18:46",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vakrash-v-Dyrax-Week4.png"
+         },
+         {  "gameId": 82, 
+            "player1": { "name": "KC_Brazos", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Spfunkm", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "01:35:21",
+            "vodLink": "",
+            "imageLink": "/img/rookie/KC-v-Funk-Week4.png"
          }
       ]
    }

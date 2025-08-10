@@ -68,11 +68,11 @@
    "Finals": [
       {
          "gameid": 1,
-         "player1": { "name": "Jay", "score": 0, "outcome": "" },
-         "player2": { "name": "HooZher", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Jay", "score": 8, "outcome": "Majority" },
+         "player2": { "name": "HooZher", "score": 4, "outcome": "Lost" },
+         "matchTime": "00:56:36",
+         "vodLink": "https://www.twitch.tv/videos/2536403518?t=00h10m53s",
+         "imageLink": "/img/scadubingo/hoozher-v-j-finals-moonwalk.png",
          "scheduledAt": ""
       }
    ]
