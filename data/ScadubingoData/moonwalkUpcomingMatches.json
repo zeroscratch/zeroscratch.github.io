@@ -1,10 +1,10 @@
 [
    {
         "title": "Upcoming Match",
-        "firstPlayer": "HooZher",
-        "secondPlayer": "Dino",
-        "scheduledAt": "08/08/2025 22:00:00 UTC",
-        "bracket": "Semifinals",
+        "firstPlayer": "Jay",
+        "secondPlayer": "HooZher",
+        "scheduledAt": "08/10/2025 15:00:00 UTC",
+        "bracket": "Finals",
         "matchType": 1
     }
 ]

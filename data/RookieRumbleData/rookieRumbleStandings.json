@@ -119,10 +119,10 @@
    },
    "Alenkor": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
-      "squares": 45,
-      "lines": 1,
+      "squares": 53,
+      "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/alenkor94",
@@ -131,7 +131,8 @@
       [
          "PhileyFinch",
          "Samantha Teapot",
-         "Steakslyons"
+         "Steakslyons",
+         "Chewy"
       ]
    },
    "AngryPhilosopher": {
@@ -187,10 +188,10 @@
    },
    "Jibbe": {
       "standing": 0,
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
-      "squares": 72,
-      "lines": 4,
+      "squares": 80,
+      "lines": 5,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/jibbebot",
@@ -201,14 +202,15 @@
          "Chewy",
          "AmplSi",
          "Space Patrol Funk Machine",
-         "AngryPhilosopher"
+         "AngryPhilosopher",
+         "Vegard"
       ]
    },
    "Vord": {
       "standing": 0,
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
-      "squares": 75,
+      "squares": 88,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -219,7 +221,8 @@
          "Alenkor",
          "Vegard",
          "BlazeTheGible",
-         "Steakslyons"
+         "Steakslyons",
+         "FalconRaven"
       ]
    },
    "Vexphile": {
@@ -265,8 +268,8 @@
    "Chewy": {
       "standing": 0,
       "wins": 2,
-      "losses": 5,
-      "squares": 35,
+      "losses": 6,
+      "squares": 40,
       "lines": 0,
       "games": 0,
       "wr": "0%",
@@ -350,13 +353,13 @@
    "Vegard": {
       "standing": 0,
       "wins": 4,
-      "losses": 3,
-      "squares": 53,
+      "losses": 4,
+      "squares": 56,
       "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vegarddddddd",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Alenkor",
@@ -368,13 +371,13 @@
    "Falconraven": {
       "standing": 0,
       "wins": 4,
-      "losses": 3,
-      "squares": 69,
+      "losses": 4,
+      "squares": 76,
       "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/falconraven",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Vegard",

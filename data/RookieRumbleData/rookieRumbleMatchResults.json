@@ -196,8 +196,8 @@
             "imageLink": "/img/rookie/Thomas-v-Alenkor-Week2.png"
          },
          {  "gameId": 25,
-            "player1": { "name": "TurtleBeard", "score": 12, "outcome": "Majority" }, 
-            "player2": { "name": "AmplSi", "score": 12, "outcome": "Lost" }, 
+            "player1": { "name": "AmplSi", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "TurtleBeard", "score": 12, "outcome": "Lost" }, 
             "matchTime": "02:15:00", 
             "vodLink": "", 
             "imageLink": "/img/rookie/AmplSi-v-TurtleBeard-Week2.png"
@@ -563,6 +563,27 @@
             "matchTime": "02:00:00",
             "vodLink": "",
             "imageLink": "/img/rookie/Falcon-v-Funk-Week4.png"
+         },
+         {  "gameId": 76, 
+            "player1": { "name": "Alenkor", "score": 8, "outcome": "Bingo" }, 
+            "player2": { "name": "Chewy", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "01:11:28",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Alenkor-v-Chewy-Week4.png"
+         },
+         {  "gameId": 77, 
+            "player1": { "name": "Vord", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "FalconRaven", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "01:46:36",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Vord-v-Falcon-Week4.png"
+         },
+         {  "gameId": 78, 
+            "player1": { "name": "Jibbe", "score": 8, "outcome": "Bingo" }, 
+            "player2": { "name": "Vegard", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "00:55:55",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Jibbe-v-Vegard-Week4.png"
          }
       ]
    }
