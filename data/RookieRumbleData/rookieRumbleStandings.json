@@ -40,7 +40,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/turtlebeard",
-      "qualified": "maybe",
+      "qualified": "yes",
       "victory":
       [
          "Thomas",
@@ -88,7 +88,7 @@
    "BlazeTheGible": {
       "standing": 0,
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "squares": 74,
       "lines": 0,
       "games": 0,
@@ -104,19 +104,20 @@
    },
    "Jxxman": {
       "standing": 0,
-      "wins": 3,
-      "losses": 3,
-      "squares": 59,
+      "wins": 4,
+      "losses": 4,
+      "squares": 78,
       "lines": 2,
       "games": 0,
       "wr": "0%",
       "twitch": "",
-      "qualified": "maybe",
+      "qualified": "no",
       "victory":
       [
          "Alenkor",
          "Steakslyons",
-         "PhileyFinch"
+         "PhileyFinch",
+         "Vexphile"
       ]
    },
    "Alenkor": {
@@ -139,9 +140,9 @@
    },
    "AngryPhilosopher": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
-      "squares": 48,
+      "squares": 61,
       "lines": 3,
       "games": 0,
       "wr": "0%",
@@ -150,15 +151,16 @@
       "victory":
       [
          "AmplSi",
-         "FalconRaven"
+         "FalconRaven",
+         "Jxxman"
       ]
    },
    "AmplSi": {
       "standing": 0,
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
-      "squares": 41,
-      "lines": 0,
+      "squares": 54,
+      "lines": 1,
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/amplsi",
@@ -166,7 +168,8 @@
       "victory":
       [
          "Jxxman",
-         "TurtleBeard"
+         "TurtleBeard",
+         "BlazeTheGible"
       ]
    },
    "Thomas": {
@@ -178,7 +181,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/pluryl",
-      "qualified": "maybe",
+      "qualified": "yes",
       "victory":
       [
          "Alenkor",
@@ -217,7 +220,7 @@
       "games": 0,
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vord_sr",
-      "qualified": "maybe",
+      "qualified": "yes",
       "victory":
       [
          "Alenkor",
@@ -230,8 +233,8 @@
    "Vexphile": {
       "standing": 0,
       "wins": 6,
-      "losses": 1,
-      "squares": 86,
+      "losses": 2,
+      "squares": 97,
       "lines": 2,
       "games": 0,
       "wr": "0%",

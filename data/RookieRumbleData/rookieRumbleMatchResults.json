@@ -612,6 +612,20 @@
             "matchTime": "01:35:21",
             "vodLink": "",
             "imageLink": "/img/rookie/KC-v-Funk-Week4.png"
+         },
+         {  "gameId": 83, 
+            "player1": { "name": "AngryPhilosopher", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Jxxman", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:34:32",
+            "vodLink": "",
+            "imageLink": "/img/rookie/AP-v-Jxxman-Week4.png"
+         },
+         {  "gameId": 84, 
+            "player1": { "name": "Jxxman", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Vexphile", "score": 11, "outcome": "Lost" }, 
+            "matchTime": "01:38:56",
+            "vodLink": "",
+            "imageLink": "/img/rookie/Jxxman-v-Vex-Week4.png"
          }
       ]
    }
