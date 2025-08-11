@@ -9,6 +9,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/phileyfinch",
       "qualified": "no",
+      "opponentWins": 22,
+      "opponentLoss": 42,
       "victory":
       [
          "Samantha Teapot",
@@ -26,6 +28,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/samanthateapot",
       "qualified": "no",
+      "opponentWins": 23,
+      "opponentLoss": 41,
       "victory":
       [
          
@@ -41,6 +45,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/turtlebeard",
       "qualified": "yes",
+      "opponentWins": 28,
+      "opponentLoss": 36,
       "victory":
       [
          "Thomas",
@@ -59,6 +65,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/dyrax999",
       "qualified": "yes",
+      "opponentWins": 36,
+      "opponentLoss": 20,
       "victory":
       [
          "TurtleBeard",
@@ -77,6 +85,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/kc_brazos",
       "qualified": "no",
+      "opponentWins": 32,
+      "opponentLoss": 24,
       "victory":
       [
          "BlazeTheGible",
@@ -95,6 +105,8 @@
       "wr": "0%",
       "twitch": "",
       "qualified": "no",
+      "opponentWins": 33,
+      "opponentLoss": 23,
       "victory":
       [
          "PhileyFinch",
@@ -112,6 +124,8 @@
       "wr": "0%",
       "twitch": "",
       "qualified": "no",
+      "opponentWins": 32,
+      "opponentLoss": 24,
       "victory":
       [
          "Alenkor",
@@ -130,6 +144,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/alenkor94",
       "qualified": "no",
+      "opponentWins": 22,
+      "opponentLoss": 34,
       "victory":
       [
          "PhileyFinch",
@@ -148,6 +164,8 @@
       "wr": "0%",
       "twitch": "",
       "qualified": "no",
+      "opponentWins": 36,
+      "opponentLoss": 20,
       "victory":
       [
          "AmplSi",
@@ -165,6 +183,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/amplsi",
       "qualified": "no",
+      "opponentWins": 26,
+      "opponentLoss": 22,
       "victory":
       [
          "Jxxman",
@@ -182,6 +202,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/pluryl",
       "qualified": "yes",
+      "opponentWins": 33,
+      "opponentLoss": 31,
       "victory":
       [
          "Alenkor",
@@ -201,6 +223,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/jibbebot",
       "qualified": "yes",
+      "opponentWins": 31,
+      "opponentLoss": 25,
       "victory":
       [
          "Thomas",
@@ -221,6 +245,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vord_sr",
       "qualified": "yes",
+      "opponentWins": 39,
+      "opponentLoss": 25,
       "victory":
       [
          "Alenkor",
@@ -240,6 +266,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vexphile",
       "qualified": "yes",
+      "opponentWins": 38,
+      "opponentLoss": 18,
       "victory":
       [
          "Dyrax",
@@ -259,6 +287,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/l3m0_n",
       "qualified": "yes",
+      "opponentWins": 39,
+      "opponentLoss": 25,
       "victory":
       [
          "Chewy",
@@ -280,6 +310,8 @@
       "wr": "0%",
       "twitch": "",
       "qualified": "no",
+      "opponentWins": 27,
+      "opponentLoss": 29,
       "victory":
       [
          "Samantha Teapot",
@@ -296,6 +328,8 @@
       "wr": "0%",
       "twitch": "",
       "qualified": "no",
+      "opponentWins": 35,
+      "opponentLoss": 29,
       "victory":
       [
          "Samantha Teapot",
@@ -313,6 +347,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vakrash",
       "qualified": "yes",
+      "opponentWins": 37,
+      "opponentLoss": 28,
       "victory":
       [
          "Space Patrol Funk Machine",
@@ -334,6 +370,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/steakslyons",
       "qualified": "no",
+      "opponentWins": 27,
+      "opponentLoss": 37,
       "victory":
       [
          "Azdomiel",
@@ -351,6 +389,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/azdomiel",
       "qualified": "no",
+      "opponentWins": 17,
+      "opponentLoss": 39,
       "victory":
       [
          "Samantha Teapot"
@@ -366,6 +406,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/vegarddddddd",
       "qualified": "no",
+      "opponentWins": 27,
+      "opponentLoss": 29,
       "victory":
       [
          "Alenkor",
@@ -384,6 +426,8 @@
       "wr": "0%",
       "twitch": "https://www.twitch.tv/falconraven",
       "qualified": "no",
+      "opponentWins": 19,
+      "opponentLoss": 29,
       "victory":
       [
          "Vegard",
