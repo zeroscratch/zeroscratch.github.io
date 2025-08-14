@@ -13,22 +13,22 @@
    "Quarterfinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Jibbe", "score": 0, "outcome": "" },
-         "player2": { "name": "Dyrax", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Jibbe", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Dyrax", "score": 8, "outcome": "Lost" },
+         "matchTime": "01:28:29",
+         "vodLink": "https://www.twitch.tv/videos/2540022415?t=02h21m43s",
+         "imageLink": "/img/rookie/Jibbe-v-Dyrax-Quarterfinals.png",
          "scheduledAt": ""
       }
    ],
    "Quarterfinals-3": [
       {
          "gameid": 1,
-         "player1": { "name": "Vakrash", "score": 0, "outcome": "" },
-         "player2": { "name": "Thomas", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Vakrash", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Thomas", "score": 12, "outcome": "Lost" },
+         "matchTime": "01:49:37",
+         "vodLink": "https://www.twitch.tv/videos/2540022415?t=00h14m42s",
+         "imageLink": "/img/rookie/Vakrash-v-Thomas-Quarterfinals.png",
          "scheduledAt": ""
       }
    ],
@@ -47,7 +47,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Lemon", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "Jibbe", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -58,7 +58,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Vexphile", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "Vakrash", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -91,7 +91,7 @@
       {
          "gameid": 1,
          "player1": { "name": "TurtleBeard", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "Dyrax", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -102,7 +102,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Vord", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "Thomas", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
