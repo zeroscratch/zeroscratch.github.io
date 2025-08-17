@@ -1,34 +1,34 @@
 [
    {
         "title": "Upcoming Match",
-        "firstPlayer": "Lemon",
-        "secondPlayer": "TurtleBeard",
-        "scheduledAt": "08/13/2025 18:00:00 UTC",
-        "ref": "Quarterfinals Match",
+        "firstPlayer": "TurtleBeard",
+        "secondPlayer": "Dyrax",
+        "scheduledAt": "08/17/2025 20:00:00 UTC",
+        "ref": "Losers Round 1",
         "matchType": 1
    },
    {
         "title": "Upcoming Match",
-        "firstPlayer": "Vexphile",
+        "firstPlayer": "Thomas",
         "secondPlayer": "Vord",
-        "scheduledAt": "08/13/2025 20:00:00 UTC",
-        "ref": "Quarterfinals Match",
+        "scheduledAt": "08/18/2025 18:00:00 UTC",
+        "ref": "Losers Round 1",
         "matchType": 1
    },
    {
         "title": "Upcoming Match",
         "firstPlayer": "Vakrash",
-        "secondPlayer": "Thomas",
-        "scheduledAt": "08/14/2025 19:00:00 UTC",
-        "ref": "Quarterfinals Match",
+        "secondPlayer": "Vexphile",
+        "scheduledAt": "08/18/2025 20:00:00 UTC",
+        "ref": "Semifinals",
         "matchType": 1
    },
    {
         "title": "Upcoming Match",
-        "firstPlayer": "Jibbe",
-        "secondPlayer": "Dyrax",
-        "scheduledAt": "08/14/2025 21:00:00 UTC",
-        "ref": "Quarterfinals Match",
+        "firstPlayer": "Lemon",
+        "secondPlayer": "Jibbe",
+        "scheduledAt": "08/18/2025 22:00:00 UTC",
+        "ref": "Semifinals",
         "matchType": 1
    }
 ]
