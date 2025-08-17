@@ -90,11 +90,11 @@
    "LosersRound1-1": [
       {
          "gameid": 1,
-         "player1": { "name": "TurtleBeard", "score": 0, "outcome": "" },
-         "player2": { "name": "Dyrax", "score": 0, "outcome": "" },
+         "player1": { "name": "TurtleBeard", "score": 7, "outcome": "Lost" },
+         "player2": { "name": "Dyrax", "score": 13, "outcome": "Majority" },
          "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "vodLink": "https://www.twitch.tv/videos/2542775319?t=00h21m40s",
+         "imageLink": "/img/rookie/Dyrax-v-Turtle-LosersRound1.png",
          "scheduledAt": ""
       }
    ],
@@ -112,7 +112,7 @@
    "LosersQuarterfinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "TBD", "score": 0, "outcome": "" },
+         "player1": { "name": "Dyrax", "score": 0, "outcome": "" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
