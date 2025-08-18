@@ -47,7 +47,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Strump", "score": 5, "outcome": "Lost" },
-         "player2": { "name": "Jay", "score": 7, "outcome": "Majority" },
+         "player2": { "name": "Jay", "score": 7, "outcome": "Bingo" },
          "matchTime": "00:00:00",
          "vodLink": "https://www.twitch.tv/videos/2535478661?t=00h07m20s",
          "imageLink": "/img/scadubingo/strump-v-jay-semifinals-moonwalk.png",
@@ -68,7 +68,7 @@
    "Finals": [
       {
          "gameid": 1,
-         "player1": { "name": "Jay", "score": 8, "outcome": "Majority" },
+         "player1": { "name": "Jay", "score": 8, "outcome": "Bingo" },
          "player2": { "name": "HooZher", "score": 4, "outcome": "Lost" },
          "matchTime": "00:56:36",
          "vodLink": "https://www.twitch.tv/videos/2536403518?t=00h10m53s",

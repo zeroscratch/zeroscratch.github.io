@@ -1,0 +1,489 @@
+[
+    {"name": "Kill Rellana after 6 parries", "category": "Rellana"},
+    {"name": "Kill Rellana after 6 parries", "category": "Rellana"},
+    {"name": "Kill Rellana after 6 parries", "category": "Rellana"},
+    {"name": "Kill Rellana after 6 parries", "category": "Rellana"},
+    {"name": "Kill Rellana, Twin Moon Knight", "category": "Rellana"},
+
+    {"name": "Kill Messmer the Impaler", "category": "Messmer"},
+    {"name": "Kill Messmer the Impaler", "category": "Messmer"},
+    {"name": "Kill Messmer the Impaler", "category": "Messmer"},
+    {"name": "Kill Messmer the Impaler", "category": "Messmer"},
+    {"name": "Kill Messmer the Impaler", "category": "Messmer"},
+
+    {"name": "Kill Romina, Saint of the Bud", "category": "Romina"},
+    {"name": "Kill Romina, Saint of the Bud", "category": "Romina"},
+    {"name": "Kill Romina, Saint of the Bud", "category": "Romina"},
+    {"name": "Kill Romina, Saint of the Bud", "category": "Romina"},
+    {"name": "Kill Romina, Saint of the Bud", "category": "Romina"},
+
+    {"name": "Kill Scadutree Avatar", "category": "Scadutree"},
+    {"name": "Kill Scadutree Avatar", "category": "Scadutree"},
+    {"name": "Kill Scadutree Avatar", "category": "Scadutree"},
+    {"name": "Kill Scadutree Avatar", "category": "Scadutree"},
+    {"name": "Kill Scadutree Avatar", "category": "Scadutree"},
+
+    {"name": "Kill Commander Gaius", "category": "Gaius"},
+    {"name": "Kill Commander Gaius", "category": "Gaius"},    
+    {"name": "Kill Commander Gaius", "category": "Gaius"},
+    {"name": "Acquire Commander Gaius' pants", "category": "Gaius"},
+    {"name": "Acquire Commander Gaius' pants", "category": "Gaius"},
+
+    {"name": "Imbibe St. Trina's Nectar", "category": "PK", "tooltip": "Square marked at black screen (after 'You Died' message)"},
+    {"name": "Imbibe St. Trina's Nectar", "category": "PK", "tooltip": "Square marked at black screen (after 'You Died' message)"},
+    {"name": "Kill Putrescent Knight", "category": "PK"},    
+    {"name": "Kill Putrescent Knight", "category": "PK"},
+    {"name": "Kill Putrescent Knight", "category": "PK"},
+
+    {"name": "Kill Metyr, Mother of Fingers", "category": "Metyr"},
+    {"name": "Kill Metyr, Mother of Fingers", "category": "Metyr"},
+    {"name": "Kill Metyr, Mother of Fingers", "category": "Metyr"},
+    {"name": "Kill Metyr, Mother of Fingers", "category": "Metyr"},
+    {"name": "Kill Metyr, Mother of Fingers", "category": "Metyr"},
+
+    {"name": "Kill Midra, Lord of Frenzy Flame", "category": "Midra"},
+    {"name": "Kill Midra, Lord of Frenzy Flame", "category": "Midra"},
+    {"name": "Kill Midra, Lord of Frenzy Flame", "category": "Midra"},
+    {"name": "Kill Midra, Lord of Frenzy Flame", "category": "Midra"},
+    {"name": "Kill Midra, Lord of Frenzy Flame", "category": "Midra"},
+
+    {"name": "Kill Bayle the Dread", "category": "Bayle"},
+    {"name": "Kill Bayle the Dread", "category": "Bayle"},
+    {"name": "Kill Bayle the Dread", "category": "Bayle"},
+    {"name": "Kill Bayle the Dread", "category": "Bayle"},
+    {"name": "Kill Bayle the Dread", "category": "Bayle"},
+
+    {"name": "Kill Radahn, Consort of Miquella", "category": "Radahn"},
+    {"name": "Kill Radahn, Consort of Miquella", "category": "Radahn"},
+    {"name": "Kill Radahn, Consort of Miquella", "category": "Radahn"},
+    {"name": "Kill Radahn, Consort of Miquella", "category": "Radahn"},
+    {"name": "Kill Radahn, Consort of Miquella", "category": "Radahn"},
+
+    {"name": "Kill Jori, Elder Inquisitor", "category": "Jori"},
+    {"name": "Kill Jori, Elder Inquisitor", "category": "Jori"},
+    {"name": "Kill Jori, Elder Inquisitor", "category": "Jori"},
+    {"name": "Kill Jori, Elder Inquisitor", "category": "Jori"},
+
+    {"name": "Kill Rakshasa", "category": "Mausoleums"},
+    {"name": "Kill the Dancer of Ranah", "category": "Mausoleums"},
+    {"name": "Kill the Red Bear NPC", "category": "Mausoleums"},
+    {"name": "Kill Rakshasa", "category": "Mausoleums"},
+    {"name": "Kill the Dancer of Ranah", "category": "Mausoleums"},
+    {"name": "Kill the Red Bear NPC", "category": "Mausoleums"},
+
+    {"name": "Kill a Furnace Golem", "category": "Furnace"},
+    {"name": "Kill a Furnace Golem", "category": "Furnace"},
+    {"name": "Kill a Furnace Golem", "category": "Furnace"},
+    {"name": "Kill a Furnace Golem", "category": "Furnace"},
+
+    {"name": "Acquire the Sword of Light/Darkness", "category": "SwordLight"},
+    {"name": "Acquire the Sword of Light/Darkness", "category": "SwordLight"},
+    {"name": "Acquire the Sword of Light/Darkness", "category": "SwordLight"},
+    {"name": "Acquire the Sword of Light/Darkness", "category": "SwordLight"},
+    {"name": "Acquire the Sword of Light/Darkness", "category": "SwordLight"},
+
+    {"name": "Collect the Death Knight Set", "category": "Darklight"},
+    {"name": "Collect the Death Knight Set", "category": "Darklight"},
+    {"name": "Kill the Bigmouth Imp", "category": "Darklight"},
+    {"name": "Kill the Bigmouth Imp", "category": "Darklight"},
+
+    {"name": "Kill the Madding Hand", "category": "Abyssal"}, 
+    {"name": "Kill the Madding Hand", "category": "Abyssal"}, 
+    {"name": "Read the Torn Diary Page", "category": "Abyssal", "tooltip": "Square marked at item acquisition"},  
+    {"name": "Read the Torn Diary Page", "category": "Abyssal", "tooltip": "Square marked at item acquisition"},  
+
+    {"name": "Kill a Dancing Lion", "category": "DancingLion"},
+    {"name": "Kill a Dancing Lion", "category": "DancingLion"},
+    {"name": "Kill a Dancing Lion", "category": "DancingLion"},
+    {"name": "Kill the Deathblight Dancing Lion", "category": "DancingLion"},
+    {"name": "Kill the Deathblight Dancing Lion", "category": "DancingLion"},
+
+    {"name": "Acquire the Scorpion Stew", "category": "Stew"},
+    {"name": "Acquire the Scorpion Stew", "category": "Stew"},
+    {"name": "Acquire the Scorpion Stew", "category": "Stew"},
+    {"name": "Acquire the Scorpion Stew", "category": "Stew"},
+
+    {"name": "Acquire the Dried Bouquet", "category": "Belurat"},
+    {"name": "Acquire the Dried Bouquet", "category": "Belurat"},
+    {"name": "Acquire the Dried Bouquet", "category": "Belurat"},
+    {"name": "Acquire the Dried Bouquet", "category": "Belurat"},
+
+    {"name": "Kill Queelign in Belurat", "category": "Queelign"},
+    {"name": "Kill Queelign in Belurat", "category": "Queelign"},
+    {"name": "Kill Queelign in Belurat", "category": "Queelign"},
+    {"name": "Kill Queelign in Belurat", "category": "Queelign"},
+
+    {"name": "Collect 2 Horn Charm +2 talismans", "category": "HornCharm"},
+    {"name": "Collect 2 Horn Charm +2 talismans", "category": "HornCharm"},
+    {"name": "Collect 2 Horn Charm +2 talismans", "category": "HornCharm"},
+    {"name": "Collect 2 Horn Charm +2 talismans", "category": "HornCharm"},
+
+    {"name": "Kill 2 Ulcerated Tree Spirits", "category": "TreeSpirits"},
+    {"name": "Kill 2 Ulcerated Tree Spirits", "category": "TreeSpirits"},
+    {"name": "Kill 2 Ulcerated Tree Spirits", "category": "TreeSpirits"},
+    {"name": "Kill 3 Ulcerated Tree Spirits", "category": "TreeSpirits"},
+
+    {"name": "Reach Level 4 Revered Spirit Ash", "category": "Revered"},
+    {"name": "Reach Level 4 Revered Spirit Ash", "category": "Revered"},
+    {"name": "Reach Level 5 Revered Spirit Ash", "category": "Revered"},
+    {"name": "Reach Level 5 Revered Spirit Ash", "category": "Revered"},
+
+    {"name": "Drink Thiollier's Concoction", "category": "Concoction", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+    {"name": "Drink Thiollier's Concoction", "category": "Concoction", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+    {"name": "Drink Thiollier's Concoction", "category": "Concoction", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+    {"name": "Drink Thiollier's Concoction", "category": "Concoction", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+
+    {"name": "Collect 2 Painting Rewards", "category": "Paintings", "tooltip": "Serpent Crest Shield, Rock Heart, or Spiraltree Seal"},
+    {"name": "Collect 2 Painting Rewards", "category": "Paintings", "tooltip": "Serpent Crest Shield, Rock Heart, or Spiraltree Seal"},
+    {"name": "Collect 2 Painting Rewards", "category": "Paintings", "tooltip": "Serpent Crest Shield, Rock Heart, or Spiraltree Seal"},
+    {"name": "Collect 2 Painting Rewards", "category": "Paintings", "tooltip": "Serpent Crest Shield, Rock Heart, or Spiraltree Seal"},
+
+    {"name": "Acquire the Outer God Heirloom", "category": "ProspectTown"},
+    {"name": "Acquire the Outer God Heirloom", "category": "ProspectTown"},
+    {"name": "Collect the Oathseeker Knight Set", "category": "ProspectTown"},
+    {"name": "Collect the Oathseeker Knight Set", "category": "ProspectTown"},
+
+    {"name": "Kill Moonrithyll, Carian Knight", "category": "Moonrithyll"},
+    {"name": "Kill Moonrithyll, Carian Knight", "category": "Moonrithyll"},
+    {"name": "Kill Moonrithyll, Carian Knight", "category": "Moonrithyll"},
+    {"name": "Kill Moonrithyll, Carian Knight", "category": "Moonrithyll"},
+
+    {"name": "Acquire Verdigris Discus", "category": "EnsisTalisman"},
+    {"name": "Acquire Verdigris Discus", "category": "EnsisTalisman"},
+    {"name": "Acquire Verdigris Discus", "category": "EnsisTalisman"},
+    {"name": "Acquire Verdigris Discus", "category": "EnsisTalisman"},
+
+    {"name": "Defeat Dryleaf Dane in a Duel", "category": "Dane"},
+    {"name": "Defeat Dryleaf Dane in a Duel", "category": "Dane"},
+    {"name": "Defeat Dryleaf Dane in a Duel", "category": "Dane"},
+    {"name": "Defeat Dryleaf Dane in a Duel", "category": "Dane"},
+
+    {"name": "Defeat Leda and her companions", "category": "LedaEnirIlim"},
+    {"name": "Defeat Leda and her companions", "category": "LedaEnirIlim"},
+    {"name": "Defeat Leda and her companions", "category": "LedaEnirIlim"},
+    {"name": "Defeat Leda and her companions", "category": "LedaEnirIlim"},
+
+    {"name": "Acquire the Gravebird Helm", "category": "LateEnirIlim"},
+    {"name": "Acquire the Gravebird Helm", "category": "LateEnirIlim"},
+    {"name": "Acquire the Horned Warrior Ashes", "category": "LateEnirIlim"},
+    {"name": "Acquire the Horned Warrior Ashes", "category": "LateEnirIlim"},
+
+    {"name": "Acquire Spira", "category": "EarlyEnirIlim"},
+    {"name": "Acquire Spira", "category": "EarlyEnirIlim"},
+    {"name": "Burn the Sealing Tree", "category": "EarlyEnirIlim"},
+    {"name": "Burn the Sealing Tree", "category": "EarlyEnirIlim"},
+
+    {"name": "Acquire the Two-Handed Sword Talisman", "category": "TwoTalismans"},
+    {"name": "Acquire the Two-Handed Sword Talisman", "category": "TwoTalismans"},
+    {"name": "Acquire the Two-Headed Turtle Talisman", "category": "TwoTalismans"},
+    {"name": "Acquire the Two-Headed Turtle Talisman", "category": "TwoTalismans"},
+
+    {"name": "Acquire a Legendary Spirit Ash", "category": "Legendary", "tooltip": "Taylew, Ornis, or Florissax"},
+    {"name": "Acquire a Legendary Spirit Ash", "category": "Legendary", "tooltip": "Taylew, Ornis, or Florissax"},
+    {"name": "Acquire a Legendary Spirit Ash", "category": "Legendary", "tooltip": "Taylew, Ornis, or Florissax"},
+    {"name": "Acquire a Legendary Spirit Ash", "category": "Legendary", "tooltip": "Taylew, Ornis, or Florissax"},
+
+    {"name": "Kill Rugalea the Great Red Bear", "category": "RedBear"},
+    {"name": "Kill Rugalea the Great Red Bear", "category": "RedBear"},
+    {"name": "Kill Rugalea the Great Red Bear", "category": "RedBear"},
+    {"name": "Kill Rugalea the Great Red Bear", "category": "RedBear"},
+    {"name": "Kill Ralva", "category": "RedBear"},
+
+    {"name": "Kill Chief Bloodfiend", "category": "Bloodfiend"},
+    {"name": "Kill Chief Bloodfiend", "category": "Bloodfiend"},
+    {"name": "Kill Chief Bloodfiend", "category": "Bloodfiend"},
+    {"name": "Kill Chief Bloodfiend", "category": "Bloodfiend"},
+
+    {"name": "Collect 2 Hanging Pot Bell-Bearings", "category": "BellBearings"},
+    {"name": "Collect 2 Hanging Pot Bell-Bearings", "category": "BellBearings"},
+    {"name": "Collect 3 Hanging Pot Bell-Bearings", "category": "BellBearings"},
+    {"name": "Collect 3 Hanging Pot Bell-Bearings", "category": "BellBearings"},
+
+    {"name": "Deliver the Letter for Freyja", "category": "Freyja", "tooltip": "Talk to Freyja inside Shadow Keep before giving the Secret Rite Scroll to Ansbach"},
+    {"name": "Deliver the Letter for Freyja", "category": "Freyja", "tooltip": "Talk to Freyja inside Shadow Keep before giving the Secret Rite Scroll to Ansbach"},
+    {"name": "Deliver the Letter for Freyja", "category": "Freyja", "tooltip": "Talk to Freyja inside Shadow Keep before giving the Secret Rite Scroll to Ansbach"},
+    {"name": "Deliver the Letter for Freyja", "category": "Freyja", "tooltip": "Talk to Freyja inside Shadow Keep before giving the Secret Rite Scroll to Ansbach"},
+
+    {"name": "Collect both Aspects of the Crucible Incantations", "category": "Aspects"},
+    {"name": "Collect both Aspects of the Crucible Incantations", "category": "Aspects"},
+    {"name": "Collect both Aspects of the Crucible Incantations", "category": "Aspects"},
+    {"name": "Collect both Aspects of the Crucible Incantations", "category": "Aspects"},
+
+    {"name": "Collect 3 Drake +3 Talismans", "category": "Drake"},
+    {"name": "Collect 3 Drake +3 Talismans", "category": "Drake"},
+    {"name": "Collect 3 Drake +3 Talismans", "category": "Drake"},
+    {"name": "Collect 3 Drake +3 Talismans", "category": "Drake"},
+
+    {"name": "Kill Golden Hippopotamus", "category": "GoldenHippo"},
+    {"name": "Kill Golden Hippopotamus", "category": "GoldenHippo"},
+    {"name": "Kill Golden Hippopotamus", "category": "GoldenHippo"},
+    {"name": "Kill Golden Hippopotamus", "category": "GoldenHippo"},
+    {"name": "Kill Golden Hippopotamus", "category": "GoldenHippo"},
+
+    {"name": "Assist or Defeat Leda against Hornsent", "category": "LedaShadow"},
+    {"name": "Assist or Defeat Leda against Hornsent", "category": "LedaShadow"},
+    {"name": "Assist or Defeat Leda against Hornsent", "category": "LedaShadow"},
+    {"name": "Assist or Defeat Leda against Hornsent", "category": "LedaShadow"},
+
+    {"name": "Heal the wounded Kindred of Rot", "category": "HealKindred"},
+    {"name": "Heal the wounded Kindred of Rot", "category": "HealKindred"},
+    {"name": "Heal the wounded Kindred of Rot", "category": "HealKindred"},
+    {"name": "Heal the wounded Kindred of Rot", "category": "HealKindred"},
+
+    {"name": "Kill Devonia, Crucible Knight", "category": "Crucible"},
+    {"name": "Kill Devonia, Crucible Knight", "category": "Crucible"},
+    {"name": "Kill Devonia, Crucible Knight", "category": "Crucible"},
+    {"name": "Collect both Crucible talismans", "category": "Crucible", "tooltip": "Fine Crucible Feather and Talisman of All Crucibles"},
+    {"name": "Collect both Crucible talismans", "category": "Crucible", "tooltip": "Fine Crucible Feather and Talisman of All Crucibles"},
+
+    {"name": "Kill 2 Hippos", "category": "Hippos"},
+    {"name": "Kill 2 Hippos", "category": "Hippos"},
+    {"name": "Kill 2 Hippos", "category": "Hippos"},
+    {"name": "Kill 3 Hippos", "category": "Hippos"},
+
+    {"name": "Drain the Water in Church District", "category": "Drain"},
+    {"name": "Drain the Water in Church District", "category": "Drain"},
+    {"name": "Drain the Water in Church District", "category": "Drain"},
+    {"name": "Drain the Water in Church District", "category": "Drain"},
+
+    {"name": "Give an Iris to Queelign", "category": "IrisQueelign"},
+    {"name": "Give an Iris to Queelign", "category": "IrisQueelign"},
+    {"name": "Give an Iris to Queelign", "category": "IrisQueelign"},
+    {"name": "Give an Iris to Queelign", "category": "IrisQueelign"},
+
+    {"name": "Collect both Thorn Sorceries", "category": "ThornsHelms", "tooltip": "Mantle of Thorns and Impenetrable Thorns"},
+    {"name": "Collect both Thorn Sorceries", "category": "ThornsHelms", "tooltip": "Mantle of Thorns and Impenetrable Thorns"},
+    {"name": "Collect the 3 Fire Knight Helms", "category": "ThornsHelms", "tooltip": "Winged Serpent, Death Mask, and Salza's Hood"},
+    {"name": "Collect the 3 Fire Knight Helms", "category": "ThornsHelms", "tooltip": "Winged Serpent, Death Mask, and Salza's Hood"},
+
+    {"name": "Acquire the Golden Braid", "category": "Hinterlands"},    
+    {"name": "Acquire the Golden Braid", "category": "Hinterlands"},    
+    {"name": "Kill the Colossal Fingercreeper", "category": "Hinterlands"},
+    {"name": "Kill the Colossal Fingercreeper", "category": "Hinterlands"},
+
+    {"name": "Kill Tree Sentinel Duo", "category": "TreeSentinel"},
+    {"name": "Kill Tree Sentinel Duo", "category": "TreeSentinel"},
+    {"name": "Kill Tree Sentinel Duo", "category": "TreeSentinel"},
+
+    {"name": "Kill the Fallingstar Beast", "category": "FallingstarBeast"},
+    {"name": "Kill the Fallingstar Beast", "category": "FallingstarBeast"},
+    {"name": "Kill the Fallingstar Beast", "category": "FallingstarBeast"},
+
+    {"name": "Defeat the Ancient Dragon-Man boss", "category": "ADM"},
+    {"name": "Defeat the Ancient Dragon-Man boss", "category": "ADM"},
+    {"name": "Defeat the Ancient Dragon-Man boss", "category": "ADM"},
+    {"name": "Kill the Magma Wyrm", "category": "ADM"},
+    {"name": "Kill the Magma Wyrm", "category": "ADM"},
+
+    {"name": "Put Florissax to Sleep", "category": "Florissax", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+    {"name": "Put Florissax to Sleep", "category": "Florissax", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+    {"name": "Put Florissax to Sleep", "category": "Florissax", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+    {"name": "Put Florissax to Sleep", "category": "Florissax", "tooltip": "Unavailable if Moore dies before giving you the Black Syrup"},
+
+    {"name": "Kill the Tibia Mariner after killing the revenant", "category": "Tibia"},
+    {"name": "Kill the Tibia Mariner after killing the revenant", "category": "Tibia"},
+    {"name": "Kill the Tibia Mariner after killing the revenant", "category": "Tibia"},
+    {"name": "Kill the Tibia Mariner after killing the revenant", "category": "Tibia"},
+
+    {"name": "Kill the Death Rite Bird", "category": "DeathRiteBird"},
+    {"name": "Kill the Death Rite Bird", "category": "DeathRiteBird"},
+    {"name": "Kill the Death Rite Bird", "category": "DeathRiteBird"},
+    {"name": "Kill the Death Rite Bird", "category": "DeathRiteBird"},
+
+    {"name": "Defeat the Lamenter", "category": "Lamenting"},
+    {"name": "Defeat the Lamenter", "category": "Lamenting"},
+    {"name": "Defeat the Lamenter", "category": "Lamenting"},
+    {"name": "Acquire a Torch", "category": "Lamenting", "tooltip": "Nanaya's Torch or Lamenting Visage"},
+
+    {"name": "Acquire Igon's Furled Finger", "category": "IgonFinger"},
+    {"name": "Acquire Igon's Furled Finger", "category": "IgonFinger"},
+    {"name": "Acquire Igon's Furled Finger", "category": "IgonFinger"},
+    {"name": "Acquire Igon's Furled Finger", "category": "IgonFinger"},
+
+    {"name": "Kill Ancient Dragon Senessax", "category": "Senessax"},
+    {"name": "Kill Ancient Dragon Senessax", "category": "Senessax"},
+    {"name": "Kill Ancient Dragon Senessax", "category": "Senessax"},
+
+    {"name": "Collect both Igon's Cookbooks", "category": "IgonCooks"},
+    {"name": "Collect both Igon's Cookbooks", "category": "IgonCooks"},
+    {"name": "Collect both Igon's Cookbooks", "category": "IgonCooks"},
+    {"name": "Collect both Igon's Cookbooks", "category": "IgonCooks"},
+
+    {"name": "Acquire a Dragon Communion incantation", "category": "DragonIncant", "tooltip": "Ghostflame Breath, Bayle's Flame Lightning, or Bayle's Tyranny"},
+    {"name": "Acquire a Dragon Communion incantation", "category": "DragonIncant", "tooltip": "Ghostflame Breath, Bayle's Flame Lightning, or Bayle's Tyranny"},
+    {"name": "Acquire a Dragon Communion incantation", "category": "DragonIncant", "tooltip": "Ghostflame Breath, Bayle's Flame Lightning, or Bayle's Tyranny"},
+    {"name": "Acquire a Dragon Communion incantation", "category": "DragonIncant", "tooltip": "Ghostflame Breath, Bayle's Flame Lightning, or Bayle's Tyranny"},
+
+    {"name": "Use a Transformation", "category": "Transformation", "tooltip": "Rock Heart, Priestess Heart, or Lamenter's Mask"},
+    {"name": "Use a Transformation", "category": "Transformation", "tooltip": "Rock Heart, Priestess Heart, or Lamenter's Mask"},
+    {"name": "Use a Transformation", "category": "Transformation", "tooltip": "Rock Heart, Priestess Heart, or Lamenter's Mask"},
+    {"name": "Use a Transformation", "category": "Transformation", "tooltip": "Rock Heart, Priestess Heart, or Lamenter's Mask"},
+
+    {"name": "Kill the Sleep Pot Troll", "category": "Fissure"},
+    {"name": "Kill the Sleep Pot Troll", "category": "Fissure"},
+    {"name": "Touch the Fissure Cross", "category": "Fissure"},
+    {"name": "Touch the Fissure Cross", "category": "Fissure"},
+
+	{"name": "Kill the Rolling Giant Lightning Ram", "category": "Ram"},
+	{"name": "Kill the Rolling Giant Lightning Ram", "category": "Ram"},
+	{"name": "Kill the Rolling Giant Lightning Ram", "category": "Ram"},
+	{"name": "Kill the Rolling Giant Lightning Ram", "category": "Ram"},
+
+	{"name": "Collect 4 Perfume Bottles", "category": "Perfumes"},
+	{"name": "Collect 4 Perfume Bottles", "category": "Perfumes"},
+	{"name": "Collect 4 Perfume Bottles", "category": "Perfumes"},
+	{"name": "Collect 4 Perfume Bottles", "category": "Perfumes"},
+
+    {"name": "Kill the Ghostflame Dragon in Cerulean Coast", "category": "Ghostflame"},
+    {"name": "Kill the Ghostflame Dragon in Cerulean Coast", "category": "Ghostflame"},
+    {"name": "Kill the Ghostflame Dragon in Cerulean Coast", "category": "Ghostflame"},
+    {"name": "Kill a Ghostflame Dragon", "category": "Ghostflame"},
+
+    {"name": "Collect 2 Tools that inflict damage", "category": "Tools", "tooltip": "Horned Bairn, Perfumed Oil of Ranah, Lamenter's Mask, or Bondstone"},
+    {"name": "Collect 2 Tools that inflict damage", "category": "Tools", "tooltip": "Horned Bairn, Perfumed Oil of Ranah, Lamenter's Mask, or Bondstone"},
+    {"name": "Collect 2 Tools that inflict damage", "category": "Tools", "tooltip": "Horned Bairn, Perfumed Oil of Ranah, Lamenter's Mask, or Bondstone"},
+    {"name": "Collect 2 Tools that inflict damage", "category": "Tools", "tooltip": "Horned Bairn, Perfumed Oil of Ranah, Lamenter's Mask, or Bondstone"},
+
+    {"name": "Kill a Demi-Human Swordsman", "category": "Swordsman"},
+    {"name": "Kill a Demi-Human Swordsman", "category": "Swordsman"},
+    {"name": "Kill Onze", "category": "Swordsman"},
+    {"name": "Kill Onze", "category": "Swordsman"},
+
+    {"name": "Kill Demi-Human Marigga", "category": "Marigga"},
+    {"name": "Kill Demi-Human Marigga", "category": "Marigga"},
+    {"name": "Kill Demi-Human Marigga", "category": "Marigga"},
+    {"name": "Kill Demi-Human Marigga", "category": "Marigga"},
+
+    {"name": "Reach Level 80", "category": "Levels"},
+    {"name": "Reach Level 80", "category": "Levels"},
+    {"name": "Reach Level 90", "category": "Levels"},
+    {"name": "Reach Level 90", "category": "Levels"},
+
+    {"name": "Reach Level 10 Scadu", "category": "ScaduBlessing"},
+    {"name": "Reach Level 10 Scadu", "category": "ScaduBlessing"},
+    {"name": "Reach Level 10 Scadu", "category": "ScaduBlessing"},
+    {"name": "Reach Level 10 Scadu", "category": "ScaduBlessing"},
+
+    {"name": "Collect 4 different remembrances", "category": "Remembrances"},
+    {"name": "Collect 4 different remembrances", "category": "Remembrances"},
+    {"name": "Collect 4 different remembrances", "category": "Remembrances"},
+    {"name": "Collect 4 different remembrances", "category": "Remembrances"},
+
+    {"name": "Duplicate 2 different remembrances", "category": "DupeRemembrance"},
+    {"name": "Duplicate 2 different remembrances", "category": "DupeRemembrance"},
+    {"name": "Duplicate 2 different remembrances", "category": "DupeRemembrance"},
+
+    {"name": "Kill a Boss after inflicting 3 status effects", "category": "Status", "tooltip": "Bleed, Frost, Poison, Rot, Sleep, Madness"},
+    {"name": "Kill a Boss after inflicting 3 status effects", "category": "Status", "tooltip": "Bleed, Frost, Poison, Rot, Sleep, Madness"},
+    {"name": "Kill a Boss after inflicting 3 status effects", "category": "Status", "tooltip": "Bleed, Frost, Poison, Rot, Sleep, Madness"},
+    {"name": "Kill a Boss after inflicting 3 status effects", "category": "Status", "tooltip": "Bleed, Frost, Poison, Rot, Sleep, Madness"},
+
+    {"name": "Kill a Boss with +0 Weapons only", "category": "PlusZero"},
+    {"name": "Kill a Boss with +0 Weapons only", "category": "PlusZero"},
+    {"name": "Kill a Boss with +0 Weapons only", "category": "PlusZero"},
+    {"name": "Kill a Boss with +0 Weapons only", "category": "PlusZero"},
+
+    {"name": "Kill a Boss using Perfume Bottles only", "category": "PerfumeKill"},
+    {"name": "Kill a Boss using Perfume Bottles only", "category": "PerfumeKill"},
+    {"name": "Kill a Boss using Perfume Bottles only", "category": "PerfumeKill"},
+
+    {"name": "Collect both Black Knight spirit ashes", "category": "DeepRauhBase", "tooltip": "Commander Andreas (Fog Rift Catacombs) and Captain Huw (Scorpion River Catacombs)"},
+    {"name": "Collect both Black Knight spirit ashes", "category": "DeepRauhBase", "tooltip": "Commander Andreas (Fog Rift Catacombs) and Captain Huw (Scorpion River Catacombs)"},
+    {"name": "Clear Scorpion River Catacombs", "category": "DeepRauhBase"},
+    {"name": "Clear Scorpion River Catacombs", "category": "DeepRauhBase"},
+
+    {"name": "Collect 4 Elemental Ashes of War", "category": "Elementals", "tooltip": "Crucible Wings, Frost Stomp, Shriek of Sorrow, Flame Spear, Flame Skewer, Blinkbolt, Carian Sovereignty, Poison Flower, Ghostflame Call"},
+    {"name": "Collect 4 Elemental Ashes of War", "category": "Elementals", "tooltip": "Crucible Wings, Frost Stomp, Shriek of Sorrow, Flame Spear, Flame Skewer, Blinkbolt, Carian Sovereignty, Poison Flower, Ghostflame Call"},
+    {"name": "Collect 4 Elemental Ashes of War", "category": "Elementals", "tooltip": "Crucible Wings, Frost Stomp, Shriek of Sorrow, Flame Spear, Flame Skewer, Blinkbolt, Carian Sovereignty, Poison Flower, Ghostflame Call"},
+    {"name": "Collect 4 Elemental Ashes of War", "category": "Elementals", "tooltip": "Crucible Wings, Frost Stomp, Shriek of Sorrow, Flame Spear, Flame Skewer, Blinkbolt, Carian Sovereignty, Poison Flower, Ghostflame Call"},
+
+    {"name": "Collect 5 Hefty Cracked Pots", "category": "Pots"},
+    {"name": "Collect 5 Hefty Cracked Pots", "category": "Pots"},
+    {"name": "Collect 5 Hefty Cracked Pots", "category": "Pots"},
+    {"name": "Collect 5 Hefty Cracked Pots", "category": "Pots"},
+
+    {"name": "Collect 3 Larval Tears", "category": "Larval"},
+    {"name": "Collect 3 Larval Tears", "category": "Larval"},
+    {"name": "Collect 4 Larval Tears", "category": "Larval"},
+    {"name": "Collect 4 Larval Tears", "category": "Larval"},
+
+    {"name": "Collect 2 Forager Brood Cookbooks", "category": "KindredCookbooks", "tooltip": "Kindred of Rot cookbooks. Unavailable if Moore is dead"},
+    {"name": "Collect 2 Forager Brood Cookbooks", "category": "KindredCookbooks", "tooltip": "Kindred of Rot cookbooks. Unavailable if Moore is dead"},
+    {"name": "Collect 3 Forager Brood Cookbooks", "category": "KindredCookbooks", "tooltip": "Kindred of Rot cookbooks. Unavailable if Moore is dead"},
+    {"name": "Collect 3 Forager Brood Cookbooks", "category": "KindredCookbooks", "tooltip": "Kindred of Rot cookbooks. Unavailable if Moore is dead"},
+
+    {"name": "Collect 3 DLC spirit ashes", "category": "SpiritAshes"},
+    {"name": "Collect 3 DLC spirit ashes", "category": "SpiritAshes"},
+    {"name": "Collect 3 DLC spirit ashes", "category": "SpiritAshes"},
+    {"name": "Collect 3 DLC spirit ashes", "category": "SpiritAshes"},
+
+    {"name": "Collect 4 DLC talismans", "category": "DLC-Talismans"},
+    {"name": "Collect 4 DLC talismans", "category": "DLC-Talismans"},
+    {"name": "Collect 4 DLC talismans", "category": "DLC-Talismans"},
+    {"name": "Collect 4 DLC talismans", "category": "DLC-Talismans"},
+
+    {"name": "Touch 5 Miquella Crosses", "category": "Crosses"},
+    {"name": "Touch 5 Miquella Crosses", "category": "Crosses"},
+    {"name": "Touch 5 Miquella Crosses", "category": "Crosses"},
+    {"name": "Touch 5 Miquella Crosses", "category": "Crosses"},
+
+    {"name": "Clear Taylew's Ruined Forge", "category": "Forges"},
+    {"name": "Clear 2 Forges", "category": "Forges"},
+    {"name": "Clear 2 Forges", "category": "Forges"},
+    {"name": "Clear 2 Forges", "category": "Forges"},
+
+    {"name": "Clear Bonny Gaol", "category": "Gaols"},
+    {"name": "Clear 2 Gaols", "category": "Gaols"},
+    {"name": "Clear 2 Gaols", "category": "Gaols"},
+    {"name": "Clear 2 Gaols", "category": "Gaols"},
+
+    {"name": "Kill a Death Knight", "category": "DeathKnight"},
+    {"name": "Kill a Death Knight", "category": "DeathKnight"},
+    {"name": "Kill a Death Knight", "category": "DeathKnight"},
+    {"name": "Kill a Death Knight", "category": "DeathKnight"},
+
+    {"name": "Kill Black Knight Garrew", "category": "Garrew"},
+    {"name": "Kill Black Knight Garrew", "category": "Garrew"},
+    {"name": "Kill Black Knight Garrew", "category": "Garrew"},
+    {"name": "Kill Black Knight Garrew", "category": "Garrew"},
+
+    {"name": "Kill 3 bosses with 'Knight' in their name", "category": "KnightBosses"},
+    {"name": "Kill 3 bosses with 'Knight' in their name", "category": "KnightBosses"},
+    {"name": "Kill 3 bosses with 'Knight' in their name", "category": "KnightBosses"},
+    {"name": "Kill 3 bosses with 'Knight' in their name", "category": "KnightBosses"},
+
+    {"name": "Kill 3 NPC bosses", "category": "NPC"},
+    {"name": "Kill 3 NPC bosses", "category": "NPC"},
+    {"name": "Kill 3 NPC bosses", "category": "NPC"},
+    {"name": "Kill 4 NPC bosses", "category": "NPC"},
+
+    {"name": "Kill 3 Dragon bosses", "category": "DragonBosses", "tooltip": "Ancient Dragon-Man does not count"},
+    {"name": "Kill 3 Dragon bosses", "category": "DragonBosses", "tooltip": "Ancient Dragon-Man does not count"},
+    {"name": "Kill 3 Dragon bosses", "category": "DragonBosses", "tooltip": "Ancient Dragon-Man does not count"},
+    {"name": "Kill 3 Dragon bosses", "category": "DragonBosses", "tooltip": "Ancient Dragon-Man does not count"},
+
+    {"name": "Kill 4 bosses that do not wield weapons", "category": "Animals", "tooltip": "Great Red Bears, Dragons, Dancing Lions, Golden Hippo, Fallingstar Beast, Scadutree Avatar, Metyr"},
+    {"name": "Kill 4 bosses that do not wield weapons", "category": "Animals", "tooltip": "Great Red Bears, Dragons, Dancing Lions, Golden Hippo, Fallingstar Beast, Scadutree Avatar, Metyr"},
+    {"name": "Kill 4 bosses that do not wield weapons", "category": "Animals", "tooltip": "Great Red Bears, Dragons, Dancing Lions, Golden Hippo, Fallingstar Beast, Scadutree Avatar, Metyr"},
+    {"name": "Kill 4 bosses that do not wield weapons", "category": "Animals", "tooltip": "Great Red Bears, Dragons, Dancing Lions, Golden Hippo, Fallingstar Beast, Scadutree Avatar, Metyr"},
+
+    {"name": "Defeat 3 unique invaders", "category": "Invaders", "tooltip": "Leda counts as an invader if you are assisting Hornsent or Ansbach"},
+    {"name": "Defeat 3 unique invaders", "category": "Invaders", "tooltip": "Leda counts as an invader if you are assisting Hornsent or Ansbach"},
+    {"name": "Defeat 3 unique invaders", "category": "Invaders", "tooltip": "Leda counts as an invader if you are assisting Hornsent or Ansbach"},
+    {"name": "Defeat 3 unique invaders", "category": "Invaders", "tooltip": "Leda counts as an invader if you are assisting Hornsent or Ansbach"},
+
+    {"name": "Defeat Swordhand of Night Anna", "category": "Anna"},
+    {"name": "Defeat Swordhand of Night Anna", "category": "Anna"},
+    {"name": "Defeat Swordhand of Night Anna", "category": "Anna"},
+    {"name": "Defeat Swordhand of Night Anna", "category": "Anna"},
+
+    {"name": "Upgrade 3 weapons +0 to max (no perfumes)", "category": "Upgrades"},
+    {"name": "Upgrade 3 weapons +0 to max (no perfumes)", "category": "Upgrades"},
+    {"name": "Upgrade 3 weapons +0 to max (no perfumes)", "category": "Upgrades"},
+
+    {"name": "Kill Bols in front of Castle Ensis", "category": "Bols"},
+    {"name": "Kill Bols in front of Castle Ensis", "category": "Bols"},
+    {"name": "Kill Bols in front of Castle Ensis", "category": "Bols"},
+    {"name": "Kill Bols in front of Castle Ensis", "category": "Bols"},
+    {"name": "Kill Bols in front of Castle Ensis", "category": "Bols"}
+]
