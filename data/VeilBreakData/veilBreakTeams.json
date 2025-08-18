@@ -1,0 +1,58 @@
+{
+   "Team1":
+   {
+      "teamName": "Team 1",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#FF6200"
+   },
+   "Team2":
+   {
+      "teamName": "Team 2",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#0C21C4"
+   },
+   "Team3":
+   {
+      "teamName": "Team 3",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#FF0000"
+   },
+   "Team4":
+   {
+      "teamName": "Team 4",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#409603"
+   },
+   "Team5":
+   {
+      "teamName": "Team 5",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#FFC800"
+   },
+   "Team6":
+   {
+      "teamName": "Team 6",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#00C2BB"
+   },
+   "Team7":
+   {
+      "teamName": "Team 7",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#AE00FF"
+   },
+   "Team8":
+   {
+      "teamName": "Team 8",
+      "player1": "TBD",
+      "player2": "TBD",
+      "teamColor": "#F700EF"
+   }
+}
