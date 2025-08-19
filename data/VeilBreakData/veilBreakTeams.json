@@ -4,7 +4,7 @@
       "teamName": "Team 1",
       "player1": "TBD",
       "player2": "TBD",
-      "teamColor": "#FF6200"
+      "teamColor": "rgba(255, 98, 0, 1)"
    },
    "Team2":
    {
