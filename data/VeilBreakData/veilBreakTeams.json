@@ -4,55 +4,55 @@
       "teamName": "Team 1",
       "player1": "Rambler",
       "player2": "Strump",
-      "teamColor": "rgba(255, 98, 0, 1)"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 119, 0, 1) 50%)"
    },
    "Team2":
    {
-      "teamName": "Team 2",
+      "teamName": "2Guys1Board",
       "player1": "Lemon",
       "player2": "Jay",
-      "teamColor": "#FFC800"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(79, 217, 0, 1) 50%)"
    },
    "Team3":
    {
       "teamName": "Team 3",
       "player1": "Shura",
       "player2": "Nexus",
-      "teamColor": "#AE00FF"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(221, 0, 255, 1) 50%)"
    },
    "Team4":
    {
-      "teamName": "Team 4",
+      "teamName": "Sleepy Piggies",
       "player1": "Helios",
       "player2": "Nartock",
-      "teamColor": "#ff002b"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 0, 0, 1) 50%)"
    },
    "Team5":
    {
       "teamName": "Team 5",
       "player1": "Psiphicode",
       "player2": "Azdomiel",
-      "teamColor": "#ff5c8a"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 92, 138, 1) 50%)"
    },
    "Team6":
    {
       "teamName": "Team 6",
       "player1": "Josh",
       "player2": "Blaze",
-      "teamColor": "#00C2BB"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(0, 194, 187, 1) 50%)"
    },
    "Team7":
    {
       "teamName": "Team 7",
       "player1": "Typin",
       "player2": "Ironyeu",
-      "teamColor": "#2d00f7"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(45, 0, 247, 1) 50%)"
    },
    "Team8":
    {
       "teamName": "Team 8",
       "player1": "Noya",
       "player2": "Dagger",
-      "teamColor": "#F700EF"
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 208, 0, 1) 50%)"
    }
 }
