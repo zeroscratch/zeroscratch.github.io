@@ -2,57 +2,57 @@
    "Team1":
    {
       "teamName": "Team 1",
-      "player1": "TBD",
-      "player2": "TBD",
+      "player1": "Rambler",
+      "player2": "Strump",
       "teamColor": "rgba(255, 98, 0, 1)"
    },
    "Team2":
    {
       "teamName": "Team 2",
-      "player1": "TBD",
-      "player2": "TBD",
-      "teamColor": "#0C21C4"
+      "player1": "Lemon",
+      "player2": "Jay",
+      "teamColor": "#FFC800"
    },
    "Team3":
    {
       "teamName": "Team 3",
-      "player1": "TBD",
-      "player2": "TBD",
-      "teamColor": "#FF0000"
+      "player1": "Shura",
+      "player2": "Nexus",
+      "teamColor": "#AE00FF"
    },
    "Team4":
    {
       "teamName": "Team 4",
-      "player1": "TBD",
-      "player2": "TBD",
-      "teamColor": "#409603"
+      "player1": "Helios",
+      "player2": "Nartock",
+      "teamColor": "#ff002b"
    },
    "Team5":
    {
       "teamName": "Team 5",
-      "player1": "TBD",
-      "player2": "TBD",
-      "teamColor": "#FFC800"
+      "player1": "Psiphicode",
+      "player2": "Azdomiel",
+      "teamColor": "#ff5c8a"
    },
    "Team6":
    {
       "teamName": "Team 6",
-      "player1": "TBD",
-      "player2": "TBD",
+      "player1": "Josh",
+      "player2": "Blaze",
       "teamColor": "#00C2BB"
    },
    "Team7":
    {
       "teamName": "Team 7",
-      "player1": "TBD",
-      "player2": "TBD",
-      "teamColor": "#AE00FF"
+      "player1": "Typin",
+      "player2": "Ironyeu",
+      "teamColor": "#2d00f7"
    },
    "Team8":
    {
       "teamName": "Team 8",
-      "player1": "TBD",
-      "player2": "TBD",
+      "player1": "Noya",
+      "player2": "Dagger",
       "teamColor": "#F700EF"
    }
 }
