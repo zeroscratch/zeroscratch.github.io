@@ -1,7 +1,7 @@
 {
    "Team1":
    {
-      "teamName": "Team 1",
+      "teamName": "Udderly Eloquent",
       "player1": "Rambler",
       "player2": "Strump",
       "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 119, 0, 1) 50%)"
@@ -29,7 +29,7 @@
    },
    "Team5":
    {
-      "teamName": "Team 5",
+      "teamName": "Psidomiel",
       "player1": "Psiphicode",
       "player2": "Azdomiel",
       "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 92, 138, 1) 50%)"
@@ -52,7 +52,7 @@
    {
       "teamName": "Team 8",
       "player1": "Noya",
-      "player2": "Dagger",
+      "player2": "Daggar",
       "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 208, 0, 1) 50%)"
    }
 }
