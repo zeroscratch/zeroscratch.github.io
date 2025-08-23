@@ -15,7 +15,7 @@
    },
    "Team3":
    {
-      "teamName": "Team 3",
+      "teamName": "Blade of Mercy",
       "player1": "Shura",
       "player2": "Nexus",
       "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(221, 0, 255, 1) 50%)"
@@ -38,7 +38,7 @@
    {
       "teamName": "Team 6",
       "player1": "Josh",
-      "player2": "Blaze",
+      "player2": "Vex",
       "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(0, 194, 187, 1) 50%)"
    },
    "Team7":
