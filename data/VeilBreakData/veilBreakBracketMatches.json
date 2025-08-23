@@ -2,11 +2,11 @@
    "Quarterfinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Udderly Eloquent", "score": 0, "outcome": "" },
-         "player2": { "name": "2Guys1Board", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Udderly Eloquent", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "2Guys1Board", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:17:35",
+         "vodLink": "https://www.twitch.tv/videos/2548014660?t=00h22m22s",
+         "imageLink": "/img/Veilbreak/Udderly-v-2Guys-Quarterfinals.png",
          "scheduledAt": ""
       }
    ],
@@ -47,7 +47,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Blade of Mercy", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "2Guys1Board", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
