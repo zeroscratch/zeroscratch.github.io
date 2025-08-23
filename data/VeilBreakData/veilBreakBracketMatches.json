@@ -35,11 +35,11 @@
    "Quarterfinals-4": [
       {
          "gameid": 1,
-         "player1": { "name": "IronTypin", "score": 0, "outcome": "" },
-         "player2": { "name": "KFC", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
+         "player1": { "name": "IronTypin", "score": 13, "outcome": "Bingo" },
+         "player2": { "name": "KFC", "score": 9, "outcome": "" },
+         "matchTime": "01:20:11",
          "vodLink": "",
-         "imageLink": "",
+         "imageLink": "/img/Veilbreak/kfc-v-french-Quarterfinals.png",
          "scheduledAt": ""
       }
    ],
@@ -58,7 +58,7 @@
       {
          "gameid": 1,
          "player1": { "name": "JoshVex", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "IronTypin", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
