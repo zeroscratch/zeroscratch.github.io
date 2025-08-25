@@ -134,18 +134,18 @@
    "LosersSemifinals": [
       {
          "gameid": 1,
-         "player1": { "name": "Jibbe", "score": 0, "outcome": "" },
-         "player2": { "name": "Vakrash", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Jibbe", "score": 6, "outcome": "Lost" },
+         "player2": { "name": "Vakrash", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:15:38",
+         "vodLink": "https://www.twitch.tv/videos/2549559026?t=00h16m03s",
+         "imageLink": "/img/rookie/Vakrash-v-Jibbe-LosersSemifinals.png",
          "scheduledAt": ""
       }
    ],
    "LosersFinals": [
       {
          "gameid": 1,
-         "player1": { "name": "TBD", "score": 0, "outcome": "" },
+         "player1": { "name": "Vakrash", "score": 0, "outcome": "" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
