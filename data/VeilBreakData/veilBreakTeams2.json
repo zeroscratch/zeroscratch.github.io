@@ -8,17 +8,17 @@
    },
    "Team2":
    {
-      "teamName": "Team 2",
+      "teamName": "Expedition 60",
       "player1": "Thomas",
       "player2": "Jibbe",
-      "teamColor": "linear-gradient(135deg,rgba(0, 0, 0, 1) 0%, rgba(89, 89, 89, 1) 50%)"
+      "teamColor": "linear-gradient(135deg,rgba(0, 0, 0, 1) 0%, rgba(102, 0, 51, 1) 50%)"
    },
    "Team3":
    {
-      "teamName": "Team 3",
+      "teamName": "LazyRats",
       "player1": "RattyRy",
       "player2": "Helios",
-      "teamColor": "linear-gradient(135deg,rgba(0, 0, 0, 1) 0%, rgba(89, 89, 89, 1) 50%)"
+      "teamColor": "linear-gradient(135deg,rgba(0, 0, 0, 1) 0%, rgba(255, 0, 0, 1) 50%)"
    },
    "Team4":
    {
@@ -50,7 +50,7 @@
    },
    "Team8":
    {
-      "teamName": "Team 8",
+      "teamName": "Old But Gold",
       "player1": "Jay",
       "player2": "Rambler",
       "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 119, 0, 1) 50%)"
