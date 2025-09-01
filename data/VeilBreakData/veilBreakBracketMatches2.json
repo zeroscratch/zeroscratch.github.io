@@ -46,11 +46,11 @@
    "Semifinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Expedition 60", "score": 0, "outcome": "" },
-         "player2": { "name": "LazyRats", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Expedition 60", "score": 9, "outcome": "Lost" },
+         "player2": { "name": "LazyRats", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:19:24",
+         "vodLink": "https://www.twitch.tv/videos/2555638436?t=00h19m39s",
+         "imageLink": "/img/Veilbreak/LazyRat-v-Expedition60-Semifinals.png",
          "scheduledAt": ""
       }
    ],
@@ -68,7 +68,7 @@
    "Finals": [
       {
          "gameid": 1,
-         "player1": { "name": "TBD", "score": 0, "outcome": "" },
+         "player1": { "name": "LazyRats", "score": 0, "outcome": "" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
