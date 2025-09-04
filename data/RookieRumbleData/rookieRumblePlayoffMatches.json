@@ -80,7 +80,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Vexphile", "score": 8, "outcome": "Lost" },
-         "player2": { "name": "Lemon ", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Lemon", "score": 13, "outcome": "Majority" },
          "matchTime": "01:15:31",
          "vodLink": "https://www.twitch.tv/videos/2552972227?t=00h22m56s",
          "imageLink": "/img/rookie/Lemon-v-Vex-Grandfinals-Game1.png",
@@ -93,6 +93,15 @@
          "matchTime": "01:04:10",
          "vodLink": "https://www.twitch.tv/videos/2552972227?t=01h59m37s",
          "imageLink": "/img/rookie/Lemon-v-Vex-Grandfinals-Game2.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 3,
+         "player1": { "name": "Vexphile", "score": 3, "outcome": "Lost" },
+         "player2": { "name": "Lemon", "score": 7, "outcome": "Majority" },
+         "matchTime": "01:04:10",
+         "vodLink": "https://www.twitch.tv/videos/2557412456?t=00h21m15s",
+         "imageLink": "/img/rookie/Lemon-v-Vex-Grandfinals-Game3.png",
          "scheduledAt": ""
       }
    ],
