@@ -1,0 +1,22 @@
+{
+   "Auriza": {
+      "Strump": { "record": "2-0", "Game 1": "/img/scadubingo/Omenveil/strump-v-thomas-auriza.png", "Game 2": "/img/scadubingo/Omenveil/strump-v-elymis-auriza.png"},
+      "Ellie": { "record": "1-1", "Game 1": "/img/scadubingo/Omenveil/thomas-v-elymis-auriza.png", "Game 2": "/img/scadubingo/Omenveil/strump-v-elymis-auriza.png"},
+      "Thomas": { "record": "0-2", "Game 1": "/img/scadubingo/Omenveil/strump-v-thomas-auriza.png", "Game 2": "/img/scadubingo/Omenveil/thomas-v-elymis-auriza.png"}
+   },
+   "Belurat": {
+      "Shura": { "record": "2-0", "Game 1": "/img/scadubingo/Omenveil/shura-v-tony-belurat.png", "Game 2": "/img/scadubingo/Omenveil/shura-v-noya-belurat.png"},
+      "Noya": { "record": "1-1", "Game 1": "/img/scadubingo/Omenveil/noya-v-tony-belurat.png", "Game 2": "/img/scadubingo/Omenveil/shura-v-noya-belurat.png"},
+      "Tony": { "record": "0-2", "Game 1": "/img/scadubingo/Omenveil/shura-v-tony-belurat.png", "Game 2": "/img/scadubingo/Omenveil/noya-v-tony-belurat.png"}
+   },
+   "Mohgwyn": {
+      "Doitz": { "record": "2-0", "Game 1": "/img/scadubingo/Omenveil/doitz-v-jxxman-mohg.png", "Game 2": "/img/scadubingo/Omenveil/doitz-v-psi-mohg.png"},
+      "Psiphicode": { "record": "1-1", "Game 1": "/img/scadubingo/Omenveil/doitz-v-psi-mohg.png", "Game 2": "/img/scadubingo/Omenveil/psi-v-jxxman-mohg.png"},
+      "Jxxman": { "record": "0-2", "Game 1": "/img/scadubingo/Omenveil/doitz-v-jxxman-mohg.png", "Game 2": "/img/scadubingo/Omenveil/psi-v-jxxman-mohg.png"}
+   },
+   "Rauh": {
+      "Champion": { "record": "2-0", "Game 1": "/img/scadubingo/Omenveil/champ-v-lorian-rauh.png", "Game 2": "/img/scadubingo/Omenveil/champ-v-helios-rauh.png"},
+      "Helios": { "record": "1-1", "Game 1": "/img/scadubingo/Omenveil/helios-v-lorian-rauh.png", "Game 2": "/img/scadubingo/Omenveil/champ-v-helios-rauh.png"},
+      "Lorian": { "record": "0-2", "Game 1": "/img/scadubingo/Omenveil/helios-v-lorian-rauh.png", "Game 2": "/img/scadubingo/Omenveil/champ-v-lorian-rauh.png"}
+   }
+}
