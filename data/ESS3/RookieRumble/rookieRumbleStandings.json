@@ -1,0 +1,155 @@
+{
+   "Bedhead": {
+      "record": "0-1",
+      "squares": 1,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Rony": {
+      "record": "1-0",
+      "squares": 13,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Bedhead" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Arkham": {
+      "record": "1-0",
+      "squares": 13,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Magnitude" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Magnitude": {
+      "record": "0-1",
+      "squares": 9,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Jam": {
+      "record": "1-0",
+      "squares": 10,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Aves" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Koppa": {
+      "record": "1-0",
+      "squares": 13,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Krisy": {
+      "record": "0-1",
+      "squares": 1,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Tinybobcat": {
+      "record": "1-0",
+      "squares": 13,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Krispy" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Cubanmissle": {
+      "record": "0-1",
+      "squares": 2,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "TheMilkMan": {
+      "record": "1-0",
+      "squares": 9,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Cubanmissle" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Psykg": {
+      "record": "1-0",
+      "squares": 6,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Yosh" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Yosh": {
+      "record": "0-1",
+      "squares": 0,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Azdomiel": {
+      "record": "0-1",
+      "squares": 10,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Belbo": {
+      "record": "1-0",
+      "squares": 12,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Azdomiel" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Mixed": {
+      "record": "0-1",
+      "squares": 6,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Tarun" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Scanndium": {
+      "record": "1-0",
+      "squares": 11,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Mixed" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Aves": {
+      "record": "0-1",
+      "squares": 6,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   }
+}

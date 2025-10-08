@@ -1,0 +1,102 @@
+{
+   "Time Complexity": {
+      "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "", "twitch": "https://www.twitch.tv/itsshura" }, 
+      "player2": { "name": "Psiphicode", "nickname": "Could Be", "profile-pic": "", "twitch": "https://www.twitch.tv/psiphicode" },
+      "record": "1-0",
+      "squares": 11,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Old But Gold"],
+      "Playoffs": "maybe"
+   },
+   "Old But Gold": {
+      "player1": { "name": "Jay", "nickname": "Joker", "profile-pic": "", "twitch": "https://www.twitch.tv/igntjay" }, 
+      "player2": { "name": "Rambler", "nickname": "Professor", "profile-pic": "", "twitch": "https://www.twitch.tv/rambler_ing" },
+      "record": "0-1",
+      "squares": 12,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "maybe"
+   },
+   "Bofa D's": {
+      "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
+      "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
+      "record": "1-0",
+      "squares": 13,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Expedition 25" ],
+      "Playoffs": "maybe"
+   },
+   "Tank & Top": {
+      "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
+      "player2": { "name": "Elymis", "nickname": "Fia's Champ", "profile-pic": "", "twitch": "https://www.twitch.tv/elymis" },
+      "record": "1-0",
+      "squares": 0,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Bagarre FR" ],
+      "Playoffs": "maybe"
+   },
+   "Wamp Wamp": {
+      "player1": { "name": "Wander", "nickname": "Hates Bingo", "profile-pic": "", "twitch": "https://www.twitch.tv/wander652" }, 
+      "player2": { "name": "Strump", "nickname": "4:12 Precipi", "profile-pic": "", "twitch": "https://www.twitch.tv/strump1" },
+      "record": "1-0",
+      "squares": 11,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Asteroid Destroyer" ],
+      "Playoffs": "maybe"
+   },
+   "Asteroid Destroyer": {
+      "player1": { "name": "Vakrash", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/vakrash" }, 
+      "player2": { "name": "Serious", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/seriouschallenges" },
+      "record": "0-1",
+      "squares": 4,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "maybe"
+   },
+   "Bagarre FR": {
+      "player1": { "name": "Ironyeu", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/ironyeu" }, 
+      "player2": { "name": "Typin", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/typin__" },
+      "record": "0-1",
+      "squares": 9,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "maybe"
+   },
+   "Expedition 25": {
+      "player1": { "name": "Thomas", "nickname": "Doc-Ock", "profile-pic": "", "twitch": "https://www.twitch.tv/pluryl" }, 
+      "player2": { "name": "Jibbe", "nickname": "Absurdist", "profile-pic": "", "twitch": "https://www.twitch.tv/jibbebot" },
+      "record": "0-1",
+      "squares": 10,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "maybe"
+   },
+   "Budget Team Hitless": {
+      "player1": { "name": "Cronys", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
+      "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
+      "record": "0-0",
+      "squares": 0,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "maybe"
+   },
+   "Tower Princesses": {
+      "player1": { "name": "Nexus", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nexusupnext" }, 
+      "player2": { "name": "Asym", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/asymmmm" },
+      "record": "0-0",
+      "squares": 0,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "maybe"
+   }
+}

@@ -134,11 +134,11 @@
    "Finals": [
       {
          "gameid": 1,
-         "player1": { "name": "Strump", "score": 0, "outcome": "" },
-         "player2": { "name": "Shura", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
+         "player1": { "name": "Strump", "score": 8, "outcome": "Bingo" },
+         "player2": { "name": "Shura", "score": 7, "outcome": "Lost" },
+         "matchTime": "00:41:54",
          "vodLink": "",
-         "imageLink": "",
+         "imageLink": "/img/scadubingo/Omenveil/strump-v-shura-final.png",
          "scheduledAt": ""
       }
    ]

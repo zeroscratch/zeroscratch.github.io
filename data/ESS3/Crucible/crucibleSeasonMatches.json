@@ -1,0 +1,88 @@
+[
+   { 
+      "week": 1,
+      "matches":
+      [
+         {  "gameId": 1, 
+            "player1": { "name": "Jarvis", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Crashout Carries", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:18:35", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Crucible/jarvis-v-crashout-week1.png"
+         },
+         {
+            "gameId": 2,
+            "player1": { "name": "NikeTwo", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Pandara", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:34:30",
+            "vodLink": "",
+            "imageLink": "/img/ESS3/Crucible/niketwo-v-pandara-week1.png"
+         },
+         {
+            "gameId": 3,
+            "player1": { "name": "TruthfulNess", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "FalconSi", "score": 6, "outcome": "Lost" },
+            "matchTime": "01:25:17",
+            "vodLink": "",
+            "imageLink": "/img/ESS3/Crucible/truth-v-falconsi-week1.png"
+         },
+         {
+            "gameId": 4,
+            "player1": { "name": "Gold But Old", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Nordic Thunder", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:15:56",
+            "vodLink": "https://www.twitch.tv/videos/2583991105?t=00h19m21s",
+            "imageLink": "/img/ESS3/Crucible/gold-v-nordic-week1.png"
+         },
+         {
+            "gameId": 5,
+            "player1": { "name": "Corruption", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Rick Fisters", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:38:01",
+            "vodLink": "https://www.twitch.tv/videos/2583991105?t=02h16m12s",
+            "imageLink": "/img/ESS3/Crucible/corruption-v-rick-week1.png"
+         }
+      ]
+   },
+   {
+      "week": 2,
+      "matches":
+      [
+         {  "gameId": 6, 
+            "player1": { "name": "", "score": 0, "outcome": "" }, 
+            "player2": { "name": "", "score": 0, "outcome": "" }, 
+            "matchTime": "00:00:00", 
+            "vodLink": "", 
+            "imageLink": ""
+         },
+         {  "gameId": 7, 
+            "player1": { "name": "", "score": 0, "outcome": "" }, 
+            "player2": { "name": "", "score": 0, "outcome": "" }, 
+            "matchTime": "00:00:00", 
+            "vodLink": "", 
+            "imageLink": ""
+         },
+         {  "gameId": 8, 
+            "player1": { "name": "", "score": 0, "outcome": "" }, 
+            "player2": { "name": "", "score": 0, "outcome": "" }, 
+            "matchTime": "00:00:00", 
+            "vodLink": "", 
+            "imageLink": ""
+         },
+         {  "gameId": 9, 
+            "player1": { "name": "", "score": 0, "outcome": "" }, 
+            "player2": { "name": "", "score": 0, "outcome": "" }, 
+            "matchTime": "00:00:00", 
+            "vodLink": "", 
+            "imageLink": ""
+         },
+         {  "gameId": 10, 
+            "player1": { "name": "", "score": 0, "outcome": "" }, 
+            "player2": { "name": "", "score": 0, "outcome": "" }, 
+            "matchTime": "00:00:00", 
+            "vodLink": "", 
+            "imageLink": ""
+         }
+      ]
+   }
+]
