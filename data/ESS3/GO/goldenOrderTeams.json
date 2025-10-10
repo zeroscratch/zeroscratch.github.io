@@ -2,11 +2,11 @@
    "Time Complexity": {
       "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "", "twitch": "https://www.twitch.tv/itsshura" }, 
       "player2": { "name": "Psiphicode", "nickname": "Could Be", "profile-pic": "", "twitch": "https://www.twitch.tv/psiphicode" },
-      "record": "1-0",
-      "squares": 11,
+      "record": "2-0",
+      "squares": 24,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Old But Gold"],
+      "H2H": [ "Old But Gold", "Budget Team Hitless"],
       "Playoffs": "maybe"
    },
    "Old But Gold": {
@@ -82,8 +82,8 @@
    "Budget Team Hitless": {
       "player1": { "name": "Cronys", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
       "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
-      "record": "0-0",
-      "squares": 0,
+      "record": "0-1",
+      "squares": 11,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
