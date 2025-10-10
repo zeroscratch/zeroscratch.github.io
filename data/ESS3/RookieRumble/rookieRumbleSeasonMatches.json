@@ -12,7 +12,7 @@
          },
          {  "gameId": 2, 
             "player1": { "name": "Jam", "score": 10, "outcome": "Majority" }, 
-            "player2": { "name": "Aves", "score": 6, "outcome": "Lost" }, 
+            "player2": { "name": "Avery", "score": 6, "outcome": "Lost" }, 
             "matchTime": "02:00:00", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/aves-v-jam-week1.png"
@@ -65,12 +65,26 @@
       "week": 2,
       "matches":
       [
-         {  "gameId": 15, 
-            "player1": { "name": "", "score": 0, "outcome": "" }, 
-            "player2": { "name": "", "score": 0, "outcome": "" }, 
-            "matchTime": "00:00:00", 
+         {  "gameId": 8, 
+            "player1": { "name": "TinyBobcat", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Belbo", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:40:10", 
             "vodLink": "", 
-            "imageLink": ""
+            "imageLink": "/img/ESS3/Rookie/belbo-v-bobcat-week2.png"
+         },
+         {  "gameId": 9, 
+            "player1": { "name": "Mixed", "score": 9, "outcome": "Bingo" }, 
+            "player2": { "name": "Magnitude", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "00:56:30", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/mixed-v-magnitude-week2.png"
+         },
+         {  "gameId": 10, 
+            "player1": { "name": "Cubanmissle", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "Bedhead", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/cuban-v-bedhead-week2.png"
          }
       ]
    }

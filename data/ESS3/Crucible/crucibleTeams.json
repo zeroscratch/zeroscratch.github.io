@@ -67,9 +67,9 @@
       "FalconSi": {
          "player1": { "name": "AmplSi", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/amplsi" },
          "player2": { "name": "Falconraven", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/falconraven" },
-         "record": "0-1",
-         "squares": 6,
-         "lines": 0,
+         "record": "0-2",
+         "squares": 16,
+         "lines": 1,
          "WR": 0,
          "H2H": [""],
          "Playoffs": "maybe"
@@ -77,8 +77,8 @@
       "NikeTwo": {
          "player1": { "name": "NikeEuro", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nikeeuro" },
          "player2": { "name": "Mewtwo", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/mewtwo2u" },
-         "record": "1-0",
-         "squares": 11,
+         "record": "1-1",
+         "squares": 17,
          "lines": 1,
          "WR": 0,
          "H2H": ["Pandara"],
@@ -87,11 +87,11 @@
       "Jarvis": {
          "player1": { "name": "Harv", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/harvsouls" },
          "player2": { "name": "Jxxman", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "1-0",
-         "squares": 13,
+         "record": "2-0",
+         "squares": 26,
          "lines": 0,
          "WR": 0,
-         "H2H": [ "Crashout Carries" ],
+         "H2H": [ "Crashout Carries", "NikeTwo" ],
          "Playoffs": "maybe"
       }
    },
@@ -119,11 +119,11 @@
       "Pandara": {
          "player1": { "name": "Kiofto", "nickname": "", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Madara", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "0-1",
-         "squares": 6,
-         "lines": 0,
+         "record": "1-1",
+         "squares": 18,
+         "lines": 1,
          "WR": 0,
-         "H2H": [""],
+         "H2H": ["FalconSi"],
          "Playoffs": "maybe"
       }
    }

@@ -1,7 +1,7 @@
 {
    "Bedhead": {
-      "record": "0-1",
-      "squares": 1,
+      "record": "0-2",
+      "squares": 4,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -27,8 +27,8 @@
       "twitch": ""
    },
    "Magnitude": {
-      "record": "0-1",
-      "squares": 9,
+      "record": "0-2",
+      "squares": 11,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -40,7 +40,7 @@
       "squares": 10,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Aves" ],
+      "H2H": [ "Avery" ],
       "Playoffs": "",
       "twitch": ""
    },
@@ -63,20 +63,20 @@
       "twitch": ""
    },
    "Tinybobcat": {
-      "record": "1-0",
-      "squares": 13,
-      "lines": 0,
+      "record": "2-0",
+      "squares": 26,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "Krispy" ],
+      "H2H": [ "Krispy", "Belbo" ],
       "Playoffs": "",
       "twitch": ""
    },
    "Cubanmissle": {
-      "record": "0-1",
-      "squares": 2,
+      "record": "1-1",
+      "squares": 8,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Bedhead" ],
       "Playoffs": "",
       "twitch": ""
    },
@@ -117,8 +117,8 @@
       "twitch": ""
    },
    "Belbo": {
-      "record": "1-0",
-      "squares": 12,
+      "record": "1-1",
+      "squares": 18,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Azdomiel" ],
@@ -126,11 +126,11 @@
       "twitch": ""
    },
    "Mixed": {
-      "record": "0-1",
-      "squares": 6,
+      "record": "1-1",
+      "squares": 15,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Tarun" ],
+      "H2H": [ "Magnitude" ],
       "Playoffs": "",
       "twitch": ""
    },
@@ -143,7 +143,7 @@
       "Playoffs": "",
       "twitch": ""
    },
-   "Aves": {
+   "Avery": {
       "record": "0-1",
       "squares": 6,
       "lines": 0,
