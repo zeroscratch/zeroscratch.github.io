@@ -53,9 +53,9 @@
       "Playoffs": "",
       "twitch": ""
    },
-   "Krisy": {
-      "record": "0-1",
-      "squares": 1,
+   "Krispy": {
+      "record": "1-1",
+      "squares": 3,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -108,11 +108,11 @@
       "twitch": ""
    },
    "Azdomiel": {
-      "record": "0-1",
-      "squares": 10,
-      "lines": 0,
+      "record": "1-1",
+      "squares": 16,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Krispy" ],
       "Playoffs": "",
       "twitch": ""
    },
