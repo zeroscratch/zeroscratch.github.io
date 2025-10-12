@@ -3,11 +3,11 @@
       "Base Mommy & Daddy": {
          "player1": { "name": "Noya", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/noyasparx" },
          "player2": { "name": "TurtleBeard", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/turtlebeard" },
-         "record": "1-0",
-         "squares": 13,
+         "record": "2-0",
+         "squares": 26,
          "lines": 0,
          "WR": 0,
-         "H2H": [ "Nordic Thunder" ],
+         "H2H": [ "Nordic Thunder", "KChewy" ],
          "Playoffs": "maybe"
       },
       "Corruption": {
@@ -45,8 +45,8 @@
       "KChewy": {
          "player1": { "name": "KCBrazos", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/kcbrazos" },
          "player2": { "name": "Chewy", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "0-0",
-         "squares": 0,
+         "record": "0-1",
+         "squares": 8,
          "lines": 0,
          "WR": 0,
          "H2H": [""],
