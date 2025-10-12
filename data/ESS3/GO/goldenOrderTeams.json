@@ -12,8 +12,8 @@
    "Old But Gold": {
       "player1": { "name": "Jay", "nickname": "Joker", "profile-pic": "", "twitch": "https://www.twitch.tv/igntjay" }, 
       "player2": { "name": "Rambler", "nickname": "Professor", "profile-pic": "", "twitch": "https://www.twitch.tv/rambler_ing" },
-      "record": "0-1",
-      "squares": 12,
+      "record": "0-2",
+      "squares": 24,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -72,11 +72,11 @@
    "Expedition 25": {
       "player1": { "name": "Thomas", "nickname": "Doc-Ock", "profile-pic": "", "twitch": "https://www.twitch.tv/pluryl" }, 
       "player2": { "name": "Jibbe", "nickname": "Absurdist", "profile-pic": "", "twitch": "https://www.twitch.tv/jibbebot" },
-      "record": "0-1",
-      "squares": 10,
+      "record": "1-1",
+      "squares": 23,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Old But Gold" ],
       "Playoffs": "maybe"
    },
    "Budget Team Hitless": {

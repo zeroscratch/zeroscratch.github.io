@@ -45,11 +45,11 @@
       "twitch": ""
    },
    "Koppa": {
-      "record": "1-0",
-      "squares": 13,
+      "record": "2-0",
+      "squares": 22,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Psykg" ],
       "Playoffs": "",
       "twitch": ""
    },
@@ -81,17 +81,17 @@
       "twitch": ""
    },
    "TheMilkMan": {
-      "record": "1-0",
-      "squares": 9,
+      "record": "2-0",
+      "squares": 17,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Cubanmissle" ],
+      "H2H": [ "Cubanmissle", "Avery" ],
       "Playoffs": "",
       "twitch": ""
    },
    "Psykg": {
-      "record": "1-0",
-      "squares": 6,
+      "record": "1-1",
+      "squares": 12,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Yosh" ],
@@ -144,8 +144,8 @@
       "twitch": ""
    },
    "Avery": {
-      "record": "0-1",
-      "squares": 6,
+      "record": "0-2",
+      "squares": 13,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],

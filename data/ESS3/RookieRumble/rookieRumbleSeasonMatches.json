@@ -92,6 +92,20 @@
             "matchTime": "01:24:54", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/az-v-krispy-week2.PNG"
+         },
+         {  "gameId": 12, 
+            "player1": { "name": "Koppa", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Psykg", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/koppa-v-psykg-week2.png"
+         },
+         {  "gameId": 13, 
+            "player1": { "name": "TheMilkMan", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Avery", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "02:04:10",
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/milk-v-avery-week2.png"
          }
       ]
    }
