@@ -11,7 +11,7 @@
    "Rony": {
       "record": "2-0",
       "squares": 26,
-      "lines": 2,
+      "lines": 3,
       "WR": 0,
       "H2H": [ "Bedhead", "Arkham" ],
       "Playoffs": "",
@@ -36,20 +36,11 @@
       "twitch": ""
    },
    "Jam": {
-      "record": "1-0",
-      "squares": 10,
+      "record": "1-1",
+      "squares": 17,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Avery" ],
-      "Playoffs": "",
-      "twitch": ""
-   },
-   "Koppa": {
-      "record": "2-0",
-      "squares": 22,
-      "lines": 1,
-      "WR": 0,
-      "H2H": [ "Psykg" ],
       "Playoffs": "",
       "twitch": ""
    },
@@ -99,11 +90,11 @@
       "twitch": ""
    },
    "Yosh": {
-      "record": "0-1",
-      "squares": 0,
-      "lines": 0,
+      "record": "1-1",
+      "squares": 13,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Goodietoshoes" ],
       "Playoffs": "",
       "twitch": ""
    },
@@ -134,18 +125,54 @@
       "Playoffs": "",
       "twitch": ""
    },
-   "Scanndium": {
-      "record": "1-0",
-      "squares": 11,
+   "Tarun": {
+      "record": "2-0",
+      "squares": 19,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Mixed" ],
+      "H2H": [ "Mixed", "Jam" ],
       "Playoffs": "",
       "twitch": ""
    },
    "Avery": {
       "record": "0-2",
       "squares": 13,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Goodietoshoes": {
+      "record": "0-2",
+      "squares": 0,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Question Marks": {
+      "record": "1-1",
+      "squares": 0,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Tito": {
+      "record": "1-1",
+      "squares": 0,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "",
+      "twitch": ""
+   },
+   "Sciryn": {
+      "record": "1-1",
+      "squares": 0,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
