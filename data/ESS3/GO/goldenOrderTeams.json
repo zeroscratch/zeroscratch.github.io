@@ -32,11 +32,11 @@
    "Tank & Top": {
       "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
       "player2": { "name": "Elymis", "nickname": "Fia's Champ", "profile-pic": "", "twitch": "https://www.twitch.tv/elymis" },
-      "record": "1-0",
-      "squares": 13,
+      "record": "2-0",
+      "squares": 26,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Bagarre FR" ],
+      "H2H": [ "Bagarre FR", "Asteroid Destroyer" ],
       "Playoffs": "maybe"
    },
    "Wamp Wamp": {
@@ -52,8 +52,8 @@
    "Asteroid Destroyer": {
       "player1": { "name": "Vakrash", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/vakrash" }, 
       "player2": { "name": "Serious", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/seriouschallenges" },
-      "record": "0-1",
-      "squares": 4,
+      "record": "0-2",
+      "squares": 14,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -62,8 +62,8 @@
    "Bagarre FR": {
       "player1": { "name": "Ironyeu", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/ironyeu" }, 
       "player2": { "name": "Typin", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/typin__" },
-      "record": "0-1",
-      "squares": 9,
+      "record": "0-2",
+      "squares": 20,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -92,11 +92,11 @@
    "Tower Princesses": {
       "player1": { "name": "Nexus", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nexusupnext" }, 
       "player2": { "name": "Asym", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/asymmmm" },
-      "record": "0-0",
-      "squares": 0,
+      "record": "1-0",
+      "squares": 13,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Bagarre FR" ],
       "Playoffs": "maybe"
    }
 }

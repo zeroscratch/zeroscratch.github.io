@@ -13,11 +13,11 @@
       "Corruption": {
          "player1": { "name": "Tony", "nickname": "Fallen Knight", "profile-pic": "", "twitch": "https://www.twitch.tv/tryztony" },
          "player2": { "name": "Fits", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "1-0",
-         "squares": 13,
-         "lines": 0,
+         "record": "2-0",
+         "squares": 26,
+         "lines": 1,
          "WR": 0,
-         "H2H": ["Rick Fisters"],
+         "H2H": ["Rick Fisters" , "Gold But Old"],
          "Playoffs": "maybe"
       },
       "Nordic Thunder": {
@@ -35,8 +35,8 @@
       "Gold But Old": {
          "player1": { "name": "NVCC Alex", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/latenightgamedev" },
          "player2": { "name": "Jerzounek", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/jerzounek" },
-         "record": "1-0",
-         "squares": 11,
+         "record": "1-1",
+         "squares": 21,
          "lines": 1,
          "WR": 0,
          "H2H": ["Nordic Thunder"],
@@ -99,18 +99,18 @@
       "Crashout Carries": {
          "player1": { "name": "SaetanSD", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/saetansd" },
          "player2": { "name": "Aggronio", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/aggronio" },
-         "record": "0-1",
-         "squares": 9,
+         "record": "1-1",
+         "squares": 22,
          "lines": 0,
          "WR": 0,
-         "H2H": [""],
+         "H2H": ["TruthfulNess"],
          "Playoffs": "maybe"
       },
       "TruthfulNess": {
          "player1": { "name": "TheGraphicTruth", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/thegraphictruth" },
          "player2": { "name": "Nessonetta", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nessonetta" },
-         "record": "1-0",
-         "squares": 13,
+         "record": "1-1",
+         "squares": 22,
          "lines": 0,
          "WR": 0,
          "H2H": ["FalconSi"],
