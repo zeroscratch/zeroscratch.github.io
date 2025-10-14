@@ -109,7 +109,7 @@
          },
          {  "gameId": 14, 
             "player1": { "name": "Tarun", "score": 8, "outcome": "Majority" }, 
-            "player2": { "name": "Arkham", "score": 7, "outcome": "Lost" }, 
+            "player2": { "name": "Jam", "score": 7, "outcome": "Lost" }, 
             "matchTime": "02:00:00",
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/tarun-v-jam-week2.png"
