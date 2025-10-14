@@ -1,41 +1,41 @@
 [
    {
-        "title": "Budge Team Hitless Debut",
+        "title": "Grab The Grace and Warp Out",
         "firstPlayer": "Time Complexity",
-        "secondPlayer": "Budget Team Hitless",
-        "scheduledAt": "10/10/2025 20:00:00 UTC",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "Time Zone Troubles",
-        "firstPlayer": "Bofa D's",
-        "secondPlayer": "Wamp Wamp",
-        "scheduledAt": "10/10/2025 22:00:00 UTC",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "Wisdom & Youth",
-        "firstPlayer": "Old But Gold",
         "secondPlayer": "Expedition 25",
-        "scheduledAt": "10/11/2025 20:00:00 UTC",
+        "scheduledAt": "10/17/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    },
    {
-        "title": "Tower Princesses Debut",
-        "firstPlayer": "Tower Princesses",
+        "title": "Double Bs",
+        "firstPlayer": "Bofa D's",
+        "secondPlayer": "Budget Team Hitless",
+        "scheduledAt": "10/17/2025 22:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Fools Gold",
+        "firstPlayer": "Old But Gold",
+        "secondPlayer": "Budget Team Hitless",
+        "scheduledAt": "10/18/2025 20:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "International Pressure",
+        "firstPlayer": "Bofa D's",
         "secondPlayer": "Bagarre FR",
-        "scheduledAt": "10/12/2025 18:00:00 UTC",
+        "scheduledAt": "10/18/2025 22:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    },
    {
-        "title": "Military Industrial Complex",
-        "firstPlayer": "Asteroid Destroyer",
-        "secondPlayer": "Tank & Top",
-        "scheduledAt": "10/12/2025 20:00:00 UTC",
+        "title": "Midra Gambit",
+        "firstPlayer": "Time Complexity",
+        "secondPlayer": "Tower Princesses",
+        "scheduledAt": "10/19/2025 18:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    }
