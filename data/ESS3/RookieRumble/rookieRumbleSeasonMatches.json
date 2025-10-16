@@ -115,5 +115,18 @@
             "imageLink": "/img/ESS3/Rookie/tarun-v-jam-week2.png"
          }
       ]
+   },
+   {
+      "week": 3,
+      "matches":
+      [
+         {  "gameId": 15, 
+            "player1": { "name": "Magnitude", "score": 10, "outcome": "Majority" }, 
+            "player2": { "name": "Cubanmissle", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/cuban-v-magnitude-week3.png"
+         }
+      ]
    }
 ]

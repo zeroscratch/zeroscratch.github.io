@@ -35,8 +35,8 @@
       "Gold But Old": {
          "player1": { "name": "NVCC Alex", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/latenightgamedev" },
          "player2": { "name": "Jerzounek", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/jerzounek" },
-         "record": "1-1",
-         "squares": 21,
+         "record": "1-2",
+         "squares": 29,
          "lines": 1,
          "WR": 0,
          "H2H": ["Nordic Thunder"],
@@ -45,8 +45,8 @@
       "KChewy": {
          "player1": { "name": "KCBrazos", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/kcbrazos" },
          "player2": { "name": "Chewy", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "0-1",
-         "squares": 8,
+         "record": "0-2",
+         "squares": 12,
          "lines": 0,
          "WR": 0,
          "H2H": [""],
@@ -55,11 +55,11 @@
       "Rick Fisters": {
          "player1": { "name": "Josh", "nickname": "Messmer <3", "profile-pic": "", "twitch": "https://www.twitch.tv/joshtilde_" },
          "player2": { "name": "Daggar97", "nickname": "Of the South", "profile-pic": "", "twitch": "https://www.twitch.tv/daggar97" },
-         "record": "0-1",
-         "squares": 11,
-         "lines": 0,
+         "record": "2-1",
+         "squares": 37,
+         "lines": 2,
          "WR": 0,
-         "H2H": [""],
+         "H2H": ["KChewy", "Gold But Old"],
          "Playoffs": "maybe"
       }
    },

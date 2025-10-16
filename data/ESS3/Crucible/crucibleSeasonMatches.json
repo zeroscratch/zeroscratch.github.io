@@ -89,6 +89,26 @@
             "matchTime": "01:10:27", 
             "vodLink": "https://www.twitch.tv/videos/2590007964?t=06h15m36s",
             "imageLink": "/img/ESS3/Crucible/corruption-v-gold-week2.png"
+         },
+         {  "gameId": 12, 
+            "player1": { "name": "Rick Fisters", "score": 15, "outcome": "Bingo" }, 
+            "player2": { "name": "KChewy", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "01:10:52", 
+            "vodLink": "",
+            "imageLink": "/img/ESS3/Crucible/kc-v-rick-week2.png"
+         }
+      ]
+   },
+   {
+      "week": 3,
+      "matches":
+      [
+         {  "gameId": 13, 
+            "player1": { "name": "Rick Fisters", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Gold But Old", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "00:59:38", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Crucible/rick-v-old-week3.png"
          }
       ]
    }
