@@ -9,11 +9,11 @@
       "twitch": ""
    },
    "Rony": {
-      "record": "2-0",
-      "squares": 26,
-      "lines": 3,
+      "record": "3-0",
+      "squares": 36,
+      "lines": 4,
       "WR": 0,
-      "H2H": [ "Bedhead", "Arkham" ],
+      "H2H": [ "Bedhead", "Arkham", "Tinybobcat" ],
       "Playoffs": "",
       "twitch": ""
    },
@@ -54,8 +54,8 @@
       "twitch": ""
    },
    "Tinybobcat": {
-      "record": "2-0",
-      "squares": 26,
+      "record": "2-1",
+      "squares": 30,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Krispy", "Belbo" ],
@@ -162,8 +162,8 @@
       "twitch": ""
    },
    "Tito": {
-      "record": "1-1",
-      "squares": 0,
+      "record": "1-2",
+      "squares": 6,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -171,11 +171,11 @@
       "twitch": ""
    },
    "Sciryn": {
-      "record": "1-1",
-      "squares": 0,
+      "record": "2-1",
+      "squares": 8,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Tito" ],
       "Playoffs": "",
       "twitch": ""
    }

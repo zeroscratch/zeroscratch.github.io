@@ -22,8 +22,8 @@
    "Bofa D's": {
       "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
       "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
-      "record": "1-1",
-      "squares": 19,
+      "record": "1-2",
+      "squares": 24,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Expedition 25" ],
@@ -82,11 +82,11 @@
    "Budget Team Hitless": {
       "player1": { "name": "Cronys", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
       "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
-      "record": "0-1",
-      "squares": 11,
-      "lines": 0,
+      "record": "1-1",
+      "squares": 24,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Bofa D's" ],
       "Playoffs": "maybe"
    },
    "Tower Princesses": {
