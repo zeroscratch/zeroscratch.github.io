@@ -66,7 +66,7 @@
    "Division C": {
       "FalconSi": {
          "player1": { "name": "AmplSi", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/amplsi" },
-         "player2": { "name": "Falconraven", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/falconraven" },
+         "player2": { "name": "FalconRaven", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/falconraven" },
          "record": "0-2",
          "squares": 16,
          "lines": 1,
@@ -99,11 +99,11 @@
       "Crashout Carries": {
          "player1": { "name": "SaetanSD", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/saetansd" },
          "player2": { "name": "Aggronio", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/aggronio" },
-         "record": "1-1",
-         "squares": 22,
+         "record": "2-1",
+         "squares": 35,
          "lines": 0,
          "WR": 0,
-         "H2H": ["TruthfulNess"],
+         "H2H": ["TruthfulNess", "Pandara"],
          "Playoffs": "maybe"
       },
       "TruthfulNess": {
@@ -119,8 +119,8 @@
       "Pandara": {
          "player1": { "name": "Kiofto", "nickname": "", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Madara", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "1-1",
-         "squares": 18,
+         "record": "1-2",
+         "squares": 26,
          "lines": 1,
          "WR": 0,
          "H2H": ["FalconSi"],

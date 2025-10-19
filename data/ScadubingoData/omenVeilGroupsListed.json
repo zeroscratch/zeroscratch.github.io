@@ -1,0 +1,104 @@
+[
+   { 
+      "week": 1,
+      "matches":
+      [
+         {  "gameId": 1, 
+            "player1": { "name": "Strump", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Thomas", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:12:57", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/strump-v-thomas-auriza.png"
+         },
+         {  "gameId": 4,
+            "player1": { "name": "Shura", "score": 7, "outcome": "Bingo" }, 
+            "player2": { "name": "Tony", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "00:39:30", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/shura-v-tony-belurat.png"
+         },
+         {  "gameId": 7,
+            "player1": { "name": "Doitz", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Jxxman", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "00:57:45", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/doitz-v-jxxman-mohg.png"
+         },
+         {  "gameId": 10,
+            "player1": { "name": "Champion", "score": 7, "outcome": "Bingo" }, 
+            "player2": { "name": "Lorian", "score": 0, "outcome": "Lost" }, 
+            "matchTime": "00:44:26", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/champ-v-lorian-rauh.png"
+         }
+      ]
+   },
+   { 
+      "week": 2,
+      "matches":
+      [
+         {  "gameId": 2, 
+            "player1": { "name": "Strump", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Elymis", "score": 12, "outcome": "Lost" }, 
+            "matchTime": "01:24:17", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/strump-v-elymis-auriza.png"
+         },
+         {  "gameId": 5,
+            "player1": { "name": "Shura", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Noya", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "01:15:34", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/shura-v-noya-belurat.png"
+         },
+         {  "gameId": 8,
+            "player1": { "name": "Doitz", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Psiphicode", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "01:11:23", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/doitz-v-psi-mohg.png"
+         },
+         {  "gameId": 11,
+            "player1": { "name": "Champion", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Helios", "score": 10, "outcome": "Lost" }, 
+            "matchTime": "01:14:10", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/champ-v-helios-rauh.png"
+         }
+      ]
+   },
+   { 
+      "week": 3,
+      "matches":
+      [
+         {  "gameId": 3, 
+            "player1": { "name": "Elymis", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Thomas", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "00:50:30", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/thomas-v-elymis-auriza.png"
+         },
+         {  "gameId": 6,
+            "player1": { "name": "Noya", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Tony", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "01:13:52", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/noya-v-tony-belurat.png"
+         },
+         {  "gameId": 9,
+            "player1": { "name": "Psiphicode", "score": 12, "outcome": "Bingo" }, 
+            "player2": { "name": "Jxxman", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "01:09:45", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/psi-v-jxxman-mohg.png"
+         },
+         {  "gameId": 12,
+            "player1": { "name": "Helios", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Lorian", "score": 11, "outcome": "Lost" }, 
+            "matchTime": "01:47:58", 
+            "vodLink": "", 
+            "imageLink": "/img/scadubingo/Omenveil/helios-v-lorian-rauh.png"
+         }
+      ]
+   }
+]

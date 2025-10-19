@@ -1,0 +1,166 @@
+{
+   "winners-finals": [
+     {
+         "gameid": 1,
+         "player1": { "name": "Snowy", "score": 9, "outcome": "lost", "division": "1" },
+         "player2": { "name": "Malte", "score": 13, "outcome": "Majority", "division": "6" },
+         "matchTime": "01:14:39",
+         "vodLink": "https://www.twitch.tv/videos/2449254687?t=04h23m28s",
+         "imageLink": "/img/crucible/malte-v-snowy-playoff.png"
+      }
+  ],
+  "grand-finals": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Malte", "score": 13, "outcome": "Majority", "division": "6" },
+         "player2": { "name": "Cronys", "score": 10, "outcome": "lost", "division": "2" },
+         "matchTime": "01:20:05",
+         "vodLink": "https://www.twitch.tv/videos/2461296099?t=00h18m59s",
+         "imageLink": "/img/crucible/malte-v-cronys-playoff-finals-1.png"
+      },
+      {
+        "gameid": 2,
+         "player1": { "name": "Malte", "score": 11, "outcome": "lost", "division": "6" },
+         "player2": { "name": "Cronys", "score": 13, "outcome": "Majority", "division": "2" },
+         "matchTime": "01:24:47",
+         "vodLink": "https://www.twitch.tv/videos/2461296099?t=02h03m49s",
+         "imageLink": "/img/crucible/malte-v-cronys-playoff-finals-2.png"
+      },
+      {
+        "gameid": 3,
+         "player1": { "name": "Malte", "score": 9, "outcome": "lost", "division": "6" },
+         "player2": { "name": "Cronys", "score": 13, "outcome": "Majority", "division": "2" },
+         "matchTime": "01:16:32",
+         "vodLink": "https://www.twitch.tv/videos/2462198109?t=00h22m47s",
+         "imageLink": "/img/crucible/malte-v-cronys-playoff-finals-3.png"
+      },
+      {
+        "gameid": 4,
+         "player1": { "name": "Malte", "score": 6, "outcome": "lost", "division": "6" },
+         "player2": { "name": "Cronys", "score": 6, "outcome": "Majority", "division": "2" },
+         "matchTime": "01:02:17",
+         "vodLink": "https://www.twitch.tv/videos/2462198109?t=02h06m30s",
+         "imageLink": "/img/crucible/malte-v-cronys-playoff-finals-4.png"
+      }
+  ],
+  "winners-semis-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Snowy", "score": 13, "outcome": "Majority", "division": "1" },
+         "player2": { "name": "Jerzounek", "score": 8, "outcome": "lost", "division": "3" },
+         "matchTime": "01:37:31",
+         "vodLink": "https://www.twitch.tv/videos/2439148805?t=00h19m22s",
+         "imageLink": "/img/crucible/snowy-v-jerz-playoffs.png"
+      }
+  ],
+  "winners-semis-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Cronys", "score": 11, "outcome": "lost", "division": "2" },
+         "player2": { "name": "Malte", "score": 13, "outcome": "Majority", "division": "6" },
+         "matchTime": "01:25:11",
+         "vodLink": "https://www.twitch.tv/videos/2435522534?t=00h15m54s",
+         "imageLink": "/img/crucible/cronys-v-malte-playoff.png"
+      }
+  ],
+  "winner-quarters-1": [
+  {
+         "gameid": 1,
+         "player1": { "name": "Snowy", "score": 13, "outcome": "Majority", "division": "1" },
+         "player2": { "name": "Lorian", "score": 10, "outcome": "lost", "division": "8" },
+         "matchTime": "01:32:06",
+         "vodLink": "https://www.twitch.tv/videos/2430947463?t=06h30m37s",
+         "imageLink": "/img/crucible/snowy-v-lorian-playoff.png"
+      }
+  ],
+  "winner-quarters-2": [
+  {
+         "gameid": 1,
+         "player1": { "name": "Jerzounek", "score": 0, "outcome": "Majority", "division": "3" },
+         "player2": { "name": "Harv", "score": 0, "outcome": "lost" , "division": "5"},
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": ""
+      }
+  ],
+  "winner-quarters-3": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Cronys", "score": 13, "outcome": "Majority", "division": "2" },
+         "player2": { "name": "Doitz", "score": 12, "outcome": "lost", "division": "7" },
+         "matchTime": "01:39:22",
+         "vodLink": "https://www.twitch.tv/videos/2426753608?t=03h44m01s",
+         "imageLink": "/img/crucible/cronys-v-doitz-playoffs.png"
+      }
+  ],
+  "winner-quarters-4": [
+  {
+         "gameid": 1,
+         "player1": { "name": "Loeless", "score": 7, "outcome": "lost", "division": "4" },
+         "player2": { "name": "Malte", "score": 13, "outcome": "Majority", "division": "6" },
+         "matchTime": "01:14:34",
+         "vodLink": "https://www.twitch.tv/videos/2430947463?t=00h24m11s",
+         "imageLink": "/img/crucible/loe-v-malte-playoffs.png"
+      }
+  ],
+  "losers-round1-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Lorian", "score": 8, "outcome": "Majority", "division": "8" },
+         "player2": { "name": "Harv", "score": 4, "outcome": "lost", "division": "5" },
+         "matchTime": "00:59:26",
+         "vodLink": "",
+         "imageLink": "/img/crucible/lorian-v-harv-playoff.png"
+      }
+  ],
+  "losers-round1-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Loeless", "score": 11, "outcome": "lost", "division": "4" },
+         "player2": { "name": "Doitz", "score": 13, "outcome": "Majority", "division": "7" },
+         "matchTime": "01:40:23",
+         "vodLink": "https://www.twitch.tv/videos/2436420000?t=04h44m46s",
+         "imageLink": "/img/crucible/doitz-v-loe.png"
+      }
+  ],
+  "losers-quarters-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Cronys", "score": 7, "outcome": "Majority", "division": "2" },
+         "player2": { "name": "Lorian", "score": 4, "outcome": "lost", "division": "8" },
+         "matchTime": "00:46:49",
+         "vodLink": "https://www.twitch.tv/videos/2445154357?t=00h18m48s",
+         "imageLink": "/img/crucible/cronys-v-lorian-playoff.png"
+      }
+  ],
+  "losers-quarters-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Jerzounek", "score": 13, "outcome": "Majority", "division": "3" },
+         "player2": { "name": "Doitz", "score": 8, "outcome": "lost", "division": "7" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": ""
+      }
+  ],
+  "losers-semis": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Cronys", "score": 13, "outcome": "Majority", "division": "2" },
+         "player2": { "name": "Jerzounek", "score": 6, "outcome": "lost", "division": "3" },
+         "matchTime": "01:10:52",
+         "vodLink": "https://www.twitch.tv/videos/2451685607?t=09h41m25s",
+         "imageLink": "/img/crucible/cronys-v-jerz-playoff.png"
+      }
+  ],
+  "losers-finals": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Snowy", "score": 11, "outcome": "lost", "division": "1" },
+         "player2": { "name": "Cronys", "score": 12, "outcome": "Majority", "division": "2" },
+         "matchTime": "01:38:40",
+         "vodLink": "https://www.twitch.tv/videos/2453585105?t=03h16m54s",
+         "imageLink": "/img/crucible/cronys-v-snowy-playoffs.png"
+      }
+  ]
+}

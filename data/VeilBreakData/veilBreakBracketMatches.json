@@ -36,7 +36,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Bagarre FR", "score": 13, "outcome": "Bingo" },
-         "player2": { "name": "KFC", "score": 9, "outcome": "" },
+         "player2": { "name": "Kindred's Forgotten Cookbook", "score": 9, "outcome": "Lost" },
          "matchTime": "01:20:11",
          "vodLink": "",
          "imageLink": "/img/Veilbreak/kfc-v-french-Quarterfinals.png",

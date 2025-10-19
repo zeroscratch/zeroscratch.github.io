@@ -24,7 +24,7 @@
    "Quarterfinals-3": [
       {
          "gameid": 1,
-         "player1": { "name": "TTC", "score": 13, "outcome": "Bingo" },
+         "player1": { "name": "Top Tier Communicators", "score": 13, "outcome": "Bingo" },
          "player2": { "name": "ChampDoitz", "score": 6, "outcome": "Lost" },
          "matchTime": "01:06:17",
          "vodLink": "",
@@ -57,7 +57,7 @@
    "Semifinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "TTC", "score": 14, "outcome": "Bingo" },
+         "player1": { "name": "Top Tier Communicators", "score": 14, "outcome": "Bingo" },
          "player2": { "name": "Old But Gold", "score": 8, "outcome": "Lost" },
          "matchTime": "01:10:06",
          "vodLink": "https://www.twitch.tv/videos/2555638436?t=02h19m11s",
@@ -69,7 +69,7 @@
       {
          "gameid": 1,
          "player1": { "name": "LazyRats", "score": 6, "outcome": "Lost" },
-         "player2": { "name": "TTC", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Top Tier Communicators", "score": 13, "outcome": "Majority" },
          "matchTime": "00:54:55",
          "vodLink": "https://www.twitch.tv/videos/2556731433?t=00h26m56s",
          "imageLink": "/img/Veilbreak/TTC-v-LazyRats-Finals.png",

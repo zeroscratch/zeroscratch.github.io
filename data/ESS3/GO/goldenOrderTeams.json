@@ -1,6 +1,6 @@
 {
    "Time Complexity": {
-      "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "", "twitch": "https://www.twitch.tv/itsshura" }, 
+      "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "/player-pic/Shura.png", "twitch": "https://www.twitch.tv/itsshura" }, 
       "player2": { "name": "Psiphicode", "nickname": "Could Be", "profile-pic": "", "twitch": "https://www.twitch.tv/psiphicode" },
       "record": "3-0",
       "squares": 37,
@@ -12,8 +12,8 @@
    "Old But Gold": {
       "player1": { "name": "Jay", "nickname": "Joker", "profile-pic": "", "twitch": "https://www.twitch.tv/igntjay" }, 
       "player2": { "name": "Rambler", "nickname": "Professor", "profile-pic": "", "twitch": "https://www.twitch.tv/rambler_ing" },
-      "record": "0-2",
-      "squares": 24,
+      "record": "0-3",
+      "squares": 33,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -80,13 +80,13 @@
       "Playoffs": "maybe"
    },
    "Budget Team Hitless": {
-      "player1": { "name": "Cronys", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
+      "player1": { "name": "Cronys", "nickname": "Hitless?", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
       "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
-      "record": "1-1",
-      "squares": 24,
+      "record": "2-1",
+      "squares": 37,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Bofa D's" ],
+      "H2H": [ "Bofa D's", "Old But Gold" ],
       "Playoffs": "maybe"
    },
    "Tower Princesses": {
