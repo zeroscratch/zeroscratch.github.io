@@ -895,7 +895,7 @@
          },
          {
             "gameId": "26",
-            "player1": { "name": "Champ", "score": 13, "outcome": "Majority" },
+            "player1": { "name": "Champion", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Saetan", "score": 4, "outcome": "Lost" },
             "matchTime": "01:15:45",
             "vodLink": "",
@@ -1005,7 +1005,7 @@
          },
          {
             "gameId": "39",
-            "player1": { "name": "Champ", "score": 7, "outcome": "Bingo" },
+            "player1": { "name": "Champion", "score": 7, "outcome": "Bingo" },
             "player2": { "name": "Harv", "score": 6, "outcome": "Lost" },
             "matchTime": "01:03:32",
             "vodLink": "",
@@ -1132,7 +1132,7 @@
          {
             "gameId": "54",
             "player1": { "name": "Psiphicode", "score": 9, "outcome": "Bingo" },
-            "player2": { "name": "Champ", "score": 11, "outcome": "Lost" },
+            "player2": { "name": "Champion", "score": 11, "outcome": "Lost" },
             "matchTime": "01:36:33",
             "vodLink": "",
             "imageLink": "/img/crucible/psi-v-champ.png"
@@ -1233,7 +1233,7 @@
          },
          {
             "gameId": "66",
-            "player1": { "name": "Champ", "score": 13, "outcome": "Majority" },
+            "player1": { "name": "Champion", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Distortz", "score": 7, "outcome": "Lost" },
             "matchTime": "01:59:29",
             "vodLink": "",
@@ -1320,7 +1320,7 @@
          {
             "gameId": "76",
             "player1": { "name": "EldenWiki", "score": 6, "outcome": "Lost" },
-            "player2": { "name": "Champ", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Champion", "score": 13, "outcome": "Majority" },
             "matchTime": "01:28:14",
             "vodLink": "",
             "imageLink": "/img/crucible/wiki-v-champ.png"
@@ -1446,7 +1446,7 @@
          {
             "gameId": "91",
             "player1": { "name": "Maiorskills", "score": 13, "outcome": "Majority" },
-            "player2": { "name": "Champ", "score": 9, "outcome": "Lost" },
+            "player2": { "name": "Champion", "score": 9, "outcome": "Lost" },
             "matchTime": "01:37:28",
             "vodLink": "",
             "imageLink": "/img/crucible/maior-v-champ.png"
@@ -1548,7 +1548,7 @@
          {
             "gameId": "103",
             "player1": { "name": "Lorian", "score": 13, "outcome": "Bingo" },
-            "player2": { "name": "Champ", "score": 12, "outcome": "Lost" },
+            "player2": { "name": "Champion", "score": 12, "outcome": "Lost" },
             "matchTime": "01:48:41",
             "vodLink": "",
             "imageLink": "/img/crucible/lorian-v-champ.png"
@@ -1666,7 +1666,7 @@
          {
             "gameId": "117",
             "player1": { "name": "Wander", "score": 8, "outcome": "Bingo" },
-            "player2": { "name": "Champ", "score": 4, "outcome": "Lost" },
+            "player2": { "name": "Champion", "score": 4, "outcome": "Lost" },
             "matchTime": "00:57:19",
             "vodLink": "",
             "imageLink": "/img/crucible/wander-v-champ.png"

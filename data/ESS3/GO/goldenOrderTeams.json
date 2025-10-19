@@ -2,11 +2,11 @@
    "Time Complexity": {
       "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "/player-pic/Shura.png", "twitch": "https://www.twitch.tv/itsshura" }, 
       "player2": { "name": "Psiphicode", "nickname": "Could Be", "profile-pic": "", "twitch": "https://www.twitch.tv/psiphicode" },
-      "record": "3-0",
-      "squares": 37,
+      "record": "4-0",
+      "squares": 50,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25"],
+      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses"],
       "Playoffs": "maybe"
    },
    "Old But Gold": {
@@ -92,8 +92,8 @@
    "Tower Princesses": {
       "player1": { "name": "Nexus", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nexusupnext" }, 
       "player2": { "name": "Asym", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/asymmmm" },
-      "record": "1-0",
-      "squares": 13,
+      "record": "1-1",
+      "squares": 20,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bagarre FR" ],

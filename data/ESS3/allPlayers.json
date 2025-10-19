@@ -26,12 +26,12 @@
          "team": "Old But Gold",
          "veilbreak-team1": "2Guys1Board",
          "veilbreak-team2": "Old But Gold",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/jayProfilePic.webp",
          "current-record": "",
          "twitch": "",
-         "accolades": "",
-         "nickname": "",
-         "bio": ""
+         "accolades": "Moonwalk Champion",
+         "nickname": "The Joker",
+         "bio": "DLC Bingo Expert"
       },
       "Rambler": {
          "team": "Old But Gold",
@@ -226,12 +226,12 @@
          "team": "Base Mommy & Daddy",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/noyaProfilePic.jpg",
          "current-record": "",
          "twitch": "",
          "accolades": "",
          "nickname": "",
-         "bio": ""
+         "bio": "Retired #4000 global osu player. Top Celeste any% Runner. Diablo III Hardcore solo seasonal enjoyer. Moonveil aficionado. Omenveil Top6 - Turns out I suck at Bingo ;). Chose to play the 2v2 on a whim, have not practiced, pref DLC"
       },
       "TurtleBeard": {
          "team": "Base Mommy & Daddy",
@@ -358,12 +358,12 @@
          "team": "FalconSi",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/ampProfilePic.png",
          "current-record": "",
          "twitch": "",
          "accolades": "",
          "nickname": "",
-         "bio": ""
+         "bio": "Known for her obsession with a leaked placeholder sprite of Arceus, writing for interactive twitch boss fights, and still putting off making that lore video she's been planning for a year."
       },
       "FalconRaven": {
          "team": "FalconSi",
@@ -380,12 +380,12 @@
          "team": "NikeTwo",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/nikeProfilePic.jpeg",
          "current-record": "",
          "twitch": "",
          "accolades": "",
          "nickname": "",
-         "bio": ""
+         "bio": "Guh"
       },
       "Mewtwo": {
          "team": "NikeTwo",
@@ -435,12 +435,12 @@
          "team": "Crashout Carries",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/aggronioProfilePic.png",
          "current-record": "",
          "twitch": "",
          "accolades": "",
-         "nickname": "",
-         "bio": ""
+         "nickname": "The Hottie",
+         "bio": "Learning to lose at Elden Ring is my greatest skill. Walmart discount version of a true Elden Squares player."
       },
       "TheGraphicTruth": {
          "team": "TruthfulNess",
@@ -503,12 +503,12 @@
          "team": "",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/ronyProfilePic.jpeg",
          "current-record": "",
          "twitch": "",
          "accolades": "Nightmare Seed Completionist",
-         "nickname": "",
-         "bio": ""
+         "nickname": "The Silent One",
+         "bio": "we're on the borderline.. Caught between the tides of pain and rapture"
       },
       "Arkham": {
          "team": "",
@@ -558,12 +558,12 @@
          "team": "",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/bobcatProfilePic.jpg",
          "current-record": "",
          "twitch": "",
          "accolades": "",
          "nickname": "",
-         "bio": ""
+         "bio": "Variety streamer that focuses on weird challenge runs no one else wants to do. Call me Tiny or Bobcat."
       },
       "Cubanmissle": {
          "team": "",
@@ -635,12 +635,12 @@
          "team": "",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/mixedProfilePic.png",
          "current-record": "",
          "twitch": "",
          "accolades": "",
          "nickname": "",
-         "bio": ""
+         "bio": "Bonjour :)"
       },
       "Tarun": {
          "team": "",
@@ -722,6 +722,17 @@
          "bio": ""
       },
       "HooZher": {
+         "team": "",
+         "veilbreak-team1": "",
+         "veilbreak-team2": "",
+         "profile-pic": "",
+         "current-record": "",
+         "twitch": "",
+         "accolades": "",
+         "nickname": "",
+         "bio": ""
+      },
+      "Champion": {
          "team": "",
          "veilbreak-team1": "",
          "veilbreak-team2": "",

@@ -168,6 +168,13 @@
             "matchTime": "01:14:10", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/belbo-v-goosh-week3.png"
+         },
+         {  "gameId": 22, 
+            "player1": { "name": "Jam", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "Psykg", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/belbo-v-goosh-week3.png"
          }
       ]
    }
