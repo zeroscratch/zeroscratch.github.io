@@ -1,7 +1,7 @@
 {
    "Bedhead": {
-      "record": "0-2",
-      "squares": 4,
+      "record": "0-3",
+      "squares": 9,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -150,11 +150,11 @@
       "profile-pic": ""
    },
    "Avery": {
-      "record": "0-2",
-      "squares": 13,
+      "record": "1-2",
+      "squares": 21,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Bedhead" ],
       "Playoffs": "",
       "twitch": "",
       "profile-pic": ""

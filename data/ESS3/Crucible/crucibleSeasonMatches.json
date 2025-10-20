@@ -121,7 +121,7 @@
             "player1": { "name": "Nordic Thunder", "score": 13, "outcome": "Majority" }, 
             "player2": { "name": "KChewy", "score": 10, "outcome": "Lost" }, 
             "matchTime": "01:22:38", 
-            "vodLink": "", 
+            "vodLink": "https://www.twitch.tv/videos/2596016729?t=00h26m02s", 
             "imageLink": "/img/ESS3/Crucible/kc-v-nordic-week3.png"
          },
          {  "gameId": 16, 
@@ -135,7 +135,7 @@
             "player1": { "name": "Jarvis", "score": 14, "outcome": "Majority" }, 
             "player2": { "name": "FalconSi", "score": 1, "outcome": "Lost" }, 
             "matchTime": "00:57:08", 
-            "vodLink": "", 
+            "vodLink": "https://www.twitch.tv/videos/2596016729?t=04h21m59s", 
             "imageLink": "/img/ESS3/Crucible/jarvis-v-falcon-week3.png"
          }
       ]

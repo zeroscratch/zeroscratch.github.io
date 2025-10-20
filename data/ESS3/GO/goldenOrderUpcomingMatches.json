@@ -1,33 +1,57 @@
 [
    {
-        "title": "Grab The Grace and Warp Out",
-        "firstPlayer": "Time Complexity",
-        "secondPlayer": "Expedition 25",
-        "scheduledAt": "10/17/2025 20:00:00 UTC",
+        "title": "Go Fast XDD",
+        "firstPlayer": "Budget Team Hitless",
+        "secondPlayer": "Wamp Wamp",
+        "scheduledAt": "10/24/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    },
    {
-        "title": "Double Bs",
+        "title": "Bofa Princesses",
         "firstPlayer": "Bofa D's",
-        "secondPlayer": "Budget Team Hitless",
-        "scheduledAt": "10/17/2025 22:00:00 UTC",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "Fools Gold",
-        "firstPlayer": "Old But Gold",
-        "secondPlayer": "Budget Team Hitless",
-        "scheduledAt": "10/18/2025 20:00:00 UTC",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "Midra Gambit",
-        "firstPlayer": "Time Complexity",
         "secondPlayer": "Tower Princesses",
-        "scheduledAt": "10/19/2025 18:00:00 UTC",
+        "scheduledAt": "10/24/2025 22:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Coughing Baby vs Atomic Bomb",
+        "firstPlayer": "Old But Gold",
+        "secondPlayer": "Wamp Wamp",
+        "scheduledAt": "10/25/2025 18:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "The Painters & Belios",
+        "firstPlayer": "Tank & Top",
+        "secondPlayer": "Expedition 25",
+        "scheduledAt": "10/25/2025 20:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Hitless Challenges",
+        "firstPlayer": "Asteriod Destroyer",
+        "secondPlayer": "Budget Team Hitless",
+        "scheduledAt": "10/25/2025 22:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Tendies and French Fries",
+        "firstPlayer": "Time Complexity",
+        "secondPlayer": "Bagarre FR",
+        "scheduledAt": "10/26/2025 18:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "EVO Destroyers",
+        "firstPlayer": "Asteriod Destroyer",
+        "secondPlayer": "Tower Princesses",
+        "scheduledAt": "10/25/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    }

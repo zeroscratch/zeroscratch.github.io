@@ -175,6 +175,13 @@
             "matchTime": "02:00:00", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/belbo-v-goosh-week3.png"
+         },
+         {  "gameId": 23, 
+            "player1": { "name": "Avery", "score": 8, "outcome": "Majority" }, 
+            "player2": { "name": "Bedhead", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/aves-v-bedhead-week3.png"
          }
       ]
    }
