@@ -6,7 +6,7 @@
          "player2": { "name": "Asym", "score": 9, "outcome": "Lost" , "division": "redmane"},
          "matchTime": "01:24:44",
          "vodLink": "https://youtu.be/9arl1szKycE?si=HrDt7HOXdB1-2gJq",
-         "imageLink": "/img/nartock-v-asym-1.png",
+         "imageLink": "/img/ESS2/nartock-v-asym-1.png",
          "scheduledAt": "2025-04-05T20:00:00Z"
       },
       {
@@ -15,7 +15,7 @@
          "player2": { "name": "Asym", "score": 8, "outcome": "Lost", "division": "redmane" },
          "matchTime": "01:25:29",
          "vodLink": "https://youtu.be/9arl1szKycE?si=le_p_vKwK-rcnLEd&t=5658",
-         "imageLink": "/img/nartock-v-asym-2.png",
+         "imageLink": "/img/ESS2/nartock-v-asym-2.png",
          "scheduledAt": "2025-04-05T22:00:00Z"
       }
    ],
@@ -26,7 +26,7 @@
          "player2": { "name": "Stocko", "score": 11, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:35:01",
          "vodLink": "https://youtu.be/ffp1NLJP4UQ?si=eZflCt6ElQvwycQ0",
-         "imageLink": "/img/helios-v-stocko-1.png",
+         "imageLink": "/img/ESS2/helios-v-stocko-1.png",
          "scheduledAt": "2025-04-06T16:00:00Z"
       },
       {
@@ -35,7 +35,7 @@
          "player2": { "name": "Stocko", "score": 9, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:32:15",
          "vodLink": "https://youtu.be/ffp1NLJP4UQ?si=MDTsflYcS12gpfTf&t=6083",
-         "imageLink": "/img/helios-v-stocko-2.png",
+         "imageLink": "/img/ESS2/helios-v-stocko-2.png",
          "scheduledAt": "2025-04-06T18:00:00Z"
       }
    ],
@@ -46,7 +46,7 @@
          "player2": { "name": "Rambler", "score": 5, "outcome": "Rambler Bingo Win", "division": "redmane" },
          "matchTime": "00:58:24",
          "vodLink": "https://youtu.be/bEkfBsSLed8?si=TQE6LV8cjXLYCX5v&t=11",
-         "imageLink": "/img/rambler-v-shura-1.png",
+         "imageLink": "/img/ESS2/rambler-v-shura-1.png",
          "scheduledAt": "2025-04-07T20:00:00Z"
       },
       {
@@ -55,7 +55,7 @@
          "player2": { "name": "Rambler", "score": 7, "outcome": "Lost", "division": "redmane" },
          "matchTime": "01:19:02",
          "vodLink": "https://youtu.be/bEkfBsSLed8?si=zqhp71fo1mUm2OUI&t=4149",
-         "imageLink": "/img/rambler-v-shura-2.png",
+         "imageLink": "/img/ESS2/rambler-v-shura-2.png",
          "scheduledAt": "2025-04-07T22:00:00Z"
       },
       {
@@ -64,7 +64,7 @@
          "player2": { "name": "Rambler", "score": 5, "outcome": "Lost", "division": "redmane" },
          "matchTime": "01:14:23",
          "vodLink": "https://youtu.be/bEkfBsSLed8?si=PDKutuzFO19j-Qda&t=4154",
-         "imageLink": "/img/rambler-v-shura-3.png",
+         "imageLink": "/img/ESS2/rambler-v-shura-3.png",
          "scheduledAt": "2025-04-08T18:30:00Z"
       }
    ],
@@ -75,7 +75,7 @@
          "player2": { "name": "Strump", "score": 11, "outcome": "Lost", "division": "redmane" },
          "matchTime": "01:40:35",
          "vodLink": "https://youtu.be/TNgGGxtVCBg?si=KLVnU5SICq6G29-Y",
-         "imageLink": "/img/nexus-v-strump-1.png",
+         "imageLink": "/img/ESS2/nexus-v-strump-1.png",
          "scheduledAt": "2025-04-08T20:30:00Z"
       },
       {
@@ -84,7 +84,7 @@
          "player2": { "name": "Strump", "score": 2, "outcome": "Lost", "division": "redmane" },
          "matchTime": "00:57:59",
          "vodLink": "https://youtu.be/TNgGGxtVCBg?si=GpOusW6UQxdfwEMJ&t=6571",
-         "imageLink": "/img/nexus-v-strump-2.png",
+         "imageLink": "/img/ESS2/nexus-v-strump-2.png",
          "scheduledAt": "2025-04-08T22:30:00Z"
       }
    ],
@@ -95,7 +95,7 @@
          "player2": { "name": "Nartock", "score": 11, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:25:58",
          "vodLink": "https://youtu.be/3ZFmE6-GSeU?si=bsO4j3X-hXwwBRYs&t=12",
-         "imageLink": "/img/helios-v-nartock-1.png",
+         "imageLink": "/img/ESS2/helios-v-nartock-1.png",
          "scheduledAt": "2025-04-12T18:00:00Z"
       },
       {
@@ -104,7 +104,7 @@
          "player2": { "name": "Nartock", "score": 11, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:35:40",
          "vodLink": "https://youtu.be/3ZFmE6-GSeU?si=4pXYcSVTq64wdwuY&t=5553",
-         "imageLink": "/img/helios-v-nartock-2.png",
+         "imageLink": "/img/ESS2/helios-v-nartock-2.png",
          "scheduledAt": "2025-04-12T20:05:00Z"
       }
    ],
@@ -115,7 +115,7 @@
          "player2": { "name": "Nexus", "score": 8, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:06:42",
          "vodLink": "https://youtu.be/ct-uvJf-m6o?si=iURg-9jRgkpWPqXz&t=18",
-         "imageLink": "/img/shura-v-nexus-playoff-1.png",
+         "imageLink": "/img/ESS2/shura-v-nexus-playoff-1.png",
          "scheduledAt": "2025-04-22T21:00:00Z"
       },
       {
@@ -124,7 +124,7 @@
          "player2": { "name": "Nexus", "score": 13, "outcome": "Nexus Majority Win", "division": "recusant" },
          "matchTime": "01:47:13",
          "vodLink": "https://youtu.be/ct-uvJf-m6o?si=xrfOdwt9I2ZQncLA&t=4608",
-         "imageLink": "/img/shura-v-nexus-playoff-2.png",
+         "imageLink": "/img/ESS2/shura-v-nexus-playoff-2.png",
          "scheduledAt": "2025-04-22T23:00:00Z"
       },
       {
@@ -133,7 +133,7 @@
          "player2": { "name": "Nexus", "score": 9, "outcome": "Lost", "division": "recusant" },
          "matchTime": "01:33:41",
          "vodLink": "https://youtu.be/ct-uvJf-m6o?si=lbTyTi4Ie50agOZH&t=11683",
-         "imageLink": "/img/shura-v-nexus-playoff-3.png",
+         "imageLink": "/img/ESS2/shura-v-nexus-playoff-3.png",
          "scheduledAt": "2025-04-23T21:00:00Z"
       }
    ],
@@ -144,7 +144,7 @@
          "player2": { "name": "Nartock", "score": 13, "outcome": "Nartock Majority Win", "division": "recusant" },
          "matchTime": "00:00:00",
          "vodLink": "https://youtu.be/7OUyNnYlkVE?si=G4RdZDPTQ-60X6pj&t=37",
-         "imageLink": "/img/nexus-v-nartock-playoffs-1.png",
+         "imageLink": "/img/ESS2/nexus-v-nartock-playoffs-1.png",
          "scheduledAt": "2025-04-27T18:00:00Z"
       },
       {
@@ -153,7 +153,7 @@
          "player2": { "name": "Nartock", "score": 13, "outcome": "Nartock Majority Win", "division": "recusant" },
          "matchTime": "01:10:34",
          "vodLink": "https://youtu.be/7OUyNnYlkVE?si=4Fpz_PiQSX5JcmYn&t=4520",
-         "imageLink": "/img/nexus-v-nartock-playoff-2.png",
+         "imageLink": "/img/ESS2/nexus-v-nartock-playoff-2.png",
          "scheduledAt": "2025-04-27T19:40:00Z"
       }
    ],
@@ -164,7 +164,7 @@
          "player2": { "name": "Shura", "score": 13, "outcome": "Shura Majority Win", "division": "recusant" },
          "matchTime": "01:47:04",
          "vodLink": "https://youtu.be/mnQ9ez-6FSg?si=nu5473GKwosFcJK9&t=36",
-         "imageLink": "/img/shura-v-helios-playoff-1.png",
+         "imageLink": "/img/ESS2/shura-v-helios-playoff-1.png",
          "scheduledAt": "2025-05-02T20:00:00Z"
       },
       {
@@ -173,7 +173,7 @@
          "player2": { "name": "Shura", "score": 13, "outcome": "Shura Majority Win", "division": "recusant" },
          "matchTime": "01:35:28",
          "vodLink": "https://youtu.be/mnQ9ez-6FSg?si=cJPvwFMhXHrZJjtK&t=7975",
-         "imageLink": "/img/shura-v-helios-playoff-2.png",
+         "imageLink": "/img/ESS2/shura-v-helios-playoff-2.png",
          "scheduledAt": "2025-05-03T15:00:00Z"
       }
    ]

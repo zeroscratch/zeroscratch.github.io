@@ -314,12 +314,12 @@
          "team": "KChewy",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/kcProfilePic.png",
          "current-record": "",
          "twitch": "https://www.twitch.tv/kcbrazos",
          "accolades": "",
          "nickname": "",
-         "bio": ""
+         "bio": "Fumbling along, dying in caves, helping Igon however he can."
       },
       "Chewy": {
          "team": "KChewy",
@@ -536,7 +536,7 @@
          "team": "",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "/img/profilePics/jamProfilePic.gif",
+         "profile-pic": "/img/profilePics/jamProfilePic.jpg",
          "current-record": "",
          "twitch": "",
          "accolades": "",
