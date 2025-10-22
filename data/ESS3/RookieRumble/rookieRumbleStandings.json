@@ -80,7 +80,7 @@
       "profile-pic": ""
    },
    "TheMilkMan": {
-      "record": "2-0",
+      "record": "2-1",
       "squares": 17,
       "lines": 1,
       "WR": 0,
@@ -90,8 +90,8 @@
       "profile-pic": ""
    },
    "Psykg": {
-      "record": "2-1",
-      "squares": 23,
+      "record": "2-2",
+      "squares": 25,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Yosh" ],
@@ -130,21 +130,21 @@
       "profile-pic": ""
    },
    "Mixed": {
-      "record": "2-1",
-      "squares": 25,
-      "lines": 2,
+      "record": "3-1",
+      "squares": 35,
+      "lines": 3,
       "WR": 0,
-      "H2H": [ "Magnitude", "Azdomiel" ],
+      "H2H": [ "Magnitude", "Azdomiel", "Psykg" ],
       "Playoffs": "",
       "twitch": "",
       "profile-pic": ""
    },
    "Tarun": {
-      "record": "2-0",
-      "squares": 19,
-      "lines": 1,
+      "record": "3-0",
+      "squares": 32,
+      "lines": 2,
       "WR": 0,
-      "H2H": [ "Mixed", "Jam" ],
+      "H2H": [ "Mixed", "Jam", "TheMilkMan" ],
       "Playoffs": "",
       "twitch": "",
       "profile-pic": ""
