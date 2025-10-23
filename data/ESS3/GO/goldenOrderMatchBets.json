@@ -5,6 +5,7 @@
         "secondPlayer": "Tower Princesses",
         "scheduledAt": "10/24/2025 22:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
@@ -13,6 +14,7 @@
         "secondPlayer": "Wamp Wamp",
         "scheduledAt": "10/25/2025 18:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
@@ -21,6 +23,7 @@
         "secondPlayer": "Expedition 25",
         "scheduledAt": "10/25/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
@@ -29,6 +32,7 @@
         "secondPlayer": "Budget Team Hitless",
         "scheduledAt": "10/25/2025 22:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
@@ -37,6 +41,7 @@
         "secondPlayer": "Bagarre FR",
         "scheduledAt": "10/26/2025 18:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
@@ -45,6 +50,7 @@
         "secondPlayer": "Tower Princesses",
         "scheduledAt": "10/26/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    }
 ]
