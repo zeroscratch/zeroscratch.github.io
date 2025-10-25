@@ -32,8 +32,8 @@
    "Tank & Top": {
       "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
       "player2": { "name": "Elymis", "nickname": "Fia's Champ", "profile-pic": "", "twitch": "https://www.twitch.tv/elymis" },
-      "record": "2-0",
-      "squares": 26,
+      "record": "2-1",
+      "squares": 34,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bagarre FR", "Asteroid Destroyer" ],
@@ -72,11 +72,11 @@
    "Expedition 25": {
       "player1": { "name": "Thomas", "nickname": "Doc-Ock", "profile-pic": "", "twitch": "https://www.twitch.tv/pluryl" }, 
       "player2": { "name": "Jibbe", "nickname": "Absurdist", "profile-pic": "", "twitch": "https://www.twitch.tv/jibbebot" },
-      "record": "1-2",
-      "squares": 33,
+      "record": "2-2",
+      "squares": 46,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Old But Gold" ],
+      "H2H": [ "Old But Gold", "Tank & Top" ],
       "Playoffs": "maybe"
    },
    "Budget Team Hitless": {
