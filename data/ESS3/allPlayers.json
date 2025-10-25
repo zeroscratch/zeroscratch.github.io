@@ -525,12 +525,12 @@
          "team": "",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "",
+         "profile-pic": "/img/profilePics/magnitudeProfilePic.jpeg",
          "current-record": "",
          "twitch": "",
          "accolades": "",
          "nickname": "",
-         "bio": ""
+         "bio": "Tarnished Eater"
       },
       "Jam": {
          "team": "",
@@ -626,7 +626,7 @@
          "veilbreak-team2": "",
          "profile-pic": "",
          "current-record": "",
-         "twitch": "",
+         "twitch": "https://www.twitch.tv/belbo786",
          "accolades": "",
          "nickname": "",
          "bio": ""

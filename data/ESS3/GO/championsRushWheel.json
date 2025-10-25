@@ -1,0 +1,252 @@
+{
+   "Blood Tax": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Rykard": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "DLC Rush": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Magma Wyrm Theo": {
+      "Champion" : {
+         "time": "13:10",
+         "seed": "1670932069",
+         "weapon": "Dragon-Hunter's Great Katana",
+         "vod": "https://youtu.be/hj202CfhD54?si=fn6PW7yhb_8EnJG6"
+      }
+   },
+   "Mohg Lord of Blood": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Maliketh": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Radahn": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Lorreta": {
+      "Champion" : {
+         "time": "5:03",
+         "seed": "1351291920",
+         "weapon": "Falx",
+         "vod": "https://youtu.be/k-v1ADRTxmc?si=ee0lM-2sDSSqfDuC"
+      }
+   },
+   "Real Lorreta": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Deathrite bird in Snowfield": {
+      "Champion" : {
+         "time": "14:08",
+         "seed": "1661606457",
+         "weapon": "Envoy's Horn",
+         "vod": "https://youtu.be/SmAvRlsVeO0?si=H63gH22PlGX7cPZz"
+      }
+   },
+   "Fist/Dagger only": {
+      "Champion" : {
+         "time": "6:18",
+         "seed": "5924450",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/46t3QPD29oM?si=vSz-KXOB8NeQgt6F"
+      }
+   },
+   "Colossal only": {
+      "None" : {
+         "time": "7:34",
+         "seed": "578058067 ",
+         "weapon": "Watchdog's Greatsword",
+         "vod": "https://youtu.be/jW8uPy7y9tM?si=TAFNNZzBs351x4wC"
+      }
+   },
+   "Morgott": {
+      "Champion" : {
+         "time": "20:20",
+         "seed": "1129868009",
+         "weapon": "Helphen's Steeple",
+         "vod": "https://youtu.be/9GuYaRoJZQY?si=_nP0zgtSungR0UY4"
+      },
+      "Lemon" : {
+         "time": "19:59",
+         "seed": "1129868009",
+         "weapon": "Helphen's Steeple",
+         "vod": "https://www.twitch.tv/videos/2599007104?t=4587s"
+      }
+   },
+   "Flying Dragon Greyll": {
+      "Champion" : {
+         "time": "9:11",
+         "seed": "1157636179",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": "https://youtu.be/gce9zF3x72k?si=eseQCEKz39oWcZDI"
+      }
+   },
+   "Baby Dragons": {
+      "Champion" : {
+         "time": "5:53",
+         "seed": "1088673428",
+         "weapon": "Reduvia",
+         "vod": "https://youtu.be/ca62LgtmGHw?si=bcuEL9Ijm8_E3o8O"
+      }
+   },
+   "Red bear": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Astel membie": {
+      "Champion" : {
+         "time": "16:28",
+         "seed": "212135093",
+         "weapon": "Great Stars",
+         "vod": "https://youtu.be/3nR9O7AmMTw?si=ku9fy-fx_dbLQ7ie"
+      }
+   },
+   "Caelid Apostle": {
+      "Champion" : {
+         "time": "10:26",
+         "seed": "5924450",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/Zj3bqBt708I?si=mXI_I9_yjfyI_qOy"
+      }
+   },
+   "Misbegoten Crusader": {
+      "Champion" : {
+         "time": "15:19",
+         "seed": "1698284846",
+         "weapon": "Pickaxe",
+         "vod": "https://youtu.be/_zt5LogCtuE?si=RXzMItL9nt9JynNZ"
+      }
+   },
+   "Gurranq": {
+      "Champion" : {
+         "time": "7:04",
+         "seed": "892825990",
+         "weapon": "Flamberge",
+         "vod": "https://youtu.be/YY-n0JPiVpI?si=cxAvwYlsx2l4rjxq"
+      }
+   },
+   "BBK": {
+      "Champion" : {
+         "time": "10:16",
+         "seed": "892825990",
+         "weapon": "Flamberge",
+         "vod": "https://youtu.be/4-sBECm2fJI?si=keil63AxWxo6JnRw"
+      }
+   },
+   "Midra": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Rellana": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Hippo": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Regal": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   },
+   "Commander Niall": {
+      "Champion" : {
+         "time": "14:10",
+         "seed": "183055919",
+         "weapon": "Icerind Hatchet",
+         "vod": "https://youtu.be/LiJjD9mrVF8?si=bzABkmboEv5vVJZ9"
+      }
+   },
+   "Scion": {
+      "Champion" : {
+         "time": "4:04",
+         "seed": "377117205 ",
+         "weapon": "Zamor",
+         "vod": "https://youtu.be/d-bUCy6Bjgc?si=WEA5UJjsE8faInQ9"
+      }
+   },
+   "Malenia": {
+      "Lemon" : {
+         "time": "21:12",
+         "seed": "1311292888",
+         "weapon": "Great Katana",
+         "vod": ""
+      },
+      "Shura" : {
+         "time": "23:44",
+         "seed": "1311292888",
+         "weapon": "Great Katana",
+         "vod": ""
+      },
+      "Thomas" : {
+         "time": "39:00",
+         "seed": "1311292888",
+         "weapon": "Great Katana",
+         "vod": ""
+      }
+   },
+   "Borealis": {
+      "None" : {
+         "time": "00:00",
+         "seed": "",
+         "weapon": "",
+         "vod": ""
+      }
+   }
+}

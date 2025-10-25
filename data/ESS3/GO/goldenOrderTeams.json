@@ -22,11 +22,11 @@
    "Bofa D's": {
       "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
       "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
-      "record": "1-2",
-      "squares": 24,
+      "record": "2-2",
+      "squares": 37,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Expedition 25" ],
+      "H2H": [ "Expedition 25", "Tower Princesses" ],
       "Playoffs": "maybe"
    },
    "Tank & Top": {
@@ -92,8 +92,8 @@
    "Tower Princesses": {
       "player1": { "name": "Nexus", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nexusupnext" }, 
       "player2": { "name": "Asym", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/asymmmm" },
-      "record": "1-1",
-      "squares": 20,
+      "record": "1-2",
+      "squares": 28,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bagarre FR" ],
