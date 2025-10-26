@@ -23,11 +23,11 @@
       "Nordic Thunder": {
          "player1": { "name": "Steakslyons", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/steakslyons" },
          "player2": { "name": "Champalampa", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "1-2",
-         "squares": 35,
-         "lines": 0,
+         "record": "2-2",
+         "squares": 47,
+         "lines": 1,
          "WR": 0,
-         "H2H": ["KChewy"],
+         "H2H": ["KChewy", "Rick Fisters"],
          "Playoffs": "maybe"
       }
    },
@@ -55,8 +55,8 @@
       "Rick Fisters": {
          "player1": { "name": "Josh", "nickname": "Messmer <3", "profile-pic": "", "twitch": "https://www.twitch.tv/joshtilde_" },
          "player2": { "name": "Daggar97", "nickname": "Of the South", "profile-pic": "", "twitch": "https://www.twitch.tv/daggar97" },
-         "record": "2-1",
-         "squares": 37,
+         "record": "2-2",
+         "squares": 46,
          "lines": 2,
          "WR": 0,
          "H2H": ["KChewy", "Gold But Old"],
@@ -87,11 +87,11 @@
       "Jarvis": {
          "player1": { "name": "Harv", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/harvsouls" },
          "player2": { "name": "Jxxman", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "3-0",
-         "squares": 36,
+         "record": "4-0",
+         "squares": 49,
          "lines": 2,
          "WR": 0,
-         "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi" ],
+         "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi", "TruthfulNess" ],
          "Playoffs": "maybe"
       }
    },
@@ -109,8 +109,8 @@
       "TruthfulNess": {
          "player1": { "name": "TheGraphicTruth", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/thegraphictruth" },
          "player2": { "name": "Nessonetta", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nessonetta" },
-         "record": "1-1",
-         "squares": 22,
+         "record": "1-2",
+         "squares": 28,
          "lines": 0,
          "WR": 0,
          "H2H": ["FalconSi"],

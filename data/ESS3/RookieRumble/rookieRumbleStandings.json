@@ -1,7 +1,7 @@
 {
    "Bedhead": {
-      "record": "0-3",
-      "squares": 9,
+      "record": "0-4",
+      "squares": 14,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -20,11 +20,11 @@
       "profile-pic": ""
    },
    "Arkham": {
-      "record": "2-1",
-      "squares": 35,
-      "lines": 0,
+      "record": "3-1",
+      "squares": 46,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "Magnitude", "Question Marks" ],
+      "H2H": [ "Magnitude", "Question Marks", "Cubanmissle" ],
       "Playoffs": "",
       "twitch": "",
       "profile-pic": ""
@@ -40,18 +40,18 @@
       "profile-pic": ""
    },
    "Jam": {
-      "record": "2-1",
-      "squares": 29,
-      "lines": 0,
+      "record": "3-1",
+      "squares": 42,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "Avery", "Psykg" ],
+      "H2H": [ "Avery", "Psykg", "Sciryn" ],
       "Playoffs": "",
       "twitch": "",
       "profile-pic": ""
    },
    "Krispy": {
-      "record": "2-1",
-      "squares": 9,
+      "record": "2-2",
+      "squares": 14,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Yosh" ],
@@ -60,18 +60,18 @@
       "profile-pic": ""
    },
    "Tinybobcat": {
-      "record": "2-1",
-      "squares": 30,
+      "record": "3-1",
+      "squares": 38,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Krispy", "Belbo" ],
+      "H2H": [ "Krispy", "Belbo", "TheMilkMan" ],
       "Playoffs": "",
       "twitch": "",
       "profile-pic": ""
    },
    "Cubanmissle": {
-      "record": "1-2",
-      "squares": 10,
+      "record": "1-3",
+      "squares": 16,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead" ],
@@ -80,8 +80,8 @@
       "profile-pic": ""
    },
    "TheMilkMan": {
-      "record": "2-1",
-      "squares": 17,
+      "record": "2-2",
+      "squares": 23,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Avery" ],
@@ -100,8 +100,8 @@
       "profile-pic": ""
    },
    "Yosh": {
-      "record": "1-2",
-      "squares": 18,
+      "record": "1-3",
+      "squares": 20,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Goodietoshoes" ],
@@ -150,8 +150,18 @@
       "profile-pic": ""
    },
    "Avery": {
-      "record": "1-2",
-      "squares": 21,
+      "record": "2-2",
+      "squares": 27,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Bedhead", "Yosh" ],
+      "Playoffs": "",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Goodietoshoes": {
+      "record": "1-3",
+      "squares": 14,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead" ],
@@ -159,22 +169,12 @@
       "twitch": "",
       "profile-pic": ""
    },
-   "Goodietoshoes": {
-      "record": "0-3",
-      "squares": 4,
-      "lines": 0,
-      "WR": 0,
-      "H2H": [ "" ],
-      "Playoffs": "",
-      "twitch": "",
-      "profile-pic": ""
-   },
    "Question Marks": {
-      "record": "1-2",
-      "squares": 11,
+      "record": "2-2",
+      "squares": 21,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Krispy" ],
       "Playoffs": "",
       "twitch": "",
       "profile-pic": ""
@@ -190,7 +190,7 @@
       "profile-pic": ""
    },
    "Sciryn": {
-      "record": "2-1",
+      "record": "2-2",
       "squares": 8,
       "lines": 0,
       "WR": 0,

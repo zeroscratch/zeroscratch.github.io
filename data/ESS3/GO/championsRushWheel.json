@@ -174,10 +174,10 @@
       }
    },
    "Midra": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
+      "Doitz" : {
+         "time": "30:47",
+         "seed": "946371770",
+         "weapon": "Warped Axe",
          "vod": ""
       }
    },
