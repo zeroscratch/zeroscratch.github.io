@@ -130,18 +130,18 @@
             "imageLink": "/img/ESS3/GO/tank-v-expedition-week4.png"
          },
          {  "gameId": 18, 
-            "player1": { "name": "Time Complexity", "score": 0, "outcome": "" },
-            "player2": { "name": "Bagarre FR", "score": 0, "outcome": "" },
-            "matchTime": "00:00:00",
-            "vodLink": "",
-            "imageLink": ""
+            "player1": { "name": "Bagarre FR", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Time Complexity", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:07:01",
+            "vodLink": "https://www.twitch.tv/videos/2601928126?t=02h25m11s",
+            "imageLink": "/img/ESS3/GO/complex-v-fr-week4.png"
          },
          {  "gameId": 19, 
-            "player1": { "name": "Asteroid Destroyer", "score": 0, "outcome": "" },
-            "player2": { "name": "Tower Princesses", "score": 0, "outcome": "" },
-            "matchTime": "00:00:00",
-            "vodLink": "",
-            "imageLink": ""
+            "player1": { "name": "Tower Princesses", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Asteroid Destroyer", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:10:48",
+            "vodLink": "https://www.twitch.tv/videos/2601928126?t=04h29m43s",
+            "imageLink": "/img/ESS3/GO/tower-v-destroyers-week4.png"
          }
       ]
    }
