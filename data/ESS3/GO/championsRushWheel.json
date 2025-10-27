@@ -64,11 +64,11 @@
       }
    },
    "Real Lorreta": {
-      "None" : {
+      "Champion" : {
          "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+         "seed": "967052473",
+         "weapon": "Bloodhound Claws",
+         "vod": "https://youtu.be/tSCcHBcFtGE?si=4UdTFB06HY12j8bC"
       }
    },
    "Deathrite bird in Snowfield": {
@@ -88,7 +88,7 @@
       }
    },
    "Colossal only": {
-      "None" : {
+      "Champion" : {
          "time": "7:34",
          "seed": "578058067 ",
          "weapon": "Watchdog's Greatsword",
@@ -171,6 +171,12 @@
          "seed": "892825990",
          "weapon": "Flamberge",
          "vod": "https://youtu.be/4-sBECm2fJI?si=keil63AxWxo6JnRw"
+      },
+      "Psiphicode" : {
+         "time": "14:08",
+         "seed": "1",
+         "weapon": "Smithscript Greathammer",
+         "vod": ""
       }
    },
    "Midra": {
@@ -229,9 +235,15 @@
          "vod": ""
       },
       "Shura" : {
-         "time": "23:44",
-         "seed": "1311292888",
-         "weapon": "Great Katana",
+         "time": "22:26",
+         "seed": "1342163065",
+         "weapon": "Morning Star",
+         "vod": ""
+      },
+      "Psiphicode": {
+         "time": "32:15",
+         "seed": "1342163065",
+         "weapon": "Freya's Greatsword",
          "vod": ""
       },
       "Thomas" : {
