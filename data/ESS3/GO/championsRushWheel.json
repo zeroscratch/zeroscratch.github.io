@@ -1,9 +1,9 @@
 {
    "Blood Tax": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
+      "KCBrazos" : {
+         "time": "13:55",
+         "seed": "1958420709",
+         "weapon": "Star Fist",
          "vod": ""
       }
    },
@@ -90,9 +90,15 @@
    "Colossal only": {
       "Champion" : {
          "time": "7:34",
-         "seed": "578058067 ",
+         "seed": "578058067",
          "weapon": "Watchdog's Greatsword",
          "vod": "https://youtu.be/jW8uPy7y9tM?si=TAFNNZzBs351x4wC"
+      },
+      "KCBrazos" : {
+         "time": "7:43",
+         "seed": "1482448019",
+         "weapon": "Bloodfiend's Arm",
+         "vod": ""
       }
    },
    "Morgott": {
@@ -123,6 +129,12 @@
          "seed": "1088673428",
          "weapon": "Reduvia",
          "vod": "https://youtu.be/ca62LgtmGHw?si=bcuEL9Ijm8_E3o8O"
+      },
+      "KCBrazos" : {
+         "time": "6:05",
+         "seed": "1883980094",
+         "weapon": "Star Fist",
+         "vod": ""
       }
    },
    "Red bear": {
@@ -204,10 +216,10 @@
       }
    },
    "Regal": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
+      "KCBrazos" : {
+         "time": "27:59",
+         "seed": "1173748046",
+         "weapon": "Great Omenkiller Cleaver",
          "vod": ""
       }
    },
