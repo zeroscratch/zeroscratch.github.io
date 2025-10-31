@@ -264,6 +264,13 @@
             "matchTime": "01:29:51", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/az-v-cuban-week5.png"
+         },
+         {  "gameId": 34, 
+            "player1": { "name": "Arkham", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "TinyBobcat", "score": 11, "outcome": "Lost" }, 
+            "matchTime": "02:10:55", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/arkham-v-bobcat-week5.png"
          }
       ]
    }

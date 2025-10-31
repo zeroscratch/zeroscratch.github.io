@@ -1,33 +1,57 @@
 [
    {
-        "title": "Bofa Towers",
-        "firstPlayer": "Bofa D's",
-        "secondPlayer": "Tower Princesses",
-        "scheduledAt": "10/24/2025 22:00:00 UTC",
+        "title": "Coughing Baby vs Atomic Bomb",
+        "firstPlayer": "Old But Gold",
+        "secondPlayer": "Wamp Wamp",
+        "scheduledAt": "10/31/2025 23:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    },
    {
-        "title": "The Painters & Belios",
-        "firstPlayer": "Tank & Top",
+        "title": "Lumière",
+        "firstPlayer": "Bagarre FR",
         "secondPlayer": "Expedition 25",
-        "scheduledAt": "10/25/2025 20:00:00 UTC",
+        "scheduledAt": "11/1/2025 16:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    },
    {
-        "title": "Tendies and French Fries",
+        "title": "O(Tank^Top)",
         "firstPlayer": "Time Complexity",
-        "secondPlayer": "Bagarre FR",
-        "scheduledAt": "10/26/2025 18:00:00 UTC",
+        "secondPlayer": "Tank & Top",
+        "scheduledAt": "11/1/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    },
    {
-        "title": "EVO Destroyers",
+        "title": "Skips and Tricks",
+        "firstPlayer": "Tower Princesses",
+        "secondPlayer": "Wamp Wamp",
+        "scheduledAt": "11/1/2025 22:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Tres Timezones",
+        "firstPlayer": "Bofa D's",
+        "secondPlayer": "Tank & Top",
+        "scheduledAt": "11/2/2025 16:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Déjà vu",
+        "firstPlayer": "Old But Gold",
+        "secondPlayer": "Bagarre FR",
+        "scheduledAt": "11/2/2025 18:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "An Interstellar Expedition",
         "firstPlayer": "Asteriod Destroyer",
-        "secondPlayer": "Tower Princesses",
-        "scheduledAt": "10/26/2025 20:00:00 UTC",
+        "secondPlayer": "Expedition 25",
+        "scheduledAt": "11/2/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    }

@@ -32,11 +32,11 @@
       }
    },
    "Mohg Lord of Blood": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "18:34",
+         "seed": "667824166",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": "https://youtu.be/aAmfiKs-3bw"
       }
    },
    "Maliketh": {
@@ -85,6 +85,12 @@
          "seed": "5924450",
          "weapon": "Star Fist",
          "vod": "https://youtu.be/46t3QPD29oM?si=vSz-KXOB8NeQgt6F"
+      },
+      "Jibbe" : {
+         "time": "5:37",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/6SuXsXp1KVE"
       }
    },
    "Colossal only": {

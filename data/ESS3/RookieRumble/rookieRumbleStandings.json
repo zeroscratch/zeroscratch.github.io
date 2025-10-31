@@ -5,7 +5,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -15,17 +15,17 @@
       "lines": 4,
       "WR": 0,
       "H2H": [ "Bedhead", "Arkham", "Tinybobcat", "Tarun" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
    "Arkham": {
-      "record": "3-1",
-      "squares": 46,
+      "record": "4-1",
+      "squares": 58,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Magnitude", "Question Marks", "Cubanmissle" ],
-      "Playoffs": "",
+      "H2H": [ "Magnitude", "Question Marks", "Cubanmissle", "Tinybobcat" ],
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -35,7 +35,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Azdomiel" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -45,7 +45,7 @@
       "lines": 1,
       "WR": 0,
       "H2H": [ "Avery", "Psykg", "Sciryn" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -55,17 +55,17 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Yosh" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
    "Tinybobcat": {
-      "record": "3-1",
-      "squares": 38,
+      "record": "3-2",
+      "squares": 49,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Krispy", "Belbo", "TheMilkMan" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -75,7 +75,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -85,7 +85,7 @@
       "lines": 1,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Avery" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -95,7 +95,7 @@
       "lines": 1,
       "WR": 0,
       "H2H": [ "Yosh" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -105,7 +105,7 @@
       "lines": 1,
       "WR": 0,
       "H2H": [ "Goodietoshoes" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -115,7 +115,7 @@
       "lines": 2,
       "WR": 0,
       "H2H": [ "Krispy", "Cubanmissle" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -125,7 +125,7 @@
       "lines": 2,
       "WR": 0,
       "H2H": [ "Azdomiel", "Goodietoshoes", "Tito" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -135,7 +135,7 @@
       "lines": 3,
       "WR": 0,
       "H2H": [ "Magnitude", "Azdomiel", "Psykg" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -145,7 +145,7 @@
       "lines": 2,
       "WR": 0,
       "H2H": [ "Mixed", "Jam", "TheMilkMan" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -155,7 +155,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead", "Yosh" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -165,7 +165,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -175,7 +175,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Krispy" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -185,7 +185,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -195,7 +195,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Tito" ],
-      "Playoffs": "",
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    }
