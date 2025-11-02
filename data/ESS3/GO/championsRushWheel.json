@@ -5,6 +5,12 @@
          "seed": "1958420709",
          "weapon": "Star Fist",
          "vod": ""
+      },
+      "Champion" : {
+         "time": "10:47",
+         "seed": "1483946565",
+         "weapon": "Verteran's Prosthesis",
+         "vod": "https://youtu.be/1Iwxk5XCyR0"
       }
    },
    "Rykard": {
@@ -40,10 +46,22 @@
       }
    },
    "Maliketh": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
+      "Champion" : {
+         "time": "18:48",
+         "seed": "1194342897",
+         "weapon": "Banished Knight's Greatsword",
+         "vod": "https://youtu.be/C-bE-bToyME"
+      },
+      "Shura": {
+         "time": "18:26",
+         "seed": "1194342897",
+         "weapon": "Banished Knight's Greatsword",
+         "vod": ""
+      },
+      "Wander": {
+         "time": "18:25",
+         "seed": "1194342897",
+         "weapon": "Winged Greathorn",
          "vod": ""
       }
    },
@@ -227,6 +245,12 @@
          "seed": "1173748046",
          "weapon": "Great Omenkiller Cleaver",
          "vod": ""
+      },
+      "Champion" : {
+         "time": "26:07",
+         "seed": "665355356",
+         "weapon": "Grave Scythe",
+         "vod": "https://youtu.be/R1iDrD9eWLA"
       }
    },
    "Commander Niall": {
