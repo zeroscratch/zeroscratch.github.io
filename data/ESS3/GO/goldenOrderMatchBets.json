@@ -5,7 +5,7 @@
         "secondPlayer": "Wamp Wamp",
         "scheduledAt": "10/31/2025 23:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Wamp Wamp",
         "matchType": 1
    },
    {
@@ -14,7 +14,7 @@
         "secondPlayer": "Expedition 25",
         "scheduledAt": "11/1/2025 16:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Bagarre FR",
         "matchType": 1
    },
    {
@@ -23,7 +23,7 @@
         "secondPlayer": "Tank & Top",
         "scheduledAt": "11/1/2025 20:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Tank & Top",
         "matchType": 1
    },
    {
@@ -32,14 +32,14 @@
         "secondPlayer": "Wamp Wamp",
         "scheduledAt": "11/1/2025 22:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Wamp Wamp",
         "matchType": 1
    },
    {
         "title": "Tres Timezones",
         "firstPlayer": "Bofa D's",
         "secondPlayer": "Tank & Top",
-        "scheduledAt": "11/2/2025 16:00:00 UTC",
+        "scheduledAt": "11/2/2025 17:00:00 UTC",
         "ref": "Regular Season Game",
         "winner": "",
         "matchType": 1
@@ -48,7 +48,7 @@
         "title": "Déjà vu",
         "firstPlayer": "Old But Gold",
         "secondPlayer": "Bagarre FR",
-        "scheduledAt": "11/2/2025 18:00:00 UTC",
+        "scheduledAt": "11/2/2025 19:00:00 UTC",
         "ref": "Regular Season Game",
         "winner": "",
         "matchType": 1
@@ -57,7 +57,7 @@
         "title": "An Interstellar Expedition",
         "firstPlayer": "Asteriod Destroyer",
         "secondPlayer": "Expedition 25",
-        "scheduledAt": "11/2/2025 20:00:00 UTC",
+        "scheduledAt": "11/2/2025 21:00:00 UTC",
         "ref": "Regular Season Game",
         "winner": "",
         "matchType": 1

@@ -31,7 +31,7 @@
             "player1": { "name": "Gold But Old", "score": 13, "outcome": "Bingo" },
             "player2": { "name": "Nordic Thunder", "score": 9, "outcome": "Lost" },
             "matchTime": "01:15:56",
-            "vodLink": "https://www.twitch.tv/videos/2583991105?t=00h19m21s",
+            "vodLink": "https://youtu.be/3FuRG9YV42U?si=kK4cR1rSp1gpX5_C",
             "imageLink": "/img/ESS3/Crucible/gold-v-nordic-week1.png"
          },
          {
@@ -39,7 +39,7 @@
             "player1": { "name": "Corruption", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Rick Fisters", "score": 11, "outcome": "Lost" },
             "matchTime": "01:38:01",
-            "vodLink": "https://www.twitch.tv/videos/2583991105?t=02h16m12s",
+            "vodLink": "https://youtu.be/cIotQtKoFTI?si=-mB56E19_11yDCIG",
             "imageLink": "/img/ESS3/Crucible/corruption-v-rick-week1.png"
          }
       ]
@@ -66,7 +66,7 @@
             "player1": { "name": "Base Mommy & Daddy", "score": 13, "outcome": "Majority" }, 
             "player2": { "name": "Nordic Thunder", "score": 11, "outcome": "Lost" }, 
             "matchTime": "01:37:26", 
-            "vodLink": "", 
+            "vodLink": "https://youtu.be/cD_McXM0aNw?si=IZCy0WsR67svp33L", 
             "imageLink": "/img/ESS3/Crucible/nordic-v-base-week2.png"
          },
          {  "gameId": 9, 
@@ -184,6 +184,20 @@
             "matchTime": "01:27:15", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Crucible/gold-v-kc-week5.png"
+         },
+         {  "gameId": 22, 
+            "player1": { "name": "Rick Fisters", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "NikeTwo", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:13:08", 
+            "vodLink": "https://www.twitch.tv/videos/2606444315?t=02h26m35s", 
+            "imageLink": "/img/ESS3/Crucible/nike-v-rick-week5.png"
+         },
+         {  "gameId": 23, 
+            "player1": { "name": "Nordic Thunder", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Pandara", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "01:13:21", 
+            "vodLink": "https://www.twitch.tv/videos/2607020576?t=02h26m01s", 
+            "imageLink": "/img/ESS3/Crucible/nordic-v-pandara-week5.png"
          }
       ]
    }

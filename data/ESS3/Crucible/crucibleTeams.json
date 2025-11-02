@@ -23,11 +23,11 @@
       "Nordic Thunder": {
          "player1": { "name": "Steakslyons", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/steakslyons" },
          "player2": { "name": "Champalampa", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "2-2",
-         "squares": 47,
-         "lines": 1,
+         "record": "3-2",
+         "squares": 58,
+         "lines": 2,
          "WR": 0,
-         "H2H": ["KChewy", "Rick Fisters"],
+         "H2H": ["KChewy", "Rick Fisters" , "Pandara"],
          "Playoffs": "maybe"
       }
    },
@@ -55,11 +55,11 @@
       "Rick Fisters": {
          "player1": { "name": "Josh", "nickname": "Messmer <3", "profile-pic": "", "twitch": "https://www.twitch.tv/joshtilde_" },
          "player2": { "name": "Daggar97", "nickname": "Of the South", "profile-pic": "", "twitch": "https://www.twitch.tv/daggar97" },
-         "record": "2-2",
-         "squares": 46,
+         "record": "3-2",
+         "squares": 59,
          "lines": 2,
          "WR": 0,
-         "H2H": ["KChewy", "Gold But Old"],
+         "H2H": ["KChewy", "Gold But Old", "NikeTwo"],
          "Playoffs": "maybe"
       }
    },
@@ -77,8 +77,8 @@
       "NikeTwo": {
          "player1": { "name": "NikeEuro", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nikeeuro" },
          "player2": { "name": "Mewtwo", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/mewtwo2u" },
-         "record": "2-1",
-         "squares": 29,
+         "record": "2-2",
+         "squares": 35,
          "lines": 3,
          "WR": 0,
          "H2H": ["Pandara", "FalconSi"],
@@ -119,8 +119,8 @@
       "Pandara": {
          "player1": { "name": "Kiofto", "nickname": "", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Madara", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "1-3",
-         "squares": 37,
+         "record": "1-4",
+         "squares": 44,
          "lines": 1,
          "WR": 0,
          "H2H": ["FalconSi"],
