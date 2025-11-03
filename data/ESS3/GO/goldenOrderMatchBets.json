@@ -41,7 +41,7 @@
         "secondPlayer": "Tank & Top",
         "scheduledAt": "11/2/2025 17:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Tank & Top",
         "matchType": 1
    },
    {
@@ -50,16 +50,7 @@
         "secondPlayer": "Bagarre FR",
         "scheduledAt": "11/2/2025 19:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
-        "matchType": 1
-   },
-   {
-        "title": "An Interstellar Expedition",
-        "firstPlayer": "Asteriod Destroyer",
-        "secondPlayer": "Expedition 25",
-        "scheduledAt": "11/2/2025 21:00:00 UTC",
-        "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Old But Gold",
         "matchType": 1
    }
 ]

@@ -14,19 +14,19 @@
       }
    },
    "Rykard": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "14:24",
+         "seed": "565033484",
+         "weapon": "Great Katana",
+         "vod": "https://youtu.be/wpHAfSlW7sU"
       }
    },
    "DLC Rush": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "15:35",
+         "seed": "1818487997",
+         "weapon": "Greataxe",
+         "vod": "https://youtu.be/tRlJjlrccKo"
       }
    },
    "Magma Wyrm Theo": {
@@ -162,11 +162,11 @@
       }
    },
    "Red bear": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "21:46",
+         "seed": "1128130358",
+         "weapon": "Greataxe",
+         "vod": "https://youtu.be/kdjsF6-2H_8"
       }
    },
    "Astel membie": {

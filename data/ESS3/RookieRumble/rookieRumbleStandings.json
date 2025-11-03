@@ -1,10 +1,10 @@
 {
    "Bedhead": {
-      "record": "0-4",
-      "squares": 14,
+      "record": "1-4",
+      "squares": 20,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "TheMilkMan" ],
       "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
@@ -30,8 +30,8 @@
       "profile-pic": ""
    },
    "Magnitude": {
-      "record": "2-2",
-      "squares": 44,
+      "record": "2-3",
+      "squares": 51,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Azdomiel" ],
@@ -40,11 +40,11 @@
       "profile-pic": ""
    },
    "Jam": {
-      "record": "3-1",
-      "squares": 42,
+      "record": "4-1",
+      "squares": 51,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Avery", "Psykg", "Sciryn" ],
+      "H2H": [ "Avery", "Psykg", "Sciryn", "Magnitude" ],
       "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
@@ -80,8 +80,8 @@
       "profile-pic": ""
    },
    "TheMilkMan": {
-      "record": "2-2",
-      "squares": 23,
+      "record": "2-3",
+      "squares": 28,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Avery" ],
@@ -131,7 +131,7 @@
    },
    "Mixed": {
       "record": "4-1",
-      "squares": 48,
+      "squares": 58,
       "lines": 3,
       "WR": 0,
       "H2H": [ "Magnitude", "Azdomiel", "Psykg", "Tito" ],
@@ -141,7 +141,7 @@
    },
    "Tarun": {
       "record": "4-1",
-      "squares": 54,
+      "squares": 63,
       "lines": 2,
       "WR": 0,
       "H2H": [ "Mixed", "Jam", "TheMilkMan", "Avery" ],
@@ -161,7 +161,7 @@
    },
    "Goodietoshoes": {
       "record": "1-4",
-      "squares": 20,
+      "squares": 21,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead" ],
@@ -191,7 +191,7 @@
    },
    "Vixus": {
       "record": "3-2",
-      "squares": 9,
+      "squares": 17,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Krispy" ],

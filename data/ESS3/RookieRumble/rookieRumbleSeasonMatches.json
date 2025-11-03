@@ -294,8 +294,8 @@
             "imageLink": "/img/ESS3/Rookie/marks-v-goosh-week5.png"
          },
          {  "gameId": 38, 
-            "player1": { "name": "Vixus", "score": 11, "outcome": "Majority" }, 
-            "player2": { "name": "Krispy", "score": 6, "outcome": "Lost" }, 
+            "player1": { "name": "Vixus", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Krispy", "score": 2, "outcome": "Lost" }, 
             "matchTime": "01:02:23", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/vixus-v-krispy-week5.png"
@@ -313,6 +313,20 @@
             "matchTime": "01:56:47", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/tarun-v-aves-week5.png"
+         },
+         {  "gameId": 41, 
+            "player1": { "name": "Bedhead", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "TheMilkMan", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/bedhead-v-milkman-week5.png"
+         },
+         {  "gameId": 42, 
+            "player1": { "name": "Jam", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Magnitude", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/jam-v-magnitude-week5.png"
          }
       ]
    }

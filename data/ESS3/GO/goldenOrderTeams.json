@@ -12,18 +12,18 @@
    "Old But Gold": {
       "player1": { "name": "Jay", "nickname": "Joker", "profile-pic": "", "twitch": "https://www.twitch.tv/igntjay" }, 
       "player2": { "name": "Rambler", "nickname": "Professor", "profile-pic": "", "twitch": "https://www.twitch.tv/rambler_ing" },
-      "record": "0-4",
-      "squares": 41,
+      "record": "1-4",
+      "squares": 54,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Bagarre FR" ],
       "Playoffs": "maybe"
    },
    "Bofa D's": {
       "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
       "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
-      "record": "2-2",
-      "squares": 37,
+      "record": "2-3",
+      "squares": 47,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Expedition 25", "Tower Princesses" ],
@@ -32,11 +32,11 @@
    "Tank & Top": {
       "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
       "player2": { "name": "Elymis", "nickname": "Fia's Champ", "profile-pic": "", "twitch": "https://www.twitch.tv/elymis" },
-      "record": "3-1",
-      "squares": 47,
+      "record": "4-1",
+      "squares": 60,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Time Complexity" ],
+      "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Time Complexity", "Bofa D's" ],
       "Playoffs": "maybe"
    },
    "Wamp Wamp": {
@@ -62,8 +62,8 @@
    "Bagarre FR": {
       "player1": { "name": "Ironyeu", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/ironyeu" }, 
       "player2": { "name": "Typin", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/typin__" },
-      "record": "2-2",
-      "squares": 44,
+      "record": "2-3",
+      "squares": 54,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Time Complexity", "Expedition 25" ],
