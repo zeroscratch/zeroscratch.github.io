@@ -697,16 +697,16 @@
          "nickname": "",
          "bio": ""
       },
-      "Sciryn": {
+      "Vixus": {
          "team": "",
          "veilbreak-team1": "",
          "veilbreak-team2": "",
-         "profile-pic": "/img/profilePics/scirynProfilePic.jpg",
+         "profile-pic": "",
          "current-record": "",
          "twitch": "",
          "accolades": "",
          "nickname": "",
-         "bio": "Trust me. I'm the most honest person in the world. Two worlds, in fact."
+         "bio": ""
       }
    },
    "Inactive": {
@@ -732,6 +732,17 @@
          "nickname": "",
          "bio": ""
       },
+      "RattyRy": {
+         "team": "",
+         "veilbreak-team1": "",
+         "veilbreak-team2": "",
+         "profile-pic": "",
+         "current-record": "",
+         "twitch": "",
+         "accolades": "",
+         "nickname": "",
+         "bio": ""
+      },
       "Champion": {
          "team": "",
          "veilbreak-team1": "",
@@ -742,6 +753,17 @@
          "accolades": "",
          "nickname": "",
          "bio": ""
+      },
+      "Sciryn": {
+         "team": "",
+         "veilbreak-team1": "",
+         "veilbreak-team2": "",
+         "profile-pic": "/img/profilePics/scirynProfilePic.jpg",
+         "current-record": "",
+         "twitch": "",
+         "accolades": "",
+         "nickname": "",
+         "bio": "Trust me. I'm the most honest person in the world. Two worlds, in fact."
       }
    }
 }

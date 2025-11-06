@@ -3,18 +3,18 @@
       "Base Mommy & Daddy": {
          "player1": { "name": "Noya", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/noyasparx" },
          "player2": { "name": "TurtleBeard", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/turtlebeard" },
-         "record": "3-1",
-         "squares": 51,
+         "record": "3-2",
+         "squares": 62,
          "lines": 0,
          "WR": 0,
          "H2H": [ "Nordic Thunder", "KChewy", "Pandara"],
          "Playoffs": "maybe"
       },
       "Corruption": {
-         "player1": { "name": "Tony", "nickname": "Tuff Trizzy", "profile-pic": "", "twitch": "https://www.twitch.tv/tryztony" },
+         "player1": { "name": "Maiorskills", "nickname": "", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Fits", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "3-0",
-         "squares": 39,
+         "record": "3-2",
+         "squares": 53,
          "lines": 1,
          "WR": 0,
          "H2H": ["Rick Fisters" , "Gold But Old", "Base Mommy & Daddy"],
@@ -99,21 +99,21 @@
       "Crashout Carries": {
          "player1": { "name": "SaetanSD", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/saetansd" },
          "player2": { "name": "Aggronio", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/aggronio" },
-         "record": "2-1",
-         "squares": 35,
-         "lines": 0,
+         "record": "4-1",
+         "squares": 59,
+         "lines": 1,
          "WR": 0,
-         "H2H": ["TruthfulNess", "Pandara"],
+         "H2H": ["TruthfulNess", "Pandara", "Base Mommy & Daddy", "Corruption"],
          "Playoffs": "maybe"
       },
       "TruthfulNess": {
          "player1": { "name": "TheGraphicTruth", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/thegraphictruth" },
          "player2": { "name": "Nessonetta", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nessonetta" },
-         "record": "2-2",
-         "squares": 41,
+         "record": "3-2",
+         "squares": 54,
          "lines": 0,
          "WR": 0,
-         "H2H": ["FalconSi", "NikeTwo"],
+         "H2H": ["FalconSi", "NikeTwo", "Corruption"],
          "Playoffs": "maybe"
       },
       "Pandara": {

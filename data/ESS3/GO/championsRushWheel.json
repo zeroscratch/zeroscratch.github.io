@@ -83,7 +83,7 @@
    },
    "Real Lorreta": {
       "Champion" : {
-         "time": "00:00",
+         "time": "18:07",
          "seed": "967052473",
          "weapon": "Bloodhound Claws",
          "vod": "https://youtu.be/tSCcHBcFtGE?si=4UdTFB06HY12j8bC"
@@ -221,22 +221,28 @@
          "seed": "946371770",
          "weapon": "Warped Axe",
          "vod": ""
+      },
+      "Champion" : {
+         "time": "26:26",
+         "seed": "1338351607",
+         "weapon": "Great Stars",
+         "vod": "https://youtu.be/dqCVq8HzAeI"
       }
    },
    "Rellana": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "24:48",
+         "seed": "139894825",
+         "weapon": "Milady",
+         "vod": "https://youtu.be/YSe3uB1Cr5M"
       }
    },
    "Hippo": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "20:18",
+         "seed": "2016101341",
+         "weapon": "Great Katana",
+         "vod": "https://youtu.be/oBC-g-nsgqQ"
       }
    },
    "Regal": {
@@ -296,11 +302,11 @@
       }
    },
    "Borealis": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "14:07",
+         "seed": "474619165",
+         "weapon": "Stone Club",
+         "vod": "https://youtu.be/aGBXpEW8PX8?si=PvxraJ6ixE1EzAKZ"
       }
    }
 }

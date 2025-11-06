@@ -55,7 +55,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Yosh" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
@@ -81,7 +81,7 @@
    },
    "TheMilkMan": {
       "record": "2-3",
-      "squares": 28,
+      "squares": 29,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Avery" ],
@@ -91,7 +91,7 @@
    },
    "Psykg": {
       "record": "2-3",
-      "squares": 30,
+      "squares": 23,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Yosh" ],
@@ -111,7 +111,7 @@
    },
    "Azdomiel": {
       "record": "2-3",
-      "squares": 38,
+      "squares": 37,
       "lines": 2,
       "WR": 0,
       "H2H": [ "Krispy", "Cubanmissle" ],
@@ -131,7 +131,7 @@
    },
    "Mixed": {
       "record": "4-1",
-      "squares": 58,
+      "squares": 48,
       "lines": 3,
       "WR": 0,
       "H2H": [ "Magnitude", "Azdomiel", "Psykg", "Tito" ],
@@ -141,7 +141,7 @@
    },
    "Tarun": {
       "record": "4-1",
-      "squares": 63,
+      "squares": 54,
       "lines": 2,
       "WR": 0,
       "H2H": [ "Mixed", "Jam", "TheMilkMan", "Avery" ],
@@ -151,7 +151,7 @@
    },
    "Avery": {
       "record": "2-3",
-      "squares": 30,
+      "squares": 29,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead", "Yosh" ],
@@ -171,7 +171,7 @@
    },
    "Question Marks": {
       "record": "3-2",
-      "squares": 31,
+      "squares": 32,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Krispy", "Goodietoshoes" ],
@@ -191,7 +191,7 @@
    },
    "Vixus": {
       "record": "3-2",
-      "squares": 17,
+      "squares": 39,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Krispy" ],
