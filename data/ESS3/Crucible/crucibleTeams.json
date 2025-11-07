@@ -67,8 +67,8 @@
       "FalconSi": {
          "player1": { "name": "AmplSi", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/amplsi" },
          "player2": { "name": "FalconRaven", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/falconraven" },
-         "record": "0-5",
-         "squares": 32,
+         "record": "0-6",
+         "squares": 37,
          "lines": 1,
          "WR": 0,
          "H2H": [""],
@@ -99,12 +99,12 @@
       "Crashout Carries": {
          "player1": { "name": "SaetanSD", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/saetansd" },
          "player2": { "name": "Aggronio", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/aggronio" },
-         "record": "4-1",
-         "squares": 59,
+         "record": "5-1",
+         "squares": 72,
          "lines": 1,
          "WR": 0,
-         "H2H": ["TruthfulNess", "Pandara", "Base Mommy & Daddy", "Corruption"],
-         "Playoffs": "maybe"
+         "H2H": ["TruthfulNess", "Pandara", "Base Mommy & Daddy", "Corruption", "FalconSi"],
+         "Playoffs": "yes"
       },
       "TruthfulNess": {
          "player1": { "name": "TheGraphicTruth", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/thegraphictruth" },

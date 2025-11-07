@@ -35,6 +35,12 @@
          "seed": "1670932069",
          "weapon": "Dragon-Hunter's Great Katana",
          "vod": "https://youtu.be/hj202CfhD54?si=fn6PW7yhb_8EnJG6"
+      },
+      "Thomas" : {
+         "time": "11:45",
+         "seed": "1670932069",
+         "weapon": "Dragon-Hunter's Great Katana",
+         "vod": "https://www.youtube.com/watch?v=AL5g6Ng5rZc"
       }
    },
    "Mohg Lord of Blood": {
@@ -66,11 +72,11 @@
       }
    },
    "Radahn": {
-      "None" : {
-         "time": "00:00",
-         "seed": "",
-         "weapon": "",
-         "vod": ""
+      "Champion" : {
+         "time": "14:07",
+         "seed": "424538012",
+         "weapon": "Zamor Curved Sword",
+         "vod": "https://youtu.be/j036hIlx-ew?si=YKC6-VEqmie6-Jj3"
       }
    },
    "Lorreta": {
@@ -99,10 +105,10 @@
    },
    "Fist/Dagger only": {
       "Champion" : {
-         "time": "6:18",
-         "seed": "5924450",
+         "time": "5:28",
+         "seed": "2069793022",
          "weapon": "Star Fist",
-         "vod": "https://youtu.be/46t3QPD29oM?si=vSz-KXOB8NeQgt6F"
+         "vod": "https://youtu.be/DJ_BX0ACHEk"
       },
       "Jibbe" : {
          "time": "5:37",
