@@ -2,11 +2,11 @@
    "Time Complexity": {
       "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "/player-pic/Shura.png", "twitch": "https://www.twitch.tv/itsshura" }, 
       "player2": { "name": "Psiphicode", "nickname": "Could Be", "profile-pic": "", "twitch": "https://www.twitch.tv/psiphicode" },
-      "record": "4-2",
-      "squares": 71,
-      "lines": 1,
+      "record": "5-2",
+      "squares": 82,
+      "lines": 2,
       "WR": 0,
-      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses" ],
+      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses", "Wamp Wamp" ],
       "Playoffs": "maybe"
    },
    "Old But Gold": {
@@ -42,8 +42,8 @@
    "Wamp Wamp": {
       "player1": { "name": "Wander", "nickname": "Hates Bingo", "profile-pic": "", "twitch": "https://www.twitch.tv/wander652" }, 
       "player2": { "name": "Strump", "nickname": "4:12 Precipi", "profile-pic": "", "twitch": "https://www.twitch.tv/strump1" },
-      "record": "4-0",
-      "squares": 48,
+      "record": "4-1",
+      "squares": 58,
       "lines": 3,
       "WR": 0,
       "H2H": [ "Asteroid Destroyer", "Old But Gold", "Bofa D's", "Tower Princesses" ],
@@ -72,8 +72,8 @@
    "Expedition 25": {
       "player1": { "name": "Thomas", "nickname": "Doc-Ock", "profile-pic": "", "twitch": "https://www.twitch.tv/pluryl" }, 
       "player2": { "name": "Jibbe", "nickname": "Absurdist", "profile-pic": "", "twitch": "https://www.twitch.tv/jibbebot" },
-      "record": "2-3",
-      "squares": 50,
+      "record": "2-4",
+      "squares": 60,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Old But Gold", "Tank & Top" ],
@@ -82,11 +82,11 @@
    "Budget Team Hitless": {
       "player1": { "name": "Cronys", "nickname": "Hitless?", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
       "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
-      "record": "2-1",
-      "squares": 37,
+      "record": "3-1",
+      "squares": 50,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Bofa D's", "Old But Gold" ],
+      "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25" ],
       "Playoffs": "maybe"
    },
    "Tower Princesses": {
