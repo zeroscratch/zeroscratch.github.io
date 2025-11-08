@@ -5,16 +5,16 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "TheMilkMan" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
    "Rony": {
-      "record": "5-0",
-      "squares": 62,
+      "record": "6-0",
+      "squares": 75,
       "lines": 4,
       "WR": 0,
-      "H2H": [ "Bedhead", "Arkham", "Tinybobcat", "Tarun", "Psykg" ],
+      "H2H": [ "Bedhead", "Arkham", "Tinybobcat", "Tarun", "Psykg", "Magnitude" ],
       "Playoffs": "yes",
       "twitch": "",
       "profile-pic": ""
@@ -30,12 +30,12 @@
       "profile-pic": ""
    },
    "Magnitude": {
-      "record": "2-3",
-      "squares": 51,
+      "record": "2-4",
+      "squares": 58,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Azdomiel" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
@@ -75,7 +75,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
@@ -105,7 +105,7 @@
       "lines": 1,
       "WR": 0,
       "H2H": [ "Goodietoshoes" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
@@ -165,7 +165,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
@@ -185,7 +185,7 @@
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },

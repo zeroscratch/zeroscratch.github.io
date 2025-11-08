@@ -79,7 +79,7 @@
    },
    "Radahn": {
       "Champion" : {
-         "time": "14:07",
+         "time": "14:40",
          "seed": "424538012",
          "weapon": "Zamor Curved Sword",
          "vod": "https://youtu.be/j036hIlx-ew?si=YKC6-VEqmie6-Jj3"
@@ -121,6 +121,12 @@
          "seed": "2069793022",
          "weapon": "Star Fist",
          "vod": "https://youtu.be/6SuXsXp1KVE"
+      },
+      "Doitz": {
+         "time": "5:46",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": ""
       }
    },
    "Colossal only": {
@@ -149,6 +155,12 @@
          "seed": "1129868009",
          "weapon": "Helphen's Steeple",
          "vod": "https://www.twitch.tv/videos/2599007104?t=4587s"
+      },
+      "Doitz" : {
+         "time": "20:55",
+         "seed": "1129868009",
+         "weapon": "Helphen's Steeple",
+         "vod": ""
       }
    },
    "Flying Dragon Greyll": {
@@ -282,9 +294,15 @@
    "Scion": {
       "Champion" : {
          "time": "4:04",
-         "seed": "377117205 ",
+         "seed": "377117205",
          "weapon": "Zamor",
          "vod": "https://youtu.be/d-bUCy6Bjgc?si=WEA5UJjsE8faInQ9"
+      },
+      "Doitz" : {
+         "time": "3:28",
+         "seed": "288685812",
+         "weapon": "Uchigatana",
+         "vod": ""
       }
    },
    "Malenia": {
