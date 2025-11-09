@@ -109,22 +109,22 @@
       "TruthfulNess": {
          "player1": { "name": "TheGraphicTruth", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/thegraphictruth" },
          "player2": { "name": "Nessonetta", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nessonetta" },
-         "record": "3-2",
-         "squares": 54,
+         "record": "4-2",
+         "squares": 67,
          "lines": 0,
          "WR": 0,
-         "H2H": ["FalconSi", "NikeTwo", "Corruption"],
+         "H2H": ["FalconSi", "NikeTwo", "Corruption", "Pandara" ],
          "Playoffs": "maybe"
       },
       "Pandara": {
          "player1": { "name": "Kiofto", "nickname": "", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Madara", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "1-4",
-         "squares": 44,
+         "record": "1-5",
+         "squares": 52,
          "lines": 1,
          "WR": 0,
          "H2H": ["FalconSi"],
-         "Playoffs": "maybe"
+         "Playoffs": "no"
       }
    }
 }

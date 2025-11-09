@@ -22,11 +22,11 @@
    "Bofa D's": {
       "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
       "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
-      "record": "2-4",
-      "squares": 56,
+      "record": "3-4",
+      "squares": 69,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Expedition 25", "Tower Princesses" ],
+      "H2H": [ "Expedition 25", "Tower Princesses", "Bagarre FR" ],
       "Playoffs": "maybe"
    },
    "Tank & Top": {
@@ -52,18 +52,18 @@
    "Asteroid Destroyer": {
       "player1": { "name": "Vakrash", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/vakrash" }, 
       "player2": { "name": "Serious", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/seriouschallenges" },
-      "record": "1-3",
-      "squares": 35,
+      "record": "1-4",
+      "squares": 47,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "" ],
+      "H2H": [ "Bofa D's" ],
       "Playoffs": "maybe"
    },
    "Bagarre FR": {
       "player1": { "name": "Ironyeu", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/ironyeu" }, 
       "player2": { "name": "Typin", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/typin__" },
-      "record": "2-4",
-      "squares": 60,
+      "record": "2-5",
+      "squares": 71,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Time Complexity", "Expedition 25" ],
@@ -82,11 +82,11 @@
    "Budget Team Hitless": {
       "player1": { "name": "Cronys", "nickname": "Hitless?", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
       "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
-      "record": "4-1",
-      "squares": 61,
+      "record": "5-1",
+      "squares": 74,
       "lines": 2,
       "WR": 0,
-      "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25", "Bagarre FR" ],
+      "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25", "Bagarre FR", "Asteroid Destroyer" ],
       "Playoffs": "maybe"
    },
    "Tower Princesses": {
