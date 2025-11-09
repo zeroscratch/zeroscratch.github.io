@@ -45,8 +45,8 @@
       "KChewy": {
          "player1": { "name": "KCBrazos", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/kcbrazos" },
          "player2": { "name": "Chewy", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "0-5",
-         "squares": 34,
+         "record": "0-6",
+         "squares": 42,
          "lines": 0,
          "WR": 0,
          "H2H": [""],
@@ -77,11 +77,11 @@
       "NikeTwo": {
          "player1": { "name": "NikeEuro", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nikeeuro" },
          "player2": { "name": "Mewtwo", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/mewtwo2u" },
-         "record": "2-3",
-         "squares": 45,
+         "record": "3-3",
+         "squares": 58,
          "lines": 3,
          "WR": 0,
-         "H2H": ["Pandara", "FalconSi"],
+         "H2H": ["Pandara", "FalconSi", "KChewy"],
          "Playoffs": "maybe"
       },
       "Jarvis": {

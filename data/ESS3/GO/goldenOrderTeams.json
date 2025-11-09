@@ -12,7 +12,7 @@
    "Old But Gold": {
       "player1": { "name": "Jay", "nickname": "Joker", "profile-pic": "", "twitch": "https://www.twitch.tv/igntjay" }, 
       "player2": { "name": "Rambler", "nickname": "Professor", "profile-pic": "", "twitch": "https://www.twitch.tv/rambler_ing" },
-      "record": "1-4",
+      "record": "1-5",
       "squares": 54,
       "lines": 0,
       "WR": 0,
@@ -22,8 +22,8 @@
    "Bofa D's": {
       "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
       "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
-      "record": "2-3",
-      "squares": 47,
+      "record": "2-4",
+      "squares": 56,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Expedition 25", "Tower Princesses" ],
@@ -52,8 +52,8 @@
    "Asteroid Destroyer": {
       "player1": { "name": "Vakrash", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/vakrash" }, 
       "player2": { "name": "Serious", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/seriouschallenges" },
-      "record": "0-3",
-      "squares": 22,
+      "record": "1-3",
+      "squares": 35,
       "lines": 0,
       "WR": 0,
       "H2H": [ "" ],
@@ -62,8 +62,8 @@
    "Bagarre FR": {
       "player1": { "name": "Ironyeu", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/ironyeu" }, 
       "player2": { "name": "Typin", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/typin__" },
-      "record": "2-3",
-      "squares": 54,
+      "record": "2-4",
+      "squares": 60,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Time Complexity", "Expedition 25" ],
@@ -82,21 +82,21 @@
    "Budget Team Hitless": {
       "player1": { "name": "Cronys", "nickname": "Hitless?", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
       "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
-      "record": "3-1",
-      "squares": 50,
-      "lines": 1,
+      "record": "4-1",
+      "squares": 61,
+      "lines": 2,
       "WR": 0,
-      "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25" ],
+      "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25", "Bagarre FR" ],
       "Playoffs": "maybe"
    },
    "Tower Princesses": {
       "player1": { "name": "Nexus", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nexusupnext" }, 
       "player2": { "name": "Asym", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/asymmmm" },
-      "record": "2-3",
-      "squares": 53,
-      "lines": 0,
+      "record": "3-3",
+      "squares": 66,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "Bagarre FR", "Asteroid Destroyer" ],
+      "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Old But Gold" ],
       "Playoffs": "maybe"
    }
 }

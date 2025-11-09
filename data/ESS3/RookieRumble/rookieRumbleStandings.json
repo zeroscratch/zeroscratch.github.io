@@ -130,12 +130,12 @@
       "profile-pic": ""
    },
    "Mixed": {
-      "record": "4-1",
-      "squares": 48,
+      "record": "5-1",
+      "squares": 61,
       "lines": 3,
       "WR": 0,
-      "H2H": [ "Magnitude", "Azdomiel", "Psykg", "Tito" ],
-      "Playoffs": "maybe",
+      "H2H": [ "Magnitude", "Azdomiel", "Psykg", "Tito", "Question Marks" ],
+      "Playoffs": "yes",
       "twitch": "",
       "profile-pic": ""
    },
@@ -170,8 +170,8 @@
       "profile-pic": ""
    },
    "Question Marks": {
-      "record": "3-2",
-      "squares": 32,
+      "record": "3-3",
+      "squares": 35,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Krispy", "Goodietoshoes" ],

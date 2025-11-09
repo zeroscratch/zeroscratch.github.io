@@ -347,6 +347,13 @@
             "matchTime": "01:28:07", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Rookie/rony-v-magnitude-week6.png"
+         },
+         {  "gameId": 44, 
+            "player1": { "name": "Mixed", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Question Marks", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "01:14:04",
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Rookie/marks-v-mixed-week6.png"
          }
       ]
    }

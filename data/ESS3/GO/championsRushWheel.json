@@ -73,7 +73,7 @@
       "Wander": {
          "time": "18:25",
          "seed": "1194342897",
-         "weapon": "Winged Greathorn",
+         "weapon": "Greathorn Hammer",
          "vod": ""
       }
    },
@@ -127,6 +127,12 @@
          "seed": "2069793022",
          "weapon": "Star Fist",
          "vod": ""
+      },
+      "Helios": {
+         "time": "5:13",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/fzLzUOnOhZY"
       }
    },
    "Colossal only": {
@@ -141,6 +147,12 @@
          "seed": "1482448019",
          "weapon": "Bloodfiend's Arm",
          "vod": ""
+      },
+      "Helios" : {
+         "time": "5:53",
+         "seed": "1164210091",
+         "weapon": "Watchdog Staff",
+         "vod": "https://youtu.be/YzOEXo_Xf34"
       }
    },
    "Morgott": {
@@ -169,6 +181,12 @@
          "seed": "1157636179",
          "weapon": "Great Omenkiller Cleaver",
          "vod": "https://youtu.be/gce9zF3x72k?si=eseQCEKz39oWcZDI"
+      },
+      "Fits" : {
+         "time": "5:22",
+         "seed": "144940978",
+         "weapon": "Dragonscale Blade",
+         "vod": "https://youtu.be/OdL2KGhitlI"
       }
    },
    "Baby Dragons": {
@@ -236,6 +254,18 @@
          "time": "14:08",
          "seed": "1",
          "weapon": "Smithscript Greathammer",
+         "vod": ""
+      },
+      "Wander" : {
+         "time": "6:57",
+         "seed": "1124248761",
+         "weapon": "Great Stars",
+         "vod": ""
+      },
+      "Thomas" : {
+         "time": "7:30",
+         "seed": "1124248761",
+         "weapon": "Great Stars",
          "vod": ""
       }
    },
