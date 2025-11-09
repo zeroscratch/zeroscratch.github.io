@@ -11,6 +11,12 @@
          "seed": "1483946565",
          "weapon": "Verteran's Prosthesis",
          "vod": "https://youtu.be/1Iwxk5XCyR0"
+      },
+      "Helios" : {
+         "time": "8:14",
+         "seed": "144940978",
+         "weapon": "Dragonscale Blade",
+         "vod": "https://youtu.be/G95zNjX2hNs"
       }
    },
    "Rykard": {
@@ -19,6 +25,12 @@
          "seed": "565033484",
          "weapon": "Great Katana",
          "vod": "https://youtu.be/wpHAfSlW7sU"
+      },
+      "Helios" : {
+         "time": "11:04",
+         "seed": "967052473",
+         "weapon": "Bloodhound Claws",
+         "vod": "https://youtu.be/m8mH4DgTkho"
       }
    },
    "DLC Rush": {
@@ -91,7 +103,7 @@
          "vod": "https://youtu.be/j036hIlx-ew?si=YKC6-VEqmie6-Jj3"
       }
    },
-   "Lorreta": {
+   "Loretta": {
       "Champion" : {
          "time": "5:03",
          "seed": "1351291920",
@@ -99,7 +111,7 @@
          "vod": "https://youtu.be/k-v1ADRTxmc?si=ee0lM-2sDSSqfDuC"
       }
    },
-   "Real Lorreta": {
+   "Real Loretta": {
       "Champion" : {
          "time": "18:07",
          "seed": "967052473",
@@ -107,7 +119,7 @@
          "vod": "https://youtu.be/tSCcHBcFtGE?si=4UdTFB06HY12j8bC"
       }
    },
-   "Deathrite bird in Snowfield": {
+   "Deathrite Bird in Snowfield": {
       "Champion" : {
          "time": "14:08",
          "seed": "1661606457",
@@ -117,10 +129,10 @@
    },
    "Fist/Dagger only": {
       "Champion" : {
-         "time": "5:28",
+         "time": "5:06",
          "seed": "2069793022",
          "weapon": "Star Fist",
-         "vod": "https://youtu.be/DJ_BX0ACHEk"
+         "vod": "https://youtu.be/SBHThbF0K_4"
       },
       "Jibbe" : {
          "time": "5:37",
@@ -193,6 +205,12 @@
          "seed": "144940978",
          "weapon": "Dragonscale Blade",
          "vod": "https://youtu.be/OdL2KGhitlI"
+      },
+      "Helios" : {
+         "time": "4:52",
+         "seed": "144940978",
+         "weapon": "Dragonscale Blade",
+         "vod": "https://youtu.be/VViQoLX3XtU"
       }
    },
    "Baby Dragons": {

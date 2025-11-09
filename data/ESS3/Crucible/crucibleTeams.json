@@ -55,11 +55,11 @@
       "Rick Fisters": {
          "player1": { "name": "Josh", "nickname": "Messmer <3", "profile-pic": "", "twitch": "https://www.twitch.tv/joshtilde_" },
          "player2": { "name": "Daggar97", "nickname": "Of the South", "profile-pic": "", "twitch": "https://www.twitch.tv/daggar97" },
-         "record": "3-2",
-         "squares": 59,
+         "record": "4-2",
+         "squares": 72,
          "lines": 2,
          "WR": 0,
-         "H2H": ["KChewy", "Gold But Old", "NikeTwo"],
+         "H2H": ["KChewy", "Gold But Old", "NikeTwo", "Jarvis" ],
          "Playoffs": "maybe"
       }
    },
@@ -87,8 +87,8 @@
       "Jarvis": {
          "player1": { "name": "Harv", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/harvsouls" },
          "player2": { "name": "Jxxman", "nickname": "Rage Baiter", "profile-pic": "", "twitch": "" },
-         "record": "5-0",
-         "squares": 60,
+         "record": "5-1",
+         "squares": 69,
          "lines": 3,
          "WR": 0,
          "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi", "TruthfulNess", "KChewy" ],
