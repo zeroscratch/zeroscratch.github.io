@@ -1,10 +1,10 @@
 {
    "Bedhead": {
-      "record": "1-4",
-      "squares": 20,
-      "lines": 0,
+      "record": "2-4",
+      "squares": 28,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "TheMilkMan" ],
+      "H2H": [ "TheMilkMan", "Azdomiel" ],
       "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
@@ -110,12 +110,12 @@
       "profile-pic": ""
    },
    "Azdomiel": {
-      "record": "2-3",
-      "squares": 37,
+      "record": "2-4",
+      "squares": 45,
       "lines": 2,
       "WR": 0,
       "H2H": [ "Krispy", "Cubanmissle" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
