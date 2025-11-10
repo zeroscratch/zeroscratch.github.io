@@ -7,7 +7,7 @@
       "lines": 2,
       "WR": 0,
       "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses", "Wamp Wamp" ],
-      "Playoffs": "maybe"
+      "Playoffs": "yes"
    },
    "Old But Gold": {
       "player1": { "name": "Jay", "nickname": "Joker", "profile-pic": "", "twitch": "https://www.twitch.tv/igntjay" }, 
@@ -32,12 +32,12 @@
    "Tank & Top": {
       "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
       "player2": { "name": "Elymis", "nickname": "Fia's Champ", "profile-pic": "", "twitch": "https://www.twitch.tv/elymis" },
-      "record": "4-1",
-      "squares": 60,
+      "record": "5-1",
+      "squares": 73,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Time Complexity", "Bofa D's" ],
-      "Playoffs": "maybe"
+      "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Time Complexity", "Bofa D's", "Tower Princesses" ],
+      "Playoffs": "yes"
    },
    "Wamp Wamp": {
       "player1": { "name": "Wander", "nickname": "Hates Bingo", "profile-pic": "", "twitch": "https://www.twitch.tv/wander652" }, 
@@ -87,13 +87,13 @@
       "lines": 2,
       "WR": 0,
       "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25", "Bagarre FR", "Asteroid Destroyer" ],
-      "Playoffs": "maybe"
+      "Playoffs": "yes"
    },
    "Tower Princesses": {
       "player1": { "name": "Nexus", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nexusupnext" }, 
       "player2": { "name": "Asym", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/asymmmm" },
-      "record": "3-3",
-      "squares": 66,
+      "record": "3-4",
+      "squares": 75,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Old But Gold" ],
