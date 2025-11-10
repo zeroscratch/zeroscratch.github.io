@@ -155,10 +155,10 @@
    },
    "Colossal only": {
       "Champion" : {
-         "time": "7:34",
-         "seed": "578058067",
-         "weapon": "Watchdog's Greatsword",
-         "vod": "https://youtu.be/jW8uPy7y9tM?si=TAFNNZzBs351x4wC"
+         "time": "5:50",
+         "seed": "1164210091",
+         "weapon": "Watchdog Staff",
+         "vod": "https://youtu.be/h1UaCEKDKSE"
       },
       "KCBrazos" : {
          "time": "7:43",
@@ -290,6 +290,12 @@
          "time": "7:30",
          "seed": "1124248761",
          "weapon": "Great Stars",
+         "vod": ""
+      },
+      "Helios" : {
+         "time": "7:32",
+         "seed": "929563870",
+         "weapon": "Nox Flowing Hammer",
          "vod": ""
       }
    },
