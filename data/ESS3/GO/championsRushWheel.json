@@ -67,6 +67,12 @@
          "seed": "667824166",
          "weapon": "Great Omenkiller Cleaver",
          "vod": "https://youtu.be/aAmfiKs-3bw"
+      },
+      "Lemon": {
+         "time": "17:09",
+         "seed": "667824166",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": "https://youtu.be/8K-vtFqqnjY"
       }
    },
    "Maliketh": {
@@ -353,16 +359,16 @@
    },
    "Scion": {
       "Champion" : {
-         "time": "4:04",
-         "seed": "377117205",
-         "weapon": "Zamor",
-         "vod": "https://youtu.be/d-bUCy6Bjgc?si=WEA5UJjsE8faInQ9"
-      },
-      "Doitz" : {
-         "time": "3:28",
+         "time": "3:26",
          "seed": "288685812",
          "weapon": "Uchigatana",
-         "vod": ""
+         "vod": "https://youtu.be/jc3lPjDrpAg"
+      },
+      "Doitz" : {
+         "time": "3:23",
+         "seed": "288685812",
+         "weapon": "Uchigatana",
+         "vod": "https://www.youtube.com/watch?v=ZloYtW23oLc"
       }
    },
    "Malenia": {
