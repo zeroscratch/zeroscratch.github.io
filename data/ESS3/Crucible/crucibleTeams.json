@@ -3,8 +3,8 @@
       "Base Mommy & Daddy": {
          "player1": { "name": "Noya", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/noyasparx" },
          "player2": { "name": "TurtleBeard", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/turtlebeard" },
-         "record": "3-2",
-         "squares": 62,
+         "record": "3-3",
+         "squares": 71,
          "lines": 0,
          "WR": 0,
          "H2H": [ "Nordic Thunder", "KChewy", "Pandara"],
@@ -35,11 +35,11 @@
       "Gold But Old": {
          "player1": { "name": "NVCC Alex", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/latenightgamedev" },
          "player2": { "name": "Jerzounek", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/jerzounek" },
-         "record": "3-2",
-         "squares": 51,
+         "record": "4-2",
+         "squares": 64,
          "lines": 4,
          "WR": 0,
-         "H2H": ["Nordic Thunder" , "KChewy", "FalconSi"],
+         "H2H": ["Nordic Thunder" , "KChewy", "FalconSi", "Base Mommy & Daddy"],
          "Playoffs": "maybe"
       },
       "KChewy": {
