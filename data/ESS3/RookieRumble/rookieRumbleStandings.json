@@ -70,8 +70,8 @@
       "profile-pic": ""
    },
    "Cubanmissle": {
-      "record": "2-4",
-      "squares": 33,
+      "record": "2-5",
+      "squares": 38,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Bedhead" ],
@@ -100,11 +100,11 @@
       "profile-pic": ""
    },
    "Yosh": {
-      "record": "1-5",
-      "squares": 23,
+      "record": "2-5",
+      "squares": 29,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Goodietoshoes" ],
+      "H2H": [ "Goodietoshoes", "Cubanmissle" ],
       "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
