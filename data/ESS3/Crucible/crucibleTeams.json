@@ -3,11 +3,11 @@
       "Base Mommy & Daddy": {
          "player1": { "name": "Noya", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/noyasparx" },
          "player2": { "name": "TurtleBeard", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/turtlebeard" },
-         "record": "3-3",
-         "squares": 71,
+         "record": "4-3",
+         "squares": 84,
          "lines": 0,
          "WR": 0,
-         "H2H": [ "Nordic Thunder", "KChewy", "Pandara"],
+         "H2H": [ "Nordic Thunder", "KChewy", "Pandara", "TruthfulNess"],
          "Playoffs": "maybe"
       },
       "Corruption": {
@@ -109,8 +109,8 @@
       "TruthfulNess": {
          "player1": { "name": "TheGraphicTruth", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/thegraphictruth" },
          "player2": { "name": "Nessonetta", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nessonetta" },
-         "record": "4-2",
-         "squares": 67,
+         "record": "4-3",
+         "squares": 78,
          "lines": 0,
          "WR": 0,
          "H2H": ["FalconSi", "NikeTwo", "Corruption", "Pandara" ],

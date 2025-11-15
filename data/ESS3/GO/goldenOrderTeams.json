@@ -52,9 +52,9 @@
    "Asteroid Destroyer": {
       "player1": { "name": "Vakrash", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/vakrash" }, 
       "player2": { "name": "Serious", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/seriouschallenges" },
-      "record": "1-4",
-      "squares": 47,
-      "lines": 0,
+      "record": "1-5",
+      "squares": 57,
+      "lines": 1,
       "WR": 0,
       "H2H": [ "Bofa D's" ],
       "Playoffs": "maybe"
@@ -72,11 +72,11 @@
    "Expedition 25": {
       "player1": { "name": "Thomas", "nickname": "Doc-Ock", "profile-pic": "", "twitch": "https://www.twitch.tv/pluryl" }, 
       "player2": { "name": "Jibbe", "nickname": "Absurdist", "profile-pic": "", "twitch": "https://www.twitch.tv/jibbebot" },
-      "record": "2-4",
-      "squares": 60,
-      "lines": 0,
+      "record": "3-4",
+      "squares": 71,
+      "lines": 1,
       "WR": 0,
-      "H2H": [ "Old But Gold", "Tank & Top" ],
+      "H2H": [ "Old But Gold", "Tank & Top", "Asteroid Destroyer" ],
       "Playoffs": "maybe"
    },
    "Budget Team Hitless": {

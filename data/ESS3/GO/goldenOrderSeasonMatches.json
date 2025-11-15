@@ -260,11 +260,11 @@
             "imageLink": "/img/ESS3/GO/wamp-v-hitless-week7.png"
          },
          {  "gameId": 34, 
-            "player1": { "name": "Asteroid Destroyer", "score": 0, "outcome": "" },
-            "player2": { "name": "Expedition 25", "score": 0, "outcome": "" },
-            "matchTime": "00:00:00",
+            "player1": { "name": "Expedition 25", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Asteroid Destroyer", "score": 12, "outcome": "Lost" },
+            "matchTime": "00:56:21",
             "vodLink": "",
-            "imageLink": ""
+            "imageLink": "/img/ESS3/GO/expedition-v-asteriod-week7.png"
          },
          {  "gameId": 35, 
             "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
