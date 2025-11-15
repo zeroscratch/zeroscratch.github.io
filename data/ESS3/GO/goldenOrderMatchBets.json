@@ -22,7 +22,7 @@
         "firstPlayer": "Budget Team Hitless",
         "secondPlayer": "Tank & Top",
         "scheduledAt": "11/15/2025 17:00:00 UTC",
-        "winner": "",
+        "winner": "Budget Team Hitless",
         "ref": "Regular Season Game",
         "matchType": 1
    },
@@ -31,7 +31,7 @@
         "firstPlayer": "Bagarre FR",
         "secondPlayer": "Wamp Wamp",
         "scheduledAt": "11/15/2025 19:00:00 UTC",
-        "winner": "",
+        "winner": "Wamp Wamp",
         "ref": "Regular Season Game",
         "matchType": 1
    },
@@ -40,7 +40,7 @@
         "firstPlayer": "Asteroid Destroyer",
         "secondPlayer": "Time Complexity",
         "scheduledAt": "11/15/2025 21:00:00 UTC",
-        "winner": "",
+        "winner": "Time Complexity",
         "ref": "Regular Season Game",
         "matchType": 1
    },

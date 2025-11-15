@@ -2,11 +2,11 @@
    "Time Complexity": {
       "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "/player-pic/Shura.png", "twitch": "https://www.twitch.tv/itsshura" }, 
       "player2": { "name": "Psiphicode", "nickname": "Could Be", "profile-pic": "", "twitch": "https://www.twitch.tv/psiphicode" },
-      "record": "5-2",
-      "squares": 82,
+      "record": "6-2",
+      "squares": 95,
       "lines": 2,
       "WR": 0,
-      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses", "Wamp Wamp" ],
+      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses", "Wamp Wamp", "Asteroid Destroyer" ],
       "Playoffs": "yes"
    },
    "Old But Gold": {
@@ -32,8 +32,8 @@
    "Tank & Top": {
       "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
       "player2": { "name": "Elymis", "nickname": "Fia's Champ", "profile-pic": "", "twitch": "https://www.twitch.tv/elymis" },
-      "record": "5-1",
-      "squares": 73,
+      "record": "5-2",
+      "squares": 80,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Time Complexity", "Bofa D's", "Tower Princesses" ],
@@ -42,32 +42,32 @@
    "Wamp Wamp": {
       "player1": { "name": "Wander", "nickname": "Hates Bingo", "profile-pic": "", "twitch": "https://www.twitch.tv/wander652" }, 
       "player2": { "name": "Strump", "nickname": "4:12 Precipi", "profile-pic": "", "twitch": "https://www.twitch.tv/strump1" },
-      "record": "4-2",
-      "squares": 68,
-      "lines": 3,
+      "record": "5-2",
+      "squares": 79,
+      "lines": 5,
       "WR": 0,
-      "H2H": [ "Asteroid Destroyer", "Old But Gold", "Bofa D's", "Tower Princesses" ],
-      "Playoffs": "maybe"
+      "H2H": [ "Asteroid Destroyer", "Old But Gold", "Bofa D's", "Tower Princesses","Bagarre FR" ],
+      "Playoffs": "yes"
    },
    "Asteroid Destroyer": {
       "player1": { "name": "Vakrash", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/vakrash" }, 
       "player2": { "name": "Serious", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/seriouschallenges" },
-      "record": "1-5",
-      "squares": 57,
+      "record": "1-6",
+      "squares": 65,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Bofa D's" ],
-      "Playoffs": "maybe"
+      "Playoffs": "no"
    },
    "Bagarre FR": {
       "player1": { "name": "Ironyeu", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/ironyeu" }, 
       "player2": { "name": "Typin", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/typin__" },
-      "record": "2-5",
-      "squares": 71,
+      "record": "2-6",
+      "squares": 76,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Time Complexity", "Expedition 25" ],
-      "Playoffs": "maybe"
+      "Playoffs": "no"
    },
    "Expedition 25": {
       "player1": { "name": "Thomas", "nickname": "Doc-Ock", "profile-pic": "", "twitch": "https://www.twitch.tv/pluryl" }, 
@@ -82,11 +82,11 @@
    "Budget Team Hitless": {
       "player1": { "name": "Cronys", "nickname": "Hitless?", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
       "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
-      "record": "6-1",
-      "squares": 87,
-      "lines": 2,
+      "record": "7-1",
+      "squares": 98,
+      "lines": 3,
       "WR": 0,
-      "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25", "Bagarre FR", "Asteroid Destroyer", "Budget Team Hitless" ],
+      "H2H": [ "Bofa D's", "Old But Gold", "Expedition 25", "Bagarre FR", "Asteroid Destroyer", "Budget Team Hitless", "Tank & Top" ],
       "Playoffs": "yes"
    },
    "Tower Princesses": {

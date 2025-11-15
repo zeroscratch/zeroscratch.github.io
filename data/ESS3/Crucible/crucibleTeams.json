@@ -11,20 +11,20 @@
          "Playoffs": "maybe"
       },
       "Corruption": {
-         "player1": { "name": "Maiorskills", "nickname": "", "profile-pic": "", "twitch": "" },
+         "player1": { "name": "Tony", "nickname": "Tuff Trizzy", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Fits", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "3-2",
-         "squares": 53,
+         "record": "4-2",
+         "squares": 66,
          "lines": 1,
          "WR": 0,
-         "H2H": ["Rick Fisters" , "Gold But Old", "Base Mommy & Daddy"],
+         "H2H": ["Rick Fisters" , "Gold But Old", "Base Mommy & Daddy", "Nordic Thunder"],
          "Playoffs": "maybe"
       },
       "Nordic Thunder": {
          "player1": { "name": "Steakslyons", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/steakslyons" },
          "player2": { "name": "Champalampa", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "3-2",
-         "squares": 58,
+         "record": "3-3",
+         "squares": 66,
          "lines": 2,
          "WR": 0,
          "H2H": ["KChewy", "Rick Fisters" , "Pandara"],

@@ -1,7 +1,7 @@
 {
    "Bedhead": {
-      "record": "2-4",
-      "squares": 28,
+      "record": "2-5",
+      "squares": 35,
       "lines": 1,
       "WR": 0,
       "H2H": [ "TheMilkMan", "Azdomiel" ],
@@ -30,11 +30,11 @@
       "profile-pic": ""
    },
    "Magnitude": {
-      "record": "2-4",
-      "squares": 58,
+      "record": "3-4",
+      "squares": 70,
       "lines": 0,
       "WR": 0,
-      "H2H": [ "Cubanmissle", "Azdomiel" ],
+      "H2H": [ "Cubanmissle", "Azdomiel", "Bedhead" ],
       "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
@@ -60,12 +60,12 @@
       "profile-pic": ""
    },
    "Tinybobcat": {
-      "record": "4-2",
-      "squares": 62,
-      "lines": 1,
+      "record": "5-2",
+      "squares": 72,
+      "lines": 2,
       "WR": 0,
-      "H2H": [ "Krispy", "Belbo", "TheMilkMan", "Jam" ],
-      "Playoffs": "maybe",
+      "H2H": [ "Krispy", "Belbo", "TheMilkMan", "Jam", "Psykg" ],
+      "Playoffs": "yes",
       "twitch": "",
       "profile-pic": ""
    },
@@ -90,8 +90,8 @@
       "profile-pic": ""
    },
    "Psykg": {
-      "record": "3-3",
-      "squares": 36,
+      "record": "3-4",
+      "squares": 40,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Yosh" ],
@@ -150,12 +150,12 @@
       "profile-pic": ""
    },
    "Avery": {
-      "record": "3-3",
-      "squares": 42,
+      "record": "3-4",
+      "squares": 45,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bedhead", "Yosh" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
@@ -190,11 +190,11 @@
       "profile-pic": ""
    },
    "Vixus": {
-      "record": "3-3",
-      "squares": 48,
-      "lines": 1,
+      "record": "4-3",
+      "squares": 60,
+      "lines": 2,
       "WR": 0,
-      "H2H": [ "Krispy" ],
+      "H2H": [ "Krispy", "Avery" ],
       "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
