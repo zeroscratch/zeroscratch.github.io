@@ -12,22 +12,22 @@
    "Old But Gold": {
       "player1": { "name": "Jay", "nickname": "Joker", "profile-pic": "", "twitch": "https://www.twitch.tv/igntjay" }, 
       "player2": { "name": "Rambler", "nickname": "Professor", "profile-pic": "", "twitch": "https://www.twitch.tv/rambler_ing" },
-      "record": "1-5",
-      "squares": 54,
+      "record": "1-6",
+      "squares": 65,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bagarre FR" ],
-      "Playoffs": "maybe"
+      "Playoffs": "no"
    },
    "Bofa D's": {
       "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
       "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
-      "record": "3-4",
-      "squares": 69,
+      "record": "4-4",
+      "squares": 82,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Expedition 25", "Tower Princesses", "Bagarre FR" ],
-      "Playoffs": "maybe"
+      "Playoffs": "yes"
    },
    "Tank & Top": {
       "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
