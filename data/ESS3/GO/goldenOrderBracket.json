@@ -1,0 +1,75 @@
+{
+   "Quarterfinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Bofa D's", "score": 5, "outcome": "Lost" },
+         "player2": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
+         "matchTime": "00:00:00",
+         "vodLink": "https://www.twitch.tv/videos/2596016729?t=00h26m02s",
+         "imageLink": "/img/ESS3/Crucible/crashout-v-pandara-week3.png",
+         "scheduledAt": "11/16/2025 07:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Bofa D's", "score": 5, "outcome": "Bingo" },
+         "player2": { "name": "Tank & Top", "score": 13, "outcome": "Lost" },
+         "matchTime": "00:00:00",
+         "vodLink": "https://youtu.be/FSDMS7VNo4E?si=ybC-nfdbC-rwCb8I",
+         "imageLink": "/img/ESS3/Crucible/crashout-v-pandara-week3.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Bofa D's", "score": 5, "outcome": "Bingo" },
+         "player2": { "name": "Tank & Top", "score": 13, "outcome": "Lost" },
+         "matchTime": "00:00:00",
+         "vodLink": "https://youtu.be/FSDMS7VNo4E?si=ybC-nfdbC-rwCb8I",
+         "imageLink": "/img/ESS3/Crucible/crashout-v-pandara-week3.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Quarterfinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "3", "score": 0, "outcome": "" },
+         "player2": { "name": "4", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": ""
+      }
+   ],
+   "Semifinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "5", "score": 0, "outcome": "" },
+         "player2": { "name": "6", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": ""
+      }
+   ],
+   "Semifinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "7", "score": 0, "outcome": "" },
+         "player2": { "name": "8", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": ""
+      }
+   ],
+   "Finals": [
+      {
+         "gameid": 1,
+         "player1": { "name": "9", "score": 0, "outcome": "" },
+         "player2": { "name": "10", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": ""
+      }
+   ]
+}

@@ -153,42 +153,42 @@
             "player1": { "name": "Wamp Wamp", "score": 15, "outcome": "Bingo" },
             "player2": { "name": "Old But Gold", "score": 8, "outcome": "Lost" },
             "matchTime": "01:04:16",
-            "vodLink": "https://www.twitch.tv/videos/2606444315?t=00h38m04s",
+            "vodLink": "https://youtu.be/AMkNSmK1d4I?si=QZF2tp7oKijzSpj8",
             "imageLink": "/img/ESS3/GO/wamp-v-gold-week5.png"
          },
          {  "gameId": 21, 
             "player1": { "name": "Bagarre FR", "score": 13, "outcome": "Bingo" },
             "player2": { "name": "Expedition 25", "score": 4, "outcome": "Lost" },
             "matchTime": "00:46:42",
-            "vodLink": "https://www.twitch.tv/videos/2607020576?t=00h28m09s",
+            "vodLink": "https://youtu.be/UtjrM8P0-FU?si=iiD75W5m0Iacucas",
             "imageLink": "/img/ESS3/GO/expedition-v-fr-week5.png"
          },
          {  "gameId": 22, 
             "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Time Complexity", "score": 12, "outcome": "Lost" },
             "matchTime": "01:27:04",
-            "vodLink": "https://www.twitch.tv/videos/2607020576?t=04h33m36s",
+            "vodLink": "https://youtu.be/HZ-97Zya3gE?si=nVCHOuYPcy5xJkuP",
             "imageLink": "/img/ESS3/GO/complex-v-tank-week5.png"
          },
          {  "gameId": 23, 
             "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Tower Princesses", "score": 12, "outcome": "Lost" },
             "matchTime": "01:13:39",
-            "vodLink": "https://www.twitch.tv/videos/2607020576?t=06h31m18s",
+            "vodLink": "https://youtu.be/JrayC3kkpXU?si=Fx6RK1AdkzaLRzqW",
             "imageLink": "/img/ESS3/GO/wamp-v-tower-week5.png"
          },
          {  "gameId": 24, 
             "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Bofa D's", "score": 10, "outcome": "Lost" },
             "matchTime": "01:07:04",
-            "vodLink": "https://www.twitch.tv/videos/2607967347?t=00h26m45s",
+            "vodLink": "https://youtu.be/_jT4KZw4AOw?si=MFB_u60UAvX0l4QD",
             "imageLink": "/img/ESS3/GO/tank-v-bofa-week5.png"
          },
          {  "gameId": 25,
             "player1": { "name": "Old But Gold", "score": 13, "outcome": "Majority" },
             "player2": { "name": "Bagarre FR", "score": 10, "outcome": "Lost" },
             "matchTime": "01:04:21",
-            "vodLink": "https://www.twitch.tv/videos/2607967347?t=02h24m01s",
+            "vodLink": "https://youtu.be/JrzXRdj8uz8?si=Vskt4_5_jK3mrO1Q",
             "imageLink": "/img/ESS3/GO/gold-v-fr-week5.png"
          }
       ]
@@ -263,7 +263,7 @@
             "player1": { "name": "Expedition 25", "score": 13, "outcome": "Bingo" },
             "player2": { "name": "Asteroid Destroyer", "score": 12, "outcome": "Lost" },
             "matchTime": "00:56:21",
-            "vodLink": "",
+            "vodLink": "https://www.twitch.tv/videos/2619865708",
             "imageLink": "/img/ESS3/GO/expedition-v-asteriod-week7.png"
          },
          {  "gameId": 35, 
@@ -322,30 +322,37 @@
       "matches":
       [
          
-         {  "gameId": 41, 
+         {  "gameId": 42, 
             "player1": { "name": "Old But Gold", "score": 0, "outcome": "" },
-            "player2": { "name": "Tank & Top", "score": 0, "outcome": "" },
+            "player2": { "name": "Asteroid Destroyer", "score": 0, "outcome": "" },
             "matchTime": "00:00:00",
             "vodLink": "",
             "imageLink": ""
          },
          {  "gameId": 42, 
+            "player1": { "name": "Tank & Top", "score": 0, "outcome": "" },
+            "player2": { "name": "Wamp Wamp", "score": 0, "outcome": "" },
+            "matchTime": "00:00:00",
+            "vodLink": "",
+            "imageLink": ""
+         },
+         {  "gameId": 43, 
             "player1": { "name": "Time Complexity", "score": 0, "outcome": "" },
             "player2": { "name": "Bofa D's", "score": 0, "outcome": "" },
             "matchTime": "00:00:00",
             "vodLink": "",
             "imageLink": ""
          },
-         {  "gameId": 43, 
-            "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
-            "player2": { "name": "Tower Princesses", "score": 0, "outcome": "" },
+         {  "gameId": 44, 
+            "player1": { "name": "Asteroid Destroyer", "score": 0, "outcome": "" },
+            "player2": { "name": "Bagarre FR", "score": 0, "outcome": "" },
             "matchTime": "00:00:00",
             "vodLink": "",
             "imageLink": ""
          },
-         {  "gameId": 44, 
-            "player1": { "name": "Bagarre FR", "score": 0, "outcome": "" },
-            "player2": { "name": "Asteroid Destroyer", "score": 0, "outcome": "" },
+         {  "gameId": 45, 
+            "player1": { "name": "Expedition 25", "score": 0, "outcome": "" },
+            "player2": { "name": "Tower Princesses", "score": 0, "outcome": "" },
             "matchTime": "00:00:00",
             "vodLink": "",
             "imageLink": ""
