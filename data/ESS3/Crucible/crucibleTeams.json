@@ -13,21 +13,21 @@
       "Corruption": {
          "player1": { "name": "Tony", "nickname": "Tuff Trizzy", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Fits", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "4-2",
-         "squares": 66,
+         "record": "5-2",
+         "squares": 79,
          "lines": 1,
          "WR": 0,
-         "H2H": ["Rick Fisters" , "Gold But Old", "Base Mommy & Daddy", "Nordic Thunder"],
-         "Playoffs": "maybe"
+         "H2H": ["Rick Fisters" , "Gold But Old", "Base Mommy & Daddy", "Nordic Thunder", "KChewy" ],
+         "Playoffs": "yes"
       },
       "Nordic Thunder": {
          "player1": { "name": "Steakslyons", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/steakslyons" },
          "player2": { "name": "Champalampa", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "3-3",
-         "squares": 66,
-         "lines": 2,
+         "record": "4-3",
+         "squares": 77,
+         "lines": 3,
          "WR": 0,
-         "H2H": ["KChewy", "Rick Fisters" , "Pandara"],
+         "H2H": ["KChewy", "Rick Fisters" , "Pandara", "Crashout Carries"],
          "Playoffs": "maybe"
       }
    },
@@ -45,8 +45,8 @@
       "KChewy": {
          "player1": { "name": "KCBrazos", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/kcbrazos" },
          "player2": { "name": "Chewy", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "0-6",
-         "squares": 42,
+         "record": "0-7",
+         "squares": 49,
          "lines": 0,
          "WR": 0,
          "H2H": [""],
@@ -99,8 +99,8 @@
       "Crashout Carries": {
          "player1": { "name": "SaetanSD", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/saetansd" },
          "player2": { "name": "Aggronio", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/aggronio" },
-         "record": "5-1",
-         "squares": 72,
+         "record": "5-2",
+         "squares": 82,
          "lines": 1,
          "WR": 0,
          "H2H": ["TruthfulNess", "Pandara", "Base Mommy & Daddy", "Corruption", "FalconSi"],
