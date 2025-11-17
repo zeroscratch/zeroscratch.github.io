@@ -35,11 +35,11 @@
       "Gold But Old": {
          "player1": { "name": "NVCC Alex", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/latenightgamedev" },
          "player2": { "name": "Jerzounek", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/jerzounek" },
-         "record": "4-2",
-         "squares": 64,
+         "record": "5-2",
+         "squares": 77,
          "lines": 4,
          "WR": 0,
-         "H2H": ["Nordic Thunder" , "KChewy", "FalconSi", "Base Mommy & Daddy"],
+         "H2H": ["Nordic Thunder" , "KChewy", "FalconSi", "Base Mommy & Daddy", "NikeTwo"],
          "Playoffs": "maybe"
       },
       "KChewy": {
@@ -77,12 +77,12 @@
       "NikeTwo": {
          "player1": { "name": "NikeEuro", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nikeeuro" },
          "player2": { "name": "Mewtwo", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/mewtwo2u" },
-         "record": "3-3",
-         "squares": 58,
+         "record": "3-4",
+         "squares": 68,
          "lines": 3,
          "WR": 0,
          "H2H": ["Pandara", "FalconSi", "KChewy"],
-         "Playoffs": "maybe"
+         "Playoffs": "no"
       },
       "Jarvis": {
          "player1": { "name": "Harv", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/harvsouls" },

@@ -322,6 +322,13 @@
             "matchTime": "00:59:05", 
             "vodLink": "", 
             "imageLink": "/img/ESS3/Crucible/nordic-v-crashout-week7.png"
+         },
+         {  "gameId": 38, 
+            "player1": { "name": "Gold But Old", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "NikeTwo", "score": 10, "outcome": "Lost" }, 
+            "matchTime": "01:20:06", 
+            "vodLink": "https://www.twitch.tv/videos/2620130787?t=06h20m25s", 
+            "imageLink": "/img/ESS3/Crucible/nike-v-gold-week7.png"
          }
       ]
    }
