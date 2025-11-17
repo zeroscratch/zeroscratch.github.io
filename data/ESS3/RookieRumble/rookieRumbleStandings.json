@@ -80,12 +80,12 @@
       "profile-pic": ""
    },
    "TheMilkMan": {
-      "record": "3-4",
-      "squares": 44,
-      "lines": 2,
+      "record": "4-3",
+      "squares": 41,
+      "lines": 3,
       "WR": 0,
-      "H2H": [ "Cubanmissle", "Avery" ],
-      "Playoffs": "no",
+      "H2H": [ "Cubanmissle", "Avery", "Question Marks" ],
+      "Playoffs": "maybe",
       "twitch": "",
       "profile-pic": ""
    },
@@ -170,12 +170,12 @@
       "profile-pic": ""
    },
    "Question Marks": {
-      "record": "4-3",
+      "record": "3-4",
       "squares": 45,
-      "lines": 1,
+      "lines": 0,
       "WR": 0,
-      "H2H": [ "Krispy", "Goodietoshoes", "TheMilkMan" ],
-      "Playoffs": "maybe",
+      "H2H": [ "Krispy", "Goodietoshoes" ],
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },

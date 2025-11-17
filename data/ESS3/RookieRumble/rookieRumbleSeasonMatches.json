@@ -425,8 +425,8 @@
             "imageLink": "/img/ESS3/Rookie/arkham-v-tarun-week7.png"
          },
          {  "gameId": 50, 
-            "player1": { "name": "Question Marks", "score": 10, "outcome": "Bingo" }, 
-            "player2": { "name": "TheMilkMan", "score": 7, "outcome": "Lost" }, 
+            "player1": { "name": "TheMilkMan", "score": 7, "outcome": "Bingo" }, 
+            "player2": { "name": "Question Marks", "score": 10, "outcome": "Lost" }, 
             "matchTime": "01:32:34", 
             "vodLink": "",
             "imageLink": "/img/ESS3/Rookie/milk-v-question-week7.png"
