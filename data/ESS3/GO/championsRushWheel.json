@@ -89,9 +89,9 @@
          "vod": ""
       },
       "Wander": {
-         "time": "18:25",
+         "time": "16:12",
          "seed": "1194342897",
-         "weapon": "Greathorn Hammer",
+         "weapon": "Messmer's Soldier Axe",
          "vod": ""
       },
       "Jxxman": {
@@ -137,6 +137,12 @@
          "seed": "1661606457",
          "weapon": "Envoy's Horn",
          "vod": "https://youtu.be/SmAvRlsVeO0?si=H63gH22PlGX7cPZz"
+      },
+      "Wander" : {
+         "time": "12:40",
+         "seed": "1396982300",
+         "weapon": "Envoy's Horn",
+         "vod": ""
       }
    },
    "Fist/Dagger only": {

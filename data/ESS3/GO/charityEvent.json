@@ -1,0 +1,76 @@
+{
+   "Event 1": {
+      "team1": { "Serious": { "twitch": "https://www.twitch.tv/seriouschallenges", "profile-pic": "/img/profilePics/Serious.jpeg" }, "Catalyst": { "twitch": "https://www.twitch.tv/catalystz", "profile-pic": "/img/profilePics/Catalystz.png" } },
+      "team2": { "Zoodle": { "twitch": "https://www.twitch.tv/zoodle", "profile-pic": "/img/profilePics/Zoodle.png" }, "NPT": { "twitch": "https://www.twitch.tv/nuclearpastatom", "profile-pic": "/img/profilePics/NPT.jpeg" } },
+      "scheduled": "11/21/2025 19:00:00 UTC",
+      "eventName": "2v2 Base Game Rando Race",
+      "eventImage": "/img/ESS3/2v2randorace.jpg"
+   },
+   "Event 2": {
+      "team1": { "Dino": { "twitch": "https://www.twitch.tv/dinossb", "profile-pic": "/img/profilePics/dinoProfilePic.jpg" }, "RattyRy": { "twitch": "https://www.twitch.tv/rattyry", "profile-pic": "/player-pic/Ratty.JPEG" }, "HarvSouls": { "twitch": "https://www.twitch.tv/harvsouls", "profile-pic": "/img/profilePics/harvProfilePic.png" } },
+      "team2": { "Lemon": { "twitch": "https://www.twitch.tv/l3m0_n", "profile-pic": "/img/profilePics/lemonProfilePic.png" }, "Vakrash": { "twitch": "https://www.twitch.tv/vakrash", "profile-pic": "/img/profilePics/vakrashProfilePic.png" }, "Rambler": { "twitch": "https://www.twitch.tv/rambler_ing", "profile-pic": "/player-pic/Rambler2.png" } },
+      "scheduled": "11/21/2025 21:00:00 UTC",
+      "eventName": "Ringus, The Holy Sport",
+      "eventImage": "/img/ESS3/ringus.webp"
+   },
+   "Event 3": {
+      "players": {
+         "Elymis":     { "twitch": "https://www.twitch.tv/elymis", "profile-pic": "/player-pic/Ellie.png" },
+         "Asym":       { "twitch": "https://www.twitch.tv/asymmmm", "profile-pic": "/img/profilePics/asymProfilePic.png" },
+         "Nexus":      { "twitch": "https://www.twitch.tv/nexusupnext", "profile-pic": "/img/profilePics/nexusProfilePic.jpg" },
+         "Psiphicode": { "twitch": "https://www.twitch.tv/psiphicode", "profile-pic": "/img/profilePics/psiProfilePic.png" },
+         "More1":      { "twitch": "", "profile-pic": "" },
+         "More2":      { "twitch": "", "profile-pic": "" }
+      },
+      "scheduled": "11/22/2025 01:00:00 UTC",
+      "eventName": "PVPVE",
+      "eventImage": "/img/ESS3/PVPVE.png"
+   },
+   "Event 4": {
+      "players": {
+         "Pirl_Fresh": { "twitch": "https://www.twitch.tv/pirl_fresh", "profile-pic": "/img/profilePics/pirlProfilePic.png" },
+         "Ironyeu": { "twitch": "https://www.twitch.tv/ironyeu", "profile-pic": "/img/profilePics/ironProfilePic.png" },
+         "Catalystz": { "twitch": "https://www.twitch.tv/catalystz", "profile-pic": "/img/profilePics/Catalystz.png" },
+         "Kemist": { "twitch": "https://www.twitch.tv/kemist_c10h15n", "profile-pic": "/img/profilePics/kemistProfilePic.png" }
+      },
+      "scheduled": "11/22/2025 17:00:00 UTC",
+      "eventName": "RandoCalypse",
+      "eventImage": "/img/ESS3/randocalypse.png"
+   },
+   "Event 5": {
+      "player1": {
+         "Jay": { "twitch": "https://www.twitch.tv/igntjay", "profile-pic": "/img/profilePics/jayProfilePic.webp" }
+      },
+      "player2": {
+         "Strump": { "twitch": "https://www.twitch.tv/strump1", "profile-pic": "/img/profilePics/Strump.png" }
+      },
+      "scheduled": "11/22/2025 19:00:00 UTC",
+      "eventName": "Scadubingo Champions Clash",
+      "eventImage": "/img/ESS3/scadubingo.webp"
+   },
+   "Event 6": {
+      "players": {
+         "Shura": { "twitch": "https://www.twitch.tv/itsshura", "profile-pic": "/player-pic/Shura.png" },
+         "Wander": { "twitch": "https://www.twitch.tv/wander652", "profile-pic": "/img/profilePics/wanderProfilePic.png" },
+         "Asym": { "twitch": "https://www.twitch.tv/asymmmm", "profile-pic": "/img/profilePics/asymProfilePic.png" },
+         "Thomas": { "twitch": "https://www.twitch.tv/pluryl", "profile-pic": "/img/profilePics/thomasProfilePic.jpg" }
+      },
+      "scheduled": "11/23/2025 01:00:00 UTC",
+      "eventName": "Boss Rush From Hell",
+      "eventImage": "/img/ESS3/bossrush.png"
+   },
+   "Event 7": {
+      "team1": { "Wander": { "twitch": "https://www.twitch.tv/wander652", "profile-pic": "/img/profilePics/wanderProfilePic.png" }, "NPT": { "twitch": "https://www.twitch.tv/nuclearpastatom", "profile-pic": "/img/profilePics/NPT.jpeg" } },
+      "team2": { "Helios": { "twitch": "https://www.twitch.tv/lazyhelios", "profile-pic": "/player-pic/Helios.png" }, "VSwed": { "twitch": "https://www.twitch.tv/vswed", "profile-pic": "/img/profilePics/vswedProfilePic.png" } },
+      "scheduled": "11/23/2025 17:00:00 UTC",
+      "eventName": "Charity Bingo: Brawlers Format",
+      "eventImage": "/img/ESS3/bingobrawlers3.png"
+   },
+   "Event 8": {
+      "team1": { "Wander": { "twitch": "https://www.twitch.tv/wander652", "profile-pic": "/img/profilePics/wanderProfilePic.png" }, "NPT": { "twitch": "https://www.twitch.tv/nuclearpastatom", "profile-pic": "/img/profilePics/NPT.jpeg" } },
+      "team2": { "Helios": { "twitch": "https://www.twitch.tv/lazyhelios", "profile-pic": "/player-pic/Helios.png" }, "VSwed": { "twitch": "https://www.twitch.tv/vswed", "profile-pic": "/img/profilePics/vswedProfilePic.png" } },
+      "scheduled": "11/23/2025 19:00:00 UTC",
+      "eventName": "Charity Bingo: Elden Squares Format",
+      "eventImage": "/src/assets/elden_squares.png"
+   }
+}
