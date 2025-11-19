@@ -1,9 +1,33 @@
 [
    {
         "title": "ComplexiD's",
-        "firstPlayer": "",
-        "secondPlayer": "",
-        "scheduledAt": "",
+        "firstPlayer": "Time Complexity",
+        "secondPlayer": "Bofa D's",
+        "scheduledAt": "11/21/2025 21:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Top Wamp",
+        "firstPlayer": "Tank & Top",
+        "secondPlayer": "Wamp Wamp",
+        "scheduledAt": "11/22/2025 21:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Treaty of Versailles",
+        "firstPlayer": "Asteroid Destroyer",
+        "secondPlayer": "Bagarre FR",
+        "scheduledAt": "11/23/2025 21:00:00 UTC",
+        "ref": "Regular Season Game",
+        "matchType": 1
+   },
+   {
+        "title": "Ascension",
+        "firstPlayer": "Expedition 25",
+        "secondPlayer": "Tower Princesses",
+        "scheduledAt": "11/23/2025 23:00:00 UTC",
         "ref": "Regular Season Game",
         "matchType": 1
    }

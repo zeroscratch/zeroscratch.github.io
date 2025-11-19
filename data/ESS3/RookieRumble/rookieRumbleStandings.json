@@ -10,8 +10,8 @@
       "profile-pic": ""
    },
    "Rony": {
-      "record": "6-0",
-      "squares": 75,
+      "record": "6-1",
+      "squares": 82,
       "lines": 4,
       "WR": 0,
       "H2H": [ "Bedhead", "Arkham", "Tinybobcat", "Tarun", "Psykg", "Magnitude" ],
@@ -40,7 +40,7 @@
       "profile-pic": ""
    },
    "Jam": {
-      "record": "4-2",
+      "record": "4-3",
       "squares": 61,
       "lines": 1,
       "WR": 0,
@@ -120,21 +120,21 @@
       "profile-pic": ""
    },
    "Belbo": {
-      "record": "4-2",
-      "squares": 58,
-      "lines": 3,
+      "record": "5-2",
+      "squares": 71,
+      "lines": 4,
       "WR": 0,
-      "H2H": [ "Azdomiel", "Goodietoshoes", "Tito", "Yosh" ],
-      "Playoffs": "maybe",
+      "H2H": [ "Azdomiel", "Goodietoshoes", "Tito", "Yosh", "Jam" ],
+      "Playoffs": "yes",
       "twitch": "",
       "profile-pic": ""
    },
    "Mixed": {
-      "record": "5-1",
-      "squares": 61,
+      "record": "6-1",
+      "squares": 74,
       "lines": 3,
       "WR": 0,
-      "H2H": [ "Magnitude", "Azdomiel", "Psykg", "Tito", "Question Marks" ],
+      "H2H": [ "Magnitude", "Azdomiel", "Psykg", "Tito", "Question Marks", "Rony" ],
       "Playoffs": "yes",
       "twitch": "",
       "profile-pic": ""

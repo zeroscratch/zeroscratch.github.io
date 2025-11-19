@@ -1,83 +1,38 @@
 [
    {
-        "title": "3 Imbued Sword Keys",
-        "firstPlayer": "Wamp Wamp",
-        "secondPlayer": "Budget Team Hitless",
-        "scheduledAt": "11/14/2025 01:00:00 UTC",
-        "winner": "Budget Team Hitless",
+        "title": "ComplexiD's",
+        "firstPlayer": "Time Complexity",
+        "secondPlayer": "Bofa D's",
+        "scheduledAt": "11/21/2025 21:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
-        "title": "An Interstellar Expedition",
-        "firstPlayer": "Asteroid Destroyer",
-        "secondPlayer": "Expedition 25",
-        "scheduledAt": "11/14/2025 23:00:00 UTC",
-        "winner": "Expedition 25",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "Hitless?",
-        "firstPlayer": "Budget Team Hitless",
-        "secondPlayer": "Tank & Top",
-        "scheduledAt": "11/15/2025 17:00:00 UTC",
-        "winner": "Budget Team Hitless",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "Top Left Bottom Right",
-        "firstPlayer": "Bagarre FR",
+        "title": "Top Wamp",
+        "firstPlayer": "Tank & Top",
         "secondPlayer": "Wamp Wamp",
-        "scheduledAt": "11/15/2025 19:00:00 UTC",
-        "winner": "Wamp Wamp",
+        "scheduledAt": "11/22/2025 21:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
-        "title": "Cosmic Calculations",
+        "title": "Treaty of Versailles",
         "firstPlayer": "Asteroid Destroyer",
-        "secondPlayer": "Time Complexity",
-        "scheduledAt": "11/15/2025 21:00:00 UTC",
-        "winner": "Time Complexity",
+        "secondPlayer": "Bagarre FR",
+        "scheduledAt": "11/23/2025 21:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    },
    {
-        "title": "Bofa's 401k",
-        "firstPlayer": "Bofa D's",
-        "secondPlayer": "Old But Gold",
-        "scheduledAt": "11/15/2025 23:00:00 UTC",
-        "winner": "Bofa D's",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "4 F--- Seconds",
-        "firstPlayer": "Old But Gold",
-        "secondPlayer": "Tank & Top",
-        "scheduledAt": "11/16/2025 17:00:00 UTC",
-        "winner": "Tank & Top",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "The Princess and the Hitlist",
-        "firstPlayer": "Budget Team Hitless",
-        "secondPlayer": "Tower Princesses",
-        "scheduledAt": "11/16/2025 19:00:00 UTC",
-        "winner": "Budget Team Hitless",
-        "ref": "Regular Season Game",
-        "matchType": 1
-   },
-   {
-        "title": "Udder Chaos",
+        "title": "Ascension",
         "firstPlayer": "Expedition 25",
-        "secondPlayer": "Wamp Wamp",
-        "scheduledAt": "11/16/2025 21:00:00 UTC",
-        "winner": "Expedition 25",
+        "secondPlayer": "Tower Princesses",
+        "scheduledAt": "11/23/2025 23:00:00 UTC",
         "ref": "Regular Season Game",
+        "winner": "",
         "matchType": 1
    }
 ]
