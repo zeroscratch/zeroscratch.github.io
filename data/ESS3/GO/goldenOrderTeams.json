@@ -2,11 +2,11 @@
    "Time Complexity": {
       "player1": { "name": "Shura", "nickname": "Absolute", "profile-pic": "/player-pic/Shura.png", "twitch": "https://www.twitch.tv/itsshura" }, 
       "player2": { "name": "Psiphicode", "nickname": "Could Be", "profile-pic": "", "twitch": "https://www.twitch.tv/psiphicode" },
-      "record": "6-2",
-      "squares": 95,
+      "record": "7-2",
+      "squares": 108,
       "lines": 2,
       "WR": 0,
-      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses", "Wamp Wamp", "Asteroid Destroyer" ],
+      "H2H": [ "Old But Gold", "Budget Team Hitless", "Expedition 25", "Tower Princesses", "Wamp Wamp", "Asteroid Destroyer", "Bofa D's" ],
       "Playoffs": "yes"
    },
    "Old But Gold": {
@@ -22,8 +22,8 @@
    "Bofa D's": {
       "player1": { "name": "Dino", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/dinossb" }, 
       "player2": { "name": "Doitz", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/baseserpent" },
-      "record": "4-4",
-      "squares": 82,
+      "record": "4-5",
+      "squares": 89,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Expedition 25", "Tower Princesses", "Bagarre FR" ],
