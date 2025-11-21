@@ -331,5 +331,18 @@
             "imageLink": "/img/ESS3/Crucible/nike-v-gold-week7.png"
          }
       ]
+   },
+   {
+      "week": 8,
+      "matches":
+      [
+         {  "gameId": 39, 
+            "player1": { "name": "Jarvis", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Gold But Old", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "00:56:36", 
+            "vodLink": "", 
+            "imageLink": "/img/ESS3/Crucible/jarvis-v-gold-week8.png"
+         }
+      ]
    }
 ]

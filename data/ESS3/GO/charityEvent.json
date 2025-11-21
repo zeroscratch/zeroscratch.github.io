@@ -1,7 +1,7 @@
 {
    "Event 1": {
       "team1": { "TinyBobcat": { "twitch": "https://www.twitch.tv/tiny_bobcat", "profile-pic": "/img/profilePics/bobcatProfilePic.jpg" }, "Belbo": { "twitch": "", "profile-pic": "" } },
-      "team2": { "Mixed": { "twitch": "", "profile-pic": "/img/profilePics/Ignite_Logo.png" }, "Jam": { "twitch": "https://www.twitch.tv/jamsanitizer", "profile-pic": "/img/profilePics/jamProfilePic.jpg" } },
+      "team2": { "Mixed": { "twitch": "", "profile-pic": "/img/profilePics/mixedProfilePic.png" }, "Jam": { "twitch": "https://www.twitch.tv/jamsanitizer", "profile-pic": "/img/profilePics/jamProfilePic.jpg" } },
       "scheduled": "11/21/2025 17:00:00 UTC",
       "eventName": "2v2 Rookie Bingo",
       "eventImage": "/img/ESS3/Charity/2v2Rookie.avif"

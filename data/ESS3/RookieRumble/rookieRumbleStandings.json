@@ -45,7 +45,7 @@
       "lines": 1,
       "WR": 0,
       "H2H": [ "Avery", "Psykg", "Sciryn", "Magnitude" ],
-      "Playoffs": "maybe",
+      "Playoffs": "no",
       "twitch": "",
       "profile-pic": ""
    },
@@ -85,7 +85,7 @@
       "lines": 3,
       "WR": 0,
       "H2H": [ "Cubanmissle", "Avery", "Question Marks" ],
-      "Playoffs": "maybe",
+      "Playoffs": "yes",
       "twitch": "",
       "profile-pic": ""
    },
@@ -195,7 +195,7 @@
       "lines": 2,
       "WR": 0,
       "H2H": [ "Krispy", "Avery" ],
-      "Playoffs": "maybe",
+      "Playoffs": "yes",
       "twitch": "",
       "profile-pic": ""
    }

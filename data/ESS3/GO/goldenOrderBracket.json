@@ -7,7 +7,7 @@
          "matchTime": "00:00:00",
          "vodLink": "https://www.twitch.tv/videos/2596016729?t=00h26m02s",
          "imageLink": "/img/ESS3/Crucible/crashout-v-pandara-week3.png",
-         "scheduledAt": "11/16/2025 21:00:00 UTC"
+         "scheduledAt": "11/16/2025 07:00:00 UTC"
       },
       {
          "gameid": 2,
@@ -31,12 +31,12 @@
    "Quarterfinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "3", "score": 0, "outcome": "" },
-         "player2": { "name": "4", "score": 0, "outcome": "" },
+         "player1": { "name": "3", "score": 13, "outcome": "" },
+         "player2": { "name": "4", "score": 0, "outcome": "Bingo" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "11/21/2025 07:00:00 UTC"
       }
    ],
    "Semifinals-1": [
@@ -47,7 +47,7 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "11/28/2025 07:00:00 UTC"
       }
    ],
    "Semifinals-2": [
@@ -58,7 +58,7 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "11/28/2025 07:00:00 UTC"
       }
    ],
    "Finals": [
@@ -69,7 +69,7 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "11/28/2025 07:00:00 UTC"
       }
    ]
 }

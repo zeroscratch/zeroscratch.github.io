@@ -35,8 +35,8 @@
       "Gold But Old": {
          "player1": { "name": "NVCC Alex", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/latenightgamedev" },
          "player2": { "name": "Jerzounek", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/jerzounek" },
-         "record": "5-2",
-         "squares": 77,
+         "record": "5-3",
+         "squares": 82,
          "lines": 4,
          "WR": 0,
          "H2H": ["Nordic Thunder" , "KChewy", "FalconSi", "Base Mommy & Daddy", "NikeTwo"],
@@ -60,7 +60,7 @@
          "lines": 2,
          "WR": 0,
          "H2H": ["KChewy", "Gold But Old", "NikeTwo", "Jarvis", "FalconSi" ],
-         "Playoffs": "maybe"
+         "Playoffs": "yes"
       }
    },
    "Division C": {
@@ -87,11 +87,11 @@
       "Jarvis": {
          "player1": { "name": "Harv", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/harvsouls" },
          "player2": { "name": "Jxxman", "nickname": "Rage Baiter", "profile-pic": "", "twitch": "" },
-         "record": "5-1",
-         "squares": 69,
+         "record": "6-1",
+         "squares": 80,
          "lines": 3,
          "WR": 0,
-         "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi", "TruthfulNess", "KChewy" ],
+         "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi", "TruthfulNess", "KChewy", "Gold But Old" ],
          "Playoffs": "yes"
       }
    },
