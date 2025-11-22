@@ -32,8 +32,8 @@
    "Tank & Top": {
       "player1": { "name": "Helios", "nickname": "Tank Top", "profile-pic": "", "twitch": "https://www.twitch.tv/lazyhelios" }, 
       "player2": { "name": "Elymis", "nickname": "Fia's Champ", "profile-pic": "", "twitch": "https://www.twitch.tv/elymis" },
-      "record": "6-2",
-      "squares": 93,
+      "record": "6-3",
+      "squares": 102,
       "lines": 0,
       "WR": 0,
       "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Time Complexity", "Bofa D's", "Tower Princesses", "Old But Gold" ],
@@ -42,11 +42,11 @@
    "Wamp Wamp": {
       "player1": { "name": "Wander", "nickname": "Hates Bingo", "profile-pic": "", "twitch": "https://www.twitch.tv/wander652" }, 
       "player2": { "name": "Strump", "nickname": "4:12 Precipi", "profile-pic": "", "twitch": "https://www.twitch.tv/strump1" },
-      "record": "5-3",
-      "squares": 89,
+      "record": "6-3",
+      "squares": 102,
       "lines": 5,
       "WR": 0,
-      "H2H": [ "Asteroid Destroyer", "Old But Gold", "Bofa D's", "Tower Princesses","Bagarre FR" ],
+      "H2H": [ "Asteroid Destroyer", "Old But Gold", "Bofa D's", "Tower Princesses","Bagarre FR", "Tank & Top" ],
       "Playoffs": "yes"
    },
    "Asteroid Destroyer": {

@@ -329,11 +329,11 @@
             "imageLink": "/img/ESS3/GO/complex-v-bofa-week8.png"
          },
          {  "gameId": 41, 
-            "player1": { "name": "Tank & Top", "score": 0, "outcome": "" },
-            "player2": { "name": "Wamp Wamp", "score": 0, "outcome": "" },
-            "matchTime": "00:00:00",
-            "vodLink": "",
-            "imageLink": ""
+            "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tank & Top", "score": 9, "outcome": "Lost" },
+            "matchTime": "00:57:38",
+            "vodLink": "https://www.twitch.tv/videos/2625204910?t=05h00m37s",
+            "imageLink": "/img/ESS3/GO/tank-v-wamp-week8.png"
          },
          {  "gameId": 42, 
             "player1": { "name": "Asteroid Destroyer", "score": 0, "outcome": "" },
