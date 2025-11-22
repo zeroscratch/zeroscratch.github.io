@@ -3,8 +3,8 @@
       "Base Mommy & Daddy": {
          "player1": { "name": "Noya", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/noyasparx" },
          "player2": { "name": "TurtleBeard", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/turtlebeard" },
-         "record": "4-3",
-         "squares": 84,
+         "record": "4-4",
+         "squares": 91,
          "lines": 0,
          "WR": 0,
          "H2H": [ "Nordic Thunder", "KChewy", "Pandara", "TruthfulNess" ],
@@ -55,11 +55,11 @@
       "Rick Fisters": {
          "player1": { "name": "Josh", "nickname": "Messmer <3", "profile-pic": "", "twitch": "https://www.twitch.tv/joshtilde_" },
          "player2": { "name": "Daggar97", "nickname": "Of the South", "profile-pic": "", "twitch": "https://www.twitch.tv/daggar97" },
-         "record": "5-2",
-         "squares": 85,
+         "record": "6-2",
+         "squares": 98,
          "lines": 2,
          "WR": 0,
-         "H2H": ["KChewy", "Gold But Old", "NikeTwo", "Jarvis", "FalconSi" ],
+         "H2H": ["KChewy", "Gold But Old", "NikeTwo", "Jarvis", "FalconSi", "Base Mommy & Daddy" ],
          "Playoffs": "yes"
       }
    },
