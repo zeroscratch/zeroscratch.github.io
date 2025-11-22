@@ -3,7 +3,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Bofa D's", "score": 5, "outcome": "Lost" },
-         "player2": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
          "matchTime": "00:00:00",
          "vodLink": "https://www.twitch.tv/videos/2596016729?t=00h26m02s",
          "imageLink": "/img/ESS3/Crucible/crashout-v-pandara-week3.png",
@@ -12,16 +12,16 @@
       {
          "gameid": 2,
          "player1": { "name": "Bofa D's", "score": 5, "outcome": "Bingo" },
-         "player2": { "name": "Tank & Top", "score": 13, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Lost" },
          "matchTime": "00:00:00",
          "vodLink": "https://youtu.be/FSDMS7VNo4E?si=ybC-nfdbC-rwCb8I",
          "imageLink": "/img/ESS3/Crucible/crashout-v-pandara-week3.png",
          "scheduledAt": ""
       },
       {
-         "gameid": 2,
+         "gameid": 3,
          "player1": { "name": "Bofa D's", "score": 5, "outcome": "Bingo" },
-         "player2": { "name": "Tank & Top", "score": 13, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Lost" },
          "matchTime": "00:00:00",
          "vodLink": "https://youtu.be/FSDMS7VNo4E?si=ybC-nfdbC-rwCb8I",
          "imageLink": "/img/ESS3/Crucible/crashout-v-pandara-week3.png",
