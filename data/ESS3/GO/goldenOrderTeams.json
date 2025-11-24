@@ -52,8 +52,8 @@
    "Asteroid Destroyer": {
       "player1": { "name": "Vakrash", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/vakrash" }, 
       "player2": { "name": "Serious", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/seriouschallenges" },
-      "record": "1-6",
-      "squares": 65,
+      "record": "1-7",
+      "squares": 76,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Bofa D's" ],
@@ -62,22 +62,22 @@
    "Bagarre FR": {
       "player1": { "name": "Ironyeu", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/ironyeu" }, 
       "player2": { "name": "Typin", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/typin__" },
-      "record": "2-6",
-      "squares": 76,
+      "record": "3-6",
+      "squares": 89,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Time Complexity", "Expedition 25" ],
+      "H2H": [ "Time Complexity", "Expedition 25", "Asteroid Destroyer" ],
       "Playoffs": "no"
    },
    "Expedition 25": {
       "player1": { "name": "Thomas", "nickname": "Doc-Ock", "profile-pic": "", "twitch": "https://www.twitch.tv/pluryl" }, 
       "player2": { "name": "Jibbe", "nickname": "Absurdist", "profile-pic": "", "twitch": "https://www.twitch.tv/jibbebot" },
-      "record": "4-4",
-      "squares": 84,
+      "record": "5-4",
+      "squares": 97,
       "lines": 1,
       "WR": 0,
-      "H2H": [ "Old But Gold", "Tank & Top", "Asteroid Destroyer", "Wamp Wamp" ],
-      "Playoffs": "maybe"
+      "H2H": [ "Old But Gold", "Tank & Top", "Asteroid Destroyer", "Wamp Wamp", "Tower Princesses" ],
+      "Playoffs": "yes"
    },
    "Budget Team Hitless": {
       "player1": { "name": "Cronys", "nickname": "Hitless?", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
@@ -92,11 +92,11 @@
    "Tower Princesses": {
       "player1": { "name": "Nexus", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nexusupnext" }, 
       "player2": { "name": "Asym", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/asymmmm" },
-      "record": "3-5",
-      "squares": 86,
+      "record": "3-6",
+      "squares": 95,
       "lines": 1,
       "WR": 0,
       "H2H": [ "Bagarre FR", "Asteroid Destroyer", "Old But Gold" ],
-      "Playoffs": "maybe"
+      "Playoffs": "no"
    }
 }

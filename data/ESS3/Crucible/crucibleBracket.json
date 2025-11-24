@@ -2,8 +2,8 @@
    "Quarterfinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Tank & Top", "score": 0, "outcome": "" },
-         "player2": { "name": "Expedition 25", "score": 0, "outcome": "" },
+         "player1": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -13,8 +13,8 @@
    "Quarterfinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Wamp Wamp", "score": 0, "outcome": "" },
-         "player2": { "name": "Bofa D's", "score": 0, "outcome": "" },
+         "player1": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -24,7 +24,7 @@
    "Semifinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
+         "player1": { "name": "TBD", "score": 0, "outcome": "" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
@@ -35,7 +35,7 @@
    "Semifinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Time Complexity", "score": 0, "outcome": "" },
+         "player1": { "name": "TBD", "score": 0, "outcome": "Bingo" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",

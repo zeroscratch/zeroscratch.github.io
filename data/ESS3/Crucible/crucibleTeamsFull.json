@@ -1,0 +1,122 @@
+{
+      "Base Mommy & Daddy": {
+         "player1": { "name": "Noya", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/noyasparx" },
+         "player2": { "name": "TurtleBeard", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/turtlebeard" },
+         "record": "4-4",
+         "squares": 91,
+         "lines": 0,
+         "WR": 0,
+         "H2H": [ "Nordic Thunder", "KChewy", "Pandara", "TruthfulNess" ],
+         "Playoffs": "no"
+      },
+      "Corruption": {
+         "player1": { "name": "Tony", "nickname": "Tuff Trizzy", "profile-pic": "", "twitch": "" },
+         "player2": { "name": "Fits", "nickname": "", "profile-pic": "", "twitch": "" },
+         "record": "5-3",
+         "squares": 89,
+         "lines": 1,
+         "WR": 0,
+         "H2H": ["Rick Fisters" , "Gold But Old", "Base Mommy & Daddy", "Nordic Thunder", "KChewy" ],
+         "Playoffs": "yes"
+      },
+      "Nordic Thunder": {
+         "player1": { "name": "Steakslyons", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/steakslyons" },
+         "player2": { "name": "Champalampa", "nickname": "", "profile-pic": "", "twitch": "" },
+         "record": "5-3",
+         "squares": 90,
+         "lines": 3,
+         "WR": 0,
+         "H2H": ["KChewy", "Rick Fisters" , "Pandara", "Crashout Carries", "TruthfulNess"],
+         "Playoffs": "yes"
+      },
+      "Gold But Old": {
+         "player1": { "name": "NVCC Alex", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/latenightgamedev" },
+         "player2": { "name": "Jerzounek", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/jerzounek" },
+         "record": "5-3",
+         "squares": 82,
+         "lines": 4,
+         "WR": 0,
+         "H2H": ["Nordic Thunder" , "KChewy", "FalconSi", "Base Mommy & Daddy", "NikeTwo"],
+         "Playoffs": "yes"
+      },
+      "KChewy": {
+         "player1": { "name": "KCBrazos", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/kcbrazos" },
+         "player2": { "name": "Chewy", "nickname": "", "profile-pic": "", "twitch": "" },
+         "record": "0-7",
+         "squares": 49,
+         "lines": 0,
+         "WR": 0,
+         "H2H": [""],
+         "Playoffs": "no"
+      },
+      "Rick Fisters": {
+         "player1": { "name": "Josh", "nickname": "Messmer <3", "profile-pic": "", "twitch": "https://www.twitch.tv/joshtilde_" },
+         "player2": { "name": "Daggar97", "nickname": "Of the South", "profile-pic": "", "twitch": "https://www.twitch.tv/daggar97" },
+         "record": "6-2",
+         "squares": 98,
+         "lines": 2,
+         "WR": 0,
+         "H2H": ["KChewy", "Gold But Old", "NikeTwo", "Jarvis", "FalconSi", "Base Mommy & Daddy" ],
+         "Playoffs": "yes"
+      },
+      "FalconSi": {
+         "player1": { "name": "AmplSi", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/amplsi" },
+         "player2": { "name": "FalconRaven", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/falconraven" },
+         "record": "0-7",
+         "squares": 40,
+         "lines": 1,
+         "WR": 0,
+         "H2H": [""],
+         "Playoffs": "no"
+      },
+      "NikeTwo": {
+         "player1": { "name": "NikeEuro", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nikeeuro" },
+         "player2": { "name": "Mewtwo", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/mewtwo2u" },
+         "record": "3-4",
+         "squares": 68,
+         "lines": 3,
+         "WR": 0,
+         "H2H": ["Pandara", "FalconSi", "KChewy"],
+         "Playoffs": "no"
+      },
+      "Jarvis": {
+         "player1": { "name": "Harv", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/harvsouls" },
+         "player2": { "name": "Jxxman", "nickname": "Rage Baiter", "profile-pic": "", "twitch": "" },
+         "record": "6-1",
+         "squares": 80,
+         "lines": 3,
+         "WR": 0,
+         "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi", "TruthfulNess", "KChewy", "Gold But Old" ],
+         "Playoffs": "yes"
+      },
+      "Crashout Carries": {
+         "player1": { "name": "SaetanSD", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/saetansd" },
+         "player2": { "name": "Aggronio", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/aggronio" },
+         "record": "5-2",
+         "squares": 82,
+         "lines": 1,
+         "WR": 0,
+         "H2H": ["TruthfulNess", "Pandara", "Base Mommy & Daddy", "Corruption", "FalconSi"],
+         "Playoffs": "yes"
+      },
+      "TruthfulNess": {
+         "player1": { "name": "TheGraphicTruth", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/thegraphictruth" },
+         "player2": { "name": "Nessonetta", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nessonetta" },
+         "record": "4-4",
+         "squares": 90,
+         "lines": 0,
+         "WR": 0,
+         "H2H": ["FalconSi", "NikeTwo", "Corruption", "Pandara" ],
+         "Playoffs": "no"
+      },
+      "Pandara": {
+         "player1": { "name": "Kiofto", "nickname": "", "profile-pic": "", "twitch": "" },
+         "player2": { "name": "Madara", "nickname": "", "profile-pic": "", "twitch": "" },
+         "record": "2-5",
+         "squares": 65,
+         "lines": 1,
+         "WR": 0,
+         "H2H": ["FalconSi", "Corruption"],
+         "Playoffs": "no"
+      }
+}
