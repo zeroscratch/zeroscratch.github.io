@@ -23,7 +23,7 @@
         "secondPlayer": "Bagarre FR",
         "scheduledAt": "11/23/2025 21:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Bagarre FR",
         "matchType": 1
    },
    {
@@ -32,7 +32,7 @@
         "secondPlayer": "Tower Princesses",
         "scheduledAt": "11/23/2025 23:00:00 UTC",
         "ref": "Regular Season Game",
-        "winner": "",
+        "winner": "Expedition 25",
         "matchType": 1
    }
 ]

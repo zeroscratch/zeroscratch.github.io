@@ -87,11 +87,11 @@
       "Jarvis": {
          "player1": { "name": "Harv", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/harvsouls" },
          "player2": { "name": "Jxxman", "nickname": "Rage Baiter", "profile-pic": "", "twitch": "" },
-         "record": "6-1",
-         "squares": 80,
+         "record": "7-1",
+         "squares": 93,
          "lines": 3,
          "WR": 0,
-         "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi", "TruthfulNess", "KChewy", "Gold But Old" ],
+         "H2H": [ "Crashout Carries", "NikeTwo", "FalconSi", "TruthfulNess", "KChewy", "Gold But Old", "Pandara" ],
          "Playoffs": "yes"
       }
    },
@@ -119,8 +119,8 @@
       "Pandara": {
          "player1": { "name": "Kiofto", "nickname": "", "profile-pic": "", "twitch": "" },
          "player2": { "name": "Madara", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "2-5",
-         "squares": 65,
+         "record": "2-6",
+         "squares": 75,
          "lines": 1,
          "WR": 0,
          "H2H": ["FalconSi", "Corruption"],
