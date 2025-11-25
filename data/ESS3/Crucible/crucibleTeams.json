@@ -11,8 +11,8 @@
          "Playoffs": "no"
       },
       "Corruption": {
-         "player1": { "name": "Tony", "nickname": "Tuff Trizzy", "profile-pic": "", "twitch": "" },
-         "player2": { "name": "Fits", "nickname": "", "profile-pic": "", "twitch": "" },
+         "player1": { "name": "Tony", "nickname": "Tuff Trizzy", "profile-pic": "", "twitch": "https://www.twitch.tv/tryztony" },
+         "player2": { "name": "Fits", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/safits" },
          "record": "5-3",
          "squares": 89,
          "lines": 1,
@@ -77,7 +77,7 @@
       "NikeTwo": {
          "player1": { "name": "NikeEuro", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/nikeeuro" },
          "player2": { "name": "Mewtwo", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/mewtwo2u" },
-         "record": "3-4",
+         "record": "3-5",
          "squares": 68,
          "lines": 3,
          "WR": 0,
@@ -99,11 +99,11 @@
       "Crashout Carries": {
          "player1": { "name": "SaetanSD", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/saetansd" },
          "player2": { "name": "Aggronio", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/aggronio" },
-         "record": "5-2",
-         "squares": 82,
-         "lines": 1,
+         "record": "6-2",
+         "squares": 95,
+         "lines": 2,
          "WR": 0,
-         "H2H": ["TruthfulNess", "Pandara", "Base Mommy & Daddy", "Corruption", "FalconSi"],
+         "H2H": ["TruthfulNess", "Pandara", "Base Mommy & Daddy", "Corruption", "FalconSi", "NikeTwo"],
          "Playoffs": "yes"
       },
       "TruthfulNess": {

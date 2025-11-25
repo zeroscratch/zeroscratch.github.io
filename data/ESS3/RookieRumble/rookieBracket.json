@@ -2,8 +2,8 @@
    "Quarterfinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Corruption", "score": 0, "outcome": "" },
-         "player2": { "name": "Gold But Old", "score": 0, "outcome": "" },
+         "player1": { "name": "Mixed", "score": 0, "outcome": "" },
+         "player2": { "name": "Vixus", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -13,8 +13,30 @@
    "Quarterfinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Crashout Carries", "score": 0, "outcome": "" },
-         "player2": { "name": "Nordic Thunder", "score": 0, "outcome": "" },
+         "player1": { "name": "Rony", "score": 0, "outcome": "" },
+         "player2": { "name": "TheMilkMan", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": ""
+      }
+   ],
+   "Quarterfinals-3": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Arkham", "score": 0, "outcome": "" },
+         "player2": { "name": "Belbo", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": ""
+      }
+   ],
+   "Quarterfinals-4": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Tarun", "score": 0, "outcome": "" },
+         "player2": { "name": "TinyBobcat", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -24,7 +46,7 @@
    "Semifinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Jarvis", "score": 0, "outcome": "" },
+         "player1": { "name": "TBD", "score": 0, "outcome": "" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
@@ -35,7 +57,7 @@
    "Semifinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Rick Fisters", "score": 0, "outcome": "" },
+         "player1": { "name": "TBD", "score": 0, "outcome": "" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
