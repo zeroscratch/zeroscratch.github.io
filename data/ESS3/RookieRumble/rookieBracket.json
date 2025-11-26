@@ -3,22 +3,24 @@
       {
          "gameid": 1,
          "player1": { "name": "Mixed", "score": 0, "outcome": "" },
-         "player2": { "name": "Vixus", "score": 0, "outcome": "" },
+         "player2": { "name": "TheMilkMan", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "",
+         "seriesType": "bo1"
       }
    ],
    "Quarterfinals-2": [
       {
          "gameid": 1,
          "player1": { "name": "Rony", "score": 0, "outcome": "" },
-         "player2": { "name": "TheMilkMan", "score": 0, "outcome": "" },
+         "player2": { "name": "Vixus", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "",
+         "seriesType": "bo1"
       }
    ],
    "Quarterfinals-3": [
@@ -29,7 +31,8 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "",
+         "seriesType": "bo1"
       }
    ],
    "Quarterfinals-4": [
@@ -40,7 +43,8 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "",
+         "seriesType": "bo1"
       }
    ],
    "Semifinals-1": [
