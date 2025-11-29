@@ -7,7 +7,16 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "11/30/2025 18:00:00 UTC"
+      },
+      {
+         "gameid": 1,
+         "player1": { "name": "Corruption", "score": 0, "outcome": "" },
+         "player2": { "name": "Gold But Old", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "11/30/2025 20:00:00 UTC"
       }
    ],
    "Quarterfinals-2": [
