@@ -2,11 +2,11 @@
    "Quarterfinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "Tank & Top", "score": 0, "outcome": "" },
-         "player2": { "name": "Expedition 25", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Tank & Top", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:10:56",
+         "vodLink": "https://www.twitch.tv/videos/2632920636?t=00h25m13s",
+         "imageLink": "/img/ESS3/GO/expedition-v-tank-playoffs-1.png",
          "scheduledAt": "11/31/2025 21:00:00 UTC"
       },
       {
