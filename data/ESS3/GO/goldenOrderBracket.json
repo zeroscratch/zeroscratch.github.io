@@ -11,11 +11,11 @@
       },
       {
          "gameid": 2,
-         "player1": { "name": "Tank & Top", "score": 0, "outcome": "" },
-         "player2": { "name": "Expedition 25", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Tank & Top", "score": 9, "outcome": "Lost" },
+         "player2": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+         "matchTime": "00:58:18",
+         "vodLink": "https://www.twitch.tv/videos/2632920636?t=02h01m57s",
+         "imageLink": "/img/ESS3/GO/expedition-v-tank-playoffs-2.png",
          "scheduledAt": "11/31/2025 23:00:00 UTC"
       }
    ],
@@ -27,7 +27,7 @@
          "matchTime": "01:03:14",
          "vodLink": "https://www.twitch.tv/videos/2631990292?t=04h36m12s",
          "imageLink": "/img/ESS3/GO/bofa-v-wamp-playoffs-1.png",
-         "scheduledAt": "11/30/2025 22:00:00 UTC"
+         "scheduledAt": "12/6/2025 18:00:00 UTC"
       },
       {
          "gameid": 2,
@@ -36,7 +36,7 @@
          "matchTime": "00:59:59",
          "vodLink": "https://www.twitch.tv/videos/2631990292?t=06h02m25s",
          "imageLink": "/img/ESS3/GO/bofa-v-wamp-playoffs-2.png",
-         "scheduledAt": "11/30/2025 24:00:00 UTC"
+         "scheduledAt": ""
       },
       {
          "gameid": 3,
@@ -52,7 +52,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "Expedition 25", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
