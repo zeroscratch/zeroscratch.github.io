@@ -27,7 +27,7 @@
          "matchTime": "01:03:14",
          "vodLink": "https://www.twitch.tv/videos/2631990292?t=04h36m12s",
          "imageLink": "/img/ESS3/GO/bofa-v-wamp-playoffs-1.png",
-         "scheduledAt": "12/6/2025 18:00:00 UTC"
+         "scheduledAt": "12/6/2025 22:00:00 UTC"
       },
       {
          "gameid": 2,
@@ -56,7 +56,7 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "12/6/2025 20:00:00 UTC"
       }
    ],
    "Semifinals-2": [
@@ -67,7 +67,7 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "12/6/2025 22:00:00 UTC"
       }
    ],
    "Finals": [

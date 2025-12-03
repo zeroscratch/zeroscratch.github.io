@@ -50,8 +50,8 @@
    "Semifinals-1": [
       {
          "gameid": 1,
-         "player1": { "name": "TBD", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player1": { "name": "Mixed", "score": 0, "outcome": "" },
+         "player2": { "name": "Tarun", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
@@ -61,8 +61,8 @@
    "Semifinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "TBD", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player1": { "name": "Rony", "score": 0, "outcome": "" },
+         "player2": { "name": "Arkham", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
