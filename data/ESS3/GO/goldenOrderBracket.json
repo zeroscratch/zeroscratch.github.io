@@ -56,6 +56,15 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
+         "scheduledAt": "12/6/2025 18:00:00 UTC"
+      },
+      {
+         "gameid": 1,
+         "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
+         "player2": { "name": "Expedition 25", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
          "scheduledAt": "12/6/2025 20:00:00 UTC"
       }
    ],
