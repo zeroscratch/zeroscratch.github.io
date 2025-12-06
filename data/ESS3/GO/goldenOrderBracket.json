@@ -60,11 +60,11 @@
       },
       {
          "gameid": 1,
-         "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
-         "player2": { "name": "Expedition 25", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Budget Team Hitless", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:02:03",
+         "vodLink": "https://www.twitch.tv/videos/2637022512?t=01h56m29s",
+         "imageLink": "/img/ESS3/GO/hitless-v-expedition-playoffs2.png",
          "scheduledAt": "12/6/2025 20:00:00 UTC"
       }
    ],
