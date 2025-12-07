@@ -22,11 +22,20 @@
    "Quarterfinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Crashout Carries", "score": 0, "outcome": "" },
-         "player2": { "name": "Nordic Thunder", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Crashout Carries", "score": 11, "outcome": "Lost" },
+         "player2": { "name": "Nordic Thunder", "score": 13, "outcome": "Bingo" },
+         "matchTime": "01:13:33",
+         "vodLink": "https://www.twitch.tv/videos/2637819655?t=00h26m28s",
+         "imageLink": "/img/ESS3/Crucible/nordic-v-crashout-playoffs-1.png",
+         "scheduledAt": "12/7/2025 15:30:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Crashout Carries", "score": 7, "outcome": "Lost" },
+         "player2": { "name": "Nordic Thunder", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:04:05",
+         "vodLink": "https://www.twitch.tv/videos/2637819655?t=02h04m28s",
+         "imageLink": "/img/ESS3/Crucible/nordic-v-crashout-playoffs-2.png",
          "scheduledAt": "12/7/2025 15:30:00 UTC"
       }
    ],
@@ -38,14 +47,14 @@
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
-         "scheduledAt": ""
+         "scheduledAt": "12/10/2025 24:00:00 UTC"
       }
    ],
    "Semifinals-2": [
       {
          "gameid": 1,
          "player1": { "name": "Rick Fisters", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "Nordic Thunder", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
