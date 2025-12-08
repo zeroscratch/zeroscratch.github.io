@@ -45,11 +45,11 @@
       "KChewy": {
          "player1": { "name": "KCBrazos", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/kcbrazos" },
          "player2": { "name": "Chewy", "nickname": "", "profile-pic": "", "twitch": "" },
-         "record": "0-7",
-         "squares": 49,
+         "record": "1-7",
+         "squares": 62,
          "lines": 0,
          "WR": 0,
-         "H2H": [""],
+         "H2H": ["FalconSi"],
          "Playoffs": "no"
       },
       "Rick Fisters": {
@@ -67,8 +67,8 @@
       "FalconSi": {
          "player1": { "name": "AmplSi", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/amplsi" },
          "player2": { "name": "FalconRaven", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/falconraven" },
-         "record": "0-7",
-         "squares": 40,
+         "record": "0-8",
+         "squares": 47,
          "lines": 1,
          "WR": 0,
          "H2H": [""],

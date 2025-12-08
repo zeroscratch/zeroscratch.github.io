@@ -56,6 +56,15 @@
          "vodLink": "",
          "imageLink": "",
          "scheduledAt": ""
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Mixed", "score": 0, "outcome": "" },
+         "player2": { "name": "Tarun", "score": 0, "outcome": "" },
+         "matchTime": "00:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": ""
       }
    ],
    "Semifinals-2": [
@@ -72,7 +81,7 @@
    "Finals": [
       {
          "gameid": 1,
-         "player1": { "name": "Rony", "score": 0, "outcome": "" },
+         "player1": { "name": "TBD", "score": 0, "outcome": "" },
          "player2": { "name": "TBD", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
