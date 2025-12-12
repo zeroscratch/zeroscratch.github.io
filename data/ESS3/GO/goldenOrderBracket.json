@@ -80,20 +80,20 @@
    "Semifinals-2": [
       {
          "gameid": 1,
-         "player1": { "name": "Time Complexity", "score": 0, "outcome": "" },
-         "player2": { "name": "Wamp Wamp", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Time Complexity", "score": 12, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Bingo" },
+         "matchTime": "00:55:37",
+         "vodLink": "https://www.twitch.tv/videos/2641499881?t=00h26m05s",
+         "imageLink": "/img/ESS3/GO/complex-v-wamp-playoffs1.png",
          "scheduledAt": "12/12/2025 00:30:00 UTC"
       },
       {
          "gameid": 2,
-         "player1": { "name": "Time Complexity", "score": 0, "outcome": "" },
-         "player2": { "name": "Wamp Wamp", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Time Complexity", "score": 12, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:14:47",
+         "vodLink": "https://www.twitch.tv/videos/2641499881?t=01h43m22s",
+         "imageLink": "/img/ESS3/GO/complex-v-wamp-playoffs2.png",
          "scheduledAt": ""
       }
    ],
@@ -101,7 +101,7 @@
       {
          "gameid": 1,
          "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
-         "player2": { "name": "TBD", "score": 0, "outcome": "" },
+         "player2": { "name": "Wamp Wamp", "score": 0, "outcome": "" },
          "matchTime": "00:00:00",
          "vodLink": "",
          "imageLink": "",
