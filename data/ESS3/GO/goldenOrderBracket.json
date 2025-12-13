@@ -100,11 +100,11 @@
    "Finals": [
       {
          "gameid": 1,
-         "player1": { "name": "Budget Team Hitless", "score": 0, "outcome": "" },
-         "player2": { "name": "Wamp Wamp", "score": 0, "outcome": "" },
-         "matchTime": "00:00:00",
-         "vodLink": "",
-         "imageLink": "",
+         "player1": { "name": "Budget Team Hitless", "score": 12, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:11:42",
+         "vodLink": "https://www.twitch.tv/videos/2642790976?t=05h16m20s",
+         "imageLink": "/img/ESS3/GO/hitless-v-wamp-playoffs1.png",
          "scheduledAt": "12/13/2025 19:00:00 UTC"
       },
       {
