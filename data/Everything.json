@@ -1,31 +1,31 @@
 {
-   "ESS2GoldenOrderRedmanes": [
-      {
-         "gameId": "1",
-         "player1": { "name": "Rambler", "score": 13, "outcome": "Majority" },
-         "player2": { "name": "Derf", "score": 8, "outcome": "Lost" },
-         "matchTime": "01:28:58", "vodLink": "https://youtu.be/_hVNnMV6sdk?si=4_Ma4KrHEYuE1RU5", "imageLink": "/img/ESS2/rambler-v-derf.png"
-      },
-      {
-         "gameId": "2",
-         "player1": { "name": "Ginger", "score": 7, "outcome": "Lost" },
-         "player2": { "name": "Dino", "score": 13, "outcome": "Majority" },
-         "matchTime": "01:35:32", "vodLink": "https://youtu.be/z6BzbA_7BTk?si=vS0eBYrbaHXqMNEl", "imageLink": "/img/ESS2/dino-v-ginger.png"
-      },
-      {
-        "gameId": "3",
-        "player1": { "name": "Asym", "score": 10, "outcome": "Lost" },
-        "player2": { "name": "Helios", "score": 13, "outcome": "Majority" },
-        "matchTime": "01:41:31", "vodLink": "https://youtu.be/URkBCfUMeBk?si=thRad9o7sR4nFFfK", "imageLink": "/img/ESS2/asym-v-helios.png"
-       },
+  "ESS2GoldenOrderRedmanes": [
+    {
+      "gameId": "1",
+      "player1": { "name": "Rambler", "score": 13, "outcome": "Majority" },
+      "player2": { "name": "Derf", "score": 8, "outcome": "Lost" },
+      "matchTime": "01:28:58", "vodLink": "https://youtu.be/_hVNnMV6sdk?si=4_Ma4KrHEYuE1RU5", "imageLink": "/img/ESS2/rambler-v-derf.png" 
+    },
+    {
+      "gameId": "2",
+      "player1": { "name": "Ginger", "score": 7, "outcome": "Lost" },
+      "player2": { "name": "Dino", "score": 13, "outcome": "Majority" },
+      "matchTime": "01:35:32", "vodLink": "https://youtu.be/z6BzbA_7BTk?si=vS0eBYrbaHXqMNEl", "imageLink": "/img/ESS2/dino-v-ginger.png"
+    },
+    {
+      "gameId": "3",
+      "player1": { "name": "Asym", "score": 10, "outcome": "Lost" },
+      "player2": { "name": "Helios", "score": 13, "outcome": "Majority" },
+      "matchTime": "01:41:31", "vodLink": "https://youtu.be/URkBCfUMeBk?si=thRad9o7sR4nFFfK", "imageLink": "/img/ESS2/asym-v-helios.png"
+    },
+    { 
+      "gameId": "4",
+      "player1": { "name": "Strump", "score": 12, "outcome": "Lost" },
+      "player2": { "name": "Helios", "score": 13, "outcome": "Majority" },
+      "matchTime": "01:54:28", "vodLink": "https://youtu.be/E7CSudWqOdU?si=QydPXZggafscgOIF", "imageLink": "/img/ESS2/helios-v-strump.png"
+    },
        {
-        "gameId": "4",
-        "player1": { "name": "Strump", "score": 12, "outcome": "Lost" },
-        "player2": { "name": "Helios", "score": 13, "outcome": "Majority" },
-        "matchTime": "01:54:28", "vodLink": "https://youtu.be/E7CSudWqOdU?si=QydPXZggafscgOIF", "imageLink": "/img/ESS2/helios-v-strump.png"
-       },
-       {
-         "gameId": "5",
+        "gameId": "5",
          "player1": { "name": "Ginger", "score": 9, "outcome": "Bingo" },
          "player2": { "name": "Serious", "score": 7, "outcome": "Lost" },
          "matchTime": "01:09:14",

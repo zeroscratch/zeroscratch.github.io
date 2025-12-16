@@ -1,0 +1,42 @@
+{
+  "time-complexity": {
+    "id": "time-complexity",
+    "displayName": "Time Complexity"
+  },
+  "old-but-gold": {
+    "id": "old-but-gold",
+    "displayName": "Old But Gold"
+  },
+  "bofa-ds": {
+    "id": "bofa-ds",
+    "displayName": "Bofa D's"
+  },
+  "tank-and-top": {
+    "id": "tank-and-top",
+    "displayName": "Tank & Top"
+  },
+  "wamp-wamp": {
+    "id": "wamp-wamp",
+    "displayName": "Wamp Wamp"
+  },
+  "asteroid-destroyer": {
+    "id": "asteroid-destroyer",
+    "displayName": "Asteroid Destroyer"
+  },
+  "bagarre-fr": {
+    "id": "bagarre-fr",
+    "displayName": "Bagarre FR"
+  },
+  "expedition-25": {
+    "id": "expedition-25",
+    "displayName": "Expedition 25"
+  },
+  "budget-team-hitless": {
+    "id": "budget-team-hitless",
+    "displayName": "Budget Team Hitless"
+  },
+  "tower-princesses": {
+    "id": "tower-princesses",
+    "displayName": "Tower Princesses"
+  }
+}

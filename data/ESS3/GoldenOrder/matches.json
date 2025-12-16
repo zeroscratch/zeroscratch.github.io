@@ -1,0 +1,659 @@
+{
+  "season": "ESS3",
+  "league": "Golden Order",
+  "participantType": "team",
+  "matches": [
+    {
+      "id": "ess3-go-001",
+      "week": 1,
+      "participants": [
+        { "id": "time-complexity", "score": 13 },
+        { "id": "old-but-gold", "score": 12 }
+      ],
+      "winner": "time-complexity",
+      "method": "Bingo",
+      "duration": "01:03:53",
+      "media": {
+        "vod": "https://youtu.be/rrYy1XPrgcI?si=lPnh3PTcUX8P3Tfb",
+        "image": "/img/ESS3/GO/complex-v-gold-week1.png"
+      }
+    },
+    {
+      "id": "ess3-go-002",
+      "week": 1,
+      "participants": [
+        { "id": "bofa-ds", "score": 13 },
+        { "id": "expedition-25", "score": 10 }
+      ],
+      "winner": "bofa-ds",
+      "method": "Majority",
+      "duration": "01:10:10",
+      "media": {
+        "vod": "https://youtu.be/0ILGaHe4Dmk?si=-RYQYT5CcYvgR1lt",
+        "image": "/img/ESS3/GO/bofa-v-expedition-week1.png"
+      }
+    },
+    {
+      "id": "ess3-go-003",
+      "week": 1,
+      "participants": [
+        { "id": "wamp-wamp", "score": 13 },
+        { "id": "asteroid-destroyer", "score": 4 }
+      ],
+      "winner": "wamp-wamp",
+      "method": "Bingo",
+      "duration": "00:57:12",
+      "media": {
+        "vod": "https://youtu.be/W3Hl76x9cKg?si=qzS25nAPKtAzuhZq",
+        "image": "/img/ESS3/GO/asteroid-v-wamp-week1.png"
+      }
+    },
+    {
+      "id": "ess3-go-004",
+      "week": 1,
+      "participants": [
+        { "id": "tank-and-top", "score": 13 },
+        { "id": "bagarre-fr", "score": 9 }
+      ],
+      "winner": "tank-and-top",
+      "method": "Majority",
+      "duration": "01:09:40",
+      "media": {
+        "vod": "https://youtu.be/XnfjznPSfkM?si=EzH-QJspbNZ6e0nF",
+        "image": "/img/ESS3/GO/tank-v-fr-week1.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-005",
+      "week": 2,
+      "participants": [
+        { "id": "time-complexity", "score": 13 },
+        { "id": "budget-team-hitless", "score": 11 }
+      ],
+      "winner": "time-complexity",
+      "method": "Majority",
+      "duration": "01:13:09",
+      "media": {
+        "vod": "https://youtu.be/Vkz3sytkC4Q?si=Hs29fieUR54LzxiB",
+        "image": "/img/ESS3/GO/complex-v-hitless-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-006",
+      "week": 2,
+      "participants": [
+        { "id": "wamp-wamp", "score": 13 },
+        { "id": "bofa-ds", "score": 6 }
+      ],
+      "winner": "wamp-wamp",
+      "method": "Bingo",
+      "duration": "00:58:16",
+      "media": {
+        "vod": "https://youtu.be/uG4tPlt2JbM?si=OQYy_ToZph4FWTKS",
+        "image": "/img/ESS3/GO/bofa-v-wamp-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-007",
+      "week": 2,
+      "participants": [
+        { "id": "expedition-25", "score": 13 },
+        { "id": "old-but-gold", "score": 12 }
+      ],
+      "winner": "expedition-25",
+      "method": "Majority",
+      "duration": "01:13:17",
+      "media": {
+        "vod": "https://youtu.be/LY8GcCwx6WA?si=oqqXF_qvFmgU-0vX",
+        "image": "/img/ESS3/GO/expedition-v-gold-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-008",
+      "week": 2,
+      "participants": [
+        { "id": "tower-princesses", "score": 13 },
+        { "id": "bagarre-fr", "score": 11 }
+      ],
+      "winner": "tower-princesses",
+      "method": "Majority",
+      "duration": "01:20:56",
+      "media": {
+        "vod": "https://youtu.be/FPDNqm87zX0?si=6GHCPOgtqpv8tgi0",
+        "image": "/img/ESS3/GO/tower-v-fr-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-009",
+      "week": 2,
+      "participants": [
+        { "id": "tank-and-top", "score": 13 },
+        { "id": "asteroid-destroyer", "score": 10 }
+      ],
+      "winner": "tank-and-top",
+      "method": "Majority",
+      "duration": "01:11:17",
+      "media": {
+        "vod": "https://youtu.be/SXWcCzAMGsY?si=yzzA0d8PESWjnSNU",
+        "image": "/img/ESS3/GO/tank-v-asteroid-week2.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-010",
+      "week": 3,
+      "participants": [
+        { "id": "time-complexity", "score": 13 },
+        { "id": "expedition-25", "score": 10 }
+      ],
+      "winner": "time-complexity",
+      "method": "Majority",
+      "duration": "01:04:28",
+      "media": {
+        "vod": "https://youtu.be/FLeVIQ4CFT4?si=Hy4S5OjGij-4JaIb",
+        "image": "/img/ESS3/GO/complex-v-expedition-week3.png"
+      }
+    },
+    {
+      "id": "ess3-go-011",
+      "week": 3,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "bofa-ds", "score": 5 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Bingo",
+      "duration": "00:57:25",
+      "media": {
+        "vod": "https://youtu.be/1crLKejPcbw?si=dJFZP8a00ISYqojt",
+        "image": "/img/ESS3/GO/bofa-v-hitless-week3.png"
+      }
+    },
+    {
+      "id": "ess3-go-012",
+      "week": 3,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "old-but-gold", "score": 9 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Majority",
+      "duration": "01:09:33",
+      "media": {
+        "vod": "https://youtu.be/AlTC05_DgxA?si=EbsoYrmH6EuK4sUS",
+        "image": "/img/ESS3/GO/hitless-v-gold-week3.png"
+      }
+    },
+    {
+      "id": "ess3-go-013",
+      "week": 3,
+      "participants": [
+        { "id": "time-complexity", "score": 13 },
+        { "id": "tower-princesses", "score": 7 }
+      ],
+      "winner": "time-complexity",
+      "method": "Majority",
+      "duration": "01:01:22",
+      "media": {
+        "vod": "https://youtu.be/FWyNT8t1gqI?si=OqhIAZI6pJ5prQB6",
+        "image": "/img/ESS3/GO/complex-v-princess-week3.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-014",
+      "week": 4,
+      "participants": [
+        { "id": "bofa-ds", "score": 13 },
+        { "id": "tower-princesses", "score": 8 }
+      ],
+      "winner": "bofa-ds",
+      "method": "Majority",
+      "duration": "01:14:08",
+      "media": {
+        "vod": "https://youtu.be/lqS2kBpCR8M?si=C6wI-7xyonCfWPFo",
+        "image": "/img/ESS3/GO/bofa-v-tower-week4.png"
+      }
+    },
+    {
+      "id": "ess3-go-015",
+      "week": 4,
+      "participants": [
+        { "id": "expedition-25", "score": 13 },
+        { "id": "tank-and-top", "score": 8 }
+      ],
+      "winner": "expedition-25",
+      "method": "Majority",
+      "duration": "01:02:20",
+      "media": {
+        "vod": "https://youtu.be/Ps9aG3WfjU4?si=gyDmVMOzoZqQgprh",
+        "image": "/img/ESS3/GO/tank-v-expedition-week4.png"
+      }
+    },
+    {
+      "id": "ess3-go-016",
+      "week": 4,
+      "participants": [
+        { "id": "bagarre-fr", "score": 13 },
+        { "id": "time-complexity", "score": 9 }
+      ],
+      "winner": "bagarre-fr",
+      "method": "Majority",
+      "duration": "01:07:01",
+      "media": {
+        "vod": "https://youtu.be/uUBAqKGRMCw?si=yyXdCqZQony8llOY",
+        "image": "/img/ESS3/GO/complex-v-fr-week4.png"
+      }
+    },
+    {
+      "id": "ess3-go-017",
+      "week": 4,
+      "participants": [
+        { "id": "tower-princesses", "score": 13 },
+        { "id": "asteroid-destroyer", "score": 8 }
+      ],
+      "winner": "tower-princesses",
+      "method": "Majority",
+      "duration": "01:10:48",
+      "media": {
+        "vod": "https://youtu.be/d88otCAZBlg?si=2-6OQlX3hFY5h-dL",
+        "image": "/img/ESS3/GO/tower-v-destroyers-week4.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-018",
+      "week": 5,
+      "participants": [
+        { "id": "wamp-wamp", "score": 15 },
+        { "id": "old-but-gold", "score": 8 }
+      ],
+      "winner": "wamp-wamp",
+      "method": "Bingo",
+      "duration": "01:04:16",
+      "media": {
+        "vod": "https://youtu.be/AMkNSmK1d4I?si=QZF2tp7oKijzSpj8",
+        "image": "/img/ESS3/GO/wamp-v-gold-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-019",
+      "week": 5,
+      "participants": [
+        { "id": "bagarre-fr", "score": 13 },
+        { "id": "expedition-25", "score": 4 }
+      ],
+      "winner": "bagarre-fr",
+      "method": "Bingo",
+      "duration": "00:46:42",
+      "media": {
+        "vod": "https://youtu.be/UtjrM8P0-FU?si=iiD75W5m0Iacucas",
+        "image": "/img/ESS3/GO/expedition-v-fr-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-020",
+      "week": 5,
+      "participants": [
+        { "id": "tank-and-top", "score": 13 },
+        { "id": "time-complexity", "score": 12 }
+      ],
+      "winner": "tank-and-top",
+      "method": "Majority",
+      "duration": "01:27:04",
+      "media": {
+        "vod": "https://youtu.be/HZ-97Zya3gE?si=nVCHOuYPcy5xJkuP",
+        "image": "/img/ESS3/GO/complex-v-tank-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-021",
+      "week": 5,
+      "participants": [
+        { "id": "wamp-wamp", "score": 13 },
+        { "id": "tower-princesses", "score": 12 }
+      ],
+      "winner": "wamp-wamp",
+      "method": "Majority",
+      "duration": "01:13:39",
+      "media": {
+        "vod": "https://youtu.be/JrayC3kkpXU?si=Fx6RK1AdkzaLRzqW",
+        "image": "/img/ESS3/GO/wamp-v-tower-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-022",
+      "week": 5,
+      "participants": [
+        { "id": "tank-and-top", "score": 13 },
+        { "id": "bofa-ds", "score": 10 }
+      ],
+      "winner": "tank-and-top",
+      "method": "Majority",
+      "duration": "01:07:04",
+      "media": {
+        "vod": "https://youtu.be/_jT4KZw4AOw?si=MFB_u60UAvX0l4QD",
+        "image": "/img/ESS3/GO/tank-v-bofa-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-023",
+      "week": 5,
+      "participants": [
+        { "id": "old-but-gold", "score": 13 },
+        { "id": "bagarre-fr", "score": 10 }
+      ],
+      "winner": "old-but-gold",
+      "method": "Majority",
+      "duration": "01:04:21",
+      "media": {
+        "vod": "https://youtu.be/JrzXRdj8uz8?si=Vskt4_5_jK3mrO1Q",
+        "image": "/img/ESS3/GO/gold-v-fr-week5.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-024",
+      "week": 6,
+      "participants": [
+        { "id": "time-complexity", "score": 13 },
+        { "id": "wamp-wamp", "score": 10 }
+      ],
+      "winner": "time-complexity",
+      "method": "Bingo",
+      "duration": "01:00:56",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2612310333?t=00h34m42s",
+        "image": "/img/ESS3/GO/wamp-v-complex-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-025",
+      "week": 6,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "expedition-25", "score": 10 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Majority",
+      "duration": "01:11:44",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2612310333?t=02h25m36s",
+        "image": "/img/ESS3/GO/hitless-v-expedition-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-026",
+      "week": 6,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "bagarre-fr", "score": 6 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Bingo",
+      "duration": "00:52:42",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2613170230?t=02h30m57s",
+        "image": "/img/ESS3/GO/hitless-v-fr-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-027",
+      "week": 6,
+      "participants": [
+        { "id": "asteroid-destroyer", "score": 13 },
+        { "id": "bofa-ds", "score": 9 }
+      ],
+      "winner": "asteroid-destroyer",
+      "method": "Majority",
+      "duration": "01:06:47",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2613170230?t=04h20m44s",
+        "image": "/img/ESS3/GO/bofa-v-asteroid-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-028",
+      "week": 6,
+      "participants": [
+        { "id": "bofa-ds", "score": 13 },
+        { "id": "bagarre-fr", "score": 11 }
+      ],
+      "winner": "bofa-ds",
+      "method": "Majority",
+      "duration": "01:09:08",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2614077246?t=00h37m46s",
+        "image": "/img/ESS3/GO/bofa-v-fr-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-029",
+      "week": 6,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "asteroid-destroyer", "score": 12 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Majority",
+      "duration": "01:19:16",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2614077246?t=02h27m53s",
+        "image": "/img/ESS3/GO/hitless-v-asteroid-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-030",
+      "week": 6,
+      "participants": [
+        { "id": "tank-and-top", "score": 13 },
+        { "id": "tower-princesses", "score": 9 }
+      ],
+      "winner": "tank-and-top",
+      "method": "Majority",
+      "duration": "01:03:08",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2614077246?t=04h28m04s",
+        "image": "/img/ESS3/GO/tank-v-tower-week6.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-031",
+      "week": 7,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "wamp-wamp", "score": 10 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Majority",
+      "duration": "01:05:28",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2617619959?t=04h09m22s",
+        "image": "/img/ESS3/GO/wamp-v-hitless-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-032",
+      "week": 7,
+      "participants": [
+        { "id": "expedition-25", "score": 13 },
+        { "id": "asteroid-destroyer", "score": 12 }
+      ],
+      "winner": "expedition-25",
+      "method": "Bingo",
+      "duration": "00:56:21",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2619865708",
+        "image": "/img/ESS3/GO/expedition-v-asteriod-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-033",
+      "week": 7,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "tank-and-top", "score": 7 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Bingo",
+      "duration": "01:02:06",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2619198202?t=00h26m28s",
+        "image": "/img/ESS3/GO/hitless-v-tank-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-034",
+      "week": 7,
+      "participants": [
+        { "id": "wamp-wamp", "score": 15 },
+        { "id": "bagarre-fr", "score": 5 }
+      ],
+      "winner": "wamp-wamp",
+      "method": "Bingo",
+      "duration": "01:02:13",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2619198202?t=02h25m27s",
+        "image": "/img/ESS3/GO/wamp-v-fr-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-035",
+      "week": 7,
+      "participants": [
+        { "id": "time-complexity", "score": 13 },
+        { "id": "asteroid-destroyer", "score": 8 }
+      ],
+      "winner": "time-complexity",
+      "method": "Majority",
+      "duration": "00:58:50",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2619198202?t=04h24m23s",
+        "image": "/img/ESS3/GO/complex-v-asteroid-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-036",
+      "week": 7,
+      "participants": [
+        { "id": "bofa-ds", "score": 13 },
+        { "id": "old-but-gold", "score": 11 }
+      ],
+      "winner": "bofa-ds",
+      "method": "Majority",
+      "duration": "01:10:31",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2619198202?t=06h28m34s",
+        "image": "/img/ESS3/GO/gold-v-bofa-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-037",
+      "week": 7,
+      "participants": [
+        { "id": "tank-and-top", "score": 13 },
+        { "id": "old-but-gold", "score": 8 }
+      ],
+      "winner": "tank-and-top",
+      "method": "Majority",
+      "duration": "01:06:54",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2620130787?t=00h24m32s",
+        "image": "/img/ESS3/GO/tank-v-gold-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-038",
+      "week": 7,
+      "participants": [
+        { "id": "budget-team-hitless", "score": 13 },
+        { "id": "tower-princesses", "score": 11 }
+      ],
+      "winner": "budget-team-hitless",
+      "method": "Majority",
+      "duration": "01:06:08",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2620130787?t=02h27m01s",
+        "image": "/img/ESS3/GO/hitless-v-tower-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-039",
+      "week": 7,
+      "participants": [
+        { "id": "expedition-25", "score": 13 },
+        { "id": "wamp-wamp", "score": 10 }
+      ],
+      "winner": "expedition-25",
+      "method": "Majority",
+      "duration": "01:06:46",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2620130787?t=04h22m23s",
+        "image": "/img/ESS3/GO/wamp-v-expedition-week7.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-040",
+      "week": 8,
+      "participants": [
+        { "id": "time-complexity", "score": 13 },
+        { "id": "bofa-ds", "score": 7 }
+      ],
+      "winner": "time-complexity",
+      "method": "Majority",
+      "duration": "01:03:39",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2624294044?t=04h40m57s",
+        "image": "/img/ESS3/GO/complex-v-bofa-week8.png"
+      }
+    },
+    {
+      "id": "ess3-go-041",
+      "week": 8,
+      "participants": [
+        { "id": "wamp-wamp", "score": 13 },
+        { "id": "tank-and-top", "score": 9 }
+      ],
+      "winner": "wamp-wamp",
+      "method": "Majority",
+      "duration": "00:57:38",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2625204910?t=05h00m37s",
+        "image": "/img/ESS3/GO/tank-v-wamp-week8.png"
+      }
+    },
+    {
+      "id": "ess3-go-042",
+      "week": 8,
+      "participants": [
+        { "id": "bagarre-fr", "score": 13 },
+        { "id": "asteroid-destroyer", "score": 11 }
+      ],
+      "winner": "bagarre-fr",
+      "method": "Majority",
+      "duration": "01:16:22",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2626030816?t=07h13m54s",
+        "image": "/img/ESS3/GO/asteroid-v-fr-week8.png"
+      }
+    },
+    {
+      "id": "ess3-go-043",
+      "week": 8,
+      "participants": [
+        { "id": "expedition-25", "score": 13 },
+        { "id": "tower-princesses", "score": 9 }
+      ],
+      "winner": "expedition-25",
+      "method": "Majority",
+      "duration": "01:03:15",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2626030816?t=08h58m30s",
+        "image": "/img/ESS3/GO/tower-v-expedition-week8.png"
+      }
+    }
+  ]
+}

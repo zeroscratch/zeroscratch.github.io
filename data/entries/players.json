@@ -1,0 +1,182 @@
+{
+  "shura": {
+    "id": "shura",
+    "displayName": "Shura",
+    "nickname": "Absolute",
+    "profilePic": "/player-pic/Shura.png",
+    "twitch": "https://www.twitch.tv/itsshura",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "psiphicode": {
+    "id": "psiphicode",
+    "displayName": "Psiphicode",
+    "nickname": "Could Be",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/psiphicode",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "jay": {
+    "id": "jay",
+    "displayName": "Jay",
+    "nickname": "Joker",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/igntjay",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "rambler": {
+    "id": "rambler",
+    "displayName": "Rambler",
+    "nickname": "Professor",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/rambler_ing",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "dino": {
+    "id": "dino",
+    "displayName": "Dino",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/dinossb",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "doitz": {
+    "id": "doitz",
+    "displayName": "Doitz",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/baseserpent",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "helios": {
+    "id": "helios",
+    "displayName": "Helios",
+    "nickname": "Tank Top",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/lazyhelios",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "elymis": {
+    "id": "elymis",
+    "displayName": "Elymis",
+    "nickname": "Fia's Champ",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/elymis",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "wander": {
+    "id": "wander",
+    "displayName": "Wander",
+    "nickname": "Hates Bingo",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/wander652",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "strump": {
+    "id": "strump",
+    "displayName": "Strump",
+    "nickname": "4:12 Precipi",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/strump1",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "vakrash": {
+    "id": "vakrash",
+    "displayName": "Vakrash",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/vakrash",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "serious": {
+    "id": "serious",
+    "displayName": "Serious",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/seriouschallenges",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "ironyeu": {
+    "id": "ironyeu",
+    "displayName": "Ironyeu",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/ironyeu",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "typin": {
+    "id": "typin",
+    "displayName": "Typin",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/typin__",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "thomas": {
+    "id": "thomas",
+    "displayName": "Thomas",
+    "nickname": "Doc-Ock",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/pluryl",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "jibbe": {
+    "id": "jibbe",
+    "displayName": "Jibbe",
+    "nickname": "Absurdist",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/jibbebot",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "cronys": {
+    "id": "cronys",
+    "displayName": "Cronys",
+    "nickname": "Hitless?",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/cronys02",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "lemon": {
+    "id": "lemon",
+    "displayName": "Lemon",
+    "nickname": "Spectator",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/l3m0_n",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "nexus": {
+    "id": "nexus",
+    "displayName": "Nexus",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/nexusupnext",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  },
+  "asym": {
+    "id": "asym",
+    "displayName": "Asym",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/asymmmm",
+    "currentLeague": "Golden Order",
+    "currentSeason": "ESS3"
+  }
+}

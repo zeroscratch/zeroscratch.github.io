@@ -1,0 +1,42 @@
+{
+  "time-complexity": {
+    "teamId": "time-complexity",
+    "players": ["shura", "psiphicode"]
+  },
+  "old-but-gold": {
+    "teamId": "old-but-gold",
+    "players": ["jay", "rambler"]
+  },
+  "bofa-ds": {
+    "teamId": "bofa-ds",
+    "players": ["dino", "doitz"]
+  },
+  "tank-and-top": {
+    "teamId": "tank-and-top",
+    "players": ["helios", "elymis"]
+  },
+  "wamp-wamp": {
+    "teamId": "wamp-wamp",
+    "players": ["wander", "strump"]
+  },
+  "asteroid-destroyer": {
+    "teamId": "asteroid-destroyer",
+    "players": ["vakrash", "serious"]
+  },
+  "bagarre-fr": {
+    "teamId": "bagarre-fr",
+    "players": ["ironyeu", "typin"]
+  },
+  "expedition-25": {
+    "teamId": "expedition-25",
+    "players": ["thomas", "jibbe"]
+  },
+  "budget-team-hitless": {
+    "teamId": "budget-team-hitless",
+    "players": ["cronys", "lemon"]
+  },
+  "tower-princesses": {
+    "teamId": "tower-princesses",
+    "players": ["nexus", "asym"]
+  }
+}
