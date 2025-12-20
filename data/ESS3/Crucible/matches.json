@@ -1,0 +1,722 @@
+{
+  "season": "ESS3",
+  "league": "Crucible",
+  "participantType": "team",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 8,
+  "playoffSlots": 6,
+  "matches": [
+    {
+      "id": "ess3-crucible-001",
+      "week": 1,
+      "participants": [
+        { "id": "jarvis-ESS3Crucible", "score": 13 },
+        { "id": "crashout-carries-ESS3Crucible", "score": 9 }
+      ],
+      "winner": "jarvis-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:18:35",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Crucible/jarvis-v-crashout-week1.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-002",
+      "week": 1,
+      "participants": [
+        { "id": "niketwo-ESS3Crucible", "score": 13 },
+        { "id": "pandara-ESS3Crucible", "score": 6 }
+      ],
+      "winner": "niketwo-ESS3Crucible",
+      "method": "Bingo",
+      "duration": "01:34:30",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Crucible/niketwo-v-pandara-week1.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-003",
+      "week": 1,
+      "participants": [
+        { "id": "truthfulness-ESS3Crucible", "score": 13 },
+        { "id": "falconsi-ESS3Crucible", "score": 6 }
+      ],
+      "winner": "truthfulness-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:25:17",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Crucible/truth-v-falconsi-week1.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-004",
+      "week": 1,
+      "participants": [
+        { "id": "gold-but-old-ESS3Crucible", "score": 13 },
+        { "id": "nordic-thunder-ESS3Crucible", "score": 9 }
+      ],
+      "winner": "gold-but-old-ESS3Crucible",
+      "method": "Bingo",
+      "duration": "01:15:56",
+      "media": {
+        "vod": "https://youtu.be/3FuRG9YV42U?si=kK4cR1rSp1gpX5_C",
+        "image": "/img/ESS3/Crucible/gold-v-nordic-week1.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-005",
+      "week": 1,
+      "participants": [
+        { "id": "corruption-ESS3Crucible", "score": 13 },
+        { "id": "rick-fisters-ESS3Crucible", "score": 11 }
+      ],
+      "winner": "corruption-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:38:01",
+      "media": {
+        "vod": "https://youtu.be/cIotQtKoFTI?si=-mB56E19_11yDCIG",
+        "image": "/img/ESS3/Crucible/corruption-v-rick-week1.png"
+      }
+    },
+
+    {
+      "id": "ess3-crucible-006",
+      "week": 2,
+      "participants": [
+        { "id": "pandara-ESS3Crucible", "score": 14 },
+        { "id": "falconsi-ESS3Crucible", "score": 12 }
+      ],
+      "winner": "pandara-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:32:09",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Crucible/pandara-v-falconsi-week2.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-007",
+      "week": 2,
+      "participants": [
+        { "id": "jarvis-ESS3Crucible", "score": 13 },
+        { "id": "niketwo-ESS3Crucible", "score": 6 }
+      ],
+      "winner": "jarvis-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:12:05",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Crucible/jarvis-v-niketwo-week2.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-008",
+      "week": 2,
+      "participants": [
+        { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 13 },
+        { "id": "nordic-thunder-ESS3Crucible", "score": 11 }
+      ],
+      "winner": "base-mommy-and-daddy-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:37:26",
+      "media": {
+        "vod": "https://youtu.be/cD_McXM0aNw?si=vtRooaprr68yDzgy",
+        "image": "/img/ESS3/Crucible/nordic-v-base-week2.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-009",
+      "week": 2,
+      "participants": [
+        { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 13 },
+        { "id": "kchewy-ESS3Crucible", "score": 8 }
+      ],
+      "winner": "base-mommy-and-daddy-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:16:37",
+      "media": {
+        "vod": "https://youtu.be/AOnZHJgFwXs?si=xcCccveGw_YhpNbW",
+        "image": "/img/ESS3/Crucible/kc-v-base-week2.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-010",
+      "week": 2,
+      "participants": [
+        { "id": "crashout-carries-ESS3Crucible", "score": 13 },
+        { "id": "truthfulness-ESS3Crucible", "score": 9 }
+      ],
+      "winner": "crashout-carries-ESS3Crucible",
+      "method": "Majority",
+      "duration": "01:18:19",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Crucible/truth-v-crashout-week2.PNG"
+      }
+    },
+    {
+      "id": "ess3-crucible-011",
+      "week": 2,
+      "participants": [
+        { "id": "corruption-ESS3Crucible", "score": 13 },
+        { "id": "gold-but-old-ESS3Crucible", "score": 12 }
+      ],
+      "winner": "corruption-ESS3Crucible",
+      "method": "Bingo",
+      "duration": "01:10:27",
+      "media": {
+        "vod": "https://youtu.be/FSDMS7VNo4E?si=ybC-nfdbC-rwCb8I",
+        "image": "/img/ESS3/Crucible/corruption-v-gold-week2.png"
+      }
+    },
+    {
+      "id": "ess3-crucible-012",
+      "week": 2,
+      "participants": [
+        { "id": "rick-fisters-ESS3Crucible", "score": 15 },
+        { "id": "kchewy-ESS3Crucible", "score": 4 }
+      ],
+      "winner": "rick-fisters-ESS3Crucible",
+      "method": "Bingo",
+      "duration": "01:10:52",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Crucible/kc-v-rick-week2.png"
+      }
+    },
+        {
+          "id": "ess3-crucible-013",
+          "week": 3,
+          "participants": [
+            { "id": "rick-fisters-ESS3Crucible", "score": 13 },
+            { "id": "gold-but-old-ESS3Crucible", "score": 8 }
+          ],
+          "winner": "rick-fisters-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "00:59:38",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/rick-v-old-week3.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-014",
+          "week": 3,
+          "participants": [
+            { "id": "crashout-carries-ESS3Crucible", "score": 13 },
+            { "id": "pandara-ESS3Crucible", "score": 8 }
+          ],
+          "winner": "crashout-carries-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:12:10",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/crashout-v-pandara-week3.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-015",
+          "week": 3,
+          "participants": [
+            { "id": "nordic-thunder-ESS3Crucible", "score": 13 },
+            { "id": "kchewy-ESS3Crucible", "score": 10 }
+          ],
+          "winner": "nordic-thunder-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:22:38",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2596016729?t=00h26m02s",
+            "image": "/img/ESS3/Crucible/kc-v-nordic-week3.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-016",
+          "week": 3,
+          "participants": [
+            { "id": "corruption-ESS3Crucible", "score": 13 },
+            { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 12 }
+          ],
+          "winner": "corruption-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:21:23",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/base-v-corruption-week3.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-017",
+          "week": 3,
+          "participants": [
+            { "id": "jarvis-ESS3Crucible", "score": 14 },
+            { "id": "falconsi-ESS3Crucible", "score": 1 }
+          ],
+          "winner": "jarvis-ESS3Crucible",
+          "method": "Majority",
+          "duration": "00:57:08",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2596016729?t=04h21m59s",
+            "image": "/img/ESS3/Crucible/jarvis-v-falcon-week3.png"
+          }
+        },
+      
+        {
+          "id": "ess3-crucible-018",
+          "week": 4,
+          "participants": [
+            { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 13 },
+            { "id": "pandara-ESS3Crucible", "score": 11 }
+          ],
+          "winner": "base-mommy-and-daddy-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:41:55",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/base-v-pandara-week4.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-019",
+          "week": 4,
+          "participants": [
+            { "id": "niketwo-ESS3Crucible", "score": 16 },
+            { "id": "falconsi-ESS3Crucible", "score": 11 }
+          ],
+          "winner": "niketwo-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "01:37:37",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/nike-v-falcon-week4.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-020",
+          "week": 4,
+          "participants": [
+            { "id": "nordic-thunder-ESS3Crucible", "score": 14 },
+            { "id": "rick-fisters-ESS3Crucible", "score": 11 }
+          ],
+          "winner": "nordic-thunder-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "01:19:46",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2601928126?t=00h24m07s",
+            "image": "/img/ESS3/Crucible/nordic-v-rick-week4.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-021",
+          "week": 4,
+          "participants": [
+            { "id": "jarvis-ESS3Crucible", "score": 13 },
+            { "id": "truthfulness-ESS3Crucible", "score": 6 }
+          ],
+          "winner": "jarvis-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:03:14",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2601928126?t=06h30m10s",
+            "image": "/img/ESS3/Crucible/jarvis-v-truth-week4.png"
+          }
+        },
+      
+        {
+          "id": "ess3-crucible-022",
+          "week": 5,
+          "participants": [
+            { "id": "gold-but-old-ESS3Crucible", "score": 13 },
+            { "id": "kchewy-ESS3Crucible", "score": 6 }
+          ],
+          "winner": "gold-but-old-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "01:27:15",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/gold-v-kc-week5.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-023",
+          "week": 5,
+          "participants": [
+            { "id": "rick-fisters-ESS3Crucible", "score": 13 },
+            { "id": "niketwo-ESS3Crucible", "score": 6 }
+          ],
+          "winner": "rick-fisters-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:13:08",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2606444315?t=02h26m35s",
+            "image": "/img/ESS3/Crucible/nike-v-rick-week5.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-024",
+          "week": 5,
+          "participants": [
+            { "id": "nordic-thunder-ESS3Crucible", "score": 13 },
+            { "id": "pandara-ESS3Crucible", "score": 7 }
+          ],
+          "winner": "nordic-thunder-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "01:13:21",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2607020576?t=02h26m01s",
+            "image": "/img/ESS3/Crucible/nordic-v-pandara-ESS3Crucible-week5.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-025",
+          "week": 5,
+          "participants": [
+            { "id": "gold-but-old-ESS3Crucible", "score": 15 },
+            { "id": "falconsi-ESS3Crucible", "score": 4 }
+          ],
+          "winner": "gold-but-old-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "01:18:56",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2607967347?t=04h23m08s",
+            "image": "/img/ESS3/Crucible/gold-v-falcon-week5.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-026",
+          "week": 5,
+          "participants": [
+            { "id": "truthfulness-ESS3Crucible", "score": 13 },
+            { "id": "niketwo-ESS3Crucible", "score": 10 }
+          ],
+          "winner": "truthfulness-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:26:56",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2607967347?t=06h24m40s",
+            "image": "/img/ESS3/Crucible/truth-v-nike-week5.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-027",
+          "week": 5,
+          "participants": [
+            { "id": "jarvis-ESS3Crucible", "score": 13 },
+            { "id": "kchewy-ESS3Crucible", "score": 6 }
+          ],
+          "winner": "jarvis-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "00:58:41",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/jarvis-ESS3Crucible-v-kc-week5.png"
+          }
+        },
+      
+        {
+          "id": "ess3-crucible-028",
+          "week": 6,
+          "participants": [
+            { "id": "crashout-carries-ESS3Crucible", "score": 13 },
+            { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 11 }
+          ],
+          "winner": "crashout-carries-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:24:27",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/crashout-v-base-week6.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-029",
+          "week": 6,
+          "participants": [
+            { "id": "crashout-carries-ESS3Crucible", "score": 13 },
+            { "id": "corruption-ESS3Crucible", "score": 5 }
+          ],
+          "winner": "crashout-carries-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "01:03:57",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/crashout-v-corruption-week6.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-030",
+          "week": 6,
+          "participants": [
+            { "id": "truthfulness-ESS3Crucible", "score": 13 },
+            { "id": "corruption-ESS3Crucible", "score": 9 }
+          ],
+          "winner": "truthfulness-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:29:33",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/corruption-v-truth-week6.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-031",
+          "week": 6,
+          "participants": [
+            { "id": "crashout-carries-ESS3Crucible", "score": 13 },
+            { "id": "falconsi-ESS3Crucible", "score": 5 }
+          ],
+          "winner": "crashout-carries-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:04:41",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/crashout-v-falcon-week6.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-032",
+          "week": 6,
+          "participants": [
+            { "id": "niketwo-ESS3Crucible", "score": 13 },
+            { "id": "kchewy-ESS3Crucible", "score": 8 }
+          ],
+          "winner": "niketwo-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:21:18",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/kc-v-nike-week6.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-033",
+          "week": 6,
+          "participants": [
+            { "id": "rick-fisters-ESS3Crucible", "score": 13 },
+            { "id": "jarvis-ESS3Crucible", "score": 9 }
+          ],
+          "winner": "rick-fisters-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:16:24",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/rick-v-jarvis-week6.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-034",
+          "week": 6,
+          "participants": [
+            { "id": "truthfulness-ESS3Crucible", "score": 13 },
+            { "id": "pandara-ESS3Crucible", "score": 8 }
+          ],
+          "winner": "truthfulness-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:26:08",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/truth-v-pandara-week6.png"
+          }
+        },
+      
+        {
+          "id": "ess3-crucible-035",
+          "week": 7,
+          "participants": [
+            { "id": "rick-fisters-ESS3Crucible", "score": 13 },
+            { "id": "falconsi-ESS3Crucible", "score": 3 }
+          ],
+          "winner": "rick-fisters-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:10:18",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/rick-v-falcon-week7.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-036",
+          "week": 7,
+          "participants": [
+            { "id": "gold-but-old-ESS3Crucible", "score": 13 },
+            { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 9 }
+          ],
+          "winner": "gold-but-old-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:23:08",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/old-v-base-week7.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-037",
+          "week": 7,
+          "participants": [
+            { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 13 },
+            { "id": "truthfulness-ESS3Crucible", "score": 11 }
+          ],
+          "winner": "base-mommy-and-daddy-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:14:47",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/truth-v-base-week7.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-038",
+          "week": 7,
+          "participants": [
+            { "id": "corruption-ESS3Crucible", "score": 13 },
+            { "id": "nordic-thunder-ESS3Crucible", "score": 8 }
+          ],
+          "winner": "corruption-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:08:20",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/nordic-v-corruption-week7.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-039",
+          "week": 7,
+          "participants": [
+            { "id": "corruption-ESS3Crucible", "score": 13 },
+            { "id": "kchewy-ESS3Crucible", "score": 7 }
+          ],
+          "winner": "corruption-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:11:35",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/corruption-v-kc-week7.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-040",
+          "week": 7,
+          "participants": [
+            { "id": "nordic-thunder-ESS3Crucible", "score": 13 },
+            { "id": "crashout-carries-ESS3Crucible", "score": 10 }
+          ],
+          "winner": "nordic-thunder-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "00:59:05",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/nordic-v-crashout-week7.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-041",
+          "week": 7,
+          "participants": [
+            { "id": "gold-but-old-ESS3Crucible", "score": 13 },
+            { "id": "niketwo-ESS3Crucible", "score": 10 }
+          ],
+          "winner": "gold-but-old-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:20:06",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2620130787?t=06h20m25s",
+            "image": "/img/ESS3/Crucible/nike-v-gold-week7.png"
+          }
+        },
+      
+        {
+          "id": "ess3-crucible-042",
+          "week": 8,
+          "participants": [
+            { "id": "jarvis-ESS3Crucible", "score": 13 },
+            { "id": "gold-but-old-ESS3Crucible", "score": 5 }
+          ],
+          "winner": "jarvis-ESS3Crucible",
+          "method": "Bingo",
+          "duration": "00:56:36",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/jarvis-v-gold-week8.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-043",
+          "week": 8,
+          "participants": [
+            { "id": "rick-fisters-ESS3Crucible", "score": 13 },
+            { "id": "base-mommy-and-daddy-ESS3Crucible", "score": 7 }
+          ],
+          "winner": "rick-fisters-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:00:20",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2624294044?t=06h28m38s",
+            "image": "/img/ESS3/Crucible/rick-v-base-week8.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-044",
+          "week": 8,
+          "participants": [
+            { "id": "nordic-thunder-ESS3Crucible", "score": 13 },
+            { "id": "truthfulness-ESS3Crucible", "score": 12 }
+          ],
+          "winner": "nordic-thunder-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:23:53",
+          "media": {
+            "vod": "https://www.twitch.tv/videos/2626030816?t=00h28m59s",
+            "image": "/img/ESS3/Crucible/nordic-v-truth-week8.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-045",
+          "week": 8,
+          "participants": [
+            { "id": "pandara-ESS3Crucible", "score": 13 },
+            { "id": "corruption-ESS3Crucible", "score": 10 }
+          ],
+          "winner": "pandara-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:31:36",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/corruption-v-pandara-week8.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-046",
+          "week": 8,
+          "participants": [
+            { "id": "jarvis-ESS3Crucible", "score": 13 },
+            { "id": "pandara-ESS3Crucible", "score": 10 }
+          ],
+          "winner": "jarvis-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:18:46",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/jarvis-v-pandara-week8.png"
+          }
+        },
+        {
+          "id": "ess3-crucible-047",
+          "week": 8,
+          "participants": [
+            { "id": "kchewy-ESS3Crucible", "score": 13 },
+            { "id": "falconsi-ESS3Crucible", "score": 7 }
+          ],
+          "winner": "kchewy-ESS3Crucible",
+          "method": "Majority",
+          "duration": "01:23:53",
+          "media": {
+            "vod": "",
+            "image": "/img/ESS3/Crucible/kc-v-falcon-week8.png"
+          }
+      }
+  ]
+}
+

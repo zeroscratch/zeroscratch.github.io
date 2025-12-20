@@ -2,15 +2,18 @@
   "season": "ESS3",
   "league": "Golden Order",
   "participantType": "team",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 9,
+  "playoffSlots": 6,
   "matches": [
     {
       "id": "ess3-go-001",
       "week": 1,
       "participants": [
-        { "id": "time-complexity", "score": 13 },
-        { "id": "old-but-gold", "score": 12 }
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 12 }
       ],
-      "winner": "time-complexity",
+      "winner": "time-complexity-ESS3GO",
       "method": "Bingo",
       "duration": "01:03:53",
       "media": {
@@ -22,10 +25,10 @@
       "id": "ess3-go-002",
       "week": 1,
       "participants": [
-        { "id": "bofa-ds", "score": 13 },
-        { "id": "expedition-25", "score": 10 }
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 10 }
       ],
-      "winner": "bofa-ds",
+      "winner": "bofa-ds-ESS3GO",
       "method": "Majority",
       "duration": "01:10:10",
       "media": {
@@ -37,10 +40,10 @@
       "id": "ess3-go-003",
       "week": 1,
       "participants": [
-        { "id": "wamp-wamp", "score": 13 },
-        { "id": "asteroid-destroyer", "score": 4 }
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 4 }
       ],
-      "winner": "wamp-wamp",
+      "winner": "wamp-wamp-ESS3GO",
       "method": "Bingo",
       "duration": "00:57:12",
       "media": {
@@ -52,10 +55,10 @@
       "id": "ess3-go-004",
       "week": 1,
       "participants": [
-        { "id": "tank-and-top", "score": 13 },
-        { "id": "bagarre-fr", "score": 9 }
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 9 }
       ],
-      "winner": "tank-and-top",
+      "winner": "tank-and-top-ESS3GO",
       "method": "Majority",
       "duration": "01:09:40",
       "media": {
@@ -68,10 +71,10 @@
       "id": "ess3-go-005",
       "week": 2,
       "participants": [
-        { "id": "time-complexity", "score": 13 },
-        { "id": "budget-team-hitless", "score": 11 }
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "budget-team-hitless-ESS3GO", "score": 11 }
       ],
-      "winner": "time-complexity",
+      "winner": "time-complexity-ESS3GO",
       "method": "Majority",
       "duration": "01:13:09",
       "media": {
@@ -83,10 +86,10 @@
       "id": "ess3-go-006",
       "week": 2,
       "participants": [
-        { "id": "wamp-wamp", "score": 13 },
-        { "id": "bofa-ds", "score": 6 }
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 6 }
       ],
-      "winner": "wamp-wamp",
+      "winner": "wamp-wamp-ESS3GO",
       "method": "Bingo",
       "duration": "00:58:16",
       "media": {
@@ -98,10 +101,10 @@
       "id": "ess3-go-007",
       "week": 2,
       "participants": [
-        { "id": "expedition-25", "score": 13 },
-        { "id": "old-but-gold", "score": 12 }
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 12 }
       ],
-      "winner": "expedition-25",
+      "winner": "expedition-25-ESS3GO",
       "method": "Majority",
       "duration": "01:13:17",
       "media": {
@@ -113,10 +116,10 @@
       "id": "ess3-go-008",
       "week": 2,
       "participants": [
-        { "id": "tower-princesses", "score": 13 },
-        { "id": "bagarre-fr", "score": 11 }
+        { "id": "tower-princesses-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 11 }
       ],
-      "winner": "tower-princesses",
+      "winner": "tower-princesses-ESS3GO",
       "method": "Majority",
       "duration": "01:20:56",
       "media": {
@@ -128,10 +131,10 @@
       "id": "ess3-go-009",
       "week": 2,
       "participants": [
-        { "id": "tank-and-top", "score": 13 },
-        { "id": "asteroid-destroyer", "score": 10 }
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 10 }
       ],
-      "winner": "tank-and-top",
+      "winner": "tank-and-top-ESS3GO",
       "method": "Majority",
       "duration": "01:11:17",
       "media": {
@@ -144,10 +147,10 @@
       "id": "ess3-go-010",
       "week": 3,
       "participants": [
-        { "id": "time-complexity", "score": 13 },
-        { "id": "expedition-25", "score": 10 }
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 10 }
       ],
-      "winner": "time-complexity",
+      "winner": "time-complexity-ESS3GO",
       "method": "Majority",
       "duration": "01:04:28",
       "media": {
@@ -159,10 +162,10 @@
       "id": "ess3-go-011",
       "week": 3,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "bofa-ds", "score": 5 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 5 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Bingo",
       "duration": "00:57:25",
       "media": {
@@ -174,10 +177,10 @@
       "id": "ess3-go-012",
       "week": 3,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "old-but-gold", "score": 9 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 9 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Majority",
       "duration": "01:09:33",
       "media": {
@@ -189,10 +192,10 @@
       "id": "ess3-go-013",
       "week": 3,
       "participants": [
-        { "id": "time-complexity", "score": 13 },
-        { "id": "tower-princesses", "score": 7 }
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 7 }
       ],
-      "winner": "time-complexity",
+      "winner": "time-complexity-ESS3GO",
       "method": "Majority",
       "duration": "01:01:22",
       "media": {
@@ -205,10 +208,10 @@
       "id": "ess3-go-014",
       "week": 4,
       "participants": [
-        { "id": "bofa-ds", "score": 13 },
-        { "id": "tower-princesses", "score": 8 }
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 8 }
       ],
-      "winner": "bofa-ds",
+      "winner": "bofa-ds-ESS3GO",
       "method": "Majority",
       "duration": "01:14:08",
       "media": {
@@ -220,10 +223,10 @@
       "id": "ess3-go-015",
       "week": 4,
       "participants": [
-        { "id": "expedition-25", "score": 13 },
-        { "id": "tank-and-top", "score": 8 }
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "tank-and-top-ESS3GO", "score": 8 }
       ],
-      "winner": "expedition-25",
+      "winner": "expedition-25-ESS3GO",
       "method": "Majority",
       "duration": "01:02:20",
       "media": {
@@ -235,10 +238,10 @@
       "id": "ess3-go-016",
       "week": 4,
       "participants": [
-        { "id": "bagarre-fr", "score": 13 },
-        { "id": "time-complexity", "score": 9 }
+        { "id": "bagarre-fr-ESS3GO", "score": 13 },
+        { "id": "time-complexity-ESS3GO", "score": 9 }
       ],
-      "winner": "bagarre-fr",
+      "winner": "bagarre-fr-ESS3GO",
       "method": "Majority",
       "duration": "01:07:01",
       "media": {
@@ -250,10 +253,10 @@
       "id": "ess3-go-017",
       "week": 4,
       "participants": [
-        { "id": "tower-princesses", "score": 13 },
-        { "id": "asteroid-destroyer", "score": 8 }
+        { "id": "tower-princesses-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 8 }
       ],
-      "winner": "tower-princesses",
+      "winner": "tower-princesses-ESS3GO",
       "method": "Majority",
       "duration": "01:10:48",
       "media": {
@@ -266,10 +269,10 @@
       "id": "ess3-go-018",
       "week": 5,
       "participants": [
-        { "id": "wamp-wamp", "score": 15 },
-        { "id": "old-but-gold", "score": 8 }
+        { "id": "wamp-wamp-ESS3GO", "score": 15 },
+        { "id": "old-but-gold-ESS3GO", "score": 8 }
       ],
-      "winner": "wamp-wamp",
+      "winner": "wamp-wamp-ESS3GO",
       "method": "Bingo",
       "duration": "01:04:16",
       "media": {
@@ -281,10 +284,10 @@
       "id": "ess3-go-019",
       "week": 5,
       "participants": [
-        { "id": "bagarre-fr", "score": 13 },
-        { "id": "expedition-25", "score": 4 }
+        { "id": "bagarre-fr-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 4 }
       ],
-      "winner": "bagarre-fr",
+      "winner": "bagarre-fr-ESS3GO",
       "method": "Bingo",
       "duration": "00:46:42",
       "media": {
@@ -296,10 +299,10 @@
       "id": "ess3-go-020",
       "week": 5,
       "participants": [
-        { "id": "tank-and-top", "score": 13 },
-        { "id": "time-complexity", "score": 12 }
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "time-complexity-ESS3GO", "score": 12 }
       ],
-      "winner": "tank-and-top",
+      "winner": "tank-and-top-ESS3GO",
       "method": "Majority",
       "duration": "01:27:04",
       "media": {
@@ -311,10 +314,10 @@
       "id": "ess3-go-021",
       "week": 5,
       "participants": [
-        { "id": "wamp-wamp", "score": 13 },
-        { "id": "tower-princesses", "score": 12 }
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 12 }
       ],
-      "winner": "wamp-wamp",
+      "winner": "wamp-wamp-ESS3GO",
       "method": "Majority",
       "duration": "01:13:39",
       "media": {
@@ -326,10 +329,10 @@
       "id": "ess3-go-022",
       "week": 5,
       "participants": [
-        { "id": "tank-and-top", "score": 13 },
-        { "id": "bofa-ds", "score": 10 }
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 10 }
       ],
-      "winner": "tank-and-top",
+      "winner": "tank-and-top-ESS3GO",
       "method": "Majority",
       "duration": "01:07:04",
       "media": {
@@ -341,10 +344,10 @@
       "id": "ess3-go-023",
       "week": 5,
       "participants": [
-        { "id": "old-but-gold", "score": 13 },
-        { "id": "bagarre-fr", "score": 10 }
+        { "id": "old-but-gold-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 10 }
       ],
-      "winner": "old-but-gold",
+      "winner": "old-but-gold-ESS3GO",
       "method": "Majority",
       "duration": "01:04:21",
       "media": {
@@ -357,10 +360,10 @@
       "id": "ess3-go-024",
       "week": 6,
       "participants": [
-        { "id": "time-complexity", "score": 13 },
-        { "id": "wamp-wamp", "score": 10 }
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "wamp-wamp-ESS3GO", "score": 10 }
       ],
-      "winner": "time-complexity",
+      "winner": "time-complexity-ESS3GO",
       "method": "Bingo",
       "duration": "01:00:56",
       "media": {
@@ -372,10 +375,10 @@
       "id": "ess3-go-025",
       "week": 6,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "expedition-25", "score": 10 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 10 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Majority",
       "duration": "01:11:44",
       "media": {
@@ -387,10 +390,10 @@
       "id": "ess3-go-026",
       "week": 6,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "bagarre-fr", "score": 6 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 6 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Bingo",
       "duration": "00:52:42",
       "media": {
@@ -402,10 +405,10 @@
       "id": "ess3-go-027",
       "week": 6,
       "participants": [
-        { "id": "asteroid-destroyer", "score": 13 },
-        { "id": "bofa-ds", "score": 9 }
+        { "id": "asteroid-destroyer-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 9 }
       ],
-      "winner": "asteroid-destroyer",
+      "winner": "asteroid-destroyer-ESS3GO",
       "method": "Majority",
       "duration": "01:06:47",
       "media": {
@@ -417,10 +420,10 @@
       "id": "ess3-go-028",
       "week": 6,
       "participants": [
-        { "id": "bofa-ds", "score": 13 },
-        { "id": "bagarre-fr", "score": 11 }
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 11 }
       ],
-      "winner": "bofa-ds",
+      "winner": "bofa-ds-ESS3GO",
       "method": "Majority",
       "duration": "01:09:08",
       "media": {
@@ -432,10 +435,10 @@
       "id": "ess3-go-029",
       "week": 6,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "asteroid-destroyer", "score": 12 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 12 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Majority",
       "duration": "01:19:16",
       "media": {
@@ -447,10 +450,10 @@
       "id": "ess3-go-030",
       "week": 6,
       "participants": [
-        { "id": "tank-and-top", "score": 13 },
-        { "id": "tower-princesses", "score": 9 }
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 9 }
       ],
-      "winner": "tank-and-top",
+      "winner": "tank-and-top-ESS3GO",
       "method": "Majority",
       "duration": "01:03:08",
       "media": {
@@ -463,10 +466,10 @@
       "id": "ess3-go-031",
       "week": 7,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "wamp-wamp", "score": 10 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "wamp-wamp-ESS3GO", "score": 10 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Majority",
       "duration": "01:05:28",
       "media": {
@@ -478,10 +481,10 @@
       "id": "ess3-go-032",
       "week": 7,
       "participants": [
-        { "id": "expedition-25", "score": 13 },
-        { "id": "asteroid-destroyer", "score": 12 }
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 12 }
       ],
-      "winner": "expedition-25",
+      "winner": "expedition-25-ESS3GO",
       "method": "Bingo",
       "duration": "00:56:21",
       "media": {
@@ -493,10 +496,10 @@
       "id": "ess3-go-033",
       "week": 7,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "tank-and-top", "score": 7 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "tank-and-top-ESS3GO", "score": 7 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Bingo",
       "duration": "01:02:06",
       "media": {
@@ -508,10 +511,10 @@
       "id": "ess3-go-034",
       "week": 7,
       "participants": [
-        { "id": "wamp-wamp", "score": 15 },
-        { "id": "bagarre-fr", "score": 5 }
+        { "id": "wamp-wamp-ESS3GO", "score": 15 },
+        { "id": "bagarre-fr-ESS3GO", "score": 5 }
       ],
-      "winner": "wamp-wamp",
+      "winner": "wamp-wamp-ESS3GO",
       "method": "Bingo",
       "duration": "01:02:13",
       "media": {
@@ -523,10 +526,10 @@
       "id": "ess3-go-035",
       "week": 7,
       "participants": [
-        { "id": "time-complexity", "score": 13 },
-        { "id": "asteroid-destroyer", "score": 8 }
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 8 }
       ],
-      "winner": "time-complexity",
+      "winner": "time-complexity-ESS3GO",
       "method": "Majority",
       "duration": "00:58:50",
       "media": {
@@ -538,10 +541,10 @@
       "id": "ess3-go-036",
       "week": 7,
       "participants": [
-        { "id": "bofa-ds", "score": 13 },
-        { "id": "old-but-gold", "score": 11 }
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 11 }
       ],
-      "winner": "bofa-ds",
+      "winner": "bofa-ds-ESS3GO",
       "method": "Majority",
       "duration": "01:10:31",
       "media": {
@@ -553,10 +556,10 @@
       "id": "ess3-go-037",
       "week": 7,
       "participants": [
-        { "id": "tank-and-top", "score": 13 },
-        { "id": "old-but-gold", "score": 8 }
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 8 }
       ],
-      "winner": "tank-and-top",
+      "winner": "tank-and-top-ESS3GO",
       "method": "Majority",
       "duration": "01:06:54",
       "media": {
@@ -568,10 +571,10 @@
       "id": "ess3-go-038",
       "week": 7,
       "participants": [
-        { "id": "budget-team-hitless", "score": 13 },
-        { "id": "tower-princesses", "score": 11 }
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 11 }
       ],
-      "winner": "budget-team-hitless",
+      "winner": "budget-team-hitless-ESS3GO",
       "method": "Majority",
       "duration": "01:06:08",
       "media": {
@@ -583,10 +586,10 @@
       "id": "ess3-go-039",
       "week": 7,
       "participants": [
-        { "id": "expedition-25", "score": 13 },
-        { "id": "wamp-wamp", "score": 10 }
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "wamp-wamp-ESS3GO", "score": 10 }
       ],
-      "winner": "expedition-25",
+      "winner": "expedition-25-ESS3GO",
       "method": "Majority",
       "duration": "01:06:46",
       "media": {
@@ -599,10 +602,10 @@
       "id": "ess3-go-040",
       "week": 8,
       "participants": [
-        { "id": "time-complexity", "score": 13 },
-        { "id": "bofa-ds", "score": 7 }
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 7 }
       ],
-      "winner": "time-complexity",
+      "winner": "time-complexity-ESS3GO",
       "method": "Majority",
       "duration": "01:03:39",
       "media": {
@@ -614,10 +617,10 @@
       "id": "ess3-go-041",
       "week": 8,
       "participants": [
-        { "id": "wamp-wamp", "score": 13 },
-        { "id": "tank-and-top", "score": 9 }
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "tank-and-top-ESS3GO", "score": 9 }
       ],
-      "winner": "wamp-wamp",
+      "winner": "wamp-wamp-ESS3GO",
       "method": "Majority",
       "duration": "00:57:38",
       "media": {
@@ -629,10 +632,10 @@
       "id": "ess3-go-042",
       "week": 8,
       "participants": [
-        { "id": "bagarre-fr", "score": 13 },
-        { "id": "asteroid-destroyer", "score": 11 }
+        { "id": "bagarre-fr-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 11 }
       ],
-      "winner": "bagarre-fr",
+      "winner": "bagarre-fr-ESS3GO",
       "method": "Majority",
       "duration": "01:16:22",
       "media": {
@@ -644,10 +647,10 @@
       "id": "ess3-go-043",
       "week": 8,
       "participants": [
-        { "id": "expedition-25", "score": 13 },
-        { "id": "tower-princesses", "score": 9 }
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 9 }
       ],
-      "winner": "expedition-25",
+      "winner": "expedition-25-ESS3GO",
       "method": "Majority",
       "duration": "01:03:15",
       "media": {

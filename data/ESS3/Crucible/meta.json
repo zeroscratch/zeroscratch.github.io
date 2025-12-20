@@ -1,0 +1,27 @@
+{
+  "season": "ESS3",
+  "league": "Crucible",
+  "participantType": "team",
+  "divisions": {
+    "Division A": [
+      "base-mommy-and-daddy-ESS3Crucible",
+      "corruption-ESS3Crucible",
+      "nordic-thunder-ESS3Crucible"
+    ],
+    "Division B": [
+      "gold-but-old-ESS3Crucible",
+      "kchewy-ESS3Crucible",
+      "rick-fisters-ESS3Crucible"
+    ],
+    "Division C": [
+      "falconsi-ESS3Crucible",
+      "niketwo-ESS3Crucible",
+      "jarvis-ESS3Crucible"
+    ],
+    "Division D": [
+      "crashout-carries-ESS3Crucible",
+      "truthfulness-ESS3Crucible",
+      "pandara-ESS3Crucible"
+    ]
+  }
+}

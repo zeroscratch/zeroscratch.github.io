@@ -1,42 +1,42 @@
 {
-  "time-complexity": {
-    "teamId": "time-complexity",
+  "time-complexity-ESS3GO": {
+    "teamId": "time-complexity-ESS3GO",
     "players": ["shura", "psiphicode"]
   },
-  "old-but-gold": {
-    "teamId": "old-but-gold",
+  "old-but-gold-ESS3GO": {
+    "teamId": "old-but-gold-ESS3GO",
     "players": ["jay", "rambler"]
   },
-  "bofa-ds": {
-    "teamId": "bofa-ds",
+  "bofa-ds-ESS3GO": {
+    "teamId": "bofa-ds-ESS3GO",
     "players": ["dino", "doitz"]
   },
-  "tank-and-top": {
-    "teamId": "tank-and-top",
+  "tank-and-top-ESS3GO": {
+    "teamId": "tank-and-top-ESS3GO",
     "players": ["helios", "elymis"]
   },
-  "wamp-wamp": {
-    "teamId": "wamp-wamp",
+  "wamp-wamp-ESS3GO": {
+    "teamId": "wamp-wamp-ESS3GO",
     "players": ["wander", "strump"]
   },
-  "asteroid-destroyer": {
-    "teamId": "asteroid-destroyer",
+  "asteroid-destroyer-ESS3GO": {
+    "teamId": "asteroid-destroyer-ESS3GO",
     "players": ["vakrash", "serious"]
   },
-  "bagarre-fr": {
-    "teamId": "bagarre-fr",
+  "bagarre-fr-ESS3GO": {
+    "teamId": "bagarre-fr-ESS3GO",
     "players": ["ironyeu", "typin"]
   },
-  "expedition-25": {
-    "teamId": "expedition-25",
+  "expedition-25-ESS3GO": {
+    "teamId": "expedition-25-ESS3GO",
     "players": ["thomas", "jibbe"]
   },
-  "budget-team-hitless": {
-    "teamId": "budget-team-hitless",
+  "budget-team-hitless-ESS3GO": {
+    "teamId": "budget-team-hitless-ESS3GO",
     "players": ["cronys", "lemon"]
   },
-  "tower-princesses": {
-    "teamId": "tower-princesses",
+  "tower-princesses-ESS3GO": {
+    "teamId": "tower-princesses-ESS3GO",
     "players": ["nexus", "asym"]
   }
 }

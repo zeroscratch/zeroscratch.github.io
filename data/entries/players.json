@@ -178,5 +178,221 @@
     "twitch": "https://www.twitch.tv/asymmmm",
     "currentLeague": "Golden Order",
     "currentSeason": "ESS3"
+  },
+  "noya": {
+    "id": "noya",
+    "displayName": "Noya",
+    "nickname": "",
+    "profilePic": "/img/profilePics/noyaProfilePic.jpg",
+    "twitch": "https://www.twitch.tv/noyasparx",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "turtlebeard": {
+    "id": "turtlebeard",
+    "displayName": "TurtleBeard",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/turtlebeard",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "tony": {
+    "id": "tony",
+    "displayName": "Tony",
+    "nickname": "Tuff Trizzy",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/tryztony",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "fits": {
+    "id": "fits",
+    "displayName": "Fits",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/safits",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "steakslyons": {
+    "id": "steakslyons",
+    "displayName": "Steakslyons",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/steakslyons",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "champalampa": {
+    "id": "champalampa",
+    "displayName": "Champalampa",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "nvcc-alex": {
+    "id": "nvcc-alex",
+    "displayName": "NVCC Alex",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/latenightgamedev",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "jerzounek": {
+    "id": "jerzounek",
+    "displayName": "Jerzounek",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/jerzounek",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "kcbrazos": {
+    "id": "kcbrazos",
+    "displayName": "KCBrazos",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/kcbrazos",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "chewy": {
+    "id": "chewy",
+    "displayName": "Chewy",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "josh": {
+    "id": "josh",
+    "displayName": "Josh",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/joshtilde_",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "daggar97": {
+    "id": "daggar97",
+    "displayName": "Daggar97",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/amplsi",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "amplsi": {
+    "id": "amplsi",
+    "displayName": "AmplSi",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/daggar97",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "falconraven": {
+    "id": "falconraven",
+    "displayName": "FalconRaven",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/falconraven",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "nikeeuro": {
+    "id": "nikeeuro",
+    "displayName": "NikeEuro",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/nikeeuro",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "mewtwo": {
+    "id": "mewtwo",
+    "displayName": "MewTwo",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/mewtwo2u",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "harv": {
+    "id": "harv",
+    "displayName": "Harv",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/harvsouls",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "jxxman": {
+    "id": "jxxman",
+    "displayName": "Jxxman",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/jxxman15167",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "saetansd": {
+    "id": "saetansd",
+    "displayName": "SaetanSD",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/saetansd",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "aggronio": {
+    "id": "aggronio",
+    "displayName": "Aggronio",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/aggronio",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "thegraphictruth": {
+    "id": "thegraphictruth",
+    "displayName": "TheGraphicTruth",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/thegraphictruth",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "nessonetta": {
+    "id": "nessonetta",
+    "displayName": "Nessonetta",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/nessonetta",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "kiofto": {
+    "id": "kiofto",
+    "displayName": "Kiofto",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
+  },
+  "madara": {
+    "id": "madara",
+    "displayName": "Madara",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Crucible",
+    "currentSeason": "ESS3"
   }
 }

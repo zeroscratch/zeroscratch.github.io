@@ -1,0 +1,277 @@
+{
+  "season": "ESS3",
+  "league": "Golden Order",
+  "format": "single-elimination",
+  "rounds": [
+    {
+      "name": "Quarterfinals",
+      "series": [
+        {
+          "id": "QF-1",
+          "bestOf": 3,
+          "participants": [
+            "tank-and-top-ESS3GO",
+            "expedition-25-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "QF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "tank-and-top-ESS3GO", "score": 10 },
+                { "id": "expedition-25-ESS3GO", "score": 13 }
+              ],
+              "winner": "expedition-25-ESS3GO",
+              "method": "Majority",
+              "duration": "01:10:56",
+              "scheduledAt": "2025-12-22T01:00:00Z",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2632920636?t=00h25m13s",
+                "image": "/img/ESS3/GO/expedition-v-tank-playoffs-1.png"
+              }
+            },
+            {
+              "id": "QF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "tank-and-top-ESS3GO", "score": 9 },
+                { "id": "expedition-25-ESS3GO", "score": 13 }
+              ],
+              "winner": "expedition-25-ESS3GO",
+              "method": "Majority",
+              "duration": "00:58:18",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2632920636?t=02h01m57s",
+                "image": "/img/ESS3/GO/expedition-v-tank-playoffs-2.png"
+              }
+            }
+          ],
+          "winner": "expedition-25-ESS3GO"
+        },
+        {
+          "id": "QF-2",
+          "bestOf": 3,
+          "participants": [
+            "wamp-wamp-ESS3GO",
+            "bofa-ds-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "QF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "wamp-wamp-ESS3GO", "score": 13 },
+                { "id": "bofa-ds-ESS3GO", "score": 9 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Bingo",
+              "duration": "01:03:14",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2631990292?t=04h36m12s",
+                "image": "/img/ESS3/GO/bofa-v-wamp-playoffs-1.png"
+              }
+            },
+            {
+              "id": "QF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "wamp-wamp-ESS3GO", "score": 10 },
+                { "id": "bofa-ds-ESS3GO", "score": 13 }
+              ],
+              "winner": "bofa-ds-ESS3GO",
+              "method": "Bingo",
+              "duration": "00:59:59",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2631990292?t=06h02m25s",
+                "image": "/img/ESS3/GO/bofa-v-wamp-playoffs-2.png"
+              }
+            },
+            {
+              "id": "QF-2-G3",
+              "gameNumber": 3,
+              "participants": [
+                { "id": "wamp-wamp-ESS3GO", "score": 13 },
+                { "id": "bofa-ds-ESS3GO", "score": 9 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "01:05:50",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2637022512?t=04h26m57s",
+                "image": "/img/ESS3/GO/wamp-v-bofa-playoffs3.png"
+              }
+            }
+          ],
+          "winner": "wamp-wamp-ESS3GO"
+        }
+      ]
+    },
+    {
+      "name": "Semifinals",
+      "series": [
+        {
+          "id": "SF-1",
+          "bestOf": 3,
+          "participants": [
+            "budget-team-hitless-ESS3GO",
+            "expedition-25-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "SF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+                { "id": "expedition-25-ESS3GO", "score": 11 }
+              ],
+              "winner": "budget-team-hitless-ESS3GO",
+              "method": "Majority",
+              "duration": "01:01:13",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2637022512?t=00h29m40s",
+                "image": "/img/ESS3/GO/hitless-v-expedition-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 10 },
+                { "id": "expedition-25-ESS3GO", "score": 13 }
+              ],
+              "winner": "expedition-25-ESS3GO",
+              "method": "Majority",
+              "duration": "01:02:03",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2637022512?t=01h56m29s",
+                "image": "/img/ESS3/GO/hitless-v-expedition-playoffs2.png"
+              }
+            },
+            {
+              "id": "SF-1-G3",
+              "gameNumber": 3,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+                { "id": "expedition-25-ESS3GO", "score": 8 }
+              ],
+              "winner": "budget-team-hitless-ESS3GO",
+              "method": "Majority",
+              "duration": "00:57:55",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2637819655?t=04h20m21s",
+                "image": "/img/ESS3/GO/hitless-v-expedition-playoffs3.png"
+              }
+            }
+          ],
+          "winner": "budget-team-hitless-ESS3GO"
+        },
+        {
+          "id": "SF-2",
+          "bestOf": 3,
+          "participants": [
+            "time-complexity-ESS3GO",
+            "wamp-wamp-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "SF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "time-complexity-ESS3GO", "score": 12 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Bingo",
+              "duration": "00:55:37",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2641499881?t=00h26m05s",
+                "image": "/img/ESS3/GO/complex-v-wamp-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "time-complexity-ESS3GO", "score": 12 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "01:14:47",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2641499881?t=01h43m22s",
+                "image": "/img/ESS3/GO/complex-v-wamp-playoffs2.png"
+              }
+            }
+          ],
+          "winner": "wamp-wamp-ESS3GO"
+        }
+      ]
+    },
+    {
+      "name": "Finals",
+      "series": [
+        {
+          "id": "F",
+          "bestOf": 3,
+          "participants": [
+            "budget-team-hitless-ESS3GO",
+            "wamp-wamp-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "F-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 12 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "01:11:42",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2642790976?t=05h16m20s",
+                "image": "/img/ESS3/GO/hitless-v-wamp-playoffs1.png"
+              }
+            },
+            {
+              "id": "F-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+                { "id": "wamp-wamp-ESS3GO", "score": 8 }
+              ],
+              "winner": "budget-team-hitless-ESS3GO",
+              "method": "Majority",
+              "duration": "00:59:47",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2642790976?t=06h57m29s",
+                "image": "/img/ESS3/GO/hitless-v-wamp-playoffs2.png"
+              }
+            },
+            {
+              "id": "F-G3",
+              "gameNumber": 3,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 8 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "00:58:13",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2644950794?t=00h28m32s",
+                "image": "/img/ESS3/GO/hitless-v-wamp-playoffs3.png"
+              }
+            }
+          ],
+          "winner": "wamp-wamp-ESS3GO"
+        }
+      ]
+    }
+  ]
+}
