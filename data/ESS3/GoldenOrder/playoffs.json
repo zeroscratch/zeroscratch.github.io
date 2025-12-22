@@ -232,7 +232,7 @@
               "winner": "wamp-wamp-ESS3GO",
               "method": "Majority",
               "duration": "01:11:42",
-              "scheduledAt": "",
+              "scheduledAt": "2025-12-22T03:00:00Z",
               "media": {
                 "vod": "https://www.twitch.tv/videos/2642790976?t=05h16m20s",
                 "image": "/img/ESS3/GO/hitless-v-wamp-playoffs1.png"
