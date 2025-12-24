@@ -394,5 +394,185 @@
     "twitch": "",
     "currentLeague": "Crucible",
     "currentSeason": "ESS3"
+  },
+  "bedhead": {
+    "id": "bedhead",
+    "displayName": "BedHead",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "rony": {
+    "id": "rony",
+    "displayName": "Rony",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "arkham": {
+    "id": "arkham",
+    "displayName": "Arkham",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "magnitude": {
+    "id": "magnitude",
+    "displayName": "Magnitude",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "jam": {
+    "id": "jam",
+    "displayName": "Jam",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "krispy": {
+    "id": "krispy",
+    "displayName": "Krispy",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "tinybobcat": {
+    "id": "tinybobcat",
+    "displayName": "TinyBobcat",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "cubanmissle": {
+    "id": "cubanmissle",
+    "displayName": "Cubanmissle",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "themilkman": {
+    "id": "themilkman",
+    "displayName": "TheMilkMan",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "psykg": {
+    "id": "psykg",
+    "displayName": "Psykg",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "yosh": {
+    "id": "yosh",
+    "displayName": "Yosh",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "azdomiel": {
+    "id": "azdomiel",
+    "displayName": "Azdomiel",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "belbo": {
+    "id": "belbo",
+    "displayName": "Belbo",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "mixed": {
+    "id": "mixed",
+    "displayName": "Mixed",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "tarun": {
+    "id": "tarun",
+    "displayName": "Tarun",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "avery": {
+    "id": "avery",
+    "displayName": "Avery",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "goodietoshoes": {
+    "id": "goodietoshoes",
+    "displayName": "Goodietoshoes",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "question-marks": {
+    "id": "question-marks",
+    "displayName": "Question Marks",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "tito": {
+    "id": "tito",
+    "displayName": "Tito",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
+  },
+  "vixus": {
+    "id": "vixus",
+    "displayName": "Vixus",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "Rookie",
+    "currentSeason": "ESS3"
   }
 }

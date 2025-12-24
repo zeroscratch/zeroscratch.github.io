@@ -5,6 +5,7 @@
   "rounds": [
     {
       "name": "Quarterfinals",
+      
       "series": [
         {
           "id": "QF-1",
@@ -24,7 +25,7 @@
               "winner": "expedition-25-ESS3GO",
               "method": "Majority",
               "duration": "01:10:56",
-              "scheduledAt": "2025-12-22T01:00:00Z",
+              "scheduledAt": "",
               "media": {
                 "vod": "https://www.twitch.tv/videos/2632920636?t=00h25m13s",
                 "image": "/img/ESS3/GO/expedition-v-tank-playoffs-1.png"
@@ -232,7 +233,7 @@
               "winner": "wamp-wamp-ESS3GO",
               "method": "Majority",
               "duration": "01:11:42",
-              "scheduledAt": "2025-12-22T03:00:00Z",
+              "scheduledAt": "",
               "media": {
                 "vod": "https://www.twitch.tv/videos/2642790976?t=05h16m20s",
                 "image": "/img/ESS3/GO/hitless-v-wamp-playoffs1.png"
