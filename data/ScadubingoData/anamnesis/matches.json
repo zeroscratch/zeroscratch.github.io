@@ -1,0 +1,250 @@
+{
+  "season": "Anamnesis",
+  "league": "Scadubingo",
+  "participantType": "player",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 5,
+  "playoffSlots": 4,
+  "matches": [
+    {
+      "id": "scadu-anamnesis-001",
+      "week": 1,
+      "participants": [
+        { "id": "jxxman", "score": 12 },
+        { "id": "turtlebeard", "score": 9 }
+      ],
+      "winner": "jxxman",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jxxman-v-bekineko-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-002",
+      "week": 1,
+      "participants": [
+        { "id": "noya", "score": 9 },
+        { "id": "fun", "score": 3 }
+      ],
+      "winner": "noya",
+      "method": "Bingo",
+      "duration": "01:07:39",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/noya-v-fun-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-003",
+      "week": 1,
+      "participants": [
+        { "id": "jibbe", "score": 10 },
+        { "id": "turtlebeard", "score": 6 }
+      ],
+      "winner": "jibbe",
+      "method": "Bingo",
+      "duration": "01:22:32",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jibbe-v-bekineko-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-004",
+      "week": 1,
+      "participants": [
+        { "id": "elymis", "score": 13 },
+        { "id": "chewy", "score": 5 }
+      ],
+      "winner": "elymis",
+      "method": "Majority",
+      "duration": "01:23:48",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/elymis-v-chewy-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-005",
+      "week": 1,
+      "participants": [
+        { "id": "rambler", "score": 13 },
+        { "id": "jeff", "score": 3 }
+      ],
+      "winner": "rambler",
+      "method": "Majority",
+      "duration": "01:14:05",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/rambler-v-jeff-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-006",
+      "week": 1,
+      "participants": [
+        { "id": "dino", "score": 8 },
+        { "id": "kcbrazos", "score": 5 }
+      ],
+      "winner": "dino",
+      "method": "Bingo",
+      "duration": "00:57:27",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/dino-v-kc-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-007",
+      "week": 1,
+      "participants": [
+        { "id": "jeff", "score": 4 },
+        { "id": "josh", "score": 9 }
+      ],
+      "winner": "josh",
+      "method": "Bingo",
+      "duration": "00:50:22",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jeff-v-josh-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-008",
+      "week": 1,
+      "participants": [
+        { "id": "jibbe", "score": 13 },
+        { "id": "rambler", "score": 9 }
+      ],
+      "winner": "jibbe",
+      "method": "Majority",
+      "duration": "01:36:28",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jibbe-v-rambler-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-009",
+      "week": 1,
+      "participants": [
+        { "id": "chewy", "score": 11 },
+        { "id": "blaze", "score": 5 }
+      ],
+      "winner": "chewy",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/chewy-v-blaze-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-010",
+      "week": 1,
+      "participants": [
+        { "id": "elymis", "score": 10 },
+        { "id": "fun", "score": 13 }
+      ],
+      "winner": "fun",
+      "method": "Majority",
+      "duration": "01:47:58",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/elymis-v-fun-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-011",
+      "week": 1,
+      "participants": [
+        { "id": "josh", "score": 13 },
+        { "id": "jxxman", "score": 5 }
+      ],
+      "winner": "josh",
+      "method": "Majority",
+      "duration": "01:15:11",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/josh-v-jxxman-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-012",
+      "week": 1,
+      "participants": [
+        { "id": "dino", "score": 2 },
+        { "id": "noya", "score": 13 }
+      ],
+      "winner": "noya",
+      "method": "Bingo",
+      "duration": "00:50:44",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/dino-v-noya-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-013",
+      "week": 1,
+      "participants": [
+        { "id": "strump", "score": 13 },
+        { "id": "thomas", "score": 11 }
+      ],
+      "winner": "strump",
+      "method": "Majority",
+      "duration": "01:42:14",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/strump-v-thomas-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-014",
+      "week": 1,
+      "participants": [
+        { "id": "strump", "score": 13 },
+        { "id": "psiphicode", "score": 1 }
+      ],
+      "winner": "strump",
+      "method": "Bingo",
+      "duration": "00:39:14",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/strump-v-psi-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-015",
+      "week": 1,
+      "participants": [
+        { "id": "kcbrazos", "score": 2 },
+        { "id": "thomas", "score": 8 }
+      ],
+      "winner": "thomas",
+      "method": "Bingo",
+      "duration": "00:54:06",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/kc-v-thomas-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-016",
+      "week": 2,
+      "participants": [
+        { "id": "kcbrazos", "score": 12 },
+        { "id": "turtlebeard", "score": 9 }
+      ],
+      "winner": "kcbrazos",
+      "method": "Bingo",
+      "duration": "01:46:38",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/kc-v-turtle-week2.png"
+      }
+    }
+  ]
+}

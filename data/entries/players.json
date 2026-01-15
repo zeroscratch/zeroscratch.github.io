@@ -190,7 +190,7 @@
   },
   "turtlebeard": {
     "id": "turtlebeard",
-    "displayName": "TurtleBeard",
+    "displayName": "Bekineko",
     "nickname": "",
     "profilePic": "",
     "twitch": "https://www.twitch.tv/turtlebeard",
@@ -574,5 +574,32 @@
     "twitch": "",
     "currentLeague": "Rookie",
     "currentSeason": "ESS3"
+  },
+  "fun": {
+    "id": "fun",
+    "displayName": "Fun",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "blaze": {
+    "id": "blaze",
+    "displayName": "Blaze",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "jeff": {
+    "id": "jeff",
+    "displayName": "Jeff",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
   }
 }

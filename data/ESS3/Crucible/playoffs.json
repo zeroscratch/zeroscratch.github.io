@@ -1,0 +1,237 @@
+{
+  "season": "ESS3",
+  "league": "Crucible",
+  "format": "single-elimination",
+  "rounds": [
+    {
+      "name": "Quarterfinals",
+      "series": [
+        {
+          "id": "QF-1",
+          "bestOf": 3,
+          "participants": [
+            "gold-but-old-ESS3Crucible",
+            "corruption-ESS3Crucible"
+          ],
+          "games": [
+            {
+              "id": "QF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "gold-but-old-ESS3Crucible", "score": 13 },
+                { "id": "corruption-ESS3Crucible", "score": 9 }
+              ],
+              "winner": "gold-but-old-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:06:43",
+              "scheduledAt": "11/30/2025 18:00:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2631990292?t=00h22m46s",
+                "image": "/img/ESS3/Crucible/corruption-v-gold-playoff-1.png"
+              }
+            },
+            {
+              "id": "QF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "gold-but-old-ESS3Crucible", "score": 13 },
+                { "id": "corruption-ESS3Crucible", "score": 10 }
+              ],
+              "winner": "gold-but-old-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:24:49",
+              "scheduledAt": "11/30/2025 20:00:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2631990292?t=01h52m44s",
+                "image": "/img/ESS3/Crucible/corruption-v-gold-playoff-2.png"
+              }
+            }
+          ],
+          "winner": "gold-but-old-ESS3Crucible"
+        },
+        {
+          "id": "QF-2",
+          "bestOf": 3,
+          "participants": [
+            "crashout-carries-ESS3Crucible",
+            "nordic-thunder-ESS3Crucible"
+          ],
+          "games": [
+            {
+              "id": "QF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "crashout-carries-ESS3Crucible", "score": 11 },
+                { "id": "nordic-thunder-ESS3Crucible", "score": 13 }
+              ],
+              "winner": "nordic-thunder-ESS3Crucible",
+              "method": "Bingo",
+              "duration": "01:13:33",
+              "scheduledAt": "12/7/2025 15:30:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2637819655?t=00h26m28s",
+                "image": "/img/ESS3/Crucible/nordic-v-crashout-playoffs-1.png"
+              }
+            },
+            {
+              "id": "QF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "crashout-carries-ESS3Crucible", "score": 7 },
+                { "id": "nordic-thunder-ESS3Crucible", "score": 13 }
+              ],
+              "winner": "nordic-thunder-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:04:05",
+              "scheduledAt": "12/7/2025 15:30:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2637819655?t=02h04m28s",
+                "image": "/img/ESS3/Crucible/nordic-v-crashout-playoffs-2.png"
+              }
+            }
+          ],
+          "winner": "nordic-thunder-ESS3Crucible"
+        }
+      ]
+    },
+    {
+      "name": "Semifinals",
+      "series": [
+        {
+          "id": "SF-1",
+          "bestOf": 3,
+          "participants": [
+            "jarvis-ESS3Crucible",
+            "gold-but-old-ESS3Crucible"
+          ],
+          "games": [
+            {
+              "id": "SF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "jarvis-ESS3Crucible", "score": 13 },
+                { "id": "gold-but-old-ESS3Crucible", "score": 10 }
+              ],
+              "winner": "jarvis-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:16:33",
+              "scheduledAt": "12/14/2025 22:00:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2643848612?t=04h17m53s",
+                "image": "/img/ESS3/Crucible/jarvis-v-gold-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "jarvis-ESS3Crucible", "score": 13 },
+                { "id": "gold-but-old-ESS3Crucible", "score": 11 }
+              ],
+              "winner": "jarvis-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:18:37",
+              "scheduledAt": "12/14/2025 24:00:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2643848612?t=06h00m53s",
+                "image": "/img/ESS3/Crucible/jarvis-v-gold-playoffs2.png"
+              }
+            }
+          ],
+          "winner": "jarvis-ESS3Crucible"
+        },
+        {
+          "id": "SF-2",
+          "bestOf": 3,
+          "participants": [
+            "rick-fisters-ESS3Crucible",
+            "nordic-thunder-ESS3Crucible"
+          ],
+          "games": [
+            {
+              "id": "SF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "rick-fisters-ESS3Crucible", "score": 13 },
+                { "id": "nordic-thunder-ESS3Crucible", "score": 11 }
+              ],
+              "winner": "rick-fisters-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:17:46",
+              "scheduledAt": "12/14/2025 18:00:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2643848612?t=00h19m32s",
+                "image": "/img/ESS3/Crucible/nordic-v-rick-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "rick-fisters-ESS3Crucible", "score": 13 },
+                { "id": "nordic-thunder-ESS3Crucible", "score": 11 }
+              ],
+              "winner": "rick-fisters-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:14:07",
+              "scheduledAt": "12/14/2025 20:00:00 UTC",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2643848612?t=02h03m25s",
+                "image": "/img/ESS3/Crucible/nordic-v-rick-playoffs2.png"
+              }
+            }
+          ],
+          "winner": "rick-fisters-ESS3Crucible"
+        }
+      ]
+    },
+    {
+      "name": "Finals",
+      "series": [
+        {
+          "id": "F",
+          "bestOf": 3,
+          "participants": [
+            "jarvis-ESS3Crucible",
+            "rick-fisters-ESS3Crucible"
+          ],
+          "games": [
+            {
+              "id": "F-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "jarvis-ESS3Crucible", "score": 13 },
+                { "id": "rick-fisters-ESS3Crucible", "score": 12 }
+              ],
+              "winner": "jarvis-ESS3Crucible",
+              "method": "Majority",
+              "duration": "01:14:28",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2648202394?t=00h10m36s",
+                "image": "/img/ESS3/Crucible/jarvis-v-rick-playoffs1.png"
+              }
+            },
+            {
+              "id": "F-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "jarvis-ESS3Crucible", "score": 15 },
+                { "id": "rick-fisters-ESS3Crucible", "score": 6 }
+              ],
+              "winner": "jarvis-ESS3Crucible",
+              "method": "Bingo",
+              "duration": "00:59:20",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2648202394?t=01h49m46s",
+                "image": "/img/ESS3/Crucible/jarvis-v-rick-playoffs2.png"
+              }
+            }
+          ],
+          "winner": "jarvis-ESS3Crucible"
+        }
+      ]
+    }
+  ]
+}

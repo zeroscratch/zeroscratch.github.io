@@ -1,0 +1,865 @@
+{
+  "season": "ESS3",
+  "league": "Rookie",
+  "participantType": "player",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 7,
+  "playoffSlots": 8,
+  "matches": [
+    {
+      "id": "ess3-rookie-001",
+      "week": 1,
+      "participants": [
+        { "id": "psykg", "score": 6 },
+        { "id": "yosh", "score": 0 }
+      ],
+      "winner": "psykg",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/yosh-v-psykg-week1.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-002",
+      "week": 1,
+      "participants": [
+        { "id": "jam", "score": 10 },
+        { "id": "avery", "score": 6 }
+      ],
+      "winner": "jam",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/aves-v-jam-week1.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-003",
+      "week": 1,
+      "participants": [
+        { "id": "tarun", "score": 11 },
+        { "id": "mixed", "score": 6 }
+      ],
+      "winner": "tarun",
+      "method": "Bingo",
+      "duration": "01:39:15",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/mixed-v-tarun-week1.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-004",
+      "week": 1,
+      "participants": [
+        { "id": "arkham", "score": 13 },
+        { "id": "magnitude", "score": 9 }
+      ],
+      "winner": "arkham",
+      "method": "Majority",
+      "duration": "01:59:17",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/arkham-v-magnitude-week1.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-005",
+      "week": 1,
+      "participants": [
+        { "id": "rony", "score": 13 },
+        { "id": "bedhead", "score": 1 }
+      ],
+      "winner": "rony",
+      "method": "Bingo",
+      "duration": "01:37:45",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/rony-v-bedhead-week1.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-006",
+      "week": 1,
+      "participants": [
+        { "id": "belbo", "score": 12 },
+        { "id": "azdomiel", "score": 10 }
+      ],
+      "winner": "belbo",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/belbo-v-azdomiel-week1.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-007",
+      "week": 1,
+      "participants": [
+        { "id": "themilkman", "score": 9 },
+        { "id": "cubanmissle", "score": 2 }
+      ],
+      "winner": "themilkman",
+      "method": "Bingo",
+      "duration": "01:53:13",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/milk-v-mac-week1.PNG"
+      }
+    },
+    {
+      "id": "ess3-rookie-008",
+      "week": 1,
+      "participants": [
+        { "id": "tinybobcat", "score": 13 },
+        { "id": "krispy", "score": 1 }
+      ],
+      "winner": "tinybobcat",
+      "method": "Majority",
+      "duration": "01:43:29",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/krispy-v-bobcat-week1.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-009",
+      "week": 2,
+      "participants": [
+        { "id": "tinybobcat", "score": 13 },
+        { "id": "belbo", "score": 6 }
+      ],
+      "winner": "tinybobcat-",
+      "method": "Bingo",
+      "duration": "01:40:10",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/belbo-v-bobcat-week2.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-010",
+      "week": 2,
+      "participants": [
+        { "id": "mixed", "score": 9 },
+        { "id": "magnitude", "score": 2 }
+      ],
+      "winner": "mixed",
+      "method": "Bingo",
+      "duration": "00:56:30",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/mixed-v-magnitude-week2.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-011",
+      "week": 2,
+      "participants": [
+        { "id": "cubanmissle", "score": 6 },
+        { "id": "bedhead", "score": 3 }
+      ],
+      "winner": "cubanmissle",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/cuban-v-bedhead-week2.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-012",
+      "week": 2,
+      "participants": [
+        { "id": "azdomiel", "score": 6 },
+        { "id": "krispy", "score": 2 }
+      ],
+      "winner": "azdomiel",
+      "method": "Bingo",
+      "duration": "01:24:54",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/az-v-krispy-week2.PNG"
+      }
+    },
+    {
+      "id": "ess3-rookie-013",
+      "week": 2,
+      "participants": [
+        { "id": "themilkman", "score": 9 },
+        { "id": "avery", "score": 6 }
+      ],
+      "winner": "themilkman",
+      "method": "Majority",
+      "duration": "02:04:10",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/milk-v-avery-week2.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-014",
+      "week": 2,
+      "participants": [
+        { "id": "rony", "score": 13 },
+        { "id": "arkham", "score": 9 }
+      ],
+      "winner": "rony",
+      "method": "Bingo",
+      "duration": "01:35:59",
+      "media": {
+        "vod": "https://www.twitch.tv/videos/2589929755?t=00h15m35s",
+        "image": "/img/ESS3/Rookie/rony-v-arkham-week2.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-015",
+      "week": 2,
+      "participants": [
+        { "id": "tarun", "score": 8 },
+        { "id": "jam", "score": 7 }
+      ],
+      "winner": "tarun",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/tarun-v-jam-week2.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-016",
+      "week": 3,
+      "participants": [
+        { "id": "magnitude", "score": 10 },
+        { "id": "cubanmissle", "score": 2 }
+      ],
+      "winner": "magnitude",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/cuban-v-magnitude-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-017",
+      "week": 3,
+      "participants": [
+        { "id": "sciryn", "score": 8 },
+        { "id": "tito", "score": 6 }
+      ],
+      "winner": "sciryn",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/tito-v-sciryn-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-018",
+      "week": 3,
+      "participants": [
+        { "id": "rony", "score": 10 },
+        { "id": "tinybobcat", "score": 4 }
+      ],
+      "winner": "rony",
+      "method": "Bingo",
+      "duration": "01:01:53",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/rony-v-bobcat-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-019",
+      "week": 3,
+      "participants": [
+        { "id": "mixed", "score": 10 },
+        { "id": "azdomiel", "score": 5 }
+      ],
+      "winner": "mixed",
+      "method": "Bingo",
+      "duration": "01:09:23",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/az-v-mixed-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-020",
+      "week": 3,
+      "participants": [
+        { "id": "arkham", "score": 13 },
+        { "id": "question-marks", "score": 11 }
+      ],
+      "winner": "arkham",
+      "method": "Majority",
+      "duration": "01:54:36",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/arkham-v-question-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-021",
+      "week": 3,
+      "participants": [
+        { "id": "krispy", "score": 6 },
+        { "id": "yosh", "score": 5 }
+      ],
+      "winner": "krispy",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/yosh-v-krispy-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-022",
+      "week": 3,
+      "participants": [
+        { "id": "belbo", "score": 11 },
+        { "id": "goodietoshoes", "score": 4 }
+      ],
+      "winner": "belbo",
+      "method": "Bingo",
+      "duration": "01:14:10",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/belbo-v-goosh-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-023",
+      "week": 3,
+      "participants": [
+        { "id": "jam", "score": 12 },
+        { "id": "psykg", "score": 4 }
+      ],
+      "winner": "jam",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/jam-v-psykg-week3.JPG"
+      }
+    },
+    {
+      "id": "ess3-rookie-024",
+      "week": 3,
+      "participants": [
+        { "id": "avery", "score": 8 },
+        { "id": "bedhead", "score": 5 }
+      ],
+      "winner": "avery",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/aves-v-bedhead-week3.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-025",
+      "week": 4,
+      "participants": [
+        { "id": "mixed", "score": 10 },
+        { "id": "psykg", "score": 2 }
+      ],
+      "winner": "mixed",
+      "method": "Bingo",
+      "duration": "01:14:08",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/mixed-v-psykg-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-026",
+      "week": 4,
+      "participants": [
+        { "id": "rony", "score": 13 },
+        { "id": "tarun", "score": 9 }
+      ],
+      "winner": "rony",
+      "method": "Majority",
+      "duration": "01:29:37",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/rony-v-tarun-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-027",
+      "week": 4,
+      "participants": [
+        { "id": "belbo", "score": 12 },
+        { "id": "tito", "score": 9 }
+      ],
+      "winner": "belbo",
+      "method": "Bingo",
+      "duration": "01:53:09",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/belbo-v-tito-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-028",
+      "week": 4,
+      "participants": [
+        { "id": "magnitude", "score": 13 },
+        { "id": "azdomiel", "score": 7 }
+      ],
+      "winner": "magnitude",
+      "method": "Majority",
+      "duration": "01:43:45",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/az-v-magnitude-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-029",
+      "week": 4,
+      "participants": [
+        { "id": "question-marks", "score": 10 },
+        { "id": "krispy", "score": 5 }
+      ],
+      "winner": "question-marks",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/question-v-krispy-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-030",
+      "week": 4,
+      "participants": [
+        { "id": "avery", "score": 6 },
+        { "id": "yosh", "score": 2 }
+      ],
+      "winner": "avery",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/aves-v-yosh-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-031",
+      "week": 4,
+      "participants": [
+        { "id": "goodietoshoes", "score": 11 },
+        { "id": "bedhead", "score": 5 }
+      ],
+      "winner": "goodietoshoes",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/bedhead-v-goosh-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-032",
+      "week": 4,
+      "participants": [
+        { "id": "tinybobcat", "score": 8 },
+        { "id": "themilkman", "score": 6 }
+      ],
+      "winner": "tinybobcat",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/bobcat-v-milkman-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-033",
+      "week": 4,
+      "participants": [
+        { "id": "arkham", "score": 11 },
+        { "id": "cubanmissle", "score": 6 }
+      ],
+      "winner": "arkham",
+      "method": "Bingo",
+      "duration": "01:47:49",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/arkham-v-cuban-week4.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-034",
+      "week": 5,
+      "participants": [
+        { "id": "azdomiel", "score": 9 },
+        { "id": "cubanmissle", "score": 4 }
+      ],
+      "winner": "azdomiel",
+      "method": "Bingo",
+      "duration": "01:29:51",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/az-v-cuban-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-035",
+      "week": 5,
+      "participants": [
+        { "id": "arkham", "score": 12 },
+        { "id": "tinybobcat", "score": 11 }
+      ],
+      "winner": "arkham",
+      "method": "Majority",
+      "duration": "02:10:55",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/arkham-v-bobcat-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-036",
+      "week": 5,
+      "participants": [
+        { "id": "rony", "score": 13 },
+        { "id": "psykg", "score": 5 }
+      ],
+      "winner": "rony",
+      "method": "Majority",
+      "duration": "01:42:07",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/rony-v-psykg-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-037",
+      "week": 5,
+      "participants": [
+        { "id": "mixed", "score": 13 },
+        { "id": "tito", "score": 2 }
+      ],
+      "winner": "mixed",
+      "method": "Majority",
+      "duration": "01:14:53",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/mixed-v-tito-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-038",
+      "week": 5,
+      "participants": [
+        { "id": "question-marks", "score": 11 },
+        { "id": "goodietoshoes", "score": 6 }
+      ],
+      "winner": "question-marks",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/marks-v-goosh-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-039",
+      "week": 5,
+      "participants": [
+        { "id": "vixus", "score": 9 },
+        { "id": "krispy", "score": 2 }
+      ],
+      "winner": "vixus",
+      "method": "Majority",
+      "duration": "01:02:23",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/vixus-v-krispy-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-040",
+      "week": 5,
+      "participants": [
+        { "id": "belbo", "score": 8 },
+        { "id": "yosh", "score": 0 }
+      ],
+      "winner": "belbo",
+      "method": "Bingo",
+      "duration": "01:05:43",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/belbo-v-yosh-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-041",
+      "week": 5,
+      "participants": [
+        { "id": "tarun", "score": 13 },
+        { "id": "avery", "score": 3 }
+      ],
+      "winner": "tarun",
+      "method": "Majority",
+      "duration": "01:56:47",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/tarun-v-aves-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-042",
+      "week": 5,
+      "participants": [
+        { "id": "bedhead", "score": 6 },
+        { "id": "themilkman", "score": 5 }
+      ],
+      "winner": "bedhead",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/bedhead-v-milkman-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-043",
+      "week": 5,
+      "participants": [
+        { "id": "jam", "score": 9 },
+        { "id": "magnitude", "score": 7 }
+      ],
+      "winner": "jam",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/jam-v-magnitude-week5.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-044",
+      "week": 6,
+      "participants": [
+        { "id": "tarun", "score": 13 },
+        { "id": "vixus", "score": 9 }
+      ],
+      "winner": "tarun",
+      "method": "Majority",
+      "duration": "01:51:05",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/vixus-v-tarun-week6.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-045",
+      "week": 6,
+      "participants": [
+        { "id": "rony", "score": 13 },
+        { "id": "magnitude", "score": 7 }
+      ],
+      "winner": "rony",
+      "method": "Majority",
+      "duration": "01:28:07",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/rony-v-magnitude-week6.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-046",
+      "week": 6,
+      "participants": [
+        { "id": "mixed", "score": 13 },
+        { "id": "question-marks", "score": 3 }
+      ],
+      "winner": "mixed",
+      "method": "Majority",
+      "duration": "01:14:04",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/marks-v-mixed-week6.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-047",
+      "week": 6,
+      "participants": [
+        { "id": "bedhead", "score": 8 },
+        { "id": "azdomiel", "score": 8 }
+      ],
+      "winner": "bedhead",
+      "method": "Bingo",
+      "duration": "01:45:58",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/bedhead-v-az-week6.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-048",
+      "week": 6,
+      "participants": [
+        { "id": "tinybobcat", "score": 13 },
+        { "id": "jam", "score": 10 }
+      ],
+      "winner": "tinybobcat",
+      "method": "Majority",
+      "duration": "01:53:42",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/bobcat-v-jam-week6.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-049",
+      "week": 6,
+      "participants": [
+        { "id": "arkham", "score": 13 },
+        { "id": "belbo", "score": 9 }
+      ],
+      "winner": "arkham",
+      "method": "Majority",
+      "duration": "01:26:21",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/arkham-v-belbo-week6.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-050",
+      "week": 6,
+      "participants": [
+        { "id": "themilkman", "score": 8 },
+        { "id": "yosh", "score": 3 }
+      ],
+      "winner": "themilkman",
+      "method": "Bingo",
+      "duration": "01:23:17",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/milk-v-yosh-week6.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-051",
+      "week": 7,
+      "participants": [
+        { "id": "yosh", "score": 6 },
+        { "id": "cubanmissle", "score": 5 }
+      ],
+      "winner": "yosh",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/yosh-v-cuban-week7.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-052",
+      "week": 7,
+      "participants": [
+        { "id": "magnitude", "score": 12 },
+        { "id": "bedhead", "score": 7 }
+      ],
+      "winner": "magnitude",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/magnitude-v-bedhead-week7.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-053",
+      "week": 7,
+      "participants": [
+        { "id": "vixus", "score": 12 },
+        { "id": "avery", "score": 3 }
+      ],
+      "winner": "vixus",
+      "method": "Bingo",
+      "duration": "01:18:30",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/vixus-v-aves-week7.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-054",
+      "week": 7,
+      "participants": [
+        { "id": "tinybobcat", "score": 10 },
+        { "id": "psykg", "score": 4 }
+      ],
+      "winner": "tinybobcat",
+      "method": "Bingo",
+      "duration": "01:37:25",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/bobcat-v-psykg-week7.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-055",
+      "week": 7,
+      "participants": [
+        { "id": "arkham", "score": 11 },
+        { "id": "tarun", "score": 6 }
+      ],
+      "winner": "arkham",
+      "method": "Bingo",
+      "duration": "01:03:57",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/arkham-v-tarun-week7.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-056",
+      "week": 7,
+      "participants": [
+        { "id": "themilkman", "score": 7 },
+        { "id": "question-marks", "score": 10 }
+      ],
+      "winner": "themilkman",
+      "method": "Bingo",
+      "duration": "01:32:34",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/milk-v-question-week7.png"
+      }
+    },
+    {
+      "id": "ess3-rookie-057",
+      "week": 7,
+      "participants": [
+        { "id": "mixed", "score": 13 },
+        { "id": "rony", "score": 7 }
+      ],
+      "winner": "mixed",
+      "method": "Majority",
+      "duration": "01:15:37",
+      "media": {
+        "vod": "",
+        "image": "/img/ESS3/Rookie/mixed-v-rony-week7.png"
+      }
+    }
+  ]
+}
