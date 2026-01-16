@@ -1,0 +1,77 @@
+{
+  "season": "ESS3",
+  "title": "Elden Squares Season 3",
+  "subtitle": "Champions • Awards • League Stats",
+
+  "leagues": [
+    {
+      "id": "golden-order",
+      "name": "Golden Order",
+      "winner": {
+        "title": "Golden Order Champion",
+        "name": "Wamp Wamp",
+        "teamOrRoster": "Strump & Wander",
+        "image": "/img/ESS3/GO/champs/wamp-wamp.png"
+      },
+      "route": "/ess3/golden-order",
+      "stats": {
+        "squaresMarked": 412,
+        "linesScored": 86
+      }
+    },
+    {
+      "id": "crucible",
+      "name": "Crucible",
+      "winner": {
+        "title": "Crucible Champion",
+        "name": "Jarvis",
+        "teamOrRoster": "",
+        "image": "/img/ESS3/CR/champs/jarvis.png"
+      },
+      "route": "/ess3/crucible",
+      "stats": {
+        "squaresMarked": 385,
+        "linesScored": 79
+      }
+    },
+    {
+      "id": "rookie-rumble",
+      "name": "Rookie Rumble",
+      "winner": {
+        "title": "Rookie Rumble Champion",
+        "name": "Lemon",
+        "teamOrRoster": "",
+        "image": "/img/ESS3/RR/champs/lemon.png"
+      },
+      "route": "/ess3/rookie-rumble",
+      "stats": {
+        "squaresMarked": 301,
+        "linesScored": 61
+      }
+    }
+  ],
+
+  "awards": [
+    {
+      "id": "mvp",
+      "name": "MVP",
+      "recipient": "Wander",
+      "description": "Most impactful performance across the season.",
+      "icon": "trophy"
+    },
+    {
+      "id": "clutch",
+      "name": "Clutch God",
+      "recipient": "Strump",
+      "description": "Biggest moments when it mattered most.",
+      "icon": "sparkles"
+    },
+    {
+      "id": "sniper",
+      "name": "Square Sniper",
+      "recipient": "Jarvis",
+      "description": "Most squares marked in a single week.",
+      "icon": "target"
+    }
+  ]
+}

@@ -75,7 +75,7 @@
     "id": "wander",
     "displayName": "Wander",
     "nickname": "Hates Bingo",
-    "profilePic": "",
+    "profilePic": "/img/profilePics/wanderProfilePic.png",
     "twitch": "https://www.twitch.tv/wander652",
     "currentLeague": "Golden Order",
     "currentSeason": "ESS3"
@@ -84,7 +84,7 @@
     "id": "strump",
     "displayName": "Strump",
     "nickname": "4:12 Precipi",
-    "profilePic": "",
+    "profilePic": "/img/profilePics/Strump.png",
     "twitch": "https://www.twitch.tv/strump1",
     "currentLeague": "Golden Order",
     "currentSeason": "ESS3"
@@ -327,7 +327,7 @@
     "id": "harv",
     "displayName": "Harv",
     "nickname": "",
-    "profilePic": "",
+    "profilePic": "/img/profilePics/harvProfilePic.png",
     "twitch": "https://www.twitch.tv/harvsouls",
     "currentLeague": "Crucible",
     "currentSeason": "ESS3"
@@ -336,7 +336,7 @@
     "id": "jxxman",
     "displayName": "Jxxman",
     "nickname": "",
-    "profilePic": "",
+    "profilePic": "/img/profilePics/jxxmanProfilePic.webp",
     "twitch": "https://www.twitch.tv/jxxman15167",
     "currentLeague": "Crucible",
     "currentSeason": "ESS3"
@@ -408,7 +408,7 @@
     "id": "rony",
     "displayName": "Rony",
     "nickname": "",
-    "profilePic": "",
+    "profilePic": "/img/profilePics/ronyProfilePic.jpeg",
     "twitch": "",
     "currentLeague": "Rookie",
     "currentSeason": "ESS3"
