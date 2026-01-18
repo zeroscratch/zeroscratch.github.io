@@ -4,7 +4,7 @@
   "participantType": "player",
   "format": "regularSeason",
   "individualMaxGamesPlayed": 5,
-  "playoffSlots": 4,
+  "playoffSlots": 6,
   "matches": [
     {
       "id": "scadu-anamnesis-001",
@@ -244,6 +244,96 @@
       "media": {
         "vod": "",
         "image": "/img/scadubingo/Anamnesis/kc-v-turtle-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-017",
+      "week": 2,
+      "participants": [
+        { "id": "jeff", "score": 9 },
+        { "id": "turtlebeard", "score": 4 }
+      ],
+      "winner": "jeff",
+      "method": "Bingo",
+      "duration": "01:07:13",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jeff-v-turtle-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-018",
+      "week": 2,
+      "participants": [
+        { "id": "fun", "score": 10 },
+        { "id": "rambler", "score": 4 }
+      ],
+      "winner": "fun",
+      "method": "Bingo",
+      "duration": "01:02:07",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/fun-v-rambler-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-019",
+      "week": 2,
+      "participants": [
+        { "id": "strump", "score": 13 },
+        { "id": "noya", "score": 12 }
+      ],
+      "winner": "strump",
+      "method": "Bingo",
+      "duration": "01:28:11",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/strump-v-noya-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-020",
+      "week": 2,
+      "participants": [
+        { "id": "jibbe", "score": 12 },
+        { "id": "josh", "score": 12 }
+      ],
+      "winner": "josh",
+      "method": "Majority",
+      "duration": "02:15:00",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jibbe-v-josh-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-021",
+      "week": 2,
+      "participants": [
+        { "id": "elymis", "score": 6 },
+        { "id": "jxxman", "score": 1 }
+      ],
+      "winner": "elymis",
+      "method": "Bingo",
+      "duration": "00:38:12",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/elymis-v-jxxman-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-022",
+      "week": 2,
+      "participants": [
+        { "id": "chewy", "score": 7 },
+        { "id": "fun", "score": 12 }
+      ],
+      "winner": "fun",
+      "method": "Bingo",
+      "duration": "01:18:12",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/fun-v-chewy-week2.png"
       }
     }
   ]
