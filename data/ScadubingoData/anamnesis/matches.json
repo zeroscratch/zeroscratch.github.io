@@ -425,21 +425,6 @@
         "vod": "",
         "image": "/img/scadubingo/Anamnesis/strump-v-josh-week2.png"
       }
-    },
-    {
-      "id": "scadu-anamnesis-029",
-      "week": 2,
-      "participants": [
-        { "id": "noya", "score": 9 },
-        { "id": "jibbe", "score": 5 }
-      ],
-      "winner": "noya",
-      "method": "Bingo",
-      "duration": "01:21:11",
-      "media": {
-        "vod": "",
-        "image": "/img/scadubingo/Anamnesis/noya-v-jibbe-week2.png"
-      }
     }
   ]
 }
