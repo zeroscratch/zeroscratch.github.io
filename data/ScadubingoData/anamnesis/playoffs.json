@@ -1,0 +1,157 @@
+{
+  "season": "Anamnesis",
+  "league": "Scadubingo",
+  "format": "single-elimination",
+  "rounds": [
+    {
+      "name": "Quarterfinals",
+      "series": [
+        {
+          "id": "QF-1",
+          "bestOf": 3,
+          "participants": [
+            "",
+            ""
+          ],
+          "games": [
+            {
+              "id": "QF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "", "score": 0 },
+                { "id": "", "score": 0 }
+              ],
+              "winner": "",
+              "method": "",
+              "duration": "00:00:00",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winner": ""
+        },
+        {
+          "id": "QF-2",
+          "bestOf": 3,
+          "participants": [
+            "",
+            ""
+          ],
+          "games": [
+            {
+              "id": "QF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "", "score": 0 },
+                { "id": "", "score": 0 }
+              ],
+              "winner": "",
+              "method": "",
+              "duration": "00:00:00",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winner": ""
+        }
+      ]
+    },
+    {
+      "name": "Semifinals",
+      "series": [
+        {
+          "id": "SF-1",
+          "bestOf": 1,
+          "participants": [
+            "strump",
+            ""
+          ],
+          "games": [
+            {
+              "id": "SF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "", "score": 0 },
+                { "id": "", "score": 0 }
+              ],
+              "winner": "",
+              "method": "",
+              "duration": "00:00:00",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winner": ""
+        },
+        {
+          "id": "SF-2",
+          "bestOf": 3,
+          "participants": [
+            "Josh",
+            ""
+          ],
+          "games": [
+            {
+              "id": "SF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "", "score": 0 },
+                { "id": "", "score": 0 }
+              ],
+              "winner": "",
+              "method": "",
+              "duration": "00:00:00",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winner": ""
+        }
+      ]
+    },
+    {
+      "name": "Finals",
+      "series": [
+        {
+          "id": "F",
+          "bestOf": 3,
+          "participants": [
+            "",
+            ""
+          ],
+          "games": [
+            {
+              "id": "F-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "", "score": 0 },
+                { "id": "", "score": 0 }
+              ],
+              "winner": "",
+              "method": "",
+              "duration": "00:00:00",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winner": ""
+        }
+      ]
+    }
+  ]
+}
