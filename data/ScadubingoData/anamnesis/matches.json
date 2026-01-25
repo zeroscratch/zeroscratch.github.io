@@ -500,6 +500,51 @@
         "vod": "",
         "image": "/img/scadubingo/Anamnesis/jxxman-v-thomas-week3.png"
       }
+    },
+    {
+      "id": "scadu-anamnesis-034",
+      "week": 3,
+      "participants": [
+        { "id": "jeff", "score": 13 },
+        { "id": "elymis", "score": 4 }
+      ],
+      "winner": "jeff",
+      "method": "Bingo",
+      "duration": "00:49:01",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jeff-v-elymis-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-035",
+      "week": 3,
+      "participants": [
+        { "id": "rambler", "score": 12 },
+        { "id": "kcbrazos", "score": 7 }
+      ],
+      "winner": "rambler",
+      "method": "Bingo",
+      "duration": "01:32:10",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/rambler-v-kc-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-036",
+      "week": 3,
+      "participants": [
+        { "id": "turtlebeard", "score": 13 },
+        { "id": "chewy", "score": 6 }
+      ],
+      "winner": "turtlebeard",
+      "method": "Bingo",
+      "duration": "01:22:53",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/turtle-v-chewy-week3.png"
+      }
     }
   ]
 }

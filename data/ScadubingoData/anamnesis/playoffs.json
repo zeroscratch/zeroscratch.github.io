@@ -8,10 +8,10 @@
       "series": [
         {
           "id": "QF-1",
-          "bestOf": 3,
+          "bestOf": 1,
           "participants": [
-            "",
-            ""
+            "jibbe",
+            "jeff"
           ],
           "games": [
             {
@@ -35,10 +35,10 @@
         },
         {
           "id": "QF-2",
-          "bestOf": 3,
+          "bestOf": 1,
           "participants": [
-            "",
-            ""
+            "fun",
+            "rambler"
           ],
           "games": [
             {
@@ -70,7 +70,7 @@
           "bestOf": 1,
           "participants": [
             "strump",
-            ""
+            "TBD"
           ],
           "games": [
             {
@@ -94,10 +94,10 @@
         },
         {
           "id": "SF-2",
-          "bestOf": 3,
+          "bestOf": 1,
           "participants": [
-            "Josh",
-            ""
+            "josh",
+            "TBD"
           ],
           "games": [
             {
@@ -126,10 +126,10 @@
       "series": [
         {
           "id": "F",
-          "bestOf": 3,
+          "bestOf": 1,
           "participants": [
-            "",
-            ""
+            "TBD",
+            "TBD"
           ],
           "games": [
             {

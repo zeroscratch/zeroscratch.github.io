@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as c}from"./index-DUEESiPZ.js";const t={},o={class:"divider"};function _(r,n){return c(),e("div",o)}const i=s(t,[["render",_],["__scopeId","data-v-bfec3076"]]),d="/assets/StarsEnding-BqER7W9D.jpg";export{i as D,d as _};
