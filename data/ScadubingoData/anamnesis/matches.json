@@ -374,7 +374,7 @@
         { "id": "kcbrazos", "score": 13 }
       ],
       "winner": "kcbrazos",
-      "method": "Majority",
+      "method": "Bingo",
       "duration": "02:03:57",
       "media": {
         "vod": "",
@@ -434,7 +434,7 @@
         { "id": "jibbe", "score": 13 }
       ],
       "winner": "jibbe",
-      "method": "Majority",
+      "method": "Bingo",
       "duration": "01:10:39",
       "media": {
         "vod": "",
@@ -449,7 +449,7 @@
         { "id": "fun", "score": 4 }
       ],
       "winner": "strump",
-      "method": "Majority",
+      "method": "Bingo",
       "duration": "01:08:31",
       "media": {
         "vod": "",
@@ -484,6 +484,21 @@
       "media": {
         "vod": "",
         "image": "/img/scadubingo/Anamnesis/dino-v-jibbe-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-033",
+      "week": 3,
+      "participants": [
+        { "id": "thomas", "score": 11 },
+        { "id": "jxxman", "score": 6 }
+      ],
+      "winner": "thomas",
+      "method": "Bingo",
+      "duration": "01:20:02",
+      "media": {
+        "vod": "",
+        "image": "/img/scadubingo/Anamnesis/jxxman-v-thomas-week3.png"
       }
     }
   ]
