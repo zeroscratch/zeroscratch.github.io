@@ -8,7 +8,7 @@
       "series": [
         {
           "id": "QF-1",
-          "bestOf": 1,
+          "bestOf": 3,
           "participants": [
             "jibbe",
             "jeff"
@@ -35,7 +35,7 @@
         },
         {
           "id": "QF-2",
-          "bestOf": 1,
+          "bestOf": 3,
           "participants": [
             "fun",
             "rambler"
@@ -67,7 +67,7 @@
       "series": [
         {
           "id": "SF-1",
-          "bestOf": 1,
+          "bestOf": 3,
           "participants": [
             "strump",
             "TBD"
@@ -94,7 +94,7 @@
         },
         {
           "id": "SF-2",
-          "bestOf": 1,
+          "bestOf": 3,
           "participants": [
             "josh",
             "TBD"
@@ -126,7 +126,7 @@
       "series": [
         {
           "id": "F",
-          "bestOf": 1,
+          "bestOf": 3,
           "participants": [
             "TBD",
             "TBD"
