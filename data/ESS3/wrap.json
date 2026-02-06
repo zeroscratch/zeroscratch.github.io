@@ -1,0 +1,32 @@
+{
+  "season": "ESS3",
+  "totals": {
+    "squaresClicked": 1200,
+    "matchesPlayed": 312,
+    "players": 64,
+    "divisions": 8
+  },
+  "divisions": [
+    { "id": "golden", "name": "Golden Order", "color": "#ffd66b", "squares": 420, "matches": 96, "players": 16, "wins": 52 },
+    { "id": "crucible", "name": "Crucible", "color": "#ff8a00", "squares": 310, "matches": 84, "players": 16, "wins": 44 },
+    { "id": "rookie", "name": "Rookie Rumble", "color": "#7dd3fc", "squares": 274, "matches": 72, "players": 16, "wins": 38 },
+    { "id": "scadu", "name": "Scadubingo", "color": "#a78bfa", "squares": 196, "matches": 60, "players": 16, "wins": 31 }
+  ],
+  "leaders": {
+    "topWins": { "name": "Rony", "value": 12, "note": "Most match wins" },
+    "topSquares": { "name": "Alex", "value": 98, "note": "Most squares completed" },
+    "bestWinRate": { "name": "Zebas", "value": 78, "note": "Win rate (%)", "unit": "%" },
+    "mostLines": { "name": "Jarvis", "value": 24, "note": "Most lines claimed" }
+  },
+  "barRace": {
+    "label": "Squares clicked by week",
+    "frames": [
+      { "label": "Week 1", "values": { "golden": 70, "crucible": 50, "rookie": 38, "scadu": 30 } },
+      { "label": "Week 2", "values": { "golden": 110, "crucible": 92, "rookie": 76, "scadu": 60 } },
+      { "label": "Week 3", "values": { "golden": 170, "crucible": 140, "rookie": 118, "scadu": 92 } },
+      { "label": "Week 4", "values": { "golden": 230, "crucible": 190, "rookie": 170, "scadu": 130 } },
+      { "label": "Final", "values": { "golden": 420, "crucible": 310, "rookie": 274, "scadu": 196 } }
+    ]
+  }
+}
+

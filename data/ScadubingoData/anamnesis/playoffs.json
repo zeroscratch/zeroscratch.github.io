@@ -18,20 +18,36 @@
               "id": "QF-1-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "", "score": 0 },
-                { "id": "", "score": 0 }
+                { "id": "jeff", "score": 6 },
+                { "id": "jibbe", "score": 2 }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "jeff",
+              "method": "Bingo",
+              "duration": "00:41:43",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/scadubingo/Anamnesis/jibbe-v-jeff-playoffs1.png"
+              }
+            },
+            {
+              "id": "QF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "jeff", "score": 13 },
+                { "id": "jibbe", "score": 8 }
+              ],
+              "winner": "jeff",
+              "method": "Majority",
+              "duration": "01:23:43",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": "/img/scadubingo/Anamnesis/jibbe-v-jeff-playoffs2.png"
               }
             }
           ],
-          "winner": ""
+          "winner": "jeff"
         },
         {
           "id": "QF-2",
@@ -70,7 +86,7 @@
           "bestOf": 3,
           "participants": [
             "strump",
-            "TBD"
+            "jeff"
           ],
           "games": [
             {
