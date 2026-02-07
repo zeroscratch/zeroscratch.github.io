@@ -61,20 +61,36 @@
               "id": "QF-2-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "", "score": 0 },
-                { "id": "", "score": 0 }
+                { "id": "fun", "score": 8 },
+                { "id": "rambler", "score": 6 }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "fun",
+              "method": "Bingo",
+              "duration": "01:03:57",
               "scheduledAt": "",
               "media": {
-                "vod": "",
-                "image": ""
+                "vod": "https://www.twitch.tv/videos/2691591881?t=00h09m48s",
+                "image": "/img/scadubingo/Anamnesis/fun-v-rambler-playoffs1.png"
+              }
+            },
+            {
+              "id": "QF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "fun", "score": 7 },
+                { "id": "rambler", "score": 5 }
+              ],
+              "winner": "fun",
+              "method": "Bingo",
+              "duration": "00:42:02",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2691591881?t=01h40m56s",
+                "image": "/img/scadubingo/Anamnesis/fun-v-rambler-playoffs2.png"
               }
             }
           ],
-          "winner": ""
+          "winner": "fun"
         }
       ]
     },
@@ -113,7 +129,7 @@
           "bestOf": 3,
           "participants": [
             "josh",
-            "TBD"
+            "fun"
           ],
           "games": [
             {
