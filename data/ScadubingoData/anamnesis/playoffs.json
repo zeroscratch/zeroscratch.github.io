@@ -109,16 +109,32 @@
               "id": "SF-1-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "", "score": 0 },
-                { "id": "", "score": 0 }
+                { "id": "strump", "score": 13 },
+                { "id": "jeff", "score": 12 }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "strump",
+              "method": "Majority",
+              "duration": "01:19:22",
               "scheduledAt": "",
               "media": {
-                "vod": "",
-                "image": ""
+                "vod": "https://www.twitch.tv/videos/2696868385?t=00h03m42s",
+                "image": "/img/scadubingo/Anamnesis/strump-v-jeff-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "strump", "score": 13 },
+                { "id": "jeff", "score": 5 }
+              ],
+              "winner": "strump",
+              "method": "Majority",
+              "duration": "01:11:27",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://www.twitch.tv/videos/2696868385?t=01h44m16s",
+                "image": "/img/scadubingo/Anamnesis/strump-v-jeff-playoffs2.png"
               }
             }
           ],
@@ -160,7 +176,7 @@
           "id": "F",
           "bestOf": 3,
           "participants": [
-            "TBD",
+            "strump",
             "TBD"
           ],
           "games": [
