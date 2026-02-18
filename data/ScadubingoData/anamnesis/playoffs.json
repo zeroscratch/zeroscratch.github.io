@@ -152,20 +152,36 @@
               "id": "SF-2-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "", "score": 0 },
-                { "id": "", "score": 0 }
+                { "id": "fun", "score": 13 },
+                { "id": "josh", "score": 11 }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "fun",
+              "method": "Majority",
+              "duration": "01:25:49",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/scadubingo/Anamnesis/fun-v-josh-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "fun", "score": 13 },
+                { "id": "josh", "score": 11 }
+              ],
+              "winner": "fun",
+              "method": "Majority",
+              "duration": "01:23:56",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": "/img/scadubingo/Anamnesis/fun-v-josh-playoffs2.png"
               }
             }
           ],
-          "winner": ""
+          "winner": "fun"
         }
       ]
     },
@@ -177,7 +193,7 @@
           "bestOf": 3,
           "participants": [
             "strump",
-            "TBD"
+            "fun"
           ],
           "games": [
             {
