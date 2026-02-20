@@ -1,0 +1,8 @@
+{
+  "timeline": [
+    { "step": 1, "team": "t1", "type": "",  "boardId": "b3", "at": 0 },
+    { "step": 2, "team": "t2", "type": "", "boardId": "b1", "at": 0 },
+    { "step": 3, "team": "t2", "type": "",  "boardId": "b5", "at": 0 },
+    { "step": 4, "team": "t1", "type": "", "boardId": "b2", "at": 0 }
+  ]
+}

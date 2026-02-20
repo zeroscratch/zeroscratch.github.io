@@ -1,0 +1,11 @@
+{
+  "team1Name": "Jarvis",
+  "team2Name": "Wamp Wamp",
+  "boards": [
+    { "id": "b1", "label": "Board 1", "seed": 12, "image": "/img/boards/b1.png" },
+    { "id": "b2", "label": "Board 2", "seed": 13, "image": "/img/boards/b2.png" },
+    { "id": "b3", "label": "Board 3", "seed": 14, "image": "/img/boards/b3.png" },
+    { "id": "b4", "label": "Board 4", "seed": 15, "image": "/img/boards/b4.png" },
+    { "id": "b5", "label": "Board 5", "seed": 16, "image": "/img/boards/b5.png" }
+  ]
+}
