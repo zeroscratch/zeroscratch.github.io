@@ -200,20 +200,52 @@
               "id": "F-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "", "score": 0 },
-                { "id": "", "score": 0 }
+                { "id": "strump", "score": 9 },
+                { "id": "fun", "score": 13 }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "fun",
+              "method": "Majority",
+              "duration": "01:22:24",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/scadubingo/Anamnesis/strump-v-fun-playoffs1.png"
+              }
+            },
+            {
+              "id": "F-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "strump", "score": 13 },
+                { "id": "fun", "score": 7 }
+              ],
+              "winner": "strump",
+              "method": "Majority",
+              "duration": "01:26:59",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": "/img/scadubingo/Anamnesis/strump-v-fun-playoffs2.png"
+              }
+            },
+            {
+              "id": "F-G3",
+              "gameNumber": 3,
+              "participants": [
+                { "id": "strump", "score": 3 },
+                { "id": "fun", "score": 7 }
+              ],
+              "winner": "fun",
+              "method": "Bingo",
+              "duration": "00:45:32",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": "/img/scadubingo/Anamnesis/strump-v-fun-playoffs3.png"
               }
             }
           ],
-          "winner": ""
+          "winner": "fun"
         }
       ]
     }
