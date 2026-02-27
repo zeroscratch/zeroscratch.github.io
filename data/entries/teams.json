@@ -108,5 +108,45 @@
     "id": "pandara-ESS3Crucible",
     "displayName": "Pandara",
     "playoffsQualified": "no"
+  },
+  "tuffKnuckles-MC1": {
+    "id": "tuffKnuckles-MC1",
+    "displayName": "Tuff Knuckles",
+    "playoffsQualified": "no"
+  },
+  "the-MC1": {
+    "id": "the-MC1",
+    "displayName": "THE",
+    "playoffsQualified": "no"
+  },
+  "mog-MC1": {
+    "id": "mog-MC1",
+    "displayName": "MOG Right Now",
+    "playoffsQualified": "no"
+  },
+  "cliff-MC1": {
+    "id": "cliff-MC1",
+    "displayName": "Cliff JUMPers",
+    "playoffsQualified": "no"
+  },
+  "chima-MC1": {
+    "id": "chima-MC1",
+    "displayName": "Chima ne ff pas stp",
+    "playoffsQualified": "no"
+  },
+  "funjeff-MC1": {
+    "id": "funjeff-MC1",
+    "displayName": "Fff/Fuqed",
+    "playoffsQualified": "no"
+  },
+  "pig-MC1": {
+    "id": "pig-MC1",
+    "displayName": "Pig and The Chin",
+    "playoffsQualified": "no"
+  },
+  "animeFighters-MC1": {
+    "id": "animeFighters-MC1",
+    "displayName": "Anime Fighters",
+    "playoffsQualified": "no"
   }
 }

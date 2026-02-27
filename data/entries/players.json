@@ -601,5 +601,23 @@
     "twitch": "https://www.twitch.tv/jeffqed",
     "currentLeague": "",
     "currentSeason": ""
+  },
+  "nartock": {
+    "id": "nartock",
+    "displayName": "Nartock",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "https://www.twitch.tv/nartock_",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "chima": {
+    "id": "chima",
+    "displayName": "Chima",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
   }
 }
