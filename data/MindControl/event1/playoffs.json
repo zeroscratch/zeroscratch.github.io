@@ -18,20 +18,20 @@
               "id": "QF-1-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "", "score": 0 },
-                { "id": "", "score": 0 }
+                { "id": "tuffKnuckles-MC1", "score": 13 },
+                { "id": "pig-MC1", "score": 11 }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "tuffKnuckles-MC1",
+              "method": "Majority",
+              "duration": "01:30:35",
               "scheduledAt": "2/27/2026 12:00:00 UTC",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/mindcontrol/tuff-v-pig-quarterfinals.png"
               }
             }
           ],
-          "winner": ""
+          "winner": "tuffKnuckles-MC1"
         },
         {
           "id": "QF-2",
@@ -72,20 +72,20 @@
               "id": "QF-3-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "TBD", "score": 0 },
-                { "id": "TBD", "score": 0 }
+                { "id": "the-MC1", "score": 11 },
+                { "id": "funjeff-MC1", "score": 13 }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "funjeff-MC1",
+              "method": "Majority",
+              "duration": "01:30:03",
               "scheduledAt": "2/27/2026 13:00:00 UTC",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/mindcontrol/the-v-fff-quarterfinals.png"
               }
             }
           ],
-          "winner": ""
+          "winner": "funjeff-MC1"
         },
         {
           "id": "QF-4",
@@ -123,7 +123,7 @@
           "id": "SF-1",
           "bestOf": 1,
           "participants": [
-            "TBD",
+            "tuffKnuckles-MC1",
             "TBD"
           ],
           "games": [
@@ -150,7 +150,7 @@
           "id": "SF-2",
           "bestOf": 1,
           "participants": [
-            "TBD",
+            "funjeff-MC1",
             "TBD"
           ],
           "games": [
