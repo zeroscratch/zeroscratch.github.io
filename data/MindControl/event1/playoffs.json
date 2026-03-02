@@ -190,20 +190,20 @@
               "id": "F-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "tuffKnuckles-MC1", "score": 0  },
-                { "id": "cliff-MC1", "score": 0  }
+                { "id": "tuffKnuckles-MC1", "score": 13  },
+                { "id": "cliff-MC1", "score": 11  }
               ],
-              "winner": "",
-              "method": "",
-              "duration": "00:00:00",
+              "winner": "tuffKnuckles-MC1",
+              "method": "Majority",
+              "duration": "01:51:04",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/mindcontrol/tuff-v-jump-finals.png"
               }
             }
           ],
-          "winner": ""
+          "winner": "tuffKnuckles-MC1"
         }
       ]
     }
