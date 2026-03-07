@@ -1,0 +1,89 @@
+{
+  "Card-1": {
+    "title": "Elden Squares Season 3 Wrap",
+    "subtitle": "Veilbreak's Inaguration",
+    "totals": {
+      "squaresClicked": 1200,
+      "bingoLines": 40,
+      "matchesPlayed": 312,
+      "players": 64,
+      "divisions": 3
+    }
+  },
+  "Card-2": {
+    "title": "Divisional Split",
+    "subtitle": "Both Golden Order and Crucible Divisions Played Veilbreak, while our Rookie Division played Base Game Singles",
+    "division": {
+      "goldenOrder":  { "name": "Golden Order",  "color": "#ffd66b",  "squares": 420, "bingoLines": 52, "matches": 96, "players": 16  },
+      "crucible":     { "name": "Crucible",      "color": "#ff8a00",  "squares": 310, "bingoLines": 44, "matches": 84, "players": 16  },
+      "rookieRumble": { "name": "Rookie Rumble", "color": "#7dd3fc",  "squares": 274, "bingoLines": 38, "matches": 72, "players": 16  }
+    }
+  },
+  "Card-3": {
+    "title": "Regular Season Sqaure Enjoyers",
+    "subtitle": "These Players ended up completing the Most Squares",
+    "squareLeaders": {
+      "goldenOrder": { 
+        "teamName": "Budget Team Hitless", 
+        "player1": { "name": "Cronys", "nickname": "Hitless?", "profile-pic": "", "twitch": "https://www.twitch.tv/cronys02" }, 
+        "player2": { "name": "Lemon", "nickname": "Spectator", "profile-pic": "", "twitch": "https://www.twitch.tv/l3m0_n" },
+        "squares": 34
+      },
+      "crucible": {
+        "teamName": "Rick Fister's",
+        "player1": { "name": "Josh", "nickname": "Messmer <3", "profile-pic": "", "twitch": "https://www.twitch.tv/joshtilde_" },
+        "player2": { "name": "Daggar97", "nickname": "Of the South", "profile-pic": "", "twitch": "https://www.twitch.tv/daggar97" },
+        "squares": 544
+      },
+      "rookieRumble": {
+        "playerName": "Rony",
+        "profile-pic": "",
+        "squares": 132
+      }
+    }
+  },
+  "Card-5": {
+    "title": "Regular Season Bingo Enjoyers",
+    "subtitle": "These Players Loved to Bingo",
+    "squareLeaders": {
+      "goldenOrder": { 
+        "teamName": "Wamp Wamp", 
+        "player1": { "name": "Wander", "nickname": "Hates Bingo", "profile-pic": "", "twitch": "https://www.twitch.tv/wander652" }, 
+        "player2": { "name": "Strump", "nickname": "4:12 Precipi", "profile-pic": "", "twitch": "https://www.twitch.tv/strump1" },
+        "bingoLines": 5
+      },
+      "crucible": {
+        "teamName": "Gold But Old",
+        "player1": { "name": "NVCC Alex", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/latenightgamedev" },
+        "player2": { "name": "Jerzounek", "nickname": "", "profile-pic": "", "twitch": "https://www.twitch.tv/jerzounek" },
+        "bingoLines": 4
+      },
+      "rookieRumble": {
+        "firstTiedPlayer": { "playerName": "Rony", "profile-pic": "", "bingoLines": 4 },
+        "secondTiedPlayer": { "playerName": "Belbo", "profile-pic": "", "bingoLines": 4 }
+      }
+    }
+  },
+  "Card-7": {
+    "title": "Kindling Award",
+    "subtitle": "Lifetime Achievement for Contributions to Bingo",
+    "player": "Rambler",
+    "twitch": "https://www.twitch.tv/rambler_ing",
+    "team" : "Old But Gold"
+  },
+  "Card-8": {
+    "title": "DAWG Award",
+    "subtitle": "The Player who had the DAWG in them throughout the Season",
+    "player": "Nessonetta",
+    "twitch": "https://www.twitch.tv/nessonetta",
+    "team" : "TruthfulNess"
+  },
+  "Card-9": {
+    "title": "Best Copy Pasta",
+    "subtitle": "Some of the Best Copy Pasta's Where introduced this Season",
+    "player": "Rambler",
+    "twitch": "https://www.twitch.tv/rambler_ing",
+    "team" : "Old But Gold",
+    "CopyPasta": ""
+  }
+}

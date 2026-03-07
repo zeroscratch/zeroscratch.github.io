@@ -25,7 +25,7 @@
       { "label": "Week 2", "values": { "golden": 110, "crucible": 92, "rookie": 76, "scadu": 60 } },
       { "label": "Week 3", "values": { "golden": 170, "crucible": 140, "rookie": 118, "scadu": 92 } },
       { "label": "Week 4", "values": { "golden": 230, "crucible": 190, "rookie": 170, "scadu": 130 } },
-      { "label": "Final", "values": { "golden": 420, "crucible": 310, "rookie": 274, "scadu": 196 } }
+      { "label": "Final", "values":  { "golden": 420, "crucible": 310, "rookie": 274, "scadu": 196 } }
     ]
   }
 }
