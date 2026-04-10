@@ -1,6 +1,30 @@
 [
   {
-    "id": 1,
+  "id": 1,
+  "title": "Interview: Coach Rambler of Dazed & Lazy",
+  "author": "Mrs. Reporter",
+  "date": "2026-04-06",
+  "category": "Interview",
+  "excerpt": "Coach Rambler discusses contract rumors, Dazed & Lazy, Coach Lemon, The Book of War, and the speculation around Helios and Shaker.",
+  "content": "Q: You are the highest-paid coach in the VCC right now according to your team, Dazed & Lazy. How does it feel being so sought after?\n\nA: My agent deals with details like that, on to Cincinatti.\n\nQ: Why did you go with Dazed & Lazy after all the bidding wars between the teams were done?\n\nA: The dream of any coach is to coach winners and they will be tired of winning before the end of my contract.\n\nQ: The Book of War has been teased to the public for a while now. Will it ever reach the public's eyes or is it meant to be kept a secret for your students?\n\nA: I spoke to my friend George RR Martin about it and we decided to switch responsibilities. He will answer about the Book of War, I will answer about Winds of Winter. Arya's chapters are almost done.\n\nQ: Team Brand Risk is your next matchup. Is there any preparation to go up against the current VCC champion Coach Lemon?\n\nA: I have enormous respect for Coach Lemon and his schemes, but there is a reason why the organizers had to change the rules after that tournament, right? Just saying, we are prepared for everything.\n\nQ: Last but not least, there were rumors that Shaker was to be on the team instead of Helios. We actually don't know much about Helios and have never seen him and Shaker in the same room. Can you enlighten us on what went down last minute when the roster was finalized, because as we know the VCC coach has to sign off on the team?\n\nA: I can neither confirm nor deny anything about this story except one thing: Shaker will be proud of Helios like I am every day in practice."
+},
+{
+  "id": 6,
+  "title": "Vex Leaves Globo Purple, Eliminating Them from the VCC",
+  "slug": "vex-leaves-globo-purple-eliminating-them-from-the-vcc",
+  "author": "Dr. Lau",
+  "date": "2026-04-10",
+  "category": "Roster News",
+  "featuredImage": "",
+  "excerpt": "Vex’s exit from Globo Purple has shaken up the VCC playoff picture, with contract tensions, Shaker’s influence, and new superteam rumors now dominating the conversation.",
+  "pullQuote": "With Globo Purple unable to meet Vex’s demands, the story has quickly shifted from one player’s rise to the possibility of Shaker building an entirely new power in the VCC.",
+  "quoteAttribution": "VCC Reporter",
+  "officialStatement": "",
+  "officialStatementAttribution": "",
+  "content": "Vex’s breakout performance has now led to one of the biggest roster shocks of the playoffs, as his departure from Globo Purple has effectively eliminated the organization from VCC contention.\n\nAccording to league rumors, Vex began looking for personal management after outperforming expectations, and after consulting with Shaker, pushed for a raise from Purple Cum Bugs that the organization could not provide. The development adds another chapter to a familiar story for Shaker, whose own first season ended with him being removed from a team that could no longer afford his salary.\n\nWhat followed turned Shaker into one of the most feared names in the VCC, as he went on to win the championship three seasons in a row. Now, with speculation building around Vex’s future, rumors are growing that Shaker may be interested in teaming up with him. And with Shaker widely believed to have the resources to build an organization of his own, the possibility of a new power project entering the next VCC season is starting to feel very real."
+},
+  {
+    "id": 5,
     "title": "Brand Risk vs Rick Fisters Interview",
     "slug": "brand-risk-vs-rick-fisters-interview",
     "author": "Mrs. Reporter",
