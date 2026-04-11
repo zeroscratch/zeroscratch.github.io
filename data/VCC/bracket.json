@@ -27,7 +27,7 @@
     ],
     "roundOf16Right": [
       { "id": "r16-r-1", "team1_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274", "team2_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b", "scheduled_at": "", "team1_score": 2, "team2_score": 0 },
-      { "id": "r16-r-2", "team1_id": "19963a7e-958a-453e-9830-b917ffc44c16", "team2_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a", "scheduled_at": "", "team1_score": 0, "team2_score": 2 },
+      { "id": "r16-r-2", "team1_id": "19963a7e-958a-453e-9830-b917ffc44c16", "team2_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a", "scheduled_at": "", "team1_score": 1, "team2_score": 2 },
       { "id": "r16-r-3", "team1_id": "998251c0-925d-4a02-be22-d968f25bb6f7", "team2_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543", "scheduled_at": "", "team1_score": 0, "team2_score": 2 },
       { "id": "r16-r-4", "team1_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2", "team2_id": "cb24c423-dbab-4d98-975d-f6b7a8532645", "scheduled_at": "", "team1_score": 0, "team2_score": 2 }
     ]
