@@ -9,11 +9,11 @@
       { "id": "r16-l-4", "team1_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877", "team2_id": "deeb49f6-5507-46cc-813b-acebef60e55a", "scheduled_at": "", "team1_score": 0, "team2_score": 2 }
     ],
     "quarterfinalsLeft": [
-      { "id": "qf-l-1", "team1_id": "1df56fa9-cf63-45ab-873c-e608034a96f6", "team2_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78", "scheduled_at": "2026-04-17T18:00:00Z", "team1_score": 1, "team2_score": null },
+      { "id": "qf-l-1", "team1_id": "1df56fa9-cf63-45ab-873c-e608034a96f6", "team2_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78", "scheduled_at": "2026-04-17T18:00:00Z", "team1_score": 2, "team2_score": 0 },
       { "id": "qf-l-2", "team1_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e", "team2_id": "deeb49f6-5507-46cc-813b-acebef60e55a", "scheduled_at": "2026-04-17T20:00:00Z", "team1_score": 2, "team2_score": 0 }
     ],
     "semifinalsLeft": [
-      { "id": "sf-l-1", "team1_id": null, "team2_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e", "scheduled_at": "2026-04-24T19:00:00Z", "team1_score": null, "team2_score": null }
+      { "id": "sf-l-1", "team1_id": "1df56fa9-cf63-45ab-873c-e608034a96f6", "team2_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e", "scheduled_at": "2026-04-24T19:00:00Z", "team1_score": null, "team2_score": null }
     ],
     "finals": [
       { "id": "f-1", "team1_id": null, "team2_id": null, "scheduled_at": "2026-05-01T19:00:00Z", "team1_score": null, "team2_score": null }
