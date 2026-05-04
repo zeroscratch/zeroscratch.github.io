@@ -10,6 +10,21 @@
       "id": "rookie-001",
       "week": 1,
       "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "exiyte", "score": 9 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:48:35",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-exiyte-week1.png"
+      }
+    },
+    {
+      "id": "rookie-002",
+      "week": 1,
+      "participants": [
         { "id": "alex", "score": 0 },
         { "id": "vicas", "score": 0 }
       ],
@@ -22,7 +37,7 @@
       }
     },
     {
-      "id": "rookie-002",
+      "id": "rookie-003",
       "week": 1,
       "participants": [
         { "id": "bryan", "score": 0 },
@@ -37,7 +52,7 @@
       }
     },
     {
-      "id": "rookie-003",
+      "id": "rookie-004",
       "week": 1,
       "participants": [
         { "id": "elayne", "score": 0 },
@@ -52,7 +67,7 @@
       }
     },
     {
-      "id": "rookie-004",
+      "id": "rookie-005",
       "week": 1,
       "participants": [
         { "id": "daniel", "score": 0 },
@@ -67,7 +82,7 @@
       }
     },
     {
-      "id": "rookie-005",
+      "id": "rookie-006",
       "week": 1,
       "participants": [
         { "id": "daniel", "score": 0 },
@@ -82,7 +97,7 @@
       }
     },
     {
-      "id": "rookie-006",
+      "id": "rookie-007",
       "week": 1,
       "participants": [
         { "id": "gamegit", "score": 0 },
@@ -97,7 +112,7 @@
       }
     },
     {
-      "id": "rookie-007",
+      "id": "rookie-008",
       "week": 1,
       "participants": [
         { "id": "bogie", "score": 0 },
@@ -112,7 +127,7 @@
       }
     },
     {
-      "id": "rookie-008",
+      "id": "rookie-009",
       "week": 1,
       "participants": [
         { "id": "gamegit", "score": 0 },
@@ -127,25 +142,10 @@
       }
     },
     {
-      "id": "rookie-009",
-      "week": 1,
-      "participants": [
-        { "id": "elayne", "score": 0 },
-        { "id": "chima", "score": 0 }
-      ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
-      "media": {
-        "vod": "",
-        "image": ""
-      }
-    },
-    {
       "id": "rookie-010",
       "week": 1,
       "participants": [
-        { "id": "jayce", "score": 0 },
+        { "id": "elayne", "score": 0 },
         { "id": "chima", "score": 0 }
       ],
       "winner": "",
@@ -161,7 +161,7 @@
       "week": 1,
       "participants": [
         { "id": "jayce", "score": 0 },
-        { "id": "exiyte", "score": 0 }
+        { "id": "chima", "score": 0 }
       ],
       "winner": "",
       "method": "",

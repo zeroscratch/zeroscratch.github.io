@@ -634,7 +634,7 @@
     "displayName": "Vicas",
     "nickname": "",
     "profilePic": "",
-    "twitch": "",
+    "twitch": "https://twitch.tv/vicas3",
     "currentLeague": "",
     "currentSeason": ""
   },
@@ -649,10 +649,10 @@
   },
   "maybeminnow": {
     "id": "maybeminnow",
-    "displayName": "Maybeminnow",
+    "displayName": "Maybe",
     "nickname": "",
     "profilePic": "",
-    "twitch": "",
+    "twitch": "https://www.twitch.tv/maybeminnow",
     "currentLeague": "",
     "currentSeason": ""
   },
@@ -685,10 +685,10 @@
   },
   "uncl": {
     "id": "uncl",
-    "displayName": "Uncl",
+    "displayName": "UncleG",
     "nickname": "",
     "profilePic": "",
-    "twitch": "",
+    "twitch": "https://www.twitch.tv/uncl3g84",
     "currentLeague": "",
     "currentSeason": ""
   },
