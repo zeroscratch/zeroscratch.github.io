@@ -619,5 +619,104 @@
     "twitch": "",
     "currentLeague": "",
     "currentSeason": ""
+  },
+  "alex": {
+    "id": "alex",
+    "displayName": "Alex",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "vicas": {
+    "id": "vicas",
+    "displayName": "Vicas",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "bryan": {
+    "id": "bryan",
+    "displayName": "Bryan",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "maybeminnow": {
+    "id": "maybeminnow",
+    "displayName": "Maybeminnow",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "elayne": {
+    "id": "elayne",
+    "displayName": "Elayne",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "daniel": {
+    "id": "daniel",
+    "displayName": "Daniel",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "gamegit": {
+    "id": "gamegit",
+    "displayName": "Gamegit",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "uncl": {
+    "id": "uncl",
+    "displayName": "Uncl",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "bogie": {
+    "id": "bogie",
+    "displayName": "Bogie",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "jayce": {
+    "id": "jayce",
+    "displayName": "Jayce",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "exiyte": {
+    "id": "exiyte",
+    "displayName": "Exiyte",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
   }
 }

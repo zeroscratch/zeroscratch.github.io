@@ -1,0 +1,175 @@
+{
+  "season": "RookieRumbleOffseason",
+  "league": "Rookie",
+  "participantType": "player",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 12,
+  "playoffSlots": 4,
+  "matches": [
+    {
+      "id": "rookie-001",
+      "week": 1,
+      "participants": [
+        { "id": "alex", "score": 0 },
+        { "id": "vicas", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-002",
+      "week": 1,
+      "participants": [
+        { "id": "bryan", "score": 0 },
+        { "id": "maybeminnow", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-003",
+      "week": 1,
+      "participants": [
+        { "id": "elayne", "score": 0 },
+        { "id": "bogie", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-004",
+      "week": 1,
+      "participants": [
+        { "id": "daniel", "score": 0 },
+        { "id": "maybeminnow", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-005",
+      "week": 1,
+      "participants": [
+        { "id": "daniel", "score": 0 },
+        { "id": "bryan", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-006",
+      "week": 1,
+      "participants": [
+        { "id": "gamegit", "score": 0 },
+        { "id": "vicas", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-007",
+      "week": 1,
+      "participants": [
+        { "id": "bogie", "score": 0 },
+        { "id": "uncl", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-008",
+      "week": 1,
+      "participants": [
+        { "id": "gamegit", "score": 0 },
+        { "id": "alex", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-009",
+      "week": 1,
+      "participants": [
+        { "id": "elayne", "score": 0 },
+        { "id": "chima", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-010",
+      "week": 1,
+      "participants": [
+        { "id": "jayce", "score": 0 },
+        { "id": "chima", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    },
+    {
+      "id": "rookie-011",
+      "week": 1,
+      "participants": [
+        { "id": "jayce", "score": 0 },
+        { "id": "exiyte", "score": 0 }
+      ],
+      "winner": "",
+      "method": "",
+      "duration": "00:00:00",
+      "media": {
+        "vod": "",
+        "image": ""
+      }
+    }
+  ]
+}
