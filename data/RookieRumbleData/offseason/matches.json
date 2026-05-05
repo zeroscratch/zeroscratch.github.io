@@ -25,15 +25,15 @@
       "id": "rookie-002",
       "week": 1,
       "participants": [
-        { "id": "alex", "score": 0 },
-        { "id": "vicas", "score": 0 }
+        { "id": "vicas", "score": 13 },
+        { "id": "alex", "score": 9 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "vicas",
+      "method": "Majority",
+      "duration": "01:37:48",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/vicas-v-alex-week1.png"
       }
     },
     {
