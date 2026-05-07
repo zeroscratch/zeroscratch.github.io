@@ -40,19 +40,34 @@
       "id": "rookie-003",
       "week": 1,
       "participants": [
-        { "id": "bryan", "score": 0 },
-        { "id": "maybeminnow", "score": 0 }
+        { "id": "chima", "score": 13 },
+        { "id": "exiyte", "score": 10 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "chima",
+      "method": "Majority",
+      "duration": "01:43:13",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/exiyte-v-chima-week1.png"
       }
     },
     {
       "id": "rookie-004",
+      "week": 1,
+      "participants": [
+        { "id": "maybeminnow", "score": 9 },
+        { "id": "bryan", "score": 4 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:13:29",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/maybe-v-bryan-week1.png"
+      }
+    },
+    {
+      "id": "rookie-005",
       "week": 1,
       "participants": [
         { "id": "elayne", "score": 0 },
@@ -67,7 +82,7 @@
       }
     },
     {
-      "id": "rookie-005",
+      "id": "rookie-006",
       "week": 1,
       "participants": [
         { "id": "daniel", "score": 0 },
@@ -82,7 +97,7 @@
       }
     },
     {
-      "id": "rookie-006",
+      "id": "rookie-007",
       "week": 1,
       "participants": [
         { "id": "daniel", "score": 0 },
@@ -97,7 +112,7 @@
       }
     },
     {
-      "id": "rookie-007",
+      "id": "rookie-008",
       "week": 1,
       "participants": [
         { "id": "gamegit", "score": 0 },
@@ -112,7 +127,7 @@
       }
     },
     {
-      "id": "rookie-008",
+      "id": "rookie-009",
       "week": 1,
       "participants": [
         { "id": "bogie", "score": 0 },
@@ -127,7 +142,7 @@
       }
     },
     {
-      "id": "rookie-009",
+      "id": "rookie-010",
       "week": 1,
       "participants": [
         { "id": "gamegit", "score": 0 },
@@ -142,7 +157,7 @@
       }
     },
     {
-      "id": "rookie-010",
+      "id": "rookie-011",
       "week": 1,
       "participants": [
         { "id": "elayne", "score": 0 },
@@ -157,7 +172,7 @@
       }
     },
     {
-      "id": "rookie-011",
+      "id": "rookie-012",
       "week": 1,
       "participants": [
         { "id": "jayce", "score": 0 },
