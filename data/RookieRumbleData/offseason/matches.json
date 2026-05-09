@@ -85,60 +85,60 @@
       "id": "rookie-006",
       "week": 1,
       "participants": [
-        { "id": "elayne", "score": 0 },
-        { "id": "bogie", "score": 0 }
+        { "id": "bogie", "score": 13 },
+        { "id": "elayne", "score": 9 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "bogie",
+      "method": "Majority",
+      "duration": "01:55:58",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/bogie-v-elayne-week1.png"
       }
     },
     {
       "id": "rookie-007",
       "week": 1,
       "participants": [
-        { "id": "daniel", "score": 0 },
-        { "id": "maybeminnow", "score": 0 }
+        { "id": "daniel", "score": 13 },
+        { "id": "maybeminnow", "score": 9 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "daniel",
+      "method": "Majority",
+      "duration": "01:35:38",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/daniel-v-maybe-week1.png"
       }
     },
     {
       "id": "rookie-008",
       "week": 1,
       "participants": [
-        { "id": "daniel", "score": 0 },
-        { "id": "bryan", "score": 0 }
+        { "id": "bryan", "score": 11 },
+        { "id": "daniel", "score": 7 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "bryan",
+      "method": "Bingo",
+      "duration": "01:23:29",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/bryan-v-daniel-week1.png"
       }
     },
     {
       "id": "rookie-009",
       "week": 1,
       "participants": [
-        { "id": "gamegit", "score": 0 },
-        { "id": "vicas", "score": 0 }
+        { "id": "gamegit", "score": 13 },
+        { "id": "vicas", "score": 12 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:33:18",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/game-v-vicas-week1.png"
       }
     },
     {
