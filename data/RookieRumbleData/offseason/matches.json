@@ -145,45 +145,45 @@
       "id": "rookie-010",
       "week": 1,
       "participants": [
-        { "id": "bogie", "score": 0 },
-        { "id": "uncl", "score": 0 }
+        { "id": "uncl", "score": 11 },
+        { "id": "bogie", "score": 8 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "uncl",
+      "method": "Bingo",
+      "duration": "01:26:13",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/bogie-v-uncle-week1.png"
       }
     },
     {
       "id": "rookie-011",
       "week": 1,
       "participants": [
-        { "id": "gamegit", "score": 0 },
-        { "id": "alex", "score": 0 }
+        { "id": "gamegit", "score": 13 },
+        { "id": "alex", "score": 8 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:29:04",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/game-v-alex-week1.png"
       }
     },
     {
       "id": "rookie-012",
       "week": 1,
       "participants": [
-        { "id": "elayne", "score": 0 },
-        { "id": "chima", "score": 0 }
+        { "id": "uncl", "score": 12 },
+        { "id": "elayne", "score": 6 }
       ],
-      "winner": "",
-      "method": "",
-      "duration": "00:00:00",
+      "winner": "uncl",
+      "method": "Bingo",
+      "duration": "01:42:39",
       "media": {
         "vod": "",
-        "image": ""
+        "image": "/img/rookie/offseason/uncle-v-elayne-week1.png"
       }
     }
   ]
