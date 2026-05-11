@@ -718,5 +718,23 @@
     "twitch": "",
     "currentLeague": "",
     "currentSeason": ""
+  },
+  "okami": {
+    "id": "okami",
+    "displayName": "Okami",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
+  },
+  "ilmarinen": {
+    "id": "ilmarinen",
+    "displayName": "Ilmarinen",
+    "nickname": "",
+    "profilePic": "",
+    "twitch": "",
+    "currentLeague": "",
+    "currentSeason": ""
   }
 }

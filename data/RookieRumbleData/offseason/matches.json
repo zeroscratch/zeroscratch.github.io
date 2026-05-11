@@ -145,11 +145,11 @@
       "id": "rookie-010",
       "week": 1,
       "participants": [
-        { "id": "uncl", "score": 11 },
+        { "id": "uncl", "score": 13 },
         { "id": "bogie", "score": 8 }
       ],
       "winner": "uncl",
-      "method": "Bingo",
+      "method": "Majority",
       "duration": "01:26:13",
       "media": {
         "vod": "",
