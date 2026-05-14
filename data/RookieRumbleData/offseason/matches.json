@@ -145,7 +145,7 @@
       "id": "rookie-010",
       "week": 1,
       "participants": [
-        { "id": "uncl", "score": 13 },
+        { "id": "uncl", "score": 11 },
         { "id": "bogie", "score": 8 }
       ],
       "winner": "uncl",
@@ -184,6 +184,36 @@
       "media": {
         "vod": "",
         "image": "/img/rookie/offseason/uncle-v-elayne-week1.png"
+      }
+    },
+    {
+      "id": "rookie-013",
+      "week": 2,
+      "participants": [
+        { "id": "chima", "score": 9 },
+        { "id": "ilmarinen", "score": 0 }
+      ],
+      "winner": "chima",
+      "method": "Bingo",
+      "duration": "01:11:25",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/chima-v-ilmarinen-week2.png"
+      }
+    },
+    {
+      "id": "rookie-014",
+      "week": 2,
+      "participants": [
+        { "id": "bryan", "score": 7 },
+        { "id": "elayne", "score": 3 }
+      ],
+      "winner": "bryan",
+      "method": "Bingo",
+      "duration": "01:10:33",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/bryan-v-elayne-week2.png"
       }
     }
   ]
