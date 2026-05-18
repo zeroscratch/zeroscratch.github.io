@@ -265,21 +265,6 @@
       "id": "rookie-018",
       "week": 2,
       "participants": [
-        { "id": "jayce", "score": 7 },
-        { "id": "uncl", "score": 4 }
-      ],
-      "winner": "jayce",
-      "method": "Bingo",
-      "duration": "00:49:22",
-      "media": {
-        "vod": "",
-        "image": "/img/rookie/offseason/jayce-v-uncl-week2.png"
-      }
-    },
-    {
-      "id": "rookie-019",
-      "week": 2,
-      "participants": [
         { "id": "vicas", "score": 13 },
         { "id": "chima", "score": 9 }
       ],
@@ -292,7 +277,7 @@
       }
     },
     {
-      "id": "rookie-020",
+      "id": "rookie-019",
       "week": 2,
       "participants": [
         { "id": "maybeminnow", "score": 10 },
@@ -307,7 +292,7 @@
       }
     },
     {
-      "id": "rookie-021",
+      "id": "rookie-020",
       "week": 2,
       "participants": [
         { "id": "vicas", "score": 6 },
@@ -322,7 +307,7 @@
       }
     },
     {
-      "id": "rookie-022",
+      "id": "rookie-021",
       "week": 2,
       "participants": [
         { "id": "maybeminnow", "score": 12 },
@@ -337,7 +322,7 @@
       }
     },
     {
-      "id": "rookie-023",
+      "id": "rookie-022",
       "week": 2,
       "participants": [
         { "id": "daniel", "score": 11 },
@@ -352,7 +337,7 @@
       }
     },
     {
-      "id": "rookie-024",
+      "id": "rookie-023",
       "week": 2,
       "participants": [
         { "id": "gamegit", "score": 10 },
@@ -367,7 +352,7 @@
       }
     },
     {
-      "id": "rookie-025",
+      "id": "rookie-024",
       "week": 2,
       "participants": [
         { "id": "alex", "score": 10 },
