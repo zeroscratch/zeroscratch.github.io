@@ -215,6 +215,171 @@
         "vod": "",
         "image": "/img/rookie/offseason/bryan-v-elayne-week2.png"
       }
+    },
+    {
+      "id": "rookie-015",
+      "week": 2,
+      "participants": [
+        { "id": "daniel", "score": 11 },
+        { "id": "okami", "score": 5 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "01:19:55",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/daniel-v-okami-week2.png"
+      }
+    },
+    {
+      "id": "rookie-016",
+      "week": 2,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "uncl", "score": 4 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:15:29",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-uncl-week2.png"
+      }
+    },
+    {
+      "id": "rookie-017",
+      "week": 2,
+      "participants": [
+        { "id": "jayce", "score": 7 },
+        { "id": "uncl", "score": 4 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "00:49:22",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-uncl-week2.png"
+      }
+    },
+    {
+      "id": "rookie-018",
+      "week": 2,
+      "participants": [
+        { "id": "jayce", "score": 7 },
+        { "id": "uncl", "score": 4 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "00:49:22",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-uncl-week2.png"
+      }
+    },
+    {
+      "id": "rookie-019",
+      "week": 2,
+      "participants": [
+        { "id": "vicas", "score": 13 },
+        { "id": "chima", "score": 9 }
+      ],
+      "winner": "vicas",
+      "method": "Majority",
+      "duration": "01:50:44",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/vicas-v-chima-week2.png"
+      }
+    },
+    {
+      "id": "rookie-020",
+      "week": 2,
+      "participants": [
+        { "id": "maybeminnow", "score": 10 },
+        { "id": "elayne", "score": 3 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:18:55",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/maybe-v-elayne-week2.png"
+      }
+    },
+    {
+      "id": "rookie-021",
+      "week": 2,
+      "participants": [
+        { "id": "vicas", "score": 6 },
+        { "id": "ilmarinen", "score": 4 }
+      ],
+      "winner": "vicas",
+      "method": "Bingo",
+      "duration": "01:01:03",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/vicas-v-ilmarinen-week2.png"
+      }
+    },
+    {
+      "id": "rookie-022",
+      "week": 2,
+      "participants": [
+        { "id": "maybeminnow", "score": 12 },
+        { "id": "okami", "score": 8 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:01:03",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/maybe-v-okami-week2.png"
+      }
+    },
+    {
+      "id": "rookie-023",
+      "week": 2,
+      "participants": [
+        { "id": "daniel", "score": 11 },
+        { "id": "alex", "score": 3 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "01:08:02",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/daniel-v-alex-week2.png"
+      }
+    },
+    {
+      "id": "rookie-024",
+      "week": 2,
+      "participants": [
+        { "id": "gamegit", "score": 10 },
+        { "id": "jayce", "score": 12 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "01:23:45",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-game-week2.png"
+      }
+    },
+    {
+      "id": "rookie-025",
+      "week": 2,
+      "participants": [
+        { "id": "alex", "score": 10 },
+        { "id": "bryan", "score": 8 }
+      ],
+      "winner": "alex",
+      "method": "Bingo",
+      "duration": "01:13:10",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/alex-v-bryan-week2.png"
+      }
     }
   ]
 }
