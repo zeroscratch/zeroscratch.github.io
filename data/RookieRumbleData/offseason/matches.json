@@ -365,6 +365,36 @@
         "vod": "",
         "image": "/img/rookie/offseason/alex-v-bryan-week2.png"
       }
+    },
+    {
+      "id": "rookie-025",
+      "week": 3,
+      "participants": [
+        { "id": "jayce", "score": 9 },
+        { "id": "bryan", "score": 5 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:06:36",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/bryan-v-jayce-week3.png"
+      }
+    },
+    {
+      "id": "rookie-026",
+      "week": 3,
+      "participants": [
+        { "id": "jayce", "score": 7 },
+        { "id": "vicas", "score": 6 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:13:45",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-vicas-week3.png"
+      }
     }
   ]
 }
