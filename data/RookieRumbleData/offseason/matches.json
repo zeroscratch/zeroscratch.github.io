@@ -395,6 +395,51 @@
         "vod": "",
         "image": "/img/rookie/offseason/jayce-v-vicas-week3.png"
       }
+    },
+    {
+      "id": "rookie-027",
+      "week": 3,
+      "participants": [
+        { "id": "gamegit", "score": 6 },
+        { "id": "maybeminnow", "score": 1 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "00:40:23",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-maybe-week3.png"
+      }
+    },
+    {
+      "id": "rookie-028",
+      "week": 3,
+      "participants": [
+        { "id": "elayne", "score": 7 },
+        { "id": "ilmarinen", "score": 2 }
+      ],
+      "winner": "elayne",
+      "method": "Bingo",
+      "duration": "01:05:14",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/elayne-v-ilmarinen-week3.png"
+      }
+    },
+    {
+      "id": "rookie-028",
+      "week": 3,
+      "participants": [
+        { "id": "maybeminnow", "score": 13 },
+        { "id": "chima", "score": 7 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:32:46",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/maybe-v-chima-week3.png"
+      }
     }
   ]
 }
