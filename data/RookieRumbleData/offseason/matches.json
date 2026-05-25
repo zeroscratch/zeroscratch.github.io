@@ -440,6 +440,81 @@
         "vod": "",
         "image": "/img/rookie/offseason/maybe-v-chima-week3.png"
       }
+    },
+    {
+      "id": "rookie-029",
+      "week": 3,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "elayne", "score": 5 }
+      ],
+      "winner": "okami",
+      "method": "Bingo",
+      "duration": "01:41:51",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/okami-v-elayne-week3.png"
+      }
+    },
+    {
+      "id": "rookie-030",
+      "week": 3,
+      "participants": [
+        { "id": "chima", "score": 5 },
+        { "id": "alex", "score": 4 }
+      ],
+      "winner": "chima",
+      "method": "Bingo",
+      "duration": "00:42:24",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/chima-v-alex-week3.png"
+      }
+    },
+    {
+      "id": "rookie-031",
+      "week": 3,
+      "participants": [
+        { "id": "daniel", "score": 13 },
+        { "id": "vicas", "score": 11 }
+      ],
+      "winner": "daniel",
+      "method": "Majority",
+      "duration": "01:49:05",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/daniel-v-vicas-week3.png"
+      }
+    },
+    {
+      "id": "rookie-032",
+      "week": 3,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "daniel", "score": 7 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:14:38",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-daniel-week3.png"
+      }
+    },
+    {
+      "id": "rookie-033",
+      "week": 3,
+      "participants": [
+        { "id": "okami", "score": 10 },
+        { "id": "ilmarinen", "score": 5 }
+      ],
+      "winner": "okami",
+      "method": "Bingo",
+      "duration": "01:35:43",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/okami-v-ilmarinen-week3.png"
+      }
     }
   ]
 }
