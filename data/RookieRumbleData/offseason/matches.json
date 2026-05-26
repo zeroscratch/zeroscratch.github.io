@@ -515,6 +515,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/okami-v-ilmarinen-week3.png"
       }
+    },
+    {
+      "id": "rookie-034",
+      "week": 4,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "maybeminnow", "score": 7 }
+      ],
+      "winner": "jayce",
+      "method": "Majority",
+      "duration": "01:24:40",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-maybe-week4.png"
+      }
     }
   ]
 }

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "team_name": "The 7 Chests",
+    "created_at": "2026-03-12 09:17:28+00",
+    "player1_id": "0e6e6c0c-8eaf-4edf-a13f-b3a063bf3c9b",
+    "player2_id": "f3ebdd9d-30e8-4043-ab25-8932a3ed8449",
+    "coach_id": "47d25643-ecdd-4a92-8625-29898551025a",
+    "team_color": "#8403fc",
+    "team_logo": "/img/vcc/logo/7Chests.png"
+  },
+  {
+    "id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "team_name": "Elden Feast",
+    "created_at": "2026-03-13 01:50:00+00",
+    "player1_id": "daeba67a-015c-4823-8b24-804f78b90bf6",
+    "player2_id": "0da19d27-36b3-4605-a266-65a907f1109b",
+    "coach_id": "0d4cbe42-2640-4dfc-95af-44fafa89c85a",
+    "team_color": "#1ced27",
+    "team_logo": "/img/vcc/logo/eldenFeast.png"
+  },
+  {
+    "id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "team_name": "Keyboard Warriors",
+    "created_at": "2026-03-13 01:48:47+00",
+    "player1_id": "e81bff2f-fca6-45a9-a923-9bc25c768d2a",
+    "player2_id": "eebc62cf-f3fc-420f-b25d-a63fb86df420",
+    "coach_id": null,
+    "team_color": "#ffe100",
+    "team_logo": "/img/vcc/logo/keyboardWarrior.png"
+  },
+  {
+    "id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "team_name": "Rick Fisters",
+    "created_at": "2026-03-13 01:57:50+00",
+    "player1_id": "2d6e6953-a6bf-45bc-921c-eab09ca1a38a",
+    "player2_id": "2af821b6-3bf0-4d0f-a2a3-21f8630c927e",
+    "coach_id": null,
+    "team_color": "#00fbff",
+    "team_logo": "/img/vcc/logo/rick.png"
+  },
+  {
+    "id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "team_name": "Bofa Dynasty",
+    "created_at": "2026-03-13 01:59:24+00",
+    "player1_id": "7d9a2dd4-6cfe-4039-86f9-e1d1a76f3436",
+    "player2_id": "5c752a44-4c0f-4a8b-9c69-bbc921b66fd5",
+    "coach_id": "c44311aa-5963-4d42-af03-4d3d83ee718a",
+    "team_color": "#ff0400",
+    "team_logo": "/img/vcc/logo/bofa.png"
+  },
+  {
+    "id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "team_name": "Three Over 30",
+    "created_at": "2026-03-15 03:03:37+00",
+    "player1_id": "16eb925f-12ae-439d-9e7d-462010ec79ef",
+    "player2_id": "c659c4c2-d14b-4ec5-bb5e-d5010b50f743",
+    "coach_id": "3a15c10b-5deb-41be-a628-cf0a22f50c61",
+    "team_color": "#0b7a21",
+    "team_logo": "/img/vcc/logo/over30.png"
+  },
+  {
+    "id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "team_name": "Les Croco-Outan",
+    "created_at": "2026-03-15 02:52:38+00",
+    "player1_id": "270a14de-fc94-4fd4-8890-07c16617559f",
+    "player2_id": "90c6fcec-9c8b-45ce-96b0-cab132c56188",
+    "coach_id": null,
+    "team_color": "#ff5500",
+    "team_logo": "/img/vcc/logo/croco.png"
+  },
+  {
+    "id": "998251c0-925d-4a02-be22-d968f25bb6f7",
+    "team_name": "Globo Gym Purple Cum Bugs",
+    "created_at": "2026-03-16 07:37:47+00",
+    "player1_id": "bd450087-91d2-4361-9819-b442516cef86",
+    "player2_id": "9ba5cda6-81aa-4ab5-8083-5c86857a441a",
+    "coach_id": "78ed0031-d537-4def-ad44-0fd83805478c",
+    "team_color": "#934DBB",
+    "team_logo": "/img/vcc/logo/globo.png"
+  },
+  {
+    "id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "team_name": "Ragebait",
+    "created_at": "2026-03-13 01:47:07+00",
+    "player1_id": "7bb2eead-2904-45da-9221-8c66446363a6",
+    "player2_id": "5b2a7b69-1f85-41fc-82fd-dd7c2e9fa670",
+    "coach_id": "73a1104e-37d3-4773-9ee6-6de66de670b3",
+    "team_color": "#798bd1",
+    "team_logo": "/img/vcc/logo/ragebait.png"
+  },
+  {
+    "id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "team_name": "Salt Guardians",
+    "created_at": "2026-03-13 01:58:33+00",
+    "player1_id": "fa65ffd2-1dce-45e0-bf16-62d6c68656c9",
+    "player2_id": "b82b88a9-291b-4c15-a78f-81dc6c74038b",
+    "coach_id": null,
+    "team_color": "#573a2b",
+    "team_logo": "/img/vcc/logo/salt.png"
+  },
+  {
+    "id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "team_name": "Dazed and Lazy",
+    "created_at": "2026-03-13 19:10:24+00",
+    "player1_id": "24d0c3f2-8eb3-4f43-9685-ce8d0d3633c2",
+    "player2_id": "3e1cf663-d4e7-40ab-aca0-390105d13926",
+    "coach_id": "3a15c10b-5deb-41be-a628-cf0a22f50c61",
+    "team_color": "#ff9900",
+    "team_logo": null
+  },
+  {
+    "id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "team_name": "2 Jits One Board",
+    "created_at": "2026-03-14 05:52:15+00",
+    "player1_id": "aa6f6cf3-112a-4bbc-b961-4e895bd91c14",
+    "player2_id": "4a057b83-08d7-4ef9-a172-987477ad9b53",
+    "coach_id": null,
+    "team_color": null,
+    "team_logo": null
+  },
+  {
+    "id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "team_name": "Kiofto+Steaks",
+    "created_at": "2026-03-16 07:28:56+00",
+    "player1_id": "6f12ee29-6990-40e6-ad42-ddb72465e876",
+    "player2_id": "0d4cbe42-2640-4dfc-95af-44fafa89c85a",
+    "coach_id": null,
+    "team_color": null,
+    "team_logo": null
+  },
+  {
+    "id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "team_name": "Very Concerned Cats",
+    "created_at": "2026-03-14 05:48:01+00",
+    "player1_id": "ce5323cf-16fc-4399-8e09-7a83939f4981",
+    "player2_id": "ce7cc2e2-3c10-4b4b-b06e-8ba77a009fb8",
+    "coach_id": null,
+    "team_color": "#ff00bf",
+    "team_logo": "/img/vcc/logo/veryCC.png"
+  },
+  {
+    "id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "team_name": "Brand Risk",
+    "created_at": "2026-03-13 01:51:28+00",
+    "player1_id": "079da6f2-9e64-4d05-9383-8bca22230c53",
+    "player2_id": "78ed0031-d537-4def-ad44-0fd83805478c",
+    "coach_id": "9ba5cda6-81aa-4ab5-8083-5c86857a441a",
+    "team_color": "#aa00ff",
+    "team_logo": "/img/vcc/logo/brandRisk.png"
+  },
+  {
+    "id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "team_name": "2 Braincells and No HooZ",
+    "created_at": "2026-03-13 01:56:54+00",
+    "player1_id": "f2b901fb-4036-4deb-923d-1ba3b1094e6b",
+    "player2_id": "9be85355-a6e6-4230-8859-bdf541f8841e",
+    "coach_id": "c6aa9eb7-da6f-422b-8f26-b8b92ebf129e",
+    "team_color": "#1d2b63",
+    "team_logo": "/img/vcc/logo/braincells.png"
+  }
+]

@@ -1,0 +1,2000 @@
+[
+  {
+    "id": 229,
+    "series_id": "e3e3d88f-4553-4900-9745-55cf59e62f20",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "board_ban",
+    "board_id": "313b579b-0de3-4cd0-ba36-3bf011cf4970",
+    "weapon": null,
+    "created_at": "2026-03-20 23:02:06.053824+00"
+  },
+  {
+    "id": 230,
+    "series_id": "e3e3d88f-4553-4900-9745-55cf59e62f20",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_ban",
+    "board_id": "d18c4736-4880-4324-80fa-846b317e7440",
+    "weapon": null,
+    "created_at": "2026-03-20 23:02:44.601386+00"
+  },
+  {
+    "id": 231,
+    "series_id": "e3e3d88f-4553-4900-9745-55cf59e62f20",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban_bo1",
+    "board_id": "6f622f3d-ed18-4de6-afeb-98652cb929cc",
+    "weapon": "Dragon Halberd (-7) | Astrologer",
+    "created_at": "2026-03-20 23:03:49.267628+00"
+  },
+  {
+    "id": 242,
+    "series_id": "0bce9090-e8ea-4631-9a44-0b1008dd2f02",
+    "team_id": "998251c0-925d-4a02-be22-d968f25bb6f7",
+    "action": "board_ban",
+    "board_id": "78495430-7bb6-41c6-9939-c3c0d41fc01c",
+    "weapon": null,
+    "created_at": "2026-03-21 01:35:45.980728+00"
+  },
+  {
+    "id": 243,
+    "series_id": "0bce9090-e8ea-4631-9a44-0b1008dd2f02",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_ban",
+    "board_id": "6608c580-58e4-425a-a5ff-bc4a64b2b7b0",
+    "weapon": null,
+    "created_at": "2026-03-21 01:35:58.112373+00"
+  },
+  {
+    "id": 244,
+    "series_id": "0bce9090-e8ea-4631-9a44-0b1008dd2f02",
+    "team_id": "998251c0-925d-4a02-be22-d968f25bb6f7",
+    "action": "weapon_ban_bo1",
+    "board_id": "4d0cbcdf-b3a8-468f-9e80-8994a83dfd5d",
+    "weapon": "Grave Scythe (-7) | Vagabond",
+    "created_at": "2026-03-21 01:37:51.435022+00"
+  },
+  {
+    "id": 245,
+    "series_id": "ff60f826-61b0-4c93-bf16-86c000508d8a",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "board_ban",
+    "board_id": "950bd5c0-1126-45bf-9aec-b87ce486cb81",
+    "weapon": null,
+    "created_at": "2026-03-21 18:00:42.265063+00"
+  },
+  {
+    "id": 246,
+    "series_id": "ff60f826-61b0-4c93-bf16-86c000508d8a",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "board_ban",
+    "board_id": "e2017cdb-ff85-40a2-9d01-d156abb43292",
+    "weapon": null,
+    "created_at": "2026-03-21 18:00:54.238826+00"
+  },
+  {
+    "id": 247,
+    "series_id": "ff60f826-61b0-4c93-bf16-86c000508d8a",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban_bo1",
+    "board_id": "1ad8773c-36d7-432e-a53f-95d7acf4cff1",
+    "weapon": "Meteoric Ore Blade",
+    "created_at": "2026-03-21 18:01:54.514156+00"
+  },
+  {
+    "id": 248,
+    "series_id": "db90f3e7-3e8b-44d9-9cbd-3bb7d02009eb",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_ban",
+    "board_id": "b2798b2d-9fd9-4d5a-b98a-0966b5a86248",
+    "weapon": null,
+    "created_at": "2026-03-21 22:10:03.05989+00"
+  },
+  {
+    "id": 249,
+    "series_id": "db90f3e7-3e8b-44d9-9cbd-3bb7d02009eb",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "board_ban",
+    "board_id": "d97e5fd9-5926-4746-815f-643f5b8c8826",
+    "weapon": null,
+    "created_at": "2026-03-21 22:11:07.471041+00"
+  },
+  {
+    "id": 250,
+    "series_id": "db90f3e7-3e8b-44d9-9cbd-3bb7d02009eb",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban_bo1",
+    "board_id": "dcd35157-d577-4473-a091-de4de952e0d7",
+    "weapon": "Flamberge | Wretch",
+    "created_at": "2026-03-21 22:12:50.094817+00"
+  },
+  {
+    "id": 251,
+    "series_id": "5d2bbbb9-22f8-4ecd-8fd6-d720d1927ae0",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "board_ban",
+    "board_id": "0d712f66-b903-44be-a5e0-642a603425b8",
+    "weapon": null,
+    "created_at": "2026-03-22 00:01:51.459775+00"
+  },
+  {
+    "id": 252,
+    "series_id": "5d2bbbb9-22f8-4ecd-8fd6-d720d1927ae0",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "board_ban",
+    "board_id": "a618d2f8-e5b5-4121-8f7a-f71630a04bc9",
+    "weapon": null,
+    "created_at": "2026-03-22 00:02:14.5464+00"
+  },
+  {
+    "id": 253,
+    "series_id": "5d2bbbb9-22f8-4ecd-8fd6-d720d1927ae0",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_ban_bo1",
+    "board_id": "c3a1716d-c203-408e-84b6-2f75d2dcd55f",
+    "weapon": "Rotten Staff (-14) | Samurai",
+    "created_at": "2026-03-22 00:03:31.392407+00"
+  },
+  {
+    "id": 254,
+    "series_id": "0121b5f8-7e74-46f8-bab7-18b493b3bf55",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "board_ban",
+    "board_id": "f8b8d64e-99f9-46c3-b740-c43c90467be0",
+    "weapon": null,
+    "created_at": "2026-03-23 19:06:37.756711+00"
+  },
+  {
+    "id": 255,
+    "series_id": "0121b5f8-7e74-46f8-bab7-18b493b3bf55",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "board_ban",
+    "board_id": "b74964fb-d3a8-42db-93e7-8448f680e75d",
+    "weapon": null,
+    "created_at": "2026-03-23 19:06:58.391676+00"
+  },
+  {
+    "id": 256,
+    "series_id": "0121b5f8-7e74-46f8-bab7-18b493b3bf55",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "weapon_ban_bo1",
+    "board_id": "2299a564-86c5-496e-a468-e2b7544db11f",
+    "weapon": "St. Trina's Torch (-5) | Warrior",
+    "created_at": "2026-03-23 19:14:50.92483+00"
+  },
+  {
+    "id": 257,
+    "series_id": "bd83d604-0ebc-444d-abd8-583b357dc672",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "board_ban",
+    "board_id": "299f0781-91bc-4154-9ef9-07f17985f464",
+    "weapon": null,
+    "created_at": "2026-03-24 16:18:44.406972+00"
+  },
+  {
+    "id": 258,
+    "series_id": "bd83d604-0ebc-444d-abd8-583b357dc672",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "board_ban",
+    "board_id": "345c77ff-1522-434d-9b3f-4179c4b44d90",
+    "weapon": null,
+    "created_at": "2026-03-24 16:22:09.112948+00"
+  },
+  {
+    "id": 259,
+    "series_id": "bd83d604-0ebc-444d-abd8-583b357dc672",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban_bo1",
+    "board_id": "996e4061-69b0-477d-a039-ac170c8b00d4",
+    "weapon": "Helphen's Steeple (-15) | Bandit & Roundtable",
+    "created_at": "2026-03-24 16:22:23.776642+00"
+  },
+  {
+    "id": 260,
+    "series_id": "e5976166-e50b-4a4b-80cd-10052e89ed42",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "board_ban",
+    "board_id": "82e2efb2-9082-4509-8f26-439098f71ccf",
+    "weapon": null,
+    "created_at": "2026-03-24 19:07:50.437954+00"
+  },
+  {
+    "id": 261,
+    "series_id": "e5976166-e50b-4a4b-80cd-10052e89ed42",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "board_ban",
+    "board_id": "171fe164-a6ee-4654-a102-0ef8d965707c",
+    "weapon": null,
+    "created_at": "2026-03-24 19:08:13.695558+00"
+  },
+  {
+    "id": 262,
+    "series_id": "e5976166-e50b-4a4b-80cd-10052e89ed42",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_ban_bo1",
+    "board_id": "943f8849-c65c-47ee-b457-6c861215ff10",
+    "weapon": "Euporia (-20) | Samurai",
+    "created_at": "2026-03-24 19:10:08.618078+00"
+  },
+  {
+    "id": 263,
+    "series_id": "875ce29f-6c49-4937-819a-bf0a82cababa",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "board_ban",
+    "board_id": "5b2322ba-fa4d-4fe2-ad4f-cda328075336",
+    "weapon": null,
+    "created_at": "2026-03-25 19:43:39.897911+00"
+  },
+  {
+    "id": 264,
+    "series_id": "875ce29f-6c49-4937-819a-bf0a82cababa",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_ban",
+    "board_id": "2be3ad19-55c4-4f93-8fdc-ae081da677d4",
+    "weapon": null,
+    "created_at": "2026-03-25 19:44:35.913393+00"
+  },
+  {
+    "id": 265,
+    "series_id": "875ce29f-6c49-4937-819a-bf0a82cababa",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "weapon_ban_bo1",
+    "board_id": "ae85ed3a-bbe9-4ed5-b8fc-636be1b04ba7",
+    "weapon": "Warped Axe (-6) | Prisoner",
+    "created_at": "2026-03-25 19:46:08.928033+00"
+  },
+  {
+    "id": 266,
+    "series_id": "5c62192f-8125-4085-b36c-7cd5328c1845",
+    "team_id": "998251c0-925d-4a02-be22-d968f25bb6f7",
+    "action": "board_ban",
+    "board_id": "f14098b1-0be2-4b8d-a2c6-0def76573abd",
+    "weapon": null,
+    "created_at": "2026-03-25 23:34:13.010703+00"
+  },
+  {
+    "id": 267,
+    "series_id": "5c62192f-8125-4085-b36c-7cd5328c1845",
+    "team_id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "action": "board_ban",
+    "board_id": "5110e01d-65b8-4e4f-81cf-c247c22c82e9",
+    "weapon": null,
+    "created_at": "2026-03-25 23:34:52.359502+00"
+  },
+  {
+    "id": 268,
+    "series_id": "5c62192f-8125-4085-b36c-7cd5328c1845",
+    "team_id": "998251c0-925d-4a02-be22-d968f25bb6f7",
+    "action": "weapon_ban_bo1",
+    "board_id": "cf1f22c7-5dcd-44d8-bf3e-d4ea3a0bfbed",
+    "weapon": "Cane Sword | Warrior",
+    "created_at": "2026-03-25 23:35:38.403018+00"
+  },
+  {
+    "id": 269,
+    "series_id": "f8c578f6-6b06-41ef-8fae-532f636a8679",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "board_ban",
+    "board_id": "148e9c89-2f2f-40a2-a996-5929b3a77afe",
+    "weapon": null,
+    "created_at": "2026-03-26 21:08:09.143418+00"
+  },
+  {
+    "id": 270,
+    "series_id": "f8c578f6-6b06-41ef-8fae-532f636a8679",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "board_ban",
+    "board_id": "576526df-c798-4da7-8b24-af7d4811cd87",
+    "weapon": null,
+    "created_at": "2026-03-26 21:08:17.820466+00"
+  },
+  {
+    "id": 271,
+    "series_id": "f8c578f6-6b06-41ef-8fae-532f636a8679",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_ban_bo1",
+    "board_id": "a768fd52-602d-408c-b5a8-dadffb30437e",
+    "weapon": "Zamor Curved Sword (-11) | Hero",
+    "created_at": "2026-03-26 21:08:42.683334+00"
+  },
+  {
+    "id": 274,
+    "series_id": "707c1abf-f07b-4f7f-9d36-6233cc2bdaf2",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "board_ban",
+    "board_id": "f7ea45d3-03e7-4cab-853b-a9122f30bbe4",
+    "weapon": null,
+    "created_at": "2026-03-28 00:00:52.900781+00"
+  },
+  {
+    "id": 275,
+    "series_id": "707c1abf-f07b-4f7f-9d36-6233cc2bdaf2",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "board_ban",
+    "board_id": "f9472362-a20c-4f3c-bca7-77b1b5c6f55f",
+    "weapon": null,
+    "created_at": "2026-03-28 00:02:04.166499+00"
+  },
+  {
+    "id": 276,
+    "series_id": "707c1abf-f07b-4f7f-9d36-6233cc2bdaf2",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "weapon_ban_bo1",
+    "board_id": "70bdda95-fe0f-4877-82f5-862c54bcd65c",
+    "weapon": "Great Katana (-7) | Warrior",
+    "created_at": "2026-03-28 00:05:30.173972+00"
+  },
+  {
+    "id": 277,
+    "series_id": "77f0dbf2-051c-4934-bcf0-f9793eced194",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "board_ban",
+    "board_id": "c124cbce-61da-427d-8d2b-900f68b51f3b",
+    "weapon": null,
+    "created_at": "2026-03-28 16:31:16.880803+00"
+  },
+  {
+    "id": 278,
+    "series_id": "77f0dbf2-051c-4934-bcf0-f9793eced194",
+    "team_id": "998251c0-925d-4a02-be22-d968f25bb6f7",
+    "action": "board_ban",
+    "board_id": "ebe4ae9d-3622-4632-9505-f012b7ec3aa6",
+    "weapon": null,
+    "created_at": "2026-03-28 16:32:49.0165+00"
+  },
+  {
+    "id": 279,
+    "series_id": "77f0dbf2-051c-4934-bcf0-f9793eced194",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "weapon_ban_bo1",
+    "board_id": "1d88a354-309f-4d06-976f-d63ee5a5eaff",
+    "weapon": "Watchdog's Staff (-10) | Hero",
+    "created_at": "2026-03-28 16:33:19.700217+00"
+  },
+  {
+    "id": 280,
+    "series_id": "fd28375f-7f13-4e16-b6fe-9ec8aa20c6b2",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "board_ban",
+    "board_id": "e98a3876-9311-4bad-92f3-e330745aacb0",
+    "weapon": null,
+    "created_at": "2026-03-28 19:16:24.653749+00"
+  },
+  {
+    "id": 281,
+    "series_id": "fd28375f-7f13-4e16-b6fe-9ec8aa20c6b2",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_ban",
+    "board_id": "a46f6a33-3366-4d82-a3db-3a66efe51596",
+    "weapon": null,
+    "created_at": "2026-03-28 19:17:02.813647+00"
+  },
+  {
+    "id": 282,
+    "series_id": "fd28375f-7f13-4e16-b6fe-9ec8aa20c6b2",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "weapon_ban_bo1",
+    "board_id": "c945287a-8d1b-4384-bea6-56b993ebfda5",
+    "weapon": "Bloodfiend's Arm",
+    "created_at": "2026-03-28 19:17:42.248672+00"
+  },
+  {
+    "id": 283,
+    "series_id": "f96dcaeb-969c-4c33-b0af-6b6a0e998d29",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_ban",
+    "board_id": "ecd2d79a-1ea8-4a06-a091-051b73dbe3b2",
+    "weapon": null,
+    "created_at": "2026-03-28 22:06:05.988255+00"
+  },
+  {
+    "id": 284,
+    "series_id": "f96dcaeb-969c-4c33-b0af-6b6a0e998d29",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "board_ban",
+    "board_id": "292f38a6-66f6-411b-96d1-5f706f5b731e",
+    "weapon": null,
+    "created_at": "2026-03-28 22:06:18.294579+00"
+  },
+  {
+    "id": 285,
+    "series_id": "f96dcaeb-969c-4c33-b0af-6b6a0e998d29",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban_bo1",
+    "board_id": "ccd27fca-fdc8-4f7f-8c30-202e6a847547",
+    "weapon": "Death's Poker (-4) | Prisoner",
+    "created_at": "2026-03-28 22:06:35.824061+00"
+  },
+  {
+    "id": 286,
+    "series_id": "f1148aef-5177-4177-902b-f99252491e26",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "board_ban",
+    "board_id": "1b1488a8-7f14-4348-b55b-b601f5e041d9",
+    "weapon": null,
+    "created_at": "2026-03-29 15:00:46.548236+00"
+  },
+  {
+    "id": 287,
+    "series_id": "f1148aef-5177-4177-902b-f99252491e26",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "board_ban",
+    "board_id": "e1aa6793-48da-46aa-b348-69a738800880",
+    "weapon": null,
+    "created_at": "2026-03-29 15:02:03.085022+00"
+  },
+  {
+    "id": 288,
+    "series_id": "f1148aef-5177-4177-902b-f99252491e26",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "weapon_ban_bo1",
+    "board_id": "a14bbb4e-5d8a-407f-8fe6-4147cfba94bd",
+    "weapon": "Scythe (-3) | Wretch",
+    "created_at": "2026-03-29 15:04:43.05428+00"
+  },
+  {
+    "id": 289,
+    "series_id": "629c1875-1668-4531-af61-9ac008c9db1f",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "board_ban",
+    "board_id": "dcfbe405-03cd-4ffb-9790-c2d055020e5d",
+    "weapon": null,
+    "created_at": "2026-03-29 16:02:53.357525+00"
+  },
+  {
+    "id": 290,
+    "series_id": "629c1875-1668-4531-af61-9ac008c9db1f",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_ban",
+    "board_id": "c55c9b6b-3a5f-452e-a0f3-dc5d0b21ab67",
+    "weapon": null,
+    "created_at": "2026-03-29 16:03:29.075354+00"
+  },
+  {
+    "id": 291,
+    "series_id": "629c1875-1668-4531-af61-9ac008c9db1f",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "weapon_ban_bo1",
+    "board_id": "d48c2366-11e8-4965-8597-bda7548315d9",
+    "weapon": "Bloodhound Claws (-3) | Confessor",
+    "created_at": "2026-03-29 16:05:14.868917+00"
+  },
+  {
+    "id": 292,
+    "series_id": "12ecfe14-a72b-4da7-aeec-1a98f2b3318d",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "board_ban",
+    "board_id": "91762390-ea3a-4ccc-beed-94d2b3a58397",
+    "weapon": null,
+    "created_at": "2026-03-29 17:01:02.96599+00"
+  },
+  {
+    "id": 293,
+    "series_id": "12ecfe14-a72b-4da7-aeec-1a98f2b3318d",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "board_ban",
+    "board_id": "9424ae67-8ac6-4b52-9eab-f12e21e46071",
+    "weapon": null,
+    "created_at": "2026-03-29 17:04:35.185175+00"
+  },
+  {
+    "id": 294,
+    "series_id": "12ecfe14-a72b-4da7-aeec-1a98f2b3318d",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "weapon_ban_bo1",
+    "board_id": "0fa6753c-6c43-4bc8-84b9-370577c263c1",
+    "weapon": "Dragonscale Blade (-8) | Confessor",
+    "created_at": "2026-03-29 17:05:27.982494+00"
+  },
+  {
+    "id": 296,
+    "series_id": "36408c7c-985f-4499-a80c-50f08394c4c1",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "board_ban",
+    "board_id": "8b871c20-1bc5-48fe-ad8b-e5cf3d8ff90a",
+    "weapon": null,
+    "created_at": "2026-03-29 18:05:15.371483+00"
+  },
+  {
+    "id": 297,
+    "series_id": "36408c7c-985f-4499-a80c-50f08394c4c1",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "board_ban",
+    "board_id": "a7ccad85-8fd9-40b8-8f41-12858dc30ffa",
+    "weapon": null,
+    "created_at": "2026-03-29 18:18:08.682029+00"
+  },
+  {
+    "id": 298,
+    "series_id": "36408c7c-985f-4499-a80c-50f08394c4c1",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban_bo1",
+    "board_id": "b77de0ec-3ce6-49c6-b666-7bfaab297a46",
+    "weapon": "Dragonscale Blade (-9) | Confessor",
+    "created_at": "2026-03-29 18:20:28.531464+00"
+  },
+  {
+    "id": 299,
+    "series_id": "c1f26311-98ab-457d-9db6-068a520e71f6",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "board_ban",
+    "board_id": "0f5ddce7-3c02-4af2-9d33-7c0993ea491a",
+    "weapon": null,
+    "created_at": "2026-03-29 20:04:32.079635+00"
+  },
+  {
+    "id": 300,
+    "series_id": "c1f26311-98ab-457d-9db6-068a520e71f6",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_ban",
+    "board_id": "2b1cfac0-0088-4e95-900a-523c6699b84f",
+    "weapon": null,
+    "created_at": "2026-03-29 20:07:15.650115+00"
+  },
+  {
+    "id": 301,
+    "series_id": "c1f26311-98ab-457d-9db6-068a520e71f6",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban_bo1",
+    "board_id": "e113c160-a607-4dbf-935e-8054abd200dd",
+    "weapon": "Forked-Tongue Hatchet",
+    "created_at": "2026-03-29 20:08:02.08222+00"
+  },
+  {
+    "id": 302,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "board_ban",
+    "board_id": "383fadf1-6cd1-4035-8073-c61efc4ae5dc",
+    "weapon": null,
+    "created_at": "2026-04-04 15:04:06.754234+00"
+  },
+  {
+    "id": 303,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "board_ban",
+    "board_id": "ed6f7eb0-2837-4fec-ad05-20e169a7927d",
+    "weapon": null,
+    "created_at": "2026-04-04 15:04:46.240546+00"
+  },
+  {
+    "id": 304,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "board_pick",
+    "board_id": "714a0976-5845-4a2c-833a-df24d29e3b09",
+    "weapon": null,
+    "created_at": "2026-04-04 15:06:03.098978+00"
+  },
+  {
+    "id": 305,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "board_pick",
+    "board_id": "0a7465af-4140-4435-989c-53ef05f38a7e",
+    "weapon": null,
+    "created_at": "2026-04-04 15:06:08.529419+00"
+  },
+  {
+    "id": 306,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_protect",
+    "board_id": "714a0976-5845-4a2c-833a-df24d29e3b09",
+    "weapon": "Bloodhound's Fang (-5) | Hero",
+    "created_at": "2026-04-04 15:07:57.647336+00"
+  },
+  {
+    "id": 307,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_ban",
+    "board_id": "714a0976-5845-4a2c-833a-df24d29e3b09",
+    "weapon": "Short Spear | Prophet",
+    "created_at": "2026-04-04 15:09:55.167415+00"
+  },
+  {
+    "id": 308,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "weapon_ban2",
+    "board_id": "714a0976-5845-4a2c-833a-df24d29e3b09",
+    "weapon": "Raptor Talons (-3) | Astrologer",
+    "created_at": "2026-04-04 15:10:55.874748+00"
+  },
+  {
+    "id": 309,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "weapon_protect",
+    "board_id": "0a7465af-4140-4435-989c-53ef05f38a7e",
+    "weapon": "Rusted Anchor (-7) | Prophet",
+    "created_at": "2026-04-04 15:11:19.40817+00"
+  },
+  {
+    "id": 310,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "weapon_ban",
+    "board_id": "0a7465af-4140-4435-989c-53ef05f38a7e",
+    "weapon": "Rotten Staff (-12) | Confessor",
+    "created_at": "2026-04-04 15:11:25.643723+00"
+  },
+  {
+    "id": 311,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_ban2",
+    "board_id": "0a7465af-4140-4435-989c-53ef05f38a7e",
+    "weapon": "Frenzyflame Perfume Bottle",
+    "created_at": "2026-04-04 15:12:01.931739+00"
+  },
+  {
+    "id": 312,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_ban",
+    "board_id": "fe95f3ab-c809-4ae9-9791-0653fd6537fa",
+    "weapon": "Alabaster Lord's Sword (-11) | Confessor",
+    "created_at": "2026-04-04 15:12:36.729732+00"
+  },
+  {
+    "id": 313,
+    "series_id": "12f74894-978d-445d-89aa-278f6560d745",
+    "team_id": "feb25fe9-f0c5-4d99-9438-4ebcdd515877",
+    "action": "weapon_ban2",
+    "board_id": "fe95f3ab-c809-4ae9-9791-0653fd6537fa",
+    "weapon": "Helphen's Steeple (-13) | Bandit",
+    "created_at": "2026-04-04 15:12:43.091666+00"
+  },
+  {
+    "id": 314,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_ban",
+    "board_id": "8002f7d7-51c3-47aa-8ab0-6a72d749c32a",
+    "weapon": null,
+    "created_at": "2026-04-04 17:00:13.455477+00"
+  },
+  {
+    "id": 315,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "board_ban",
+    "board_id": "ae482760-2803-4b27-b389-3cee4217f7e8",
+    "weapon": null,
+    "created_at": "2026-04-04 17:02:29.584111+00"
+  },
+  {
+    "id": 316,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_pick",
+    "board_id": "86d96181-3c35-4bc8-b552-d001e2a4ae81",
+    "weapon": null,
+    "created_at": "2026-04-04 17:03:14.640153+00"
+  },
+  {
+    "id": 317,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "board_pick",
+    "board_id": "cf9708e1-0296-4e33-aea1-a6b1fa9a4db2",
+    "weapon": null,
+    "created_at": "2026-04-04 17:05:35.765572+00"
+  },
+  {
+    "id": 318,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_protect",
+    "board_id": "86d96181-3c35-4bc8-b552-d001e2a4ae81",
+    "weapon": "Fire Knight's Greatsword (-12) | Warrior",
+    "created_at": "2026-04-04 17:05:58.09467+00"
+  },
+  {
+    "id": 319,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_ban",
+    "board_id": "86d96181-3c35-4bc8-b552-d001e2a4ae81",
+    "weapon": "Death Ritual Spear",
+    "created_at": "2026-04-04 17:06:29.818323+00"
+  },
+  {
+    "id": 320,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "weapon_ban2",
+    "board_id": "86d96181-3c35-4bc8-b552-d001e2a4ae81",
+    "weapon": "Venomous Fang",
+    "created_at": "2026-04-04 17:08:41.028908+00"
+  },
+  {
+    "id": 321,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "weapon_protect",
+    "board_id": "cf9708e1-0296-4e33-aea1-a6b1fa9a4db2",
+    "weapon": "Forked Greatsword",
+    "created_at": "2026-04-04 17:10:56.896713+00"
+  },
+  {
+    "id": 322,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "weapon_ban",
+    "board_id": "cf9708e1-0296-4e33-aea1-a6b1fa9a4db2",
+    "weapon": "Hammer | Astrologer",
+    "created_at": "2026-04-04 17:12:10.213366+00"
+  },
+  {
+    "id": 323,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_ban2",
+    "board_id": "cf9708e1-0296-4e33-aea1-a6b1fa9a4db2",
+    "weapon": "Morning Star | Hero",
+    "created_at": "2026-04-04 17:12:41.806409+00"
+  },
+  {
+    "id": 324,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_ban",
+    "board_id": "b6ed9bec-d5cf-48bc-8a64-ddae5b33bd11",
+    "weapon": "Forked-Tongue Hatchet | Astrologer",
+    "created_at": "2026-04-04 17:13:14.997788+00"
+  },
+  {
+    "id": 325,
+    "series_id": "875ae9ab-883a-4945-a86b-13f4746c1918",
+    "team_id": "1b1c882f-e541-4608-ae5e-266a0f191075",
+    "action": "weapon_ban2",
+    "board_id": "b6ed9bec-d5cf-48bc-8a64-ddae5b33bd11",
+    "weapon": "Dragonscale Blade (-10) | Prophet",
+    "created_at": "2026-04-04 17:13:53.531607+00"
+  },
+  {
+    "id": 326,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "board_ban",
+    "board_id": "00112762-25b7-4058-9968-d8df36a8610f",
+    "weapon": null,
+    "created_at": "2026-04-04 17:34:57.766363+00"
+  },
+  {
+    "id": 327,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_ban",
+    "board_id": "f10b6403-446f-4eec-9495-a21c4299fad9",
+    "weapon": null,
+    "created_at": "2026-04-04 17:36:14.783173+00"
+  },
+  {
+    "id": 328,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "board_pick",
+    "board_id": "a08bca72-fdb1-4349-8f8c-0305d4b01368",
+    "weapon": null,
+    "created_at": "2026-04-04 17:36:24.507322+00"
+  },
+  {
+    "id": 329,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_pick",
+    "board_id": "78b42e7f-fbca-4f03-92d0-b8a10de36c14",
+    "weapon": null,
+    "created_at": "2026-04-04 17:37:55.620555+00"
+  },
+  {
+    "id": 330,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "weapon_protect",
+    "board_id": "a08bca72-fdb1-4349-8f8c-0305d4b01368",
+    "weapon": "Icerind Hatchet",
+    "created_at": "2026-04-04 17:42:08.00281+00"
+  },
+  {
+    "id": 331,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "weapon_ban",
+    "board_id": "a08bca72-fdb1-4349-8f8c-0305d4b01368",
+    "weapon": "Spiked Club | Hero",
+    "created_at": "2026-04-04 17:42:44.41201+00"
+  },
+  {
+    "id": 332,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban2",
+    "board_id": "a08bca72-fdb1-4349-8f8c-0305d4b01368",
+    "weapon": "Iron Greatsword (-4) | Vagabond",
+    "created_at": "2026-04-04 17:43:09.321018+00"
+  },
+  {
+    "id": 333,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_protect",
+    "board_id": "78b42e7f-fbca-4f03-92d0-b8a10de36c14",
+    "weapon": "Rotten Staff (-14) | Astrologer & Roundtable",
+    "created_at": "2026-04-04 17:43:43.698647+00"
+  },
+  {
+    "id": 334,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban",
+    "board_id": "78b42e7f-fbca-4f03-92d0-b8a10de36c14",
+    "weapon": "Ivory Sickle (-3) | Vagabond",
+    "created_at": "2026-04-04 17:44:05.341149+00"
+  },
+  {
+    "id": 335,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "weapon_ban2",
+    "board_id": "78b42e7f-fbca-4f03-92d0-b8a10de36c14",
+    "weapon": "Iron Ball | Samurai",
+    "created_at": "2026-04-04 17:48:06.152397+00"
+  },
+  {
+    "id": 336,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "e2ba6b0b-e660-487f-b296-2b1165ce218b",
+    "action": "weapon_ban",
+    "board_id": "29f15ddd-00e6-4d14-b489-1f849a77e1e1",
+    "weapon": "Great Omenkiller Cleaver (-7) | Warrior",
+    "created_at": "2026-04-04 17:49:09.965148+00"
+  },
+  {
+    "id": 337,
+    "series_id": "d18e0b4b-e8fc-4b72-a9a7-420084a810a2",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban2",
+    "board_id": "29f15ddd-00e6-4d14-b489-1f849a77e1e1",
+    "weapon": "Claws of Night (-13) | Wretch",
+    "created_at": "2026-04-04 17:50:16.414094+00"
+  },
+  {
+    "id": 338,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "board_ban",
+    "board_id": "f29b457e-d390-40c8-912a-16bb4b9af214",
+    "weapon": null,
+    "created_at": "2026-04-04 18:31:55.459509+00"
+  },
+  {
+    "id": 339,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "board_ban",
+    "board_id": "d08b98be-c3d2-46d8-8ac0-a8756ba42e79",
+    "weapon": null,
+    "created_at": "2026-04-04 18:32:28.197764+00"
+  },
+  {
+    "id": 340,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "board_pick",
+    "board_id": "2a983f9e-0eda-44ba-afb9-f01f01524af1",
+    "weapon": null,
+    "created_at": "2026-04-04 18:34:51.552649+00"
+  },
+  {
+    "id": 341,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "board_pick",
+    "board_id": "12b612ba-76d1-4c96-af4a-a7ee1b3e2c6a",
+    "weapon": null,
+    "created_at": "2026-04-04 18:34:58.125491+00"
+  },
+  {
+    "id": 342,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "weapon_protect",
+    "board_id": "2a983f9e-0eda-44ba-afb9-f01f01524af1",
+    "weapon": "Alabaster Lord's Sword (-8) | Samurai",
+    "created_at": "2026-04-04 18:37:57.878152+00"
+  },
+  {
+    "id": 343,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "weapon_ban",
+    "board_id": "2a983f9e-0eda-44ba-afb9-f01f01524af1",
+    "weapon": "Dragon Halberd (-4) | Wretch",
+    "created_at": "2026-04-04 18:37:59.453082+00"
+  },
+  {
+    "id": 344,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban2",
+    "board_id": "2a983f9e-0eda-44ba-afb9-f01f01524af1",
+    "weapon": "Bloodhound Claws (-8) | Astrologer",
+    "created_at": "2026-04-04 18:38:24.264511+00"
+  },
+  {
+    "id": 345,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_protect",
+    "board_id": "12b612ba-76d1-4c96-af4a-a7ee1b3e2c6a",
+    "weapon": "Greataxe (-8) | Hero",
+    "created_at": "2026-04-04 18:39:26.935594+00"
+  },
+  {
+    "id": 346,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban",
+    "board_id": "12b612ba-76d1-4c96-af4a-a7ee1b3e2c6a",
+    "weapon": "Sword of Milos",
+    "created_at": "2026-04-04 18:39:52.991879+00"
+  },
+  {
+    "id": 347,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "weapon_ban2",
+    "board_id": "12b612ba-76d1-4c96-af4a-a7ee1b3e2c6a",
+    "weapon": "Firespark Perfume Bottle (-4) | Prisoner",
+    "created_at": "2026-04-04 18:40:45.143801+00"
+  },
+  {
+    "id": 348,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "e26c7819-24c0-4bf6-a1a6-4e787b47aaf2",
+    "action": "weapon_ban",
+    "board_id": "b05e9c21-fd31-4802-844b-feea967c7ea0",
+    "weapon": "Icerind Hatchet (-10) | Warrior",
+    "created_at": "2026-04-04 18:41:52.931003+00"
+  },
+  {
+    "id": 349,
+    "series_id": "0f778136-e2b9-4d93-915e-ac460af1acfc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban2",
+    "board_id": "b05e9c21-fd31-4802-844b-feea967c7ea0",
+    "weapon": "Rosus' Axe (-8) | Wretch",
+    "created_at": "2026-04-04 18:42:03.239979+00"
+  },
+  {
+    "id": 350,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_ban",
+    "board_id": "09e07198-765a-42aa-bcd5-262ec4a827c1",
+    "weapon": null,
+    "created_at": "2026-04-08 23:05:58.712417+00"
+  },
+  {
+    "id": 351,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "action": "board_ban",
+    "board_id": "d57d1639-acb4-472d-a6a7-e60d23ec5a3a",
+    "weapon": null,
+    "created_at": "2026-04-08 23:27:39.082933+00"
+  },
+  {
+    "id": 352,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_pick",
+    "board_id": "efdde812-1115-4004-9dd8-12e46815038e",
+    "weapon": null,
+    "created_at": "2026-04-08 23:29:43.790676+00"
+  },
+  {
+    "id": 353,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "action": "board_pick",
+    "board_id": "832f12df-f9d0-4964-8020-80dbb02f3252",
+    "weapon": null,
+    "created_at": "2026-04-08 23:29:52.320036+00"
+  },
+  {
+    "id": 354,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_protect",
+    "board_id": "efdde812-1115-4004-9dd8-12e46815038e",
+    "weapon": "Morning Star",
+    "created_at": "2026-04-08 23:31:20.541315+00"
+  },
+  {
+    "id": 355,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban",
+    "board_id": "efdde812-1115-4004-9dd8-12e46815038e",
+    "weapon": "Ordovis's Greatsword",
+    "created_at": "2026-04-08 23:32:09.843057+00"
+  },
+  {
+    "id": 356,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "action": "weapon_ban2",
+    "board_id": "efdde812-1115-4004-9dd8-12e46815038e",
+    "weapon": "Spirit Glaive",
+    "created_at": "2026-04-08 23:32:23.426116+00"
+  },
+  {
+    "id": 357,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "action": "weapon_protect",
+    "board_id": "832f12df-f9d0-4964-8020-80dbb02f3252",
+    "weapon": "Star Fist | Astrologer",
+    "created_at": "2026-04-08 23:32:41.495074+00"
+  },
+  {
+    "id": 358,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "action": "weapon_ban",
+    "board_id": "832f12df-f9d0-4964-8020-80dbb02f3252",
+    "weapon": "Rusted Anchor",
+    "created_at": "2026-04-08 23:32:55.968641+00"
+  },
+  {
+    "id": 359,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban2",
+    "board_id": "832f12df-f9d0-4964-8020-80dbb02f3252",
+    "weapon": "Banished Knight's Greatsword | Warrior",
+    "created_at": "2026-04-08 23:34:01.354251+00"
+  },
+  {
+    "id": 360,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban",
+    "board_id": "fece94fd-d52b-4b07-8a3e-45384af8de00",
+    "weapon": "Raptor Talons",
+    "created_at": "2026-04-08 23:34:37.34672+00"
+  },
+  {
+    "id": 361,
+    "series_id": "0196a717-1923-4dfe-9122-9006c8868099",
+    "team_id": "4cefb24d-441f-41eb-b713-550190b1eedb",
+    "action": "weapon_ban2",
+    "board_id": "fece94fd-d52b-4b07-8a3e-45384af8de00",
+    "weapon": "Golden Order Greatsword (-28) | Prisoner",
+    "created_at": "2026-04-08 23:35:01.123706+00"
+  },
+  {
+    "id": 362,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "board_ban",
+    "board_id": "abe84acd-63be-4dd9-b4bc-2c57513ba2ff",
+    "weapon": null,
+    "created_at": "2026-04-11 13:33:06.047854+00"
+  },
+  {
+    "id": 363,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "board_ban",
+    "board_id": "4896825b-96f9-4d81-8ba7-30c8d3ef020f",
+    "weapon": null,
+    "created_at": "2026-04-11 13:33:20.037578+00"
+  },
+  {
+    "id": 364,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "board_pick",
+    "board_id": "2e96d2ee-6ad1-4e89-af10-74f1762545e6",
+    "weapon": null,
+    "created_at": "2026-04-11 13:34:16.448647+00"
+  },
+  {
+    "id": 365,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "board_pick",
+    "board_id": "637587ff-a803-44cb-973b-ecfeccc7715d",
+    "weapon": null,
+    "created_at": "2026-04-11 13:34:53.420044+00"
+  },
+  {
+    "id": 366,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "weapon_protect",
+    "board_id": "2e96d2ee-6ad1-4e89-af10-74f1762545e6",
+    "weapon": "Rotten Battle Hammer (-6) | Hero",
+    "created_at": "2026-04-11 13:38:23.151429+00"
+  },
+  {
+    "id": 367,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "weapon_ban",
+    "board_id": "2e96d2ee-6ad1-4e89-af10-74f1762545e6",
+    "weapon": "Bastard Sword (-2) | Bandit",
+    "created_at": "2026-04-11 13:39:42.75477+00"
+  },
+  {
+    "id": 368,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_ban2",
+    "board_id": "2e96d2ee-6ad1-4e89-af10-74f1762545e6",
+    "weapon": "Falx (-8) | Astrologer",
+    "created_at": "2026-04-11 13:40:30.690219+00"
+  },
+  {
+    "id": 369,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_protect",
+    "board_id": "637587ff-a803-44cb-973b-ecfeccc7715d",
+    "weapon": "Bloodhound's Fang (-7) | Warrior",
+    "created_at": "2026-04-11 13:41:12.256021+00"
+  },
+  {
+    "id": 370,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_ban",
+    "board_id": "637587ff-a803-44cb-973b-ecfeccc7715d",
+    "weapon": "Nagakiba (-8) | Vagabond",
+    "created_at": "2026-04-11 13:41:57.750814+00"
+  },
+  {
+    "id": 371,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "weapon_ban2",
+    "board_id": "637587ff-a803-44cb-973b-ecfeccc7715d",
+    "weapon": "Spiked Club | Bandit",
+    "created_at": "2026-04-11 13:43:40.851438+00"
+  },
+  {
+    "id": 372,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "ef834d16-f908-4a3b-ac55-6855c416d660",
+    "action": "weapon_ban",
+    "board_id": "fc8295d6-e311-43ea-ad5a-df32fb411b0f",
+    "weapon": "Great Omenkiller Cleaver",
+    "created_at": "2026-04-11 13:46:47.343841+00"
+  },
+  {
+    "id": 373,
+    "series_id": "61facca2-1c4b-4ff9-babc-7753d8a190bd",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_ban2",
+    "board_id": "fc8295d6-e311-43ea-ad5a-df32fb411b0f",
+    "weapon": "Jawbone Axe | Prophet",
+    "created_at": "2026-04-11 13:49:16.129122+00"
+  },
+  {
+    "id": 374,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "board_ban",
+    "board_id": "2544a4f0-9eb9-408c-802b-38103ffe7788",
+    "weapon": null,
+    "created_at": "2026-04-11 14:00:30.367209+00"
+  },
+  {
+    "id": 375,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "board_ban",
+    "board_id": "c88d1188-13b3-4e83-893b-899fb2a47108",
+    "weapon": null,
+    "created_at": "2026-04-11 14:01:10.933085+00"
+  },
+  {
+    "id": 376,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "board_pick",
+    "board_id": "53ebb996-ddca-4eb1-aac9-20e3f79d21de",
+    "weapon": null,
+    "created_at": "2026-04-11 14:01:21.99851+00"
+  },
+  {
+    "id": 377,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "board_pick",
+    "board_id": "06f8dd1f-7d58-4182-ad0f-4e364a127d19",
+    "weapon": null,
+    "created_at": "2026-04-11 14:02:01.295908+00"
+  },
+  {
+    "id": 378,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "weapon_protect",
+    "board_id": "53ebb996-ddca-4eb1-aac9-20e3f79d21de",
+    "weapon": "Dragon Halberd",
+    "created_at": "2026-04-11 14:02:13.809402+00"
+  },
+  {
+    "id": 379,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "weapon_ban",
+    "board_id": "53ebb996-ddca-4eb1-aac9-20e3f79d21de",
+    "weapon": "Raptor Talons (-3) | Bandit",
+    "created_at": "2026-04-11 14:02:19.168123+00"
+  },
+  {
+    "id": 380,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban2",
+    "board_id": "53ebb996-ddca-4eb1-aac9-20e3f79d21de",
+    "weapon": "Bastard Sword (-2) | Wretch",
+    "created_at": "2026-04-11 14:03:29.780944+00"
+  },
+  {
+    "id": 381,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_protect",
+    "board_id": "06f8dd1f-7d58-4182-ad0f-4e364a127d19",
+    "weapon": "Rotten Staff (-11) | Wretch",
+    "created_at": "2026-04-11 14:04:06.63903+00"
+  },
+  {
+    "id": 382,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban",
+    "board_id": "06f8dd1f-7d58-4182-ad0f-4e364a127d19",
+    "weapon": "Bloodhound's Fang",
+    "created_at": "2026-04-11 14:04:14.755497+00"
+  },
+  {
+    "id": 383,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "weapon_ban2",
+    "board_id": "06f8dd1f-7d58-4182-ad0f-4e364a127d19",
+    "weapon": "Falx (-4) | Confessor",
+    "created_at": "2026-04-11 14:04:51.730715+00"
+  },
+  {
+    "id": 384,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "19963a7e-958a-453e-9830-b917ffc44c16",
+    "action": "weapon_ban",
+    "board_id": "32c63c42-0932-4149-9fdd-966a877e9725",
+    "weapon": "Warped Axe (-6) | Samurai",
+    "created_at": "2026-04-11 14:05:26.98466+00"
+  },
+  {
+    "id": 385,
+    "series_id": "4c480e45-7d99-4bbe-bf83-bded0914acaf",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban2",
+    "board_id": "32c63c42-0932-4149-9fdd-966a877e9725",
+    "weapon": "Longhaft Axe (-3) | Warrior",
+    "created_at": "2026-04-11 14:05:44.184749+00"
+  },
+  {
+    "id": 386,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "board_ban",
+    "board_id": "dbf873b3-d25e-4386-a96f-33081350a75e",
+    "weapon": null,
+    "created_at": "2026-04-13 18:33:39.685606+00"
+  },
+  {
+    "id": 387,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "board_ban",
+    "board_id": "d0af4e45-7212-45ce-9905-491f248245a8",
+    "weapon": null,
+    "created_at": "2026-04-13 18:38:06.534143+00"
+  },
+  {
+    "id": 388,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "board_pick",
+    "board_id": "c777777a-cd98-42ea-91c8-c7ec1dad10a5",
+    "weapon": null,
+    "created_at": "2026-04-13 18:39:36.651236+00"
+  },
+  {
+    "id": 389,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "board_pick",
+    "board_id": "3280d539-8a97-4e70-99b4-92ce25e8bc02",
+    "weapon": null,
+    "created_at": "2026-04-13 18:39:46.203729+00"
+  },
+  {
+    "id": 390,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_protect",
+    "board_id": "c777777a-cd98-42ea-91c8-c7ec1dad10a5",
+    "weapon": "Lizard Greatsword | Wretch",
+    "created_at": "2026-04-13 18:41:28.663916+00"
+  },
+  {
+    "id": 391,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_ban",
+    "board_id": "c777777a-cd98-42ea-91c8-c7ec1dad10a5",
+    "weapon": "Iron Ball | Warrior",
+    "created_at": "2026-04-13 18:43:01.601219+00"
+  },
+  {
+    "id": 392,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban2",
+    "board_id": "c777777a-cd98-42ea-91c8-c7ec1dad10a5",
+    "weapon": "Moonveil",
+    "created_at": "2026-04-13 18:44:13.114366+00"
+  },
+  {
+    "id": 393,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_protect",
+    "board_id": "3280d539-8a97-4e70-99b4-92ce25e8bc02",
+    "weapon": "Pickaxe (-5) | Hero",
+    "created_at": "2026-04-13 18:44:36.820711+00"
+  },
+  {
+    "id": 394,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban",
+    "board_id": "3280d539-8a97-4e70-99b4-92ce25e8bc02",
+    "weapon": "Dragon-Hunter's Great Katana",
+    "created_at": "2026-04-13 18:44:44.356706+00"
+  },
+  {
+    "id": 395,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_ban2",
+    "board_id": "3280d539-8a97-4e70-99b4-92ce25e8bc02",
+    "weapon": "Rotten Staff (-14) | Prophet",
+    "created_at": "2026-04-13 18:45:51.431583+00"
+  },
+  {
+    "id": 396,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_ban",
+    "board_id": "a9cc34c1-3160-4525-a073-d45a5fcbd7b3",
+    "weapon": "Death's Poker",
+    "created_at": "2026-04-13 18:46:25.362498+00"
+  },
+  {
+    "id": 397,
+    "series_id": "35d66cf9-340d-4ad2-9824-4bd01feececc",
+    "team_id": "cb24c423-dbab-4d98-975d-f6b7a8532645",
+    "action": "weapon_ban2",
+    "board_id": "a9cc34c1-3160-4525-a073-d45a5fcbd7b3",
+    "weapon": "Executioner's Greataxe (-13) | Samurai",
+    "created_at": "2026-04-13 18:47:02.926055+00"
+  },
+  {
+    "id": 398,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "board_ban",
+    "board_id": "948d3c33-3bfb-400c-8e18-0d02cf1e6de5",
+    "weapon": null,
+    "created_at": "2026-04-16 23:05:30.728605+00"
+  },
+  {
+    "id": 399,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_ban",
+    "board_id": "c68b726c-7891-433d-9a00-932ff9b18420",
+    "weapon": null,
+    "created_at": "2026-04-16 23:06:00.928659+00"
+  },
+  {
+    "id": 400,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "board_pick",
+    "board_id": "b6b8f6c8-4118-4821-8188-ba69197e4ca3",
+    "weapon": null,
+    "created_at": "2026-04-16 23:06:52.780646+00"
+  },
+  {
+    "id": 401,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_pick",
+    "board_id": "1f3ab9be-8840-4d92-97b1-991cad5193a9",
+    "weapon": null,
+    "created_at": "2026-04-16 23:07:59.708673+00"
+  },
+  {
+    "id": 402,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_protect",
+    "board_id": "b6b8f6c8-4118-4821-8188-ba69197e4ca3",
+    "weapon": "Great Stars (-6) | Samurai",
+    "created_at": "2026-04-16 23:09:23.552751+00"
+  },
+  {
+    "id": 403,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_ban",
+    "board_id": "b6b8f6c8-4118-4821-8188-ba69197e4ca3",
+    "weapon": "Gargoyle's Greatsword (-3) | Confessor",
+    "created_at": "2026-04-16 23:10:20.371498+00"
+  },
+  {
+    "id": 404,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban2",
+    "board_id": "b6b8f6c8-4118-4821-8188-ba69197e4ca3",
+    "weapon": "Bloodfiend's Arm (-14) | Bandit",
+    "created_at": "2026-04-16 23:11:06.037512+00"
+  },
+  {
+    "id": 405,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_protect",
+    "board_id": "1f3ab9be-8840-4d92-97b1-991cad5193a9",
+    "weapon": "Executioner's Greataxe (-13) | Astrologer",
+    "created_at": "2026-04-16 23:12:31.004425+00"
+  },
+  {
+    "id": 406,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban",
+    "board_id": "1f3ab9be-8840-4d92-97b1-991cad5193a9",
+    "weapon": "Bloodfiend's Arm (-11) | Samurai",
+    "created_at": "2026-04-16 23:13:06.451412+00"
+  },
+  {
+    "id": 407,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_ban2",
+    "board_id": "1f3ab9be-8840-4d92-97b1-991cad5193a9",
+    "weapon": "Falx",
+    "created_at": "2026-04-16 23:15:01.318974+00"
+  },
+  {
+    "id": 408,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "5c9afd64-ebc6-4f7f-b174-1e753017db78",
+    "action": "weapon_ban",
+    "board_id": "cc7d7d95-5b95-4e7d-a72f-2f10a8fb92dc",
+    "weapon": "Morning Star | Vagabond",
+    "created_at": "2026-04-16 23:18:37.370296+00"
+  },
+  {
+    "id": 409,
+    "series_id": "35f235b0-8883-44b0-82b1-9c909700b18d",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban2",
+    "board_id": "cc7d7d95-5b95-4e7d-a72f-2f10a8fb92dc",
+    "weapon": "Iron Ball | Warrior",
+    "created_at": "2026-04-16 23:19:21.109094+00"
+  },
+  {
+    "id": 410,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "board_ban",
+    "board_id": "99c13949-4f97-45ec-aeb7-0dc79886aac8",
+    "weapon": null,
+    "created_at": "2026-04-19 14:06:07.264122+00"
+  },
+  {
+    "id": 411,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_ban",
+    "board_id": "1cfea3e0-87af-48fe-9c2b-7e174719aca5",
+    "weapon": null,
+    "created_at": "2026-04-19 14:07:13.805883+00"
+  },
+  {
+    "id": 412,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "board_pick",
+    "board_id": "007842db-abbc-48d3-8d70-4b15017cee6d",
+    "weapon": null,
+    "created_at": "2026-04-19 14:08:56.458001+00"
+  },
+  {
+    "id": 413,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_pick",
+    "board_id": "19ff3243-1055-4577-bd95-aa82da39574d",
+    "weapon": null,
+    "created_at": "2026-04-19 14:09:40.863629+00"
+  },
+  {
+    "id": 414,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_protect",
+    "board_id": "007842db-abbc-48d3-8d70-4b15017cee6d",
+    "weapon": "Devonia's Hammer (-12) | Confessor",
+    "created_at": "2026-04-19 14:10:30.795337+00"
+  },
+  {
+    "id": 415,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban",
+    "board_id": "007842db-abbc-48d3-8d70-4b15017cee6d",
+    "weapon": "Milady",
+    "created_at": "2026-04-19 14:10:35.676972+00"
+  },
+  {
+    "id": 416,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban2",
+    "board_id": "007842db-abbc-48d3-8d70-4b15017cee6d",
+    "weapon": "Cross-Naginata (-6) | Prisoner",
+    "created_at": "2026-04-19 14:10:45.221911+00"
+  },
+  {
+    "id": 417,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_protect",
+    "board_id": "19ff3243-1055-4577-bd95-aa82da39574d",
+    "weapon": "Dragonscale Blade",
+    "created_at": "2026-04-19 14:12:14.317739+00"
+  },
+  {
+    "id": 418,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban",
+    "board_id": "19ff3243-1055-4577-bd95-aa82da39574d",
+    "weapon": "Troll's Hammer (-7) | Astrologer",
+    "created_at": "2026-04-19 14:12:48.522034+00"
+  },
+  {
+    "id": 419,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban2",
+    "board_id": "19ff3243-1055-4577-bd95-aa82da39574d",
+    "weapon": "Pata (-9) | Warrior",
+    "created_at": "2026-04-19 14:13:15.524803+00"
+  },
+  {
+    "id": 420,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "b4493a06-e5b9-4a61-a5d7-5b6a20369e1a",
+    "action": "weapon_ban",
+    "board_id": "51cbdf05-62bc-400f-9532-80ee0403d369",
+    "weapon": "Morning Star",
+    "created_at": "2026-04-19 14:15:12.742809+00"
+  },
+  {
+    "id": 421,
+    "series_id": "d8a816f6-6ded-4593-821d-f2db9c4e480e",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban2",
+    "board_id": "51cbdf05-62bc-400f-9532-80ee0403d369",
+    "weapon": "Black Knife (-14) | Samurai",
+    "created_at": "2026-04-19 14:15:46.847666+00"
+  },
+  {
+    "id": 422,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "board_ban",
+    "board_id": "8bcd62e9-5de4-4292-861d-a05951a1e228",
+    "weapon": null,
+    "created_at": "2026-04-19 18:04:36.082517+00"
+  },
+  {
+    "id": 423,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_ban",
+    "board_id": "f05707c1-0c0c-48b1-8261-a1f5e29b7866",
+    "weapon": null,
+    "created_at": "2026-04-19 18:06:42.112126+00"
+  },
+  {
+    "id": 424,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "board_pick",
+    "board_id": "e5420d74-3ddb-420d-bb6a-6f5611529307",
+    "weapon": null,
+    "created_at": "2026-04-19 18:06:54.154441+00"
+  },
+  {
+    "id": 425,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_pick",
+    "board_id": "0825eefb-8344-4dae-92ee-26a74c82f774",
+    "weapon": null,
+    "created_at": "2026-04-19 18:07:00.856759+00"
+  },
+  {
+    "id": 426,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_protect",
+    "board_id": "e5420d74-3ddb-420d-bb6a-6f5611529307",
+    "weapon": "Great Katana",
+    "created_at": "2026-04-19 18:07:23.401766+00"
+  },
+  {
+    "id": 427,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_ban",
+    "board_id": "e5420d74-3ddb-420d-bb6a-6f5611529307",
+    "weapon": "Brick Hammer (-11) | Prisoner",
+    "created_at": "2026-04-19 18:08:08.676717+00"
+  },
+  {
+    "id": 428,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_ban2",
+    "board_id": "e5420d74-3ddb-420d-bb6a-6f5611529307",
+    "weapon": "Great Stars (-6) | Astrologer",
+    "created_at": "2026-04-19 18:08:37.996537+00"
+  },
+  {
+    "id": 429,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_protect",
+    "board_id": "0825eefb-8344-4dae-92ee-26a74c82f774",
+    "weapon": "Flamberge (-1) | Confessor",
+    "created_at": "2026-04-19 19:40:33.53495+00"
+  },
+  {
+    "id": 430,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_ban",
+    "board_id": "0825eefb-8344-4dae-92ee-26a74c82f774",
+    "weapon": "Watchdog's Staff",
+    "created_at": "2026-04-19 19:41:07.226854+00"
+  },
+  {
+    "id": 431,
+    "series_id": "60a233d3-0edf-420d-8b89-ff4c8c949dd9",
+    "team_id": "deeb49f6-5507-46cc-813b-acebef60e55a",
+    "action": "weapon_ban2",
+    "board_id": "0825eefb-8344-4dae-92ee-26a74c82f774",
+    "weapon": "Longhaft Axe (-2) | Vagabond",
+    "created_at": "2026-04-19 19:42:28.639515+00"
+  },
+  {
+    "id": 432,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_ban",
+    "board_id": "a599730b-2cab-4177-b3c9-d94b61772790",
+    "weapon": null,
+    "created_at": "2026-04-25 22:02:37.498014+00"
+  },
+  {
+    "id": 433,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_ban",
+    "board_id": "16febe3d-2f0b-406f-b659-f557a27afb92",
+    "weapon": null,
+    "created_at": "2026-04-25 22:03:12.886704+00"
+  },
+  {
+    "id": 434,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_pick",
+    "board_id": "4b39bed4-3c0f-4666-8145-e6668c527e5a",
+    "weapon": null,
+    "created_at": "2026-04-25 22:04:25.929032+00"
+  },
+  {
+    "id": 435,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "board_pick",
+    "board_id": "b24315e7-7b0c-407b-a70e-eeb2fe5bcfb5",
+    "weapon": null,
+    "created_at": "2026-04-25 22:05:14.95116+00"
+  },
+  {
+    "id": 436,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_protect",
+    "board_id": "4b39bed4-3c0f-4666-8145-e6668c527e5a",
+    "weapon": "Great Omenkiller Cleaver (-7) | Astrologer",
+    "created_at": "2026-04-25 22:05:35.80911+00"
+  },
+  {
+    "id": 437,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban",
+    "board_id": "4b39bed4-3c0f-4666-8145-e6668c527e5a",
+    "weapon": "Rotten Staff (-17) | Confessor",
+    "created_at": "2026-04-25 22:07:06.397264+00"
+  },
+  {
+    "id": 438,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_ban2",
+    "board_id": "4b39bed4-3c0f-4666-8145-e6668c527e5a",
+    "weapon": "Urumi",
+    "created_at": "2026-04-25 22:07:31.304362+00"
+  },
+  {
+    "id": 439,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_protect",
+    "board_id": "b24315e7-7b0c-407b-a70e-eeb2fe5bcfb5",
+    "weapon": "Lordsworn's Greatsword",
+    "created_at": "2026-04-27 21:48:36.911109+00"
+  },
+  {
+    "id": 440,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "f5821c8f-9f87-4a61-bf29-3d594bca7a4e",
+    "action": "weapon_ban",
+    "board_id": "b24315e7-7b0c-407b-a70e-eeb2fe5bcfb5",
+    "weapon": "Great Club (-11) | Bandit",
+    "created_at": "2026-04-27 21:48:51.458099+00"
+  },
+  {
+    "id": 441,
+    "series_id": "78eb32a5-2624-4a09-b7fc-d7db2939d719",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban2",
+    "board_id": "b24315e7-7b0c-407b-a70e-eeb2fe5bcfb5",
+    "weapon": "Golden Epitaph",
+    "created_at": "2026-04-27 21:50:33.523119+00"
+  },
+  {
+    "id": 442,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "board_ban",
+    "board_id": "ee75ac37-f75f-4d22-bad5-8c2174b1939c",
+    "weapon": null,
+    "created_at": "2026-05-03 14:56:24.802062+00"
+  },
+  {
+    "id": 443,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_ban",
+    "board_id": "1b40d17f-fb2a-4f07-8eee-c82544716f26",
+    "weapon": null,
+    "created_at": "2026-05-03 14:57:46.531295+00"
+  },
+  {
+    "id": 444,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "board_pick",
+    "board_id": "42d219ce-f873-4761-b596-4e58f7c3b9fc",
+    "weapon": null,
+    "created_at": "2026-05-03 14:58:24.860692+00"
+  },
+  {
+    "id": 445,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_pick",
+    "board_id": "87d3f87d-9325-4f9f-97e8-926e9f9c4d2c",
+    "weapon": null,
+    "created_at": "2026-05-03 14:58:57.770519+00"
+  },
+  {
+    "id": 446,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_protect",
+    "board_id": "42d219ce-f873-4761-b596-4e58f7c3b9fc",
+    "weapon": "Warped Axe (-5) | Hero",
+    "created_at": "2026-05-03 15:00:18.807384+00"
+  },
+  {
+    "id": 447,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_ban",
+    "board_id": "42d219ce-f873-4761-b596-4e58f7c3b9fc",
+    "weapon": "Greatsword (-13) | Warrior",
+    "created_at": "2026-05-03 15:00:42.409939+00"
+  },
+  {
+    "id": 448,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban2",
+    "board_id": "42d219ce-f873-4761-b596-4e58f7c3b9fc",
+    "weapon": "Banished Knight's Greatsword",
+    "created_at": "2026-05-03 15:02:42.954297+00"
+  },
+  {
+    "id": 449,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_protect",
+    "board_id": "87d3f87d-9325-4f9f-97e8-926e9f9c4d2c",
+    "weapon": "Dragonscale Blade (-11) | Bandit",
+    "created_at": "2026-05-03 15:03:31.331192+00"
+  },
+  {
+    "id": 450,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban",
+    "board_id": "87d3f87d-9325-4f9f-97e8-926e9f9c4d2c",
+    "weapon": "Great Katana (-7) | Confessor",
+    "created_at": "2026-05-03 15:03:35.201501+00"
+  },
+  {
+    "id": 451,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_ban2",
+    "board_id": "87d3f87d-9325-4f9f-97e8-926e9f9c4d2c",
+    "weapon": "Morning Star",
+    "created_at": "2026-05-03 15:04:22.048237+00"
+  },
+  {
+    "id": 452,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "101d1bc6-2647-449a-bfa0-00cdbdb14543",
+    "action": "weapon_ban",
+    "board_id": "b4fa5e6c-5b21-419c-919f-b6ba67abb0f5",
+    "weapon": "Dragon Halberd (-5) | Prisoner",
+    "created_at": "2026-05-03 15:05:03.661888+00"
+  },
+  {
+    "id": 453,
+    "series_id": "c3cb0fef-4376-414a-bb91-783758910dc6",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban2",
+    "board_id": "b4fa5e6c-5b21-419c-919f-b6ba67abb0f5",
+    "weapon": "Giant-Crusher (-31) | Warrior",
+    "created_at": "2026-05-03 15:06:24.491702+00"
+  },
+  {
+    "id": 454,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_ban",
+    "board_id": "6c6fe7e8-ea7b-4fdd-9a79-5e9a5c822e41",
+    "weapon": null,
+    "created_at": "2026-05-06 23:02:50.410278+00"
+  },
+  {
+    "id": 455,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_ban",
+    "board_id": "9757f7a4-4f70-4d01-8b2d-bccae0e52687",
+    "weapon": null,
+    "created_at": "2026-05-06 23:03:35.243917+00"
+  },
+  {
+    "id": 456,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "board_pick",
+    "board_id": "f67af4a8-e8c7-4fe7-8b1c-9bb31d5aa231",
+    "weapon": null,
+    "created_at": "2026-05-06 23:06:52.359104+00"
+  },
+  {
+    "id": 457,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "board_pick",
+    "board_id": "f2f48a4f-7b84-4980-853a-893108d0cb40",
+    "weapon": null,
+    "created_at": "2026-05-06 23:07:44.067937+00"
+  },
+  {
+    "id": 458,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_protect",
+    "board_id": "f67af4a8-e8c7-4fe7-8b1c-9bb31d5aa231",
+    "weapon": "Rusted Anchor (-12) | Bandit",
+    "created_at": "2026-05-06 23:08:56.483732+00"
+  },
+  {
+    "id": 459,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban",
+    "board_id": "f67af4a8-e8c7-4fe7-8b1c-9bb31d5aa231",
+    "weapon": "Weathered Straight Sword | Vagabond",
+    "created_at": "2026-05-06 23:09:31.183886+00"
+  },
+  {
+    "id": 460,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban2",
+    "board_id": "f67af4a8-e8c7-4fe7-8b1c-9bb31d5aa231",
+    "weapon": "Family Heads (-13) | Prophet",
+    "created_at": "2026-05-06 23:10:55.346551+00"
+  },
+  {
+    "id": 461,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_protect",
+    "board_id": "f2f48a4f-7b84-4980-853a-893108d0cb40",
+    "weapon": "Alabaster Lord's Sword",
+    "created_at": "2026-05-07 01:02:03.963523+00"
+  },
+  {
+    "id": 462,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "0833a2c5-ede2-4b42-9577-cc1b52f19274",
+    "action": "weapon_ban",
+    "board_id": "f2f48a4f-7b84-4980-853a-893108d0cb40",
+    "weapon": "Morning Star | Wretch",
+    "created_at": "2026-05-07 01:02:20.062768+00"
+  },
+  {
+    "id": 463,
+    "series_id": "4261ce4f-a1f7-4d7d-9e17-40785be3bdc8",
+    "team_id": "1df56fa9-cf63-45ab-873c-e608034a96f6",
+    "action": "weapon_ban2",
+    "board_id": "f2f48a4f-7b84-4980-853a-893108d0cb40",
+    "weapon": "Parrying Dagger | Vagabond",
+    "created_at": "2026-05-07 01:04:44.048372+00"
+  }
+]
