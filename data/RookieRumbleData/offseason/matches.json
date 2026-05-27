@@ -530,6 +530,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/jayce-v-maybe-week4.png"
       }
+    },
+    {
+      "id": "rookie-035",
+      "week": 4,
+      "participants": [
+        { "id": "alex", "score": 13 },
+        { "id": "maybeminnow", "score": 11 }
+      ],
+      "winner": "alex",
+      "method": "Majority",
+      "duration": "01:58:17",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/maybe-v-alex-week4.png"
+      }
     }
   ]
 }
