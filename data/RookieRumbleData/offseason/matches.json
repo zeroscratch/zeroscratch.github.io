@@ -560,6 +560,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/daniel-v-chima-week4.png"
       }
+    },
+    {
+      "id": "rookie-037",
+      "week": 4,
+      "participants": [
+        { "id": "elayne", "score": 13 },
+        { "id": "alex", "score": 11 }
+      ],
+      "winner": "elayne",
+      "method": "Majority",
+      "duration": "01:41:30",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/elayne-v-alex-week4.png"
+      }
     }
   ]
 }
