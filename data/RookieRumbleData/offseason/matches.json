@@ -545,6 +545,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/maybe-v-alex-week4.png"
       }
+    },
+    {
+      "id": "rookie-036",
+      "week": 4,
+      "participants": [
+        { "id": "daniel", "score": 13 },
+        { "id": "chima", "score": 12 }
+      ],
+      "winner": "daniel",
+      "method": "Majority",
+      "duration": "01:57:28",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/daniel-v-chima-week4.png"
+      }
     }
   ]
 }
