@@ -635,6 +635,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/okami-v-uncle-week4.png"
       }
+    },
+    {
+      "id": "rookie-042",
+      "week": 4,
+      "participants": [
+        { "id": "vicas", "score": 13 },
+        { "id": "ilmarinen", "score": 2 }
+      ],
+      "winner": "vicas",
+      "method": "Majority",
+      "duration": "01:27:33",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/vicas-v-ilmarinen-week4.png"
+      }
     }
   ]
 }
