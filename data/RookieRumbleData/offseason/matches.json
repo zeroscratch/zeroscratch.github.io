@@ -575,6 +575,66 @@
         "vod": "",
         "image": "/img/rookie/offseason/elayne-v-alex-week4.png"
       }
+    },
+    {
+      "id": "rookie-038",
+      "week": 4,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "daniel", "score": 9 }
+      ],
+      "winner": "jayce",
+      "method": "Majority",
+      "duration": "01:27:22",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/daniel-v-jayce-week4.png"
+      }
+    },
+    {
+      "id": "rookie-039",
+      "week": 4,
+      "participants": [
+        { "id": "vicas", "score": 9 },
+        { "id": "elayne", "score": 2 }
+      ],
+      "winner": "vicas",
+      "method": "Bingo",
+      "duration": "01:18:55",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/vicas-v-elayne-week4.png"
+      }
+    },
+    {
+      "id": "rookie-040",
+      "week": 4,
+      "participants": [
+        { "id": "gamegit", "score": 8 },
+        { "id": "bryan", "score": 5 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "01:01:10",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-bryan-week4.png"
+      }
+    },
+    {
+      "id": "rookie-041",
+      "week": 4,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "uncl", "score": 3 }
+      ],
+      "winner": "okami",
+      "method": "Bingo",
+      "duration": "00:59:04",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/okami-v-uncle-week4.png"
+      }
     }
   ]
 }
