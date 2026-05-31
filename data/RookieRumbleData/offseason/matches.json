@@ -650,6 +650,36 @@
         "vod": "",
         "image": "/img/rookie/offseason/vicas-v-ilmarinen-week4.png"
       }
+    },
+    {
+      "id": "rookie-043",
+      "week": 4,
+      "participants": [
+        { "id": "uncl", "score": 10 },
+        { "id": "ilmarinen", "score": 5 }
+      ],
+      "winner": "uncl",
+      "method": "Bingo",
+      "duration": "01:40:31",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/uncle-v-ilmarinen-week4.png"
+      }
+    },
+    {
+      "id": "rookie-044",
+      "week": 4,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "bryan", "score": 9 }
+      ],
+      "winner": "okami",
+      "method": "Majority",
+      "duration": "01:24:36",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/okami-v-bryan-week4.png"
+      }
     }
   ]
 }
