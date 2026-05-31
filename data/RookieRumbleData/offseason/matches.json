@@ -680,6 +680,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/okami-v-bryan-week4.png"
       }
+    },
+    {
+      "id": "rookie-045",
+      "week": 4,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "chima", "score": 8 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:12:34",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-chima-week4.png"
+      }
     }
   ]
 }
