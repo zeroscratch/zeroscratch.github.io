@@ -695,6 +695,81 @@
         "vod": "",
         "image": "/img/rookie/offseason/game-v-chima-week4.png"
       }
+    },
+    {
+      "id": "rookie-046",
+      "week": 5,
+      "participants": [
+        { "id": "daniel", "score": 9 },
+        { "id": "uncl", "score": 5 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "01:21:20",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/daniel-v-uncl-week5.png"
+      }
+    },
+    {
+      "id": "rookie-047",
+      "week": 5,
+      "participants": [
+        { "id": "daniel", "score": 5 },
+        { "id": "ilmarinen", "score": 1 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "00:48:01",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/daniel-v-ilmarinen-week5.png"
+      }
+    },
+    {
+      "id": "rookie-048",
+      "week": 5,
+      "participants": [
+        { "id": "gamegit", "score": 7 },
+        { "id": "ilmarinen", "score": 0 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "00:43:27",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-ilmarinen-week5.png"
+      }
+    },
+    {
+      "id": "rookie-049",
+      "week": 5,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "okami", "score": 10 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:39:45",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-okami-week5.png"
+      }
+    },
+    {
+      "id": "rookie-050",
+      "week": 5,
+      "participants": [
+        { "id": "maybeminnow", "score": 13 },
+        { "id": "vicas", "score": 10 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:59:40",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/maybe-v-vicas-week5.png"
+      }
     }
   ]
 }
