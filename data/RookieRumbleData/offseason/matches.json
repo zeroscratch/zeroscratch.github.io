@@ -770,6 +770,81 @@
         "vod": "",
         "image": "/img/rookie/offseason/maybe-v-vicas-week5.png"
       }
+    },
+    {
+      "id": "rookie-051",
+      "week": 5,
+      "participants": [
+        { "id": "bryan", "score": 13 },
+        { "id": "vicas", "score": 10 }
+      ],
+      "winner": "bryan",
+      "method": "Majority",
+      "duration": "01:27:09",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/bryan-v-vicas-week5.png"
+      }
+    },
+    {
+      "id": "rookie-052",
+      "week": 5,
+      "participants": [
+        { "id": "chima", "score": 13 },
+        { "id": "bryan", "score": 9 }
+      ],
+      "winner": "chima",
+      "method": "Majority",
+      "duration": "01:24:40",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/chima-v-bryan-week5.png"
+      }
+    },
+    {
+      "id": "rookie-053",
+      "week": 5,
+      "participants": [
+        { "id": "jayce", "score": 8 },
+        { "id": "elayne", "score": 2 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:00:58",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-elayne-week5.png"
+      }
+    },
+    {
+      "id": "rookie-054",
+      "week": 5,
+      "participants": [
+        { "id": "alex", "score": 13 },
+        { "id": "okami", "score": 8 }
+      ],
+      "winner": "alex",
+      "method": "Bingo",
+      "duration": "01:43:53",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/alex-v-okami-week5.png"
+      }
+    },
+    {
+      "id": "rookie-055",
+      "week": 5,
+      "participants": [
+        { "id": "chima", "score": 12 },
+        { "id": "elayne", "score": 11 }
+      ],
+      "winner": "chima",
+      "method": "Majority",
+      "duration": "01:59:57",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/chima-v-elayne-week5.png"
+      }
     }
   ]
 }
