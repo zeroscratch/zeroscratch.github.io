@@ -3,8 +3,8 @@
   "league": "Rookie",
   "participantType": "player",
   "format": "regularSeason",
-  "individualMaxGamesPlayed": 12,
-  "playoffSlots": 4,
+  "individualMaxGamesPlayed": 11,
+  "playoffSlots": 6,
   "matches": [
     {
       "id": "rookie-001",
@@ -794,7 +794,7 @@
         { "id": "bryan", "score": 9 }
       ],
       "winner": "chima",
-      "method": "Majority",
+      "method": "Bingo",
       "duration": "01:24:40",
       "media": {
         "vod": "",
@@ -844,6 +844,36 @@
       "media": {
         "vod": "",
         "image": "/img/rookie/offseason/chima-v-elayne-week5.png"
+      }
+    },
+    {
+      "id": "rookie-056",
+      "week": 5,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "alex", "score": 9 }
+      ],
+      "winner": "jayce",
+      "method": "Majority",
+      "duration": "01:35:07",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-alex-week5.png"
+      }
+    },
+    {
+      "id": "rookie-057",
+      "week": 5,
+      "participants": [
+        { "id": "maybeminnow", "score": 13 },
+        { "id": "uncl", "score": 10 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Majority",
+      "duration": "01:55:40",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/maybe-v-uncl-week5.png"
       }
     }
   ]
