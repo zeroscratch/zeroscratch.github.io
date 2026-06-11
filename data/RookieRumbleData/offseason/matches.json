@@ -875,6 +875,36 @@
         "vod": "",
         "image": "/img/rookie/offseason/maybe-v-uncl-week5.png"
       }
+    },
+    {
+      "id": "rookie-058",
+      "week": 6,
+      "participants": [
+        { "id": "gamegit", "score": 12 },
+        { "id": "elayne", "score": 6 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "01:32:15",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/game-v-elayne-week6.png"
+      }
+    },
+    {
+      "id": "rookie-059",
+      "week": 6,
+      "participants": [
+        { "id": "alex", "score": 13 },
+        { "id": "bryan", "score": 10 }
+      ],
+      "winner": "alex",
+      "method": "Majority",
+      "duration": "01:29:35",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/alex-v-bryan-week6.png"
+      }
     }
   ]
 }
