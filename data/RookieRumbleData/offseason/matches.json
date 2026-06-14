@@ -905,6 +905,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/alex-v-bryan-week6.png"
       }
+    },
+    {
+      "id": "rookie-060",
+      "week": 6,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "vicas", "score": 8 }
+      ],
+      "winner": "okami",
+      "method": "Majority",
+      "duration": "01:47:36",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/okami-v-vicas-week6.png"
+      }
     }
   ]
 }
