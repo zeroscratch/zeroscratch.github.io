@@ -920,6 +920,21 @@
         "vod": "",
         "image": "/img/rookie/offseason/okami-v-vicas-week6.png"
       }
+    },
+    {
+      "id": "rookie-061",
+      "week": 6,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "ilmarinen", "score": 2 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:07:09",
+      "media": {
+        "vod": "",
+        "image": "/img/rookie/offseason/jayce-v-ilmarinen-week6.png"
+      }
     }
   ]
 }
