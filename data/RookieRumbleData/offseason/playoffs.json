@@ -1,0 +1,131 @@
+{
+  "season": "RookieRumbleOffseason",
+  "league": "Rookie Rumble",
+  "format": "single-elimination",
+  "participantType": "player",
+  "rounds": [
+    {
+      "name": "Quarterfinals",
+      "series": [
+        {
+          "id": "QF-1",
+          "bestOf": 1,
+          "participants": ["daniel", "chima"],
+          "games": [
+            {
+              "id": "QF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "daniel", "score": 13 },
+                { "id": "chima", "score": 12 }
+              ],
+              "winner": "daniel",
+              "method": "Majority",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": "/img/rookie/offseason/daniel-v-chima-playoffs.png"
+              }
+            }
+          ],
+          "winsByTeam": {}
+        },
+        {
+          "id": "QF-2",
+          "bestOf": 1,
+          "participants": ["maybeminnow", "okami"],
+          "games": [
+            {
+              "id": "QF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "maybeminnow", "score": 11 },
+                { "id": "okami", "score": 13 }
+              ],
+              "winner": "okami",
+              "method": "Majority",
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": "/img/rookie/offseason/maybe-v-okami-playoffs.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Semifinals",
+      "series": [
+        {
+          "id": "SF-1",
+          "bestOf": 1,
+          "participants": ["gamegit", "okami"],
+          "games": [
+            {
+              "id": "SF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "gamegit", "score": 0 },
+                { "id": "okami", "score": 0 }
+              ],
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winsByTeam": {}
+        },
+        {
+          "id": "SF-2",
+          "bestOf": 1,
+          "participants": ["jayce", "daniel"],
+          "games": [
+            {
+              "id": "SF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "jayce", "score": 0 },
+                { "id": "Winner of QF-1", "score": 0 }
+              ],
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winsByTeam": {}
+        }
+      ]
+    },
+    {
+      "name": "Finals",
+      "series": [
+        {
+          "id": "F",
+          "bestOf": 1,
+          "participants": ["Winner of SF-1", "Winner of SF-2"],
+          "games": [
+            {
+              "id": "F-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "Winner of SF-1", "score": 0 },
+                { "id": "Winner of SF-2", "score": 0 }
+              ],
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            }
+          ],
+          "winsByTeam": {}
+        }
+      ]
+    }
+  ]
+}
