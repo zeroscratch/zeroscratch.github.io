@@ -66,13 +66,15 @@
               "id": "SF-1-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "gamegit", "score": 0 },
-                { "id": "okami", "score": 0 }
+                { "id": "gamegit", "score": 13 },
+                { "id": "okami", "score": 6 }
               ],
+              "winner": "gamegit",
+              "method": "Majority",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/rookie/offseason/game-v-okami-playoffs.png"
               }
             }
           ],
@@ -87,13 +89,15 @@
               "id": "SF-2-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "jayce", "score": 0 },
-                { "id": "Winner of QF-1", "score": 0 }
+                { "id": "jayce", "score": 11 },
+                { "id": "daniel", "score": 6 }
               ],
+              "winner": "jayce",
+              "method": "Bingo",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/rookie/offseason/jayce-v-daniel-playoffs.png"
               }
             }
           ],
@@ -107,14 +111,14 @@
         {
           "id": "F",
           "bestOf": 1,
-          "participants": ["Winner of SF-1", "Winner of SF-2"],
+          "participants": ["gamegit", "jayce"],
           "games": [
             {
               "id": "F-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "Winner of SF-1", "score": 0 },
-                { "id": "Winner of SF-2", "score": 0 }
+                { "id": "gamegit", "score": 0 },
+                { "id": "jayce", "score": 0 }
               ],
               "scheduledAt": "",
               "media": {

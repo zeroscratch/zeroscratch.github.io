@@ -1,0 +1,53 @@
+{
+  "event": {
+    "id": "official-scadubingo-2026",
+    "name": "Official Scadubingo",
+    "slug": "official-scadubingo",
+    "season": "2026",
+    "league": "Scadubingo",
+    "status": "setup",
+    "participantType": "player",
+    "timezone": "America/Chicago",
+    "config": {
+      "groupStage": {
+        "bestOf": 1,
+        "playoffSlotsPerGroup": 4,
+        "winningMethods": ["Bingo", "Majority", "Time Limit", "Forfeit"]
+      },
+      "playoffs": {
+        "format": "single_elimination",
+        "defaultBestOf": 1,
+        "allowedBestOf": [1, 3]
+      }
+    }
+  },
+  "entries": [],
+  "groups": [
+    {
+      "id": "group-a",
+      "name": "Group A",
+      "playoffSlots": 4,
+      "entryIds": []
+    },
+    {
+      "id": "group-b",
+      "name": "Group B",
+      "playoffSlots": 4,
+      "entryIds": []
+    },
+    {
+      "id": "group-c",
+      "name": "Group C",
+      "playoffSlots": 4,
+      "entryIds": []
+    },
+    {
+      "id": "group-d",
+      "name": "Group D",
+      "playoffSlots": 4,
+      "entryIds": []
+    }
+  ],
+  "availability": [],
+  "matches": []
+}
