@@ -110,12 +110,25 @@
       "series": [
         {
           "id": "F",
-          "bestOf": 1,
+          "bestOf": 3,
           "participants": ["gamegit", "jayce"],
           "games": [
             {
               "id": "F-G1",
               "gameNumber": 1,
+              "participants": [
+                { "id": "gamegit", "score": 0 },
+                { "id": "jayce", "score": 0 }
+              ],
+              "scheduledAt": "",
+              "media": {
+                "vod": "",
+                "image": ""
+              }
+            },
+            {
+              "id": "F-G2",
+              "gameNumber": 2,
               "participants": [
                 { "id": "gamegit", "score": 0 },
                 { "id": "jayce", "score": 0 }
