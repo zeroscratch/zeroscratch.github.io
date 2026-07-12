@@ -117,26 +117,30 @@
               "id": "F-G1",
               "gameNumber": 1,
               "participants": [
-                { "id": "gamegit", "score": 0 },
-                { "id": "jayce", "score": 0 }
+                { "id": "gamegit", "score": 5 },
+                { "id": "jayce", "score": 5 }
               ],
+              "winner": "jayce",
+              "method": "Bingo",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/rookie/offseason/game-v-jayce-finals-1.png"
               }
             },
             {
               "id": "F-G2",
               "gameNumber": 2,
               "participants": [
-                { "id": "gamegit", "score": 0 },
-                { "id": "jayce", "score": 0 }
+                { "id": "gamegit", "score": 10 },
+                { "id": "jayce", "score": 13 }
               ],
+              "winner": "jayce",
+              "method": "Majority",
               "scheduledAt": "",
               "media": {
                 "vod": "",
-                "image": ""
+                "image": "/img/rookie/offseason/game-v-jayce-finals-2.png"
               }
             }
           ],
