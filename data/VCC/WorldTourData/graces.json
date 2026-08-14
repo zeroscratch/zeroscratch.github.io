@@ -1,0 +1,341 @@
+{
+  "image": "/img/vcc/Elden Ring World Tour Map.jpeg",
+  "markers": [
+    {
+      "graceId": "Agheel Lake South",
+      "name": "Agheel Lake South",
+      "x": 44.45,
+      "y": 83.53
+    },
+    {
+      "graceId": "Seaside Ruins",
+      "name": "Seaside Ruins",
+      "x": 41.93,
+      "y": 83.2
+    },
+    {
+      "graceId": "Stranded Graveyard",
+      "name": "Stranded Graveyard",
+      "x": 39.3,
+      "y": 82
+    },
+    {
+      "graceId": "First Step",
+      "name": "First Step",
+      "x": 39.04,
+      "y": 81.44
+    },
+    {
+      "graceId": "Church of Elleh",
+      "name": "Church of Elleh",
+      "x": 38.74,
+      "y": 80.03
+    },
+    {
+      "graceId": "Gatefront",
+      "name": "Gatefront",
+      "x": 39.73,
+      "y": 76.72
+    },
+    {
+      "graceId": "Agheel Lake North",
+      "name": "Agheel Lake North",
+      "x": 41.49,
+      "y": 77.49
+    },
+    {
+      "graceId": "Limgrave Artist's Shack",
+      "name": "Limgrave Artist's Shack",
+      "x": 44.71,
+      "y": 75.84
+    },
+    {
+      "graceId": "Murkwater Coast",
+      "name": "Murkwater Coast",
+      "x": 43.33,
+      "y": 75.49
+    },
+    {
+      "graceId": "Third Church of Marika",
+      "name": "Third Church of Marika",
+      "x": 49.22,
+      "y": 74.26
+    },
+    {
+      "graceId": "Summonwater Village Outskirts",
+      "name": "Summonwater Village Outskirts",
+      "x": 46.06,
+      "y": 72.45
+    },
+    {
+      "graceId": "Saintsbridge",
+      "name": "Saintsbridge",
+      "x": 42.18,
+      "y": 72.18
+    },
+    {
+      "graceId": "Warmaster Shack",
+      "name": "Warmaster Shack",
+      "x": 39.35,
+      "y": 73.73
+    },
+    {
+      "graceId": "Stormhill Shack",
+      "name": "Stormhill Shack",
+      "x": 36.88,
+      "y": 74.98
+    },
+    {
+      "graceId": "Isolated Merchant's Shack",
+      "name": "Isolated Merchant's Shack",
+      "x": 36.54,
+      "y": 91.32
+    },
+    {
+      "graceId": "South of the Lookout Tower",
+      "name": "South of the Lookout Tower",
+      "x": 44.63,
+      "y": 88.46
+    },
+    {
+      "graceId": "Church of Pilgrimage",
+      "name": "Church of Pilgrimage",
+      "x": 40.83,
+      "y": 85.31
+    },
+    {
+      "graceId": "Ailing Village Outskirts",
+      "name": "Ailing Village Outskirts",
+      "x": 44.04,
+      "y": 89
+    },
+    {
+      "graceId": "Bridge of Sacrifice",
+      "name": "Bridge of Sacrifice",
+      "x": 46.08,
+      "y": 86.62
+    },
+    {
+      "graceId": "Castle Morne Rampart",
+      "name": "Castle Morne Rampart",
+      "x": 45.68,
+      "y": 90.68
+    },
+    {
+      "graceId": "Fourth Church of Marika",
+      "name": "Fourth Church of Marika",
+      "x": 37.13,
+      "y": 88.84
+    },
+    {
+      "graceId": "Tombsward",
+      "name": "Tombsward",
+      "x": 40.09,
+      "y": 89.83
+    },
+    {
+      "graceId": "The Ravine",
+      "name": "The Ravine",
+      "x": 21.7,
+      "y": 43.59
+    },
+    {
+      "graceId": "Ravine-Veiled Village",
+      "name": "Ravine-Veiled Village",
+      "x": 26.59,
+      "y": 39.51
+    },
+    {
+      "graceId": "Frenzied Flame Village Outskirts",
+      "name": "Frenzied Flame Village Outskirts",
+      "x": 28.86,
+      "y": 45.33
+    },
+    {
+      "graceId": "East Gate Bridge Trestle",
+      "name": "East Gate Bridge Trestle",
+      "x": 20.34,
+      "y": 50.08
+    },
+    {
+      "graceId": "Sorcerer's Isle",
+      "name": "Sorcerer's Isle",
+      "x": 18.15,
+      "y": 48.64
+    },
+    {
+      "graceId": "Gate Town North",
+      "name": "Gate Town North",
+      "x": 21.93,
+      "y": 53.57
+    },
+    {
+      "graceId": "Foot of the Four Belfries",
+      "name": "Foot of the Four Belfries",
+      "x": 13.79,
+      "y": 52.48
+    },
+    {
+      "graceId": "Road to the Manor",
+      "name": "Road to the Manor",
+      "x": 17.77,
+      "y": 44.04
+    },
+    {
+      "graceId": "East Raya Lucaria Gate",
+      "name": "East Raya Lucaria Gate",
+      "x": 21.8,
+      "y": 47.3
+    },
+    {
+      "graceId": "South Raya Lucaria Gate",
+      "name": "South Raya Lucaria Gate",
+      "x": 21.16,
+      "y": 55.74
+    },
+    {
+      "graceId": "Academy Gate Town",
+      "name": "Academy Gate Town",
+      "x": 25.17,
+      "y": 58.75
+    },
+    {
+      "graceId": "Fallen Ruins of the Lake",
+      "name": "Fallen Ruins of the Lake",
+      "x": 21.47,
+      "y": 59.07
+    },
+    {
+      "graceId": "Boilprawn Shack",
+      "name": "Boilprawn Shack",
+      "x": 23.76,
+      "y": 60.83
+    },
+    {
+      "graceId": "Scenic Isle",
+      "name": "Scenic Isle",
+      "x": 24.5,
+      "y": 63.16
+    },
+    {
+      "graceId": "Liurnia Highway North",
+      "name": "Liurnia Highway North",
+      "x": 30.88,
+      "y": 63.64
+    },
+    {
+      "graceId": "Liurnia Highway South",
+      "name": "Liurnia Highway South",
+      "x": 31.19,
+      "y": 67.45
+    },
+    {
+      "graceId": "Laskyar Ruins",
+      "name": "Laskyar Ruins",
+      "x": 27.82,
+      "y": 66.23
+    },
+    {
+      "graceId": "Liurnia Lake Shore",
+      "name": "Liurnia Lake Shore",
+      "x": 28.79,
+      "y": 67.94
+    },
+    {
+      "graceId": "Gate Town Bridge",
+      "name": "Gate Town Bridge",
+      "x": 28.97,
+      "y": 60.19
+    },
+    {
+      "graceId": "Eastern Liurnia Lake Shore",
+      "name": "Eastern Liurnia Lake Shore",
+      "x": 27.95,
+      "y": 55.1
+    },
+    {
+      "graceId": "Temple Quarter",
+      "name": "Temple Quarter",
+      "x": 16.8,
+      "y": 56.24
+    },
+    {
+      "graceId": "Crystalline Woods",
+      "name": "Crystalline Woods",
+      "x": 17.51,
+      "y": 52.29
+    },
+    {
+      "graceId": "Liurnia Artist's Shack",
+      "name": "Liurnia Artist's Shack",
+      "x": 29.22,
+      "y": 56.11
+    },
+    {
+      "graceId": "Inner Aeonia",
+      "name": "Inner Aeonia",
+      "x": 58.15,
+      "y": 73.92
+    },
+    {
+      "graceId": "Sellia Under-Stair",
+      "name": "Sellia Under-Stair",
+      "x": 59.5,
+      "y": 72.63
+    },
+    {
+      "graceId": "Sellia Backstreets",
+      "name": "Sellia Backstreets",
+      "x": 60.62,
+      "y": 71.73
+    },
+    {
+      "graceId": "Aeonia Swamp Shore",
+      "name": "Aeonia Swamp Shore",
+      "x": 55.93,
+      "y": 75.38
+    },
+    {
+      "graceId": "Astray from Caelid Highway North",
+      "name": "Astray from Caelid Highway North",
+      "x": 55.09,
+      "y": 74.8
+    },
+    {
+      "graceId": "Caelem Ruins",
+      "name": "Caelem Ruins",
+      "x": 54.32,
+      "y": 69.64
+    },
+    {
+      "graceId": "Fort Gael North",
+      "name": "Fort Gael North",
+      "x": 51.77,
+      "y": 73.59
+    },
+    {
+      "graceId": "Southern Aeonia Swamp Bank",
+      "name": "Southern Aeonia Swamp Bank",
+      "x": 58.76,
+      "y": 76.99
+    },
+    {
+      "graceId": "Lenne's Rise",
+      "name": "Lenne's Rise",
+      "x": 67.26,
+      "y": 66.47
+    },
+    {
+      "graceId": "Dragonbarrow West",
+      "name": "Dragonbarrow West",
+      "x": 57.16,
+      "y": 68.52
+    },
+    {
+      "graceId": "Smoldering Wall",
+      "name": "Smoldering Wall",
+      "x": 54.91,
+      "y": 72.21
+    }
+  ]
+}
