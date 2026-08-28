@@ -30,7 +30,7 @@
     {"name": "Kill Lichdragon Fortissax and Bayle the Dread (C)", "weight": 0.5, "categories": [ "combinedSquare", "bayleKill", "combinedBaylePlaciFort" ]},
     {"name": "Kill the Vyke Invader and Okina (C)", "categories": [ "combinedSquare", "okinaCreeper", "vykeKill" ], "weight": 0.5 },
     {"name": "Kill Bofa Duo and Gurranq (C)", "categories": [ "combinedSquare", "bofaDuo", "gurranqbbk" ], "weight": 0.5 },
-    {"name": "Kill 3 Fallingstar Beasts (C)", "categories": [ "combinedSquare", "fallingstar" ], "tooltip": "Sellia Crystal Tunnel | Atlus | Full Grown | Hinterlands", "weight": 0.5 },
+    {"name": "Kill 3 Unique Fallingstar Beasts (C)", "categories": [ "combinedSquare", "fallingstar" ], "tooltip": "Sellia Crystal Tunnel | Atlus | Full Grown | Hinterlands", "weight": 0.5 },
 
     {"name": "Acquire 2 Exultation Talismans", "categories": [ "baseGameSquare", "dlcSquare", "combinedExultation" ], "tooltip": "Lord of Blood's | Kindred of Rot's | Aged One's", "weight": 0.5 },
     {"name": "Acquire a Bairn", "categories": [ "baseGameSquare", "dlcSquare", "combinedBairns", "goldMorgott" ] },
