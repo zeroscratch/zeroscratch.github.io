@@ -41,6 +41,7 @@ Every player begins a Veilbreak run with the following:
 - **Dark Moon Ring**
 - **Cursemark of Death**
 - **Flask of Wondrous Physick**
+- **Start with the new Torrent Skins**
 
 ---
 
@@ -48,7 +49,7 @@ Every player begins a Veilbreak run with the following:
 
 Roundtable Hold contains several Veilbreak-specific changes:
 
-- The door to **Enia** is open by default.
+- The door to **Enia** is open by default and she no longer has dialogue.
 - The normal Roundtable Hold fist check has been removed.
 - **Bernie Bingo**, a new support merchant, is located in the room with the **Twin Maiden Husks**.
 
@@ -368,6 +369,7 @@ The following rules are active throughout Veilbreak:
 - **Metyr, Mother of Fingers** is accessible after blowing **1 horn**.
 - **Torrent can be ridden** inside the following boss arenas:
   - Astel, Naturalborn of the Void
+  - Astel, Stars of Darkness
   - Regal Ancestor Spirit
   - Ancestor Spirit
 - The Roundtable Hold fist check is removed.

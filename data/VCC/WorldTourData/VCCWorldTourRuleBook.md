@@ -16,7 +16,7 @@ This rulebook governs the VCC World Tour competition. It covers league structure
 
 | Match platform | EldenBingo application |
 
-| Randomizer | Athena Randomizer |
+| Randomizer | Athena Randomizer v0.23 |
 
 | Prep and warmup | 5 minutes |
 
