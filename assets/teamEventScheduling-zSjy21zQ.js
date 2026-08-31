@@ -1,0 +1,1 @@
+import{R as o}from"./index-CBvA5syD.js";async function n(a,e){const{data:s,error:t}=await o.rpc("team_respond_match_suggestion",{p_suggestion_id:a,p_response:e});if(t)throw t;return s}async function i(a,e){const{data:s,error:t}=await o.rpc("team_admin_decide_match_suggestion",{p_suggestion_id:a,p_approved:e});if(t)throw t;return s}export{i as d,n as r};
