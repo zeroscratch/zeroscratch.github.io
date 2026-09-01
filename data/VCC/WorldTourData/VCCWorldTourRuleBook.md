@@ -92,15 +92,17 @@ Standings are decided in this order unless an event ruling announces otherwise:
 The Play-In Stage lasts one week.
 
   
-For Pool 1
-- **The first place** of each group receives a playoff bye - skipping the play-in stage.
+For the advanced divisions:
 
-- **The runners-up** play a round robin. The winner earns the fourth playoff bye; the other two teams qualify for the Round of 12.
+- **The three first-place teams** play a round robin to determine Seeds 1-3. All three teams retain their playoff byes regardless of their play-in results.
 
-- **The third-place** advanced-division team qualifies for the Round of 12 - skipping the play-in stage.
+- **The three runners-up** play a round robin. The winner earns Seed 4 and the fourth playoff bye; the other two teams qualify for the Round of 12 as Seeds 5-6, ordered by result.
 
-For Pool 1 & 2 - LCQ:
-- **The fourth-place team** from pool 1 joins the top three Challenger Division teams in the Last-Chance Qualifier.  Match pairings will be randomized. The LCQ produces the final three playoff teams.
+- **The three third-place teams** play a round robin to determine Seeds 7-9. All three teams qualify for the Round of 12 regardless of their play-in results.
+
+For the Last-Chance Qualifier:
+
+- **The fourth-place team** from each advanced division joins the top three Challenger Division teams in the Last-Chance Qualifier. Match pairings will be randomized. The LCQ produces the final three playoff teams.
 
   
 
@@ -112,13 +114,13 @@ The 12-team playoff field is seeded as follows:
 
   
 
-1. Seeds 1-3: the winners of Ancestral Followers, Banished Knights, and Carian Royals, randomly ordered.
+1. Seeds 1-3: the winners of Ancestral Followers, Banished Knights, and Carian Royals, ordered by the first-place play-in results. All three receive a playoff bye.
 
 2. Seed 4: the winner of the second-place Play-In.
 
 3. Seeds 5-6: the two remaining Play-In teams, ordered by Play-In result.
 
-4. Seeds 7-9: the third-place teams from the advanced divisions, randomly ordered.
+4. Seeds 7-9: the third-place teams from the advanced divisions, ordered by the third-place play-in results.
 
 5. Seeds 10-12: the three LCQ qualifiers, randomly ordered.
 
