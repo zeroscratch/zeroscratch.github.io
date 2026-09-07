@@ -392,11 +392,11 @@ Players must not share, infer through unauthorized access, or attempt to reveal 
 
   
 
-## 4.6 Decider Seed and Begin Match
+## 4.6 Decider Seed Release
 
   
 
-After the draft resolves, the decider board is visible. Its seed remains hidden until the configured release time. Seeds release automatically after the match's draft window, or earlier when both teams confirm **Begin Match** in the portal. The default draft window is 30 minutes unless event administration configures a different period for that match.
+The first team's queued choice remains private while the opposing team is still selecting. As soon as both teams submit their bans, the draft resolves: both bans are revealed, the remaining board becomes the decider, and its seed is released immediately. No additional **Begin Match** confirmation or wait for the configured draft window is required.
 
   
 
