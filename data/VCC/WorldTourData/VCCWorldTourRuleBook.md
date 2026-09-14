@@ -1,6 +1,6 @@
 # VCC World Tour Rulebook
 
-**Version 1.0**
+**Version 1.1**
 
 This rulebook governs the VCC World Tour competition. It covers league structure, match setup, board selection, competitive rules, square completion, technical issues, communication, penalties, player conduct, and liability.
 
@@ -236,7 +236,13 @@ Players may not receive spoilers, hints, or other match information from Twitch 
 
 Streamers must ensure that moderators promptly remove prohibited information. If chat reveals match information, responsibility rests with the player or streamer. Receiving prohibited information may result in penalties, including match forfeiture.
 
-  
+## 2.4 Coaches
+
+- Either team may veto coaches for a match. A coach veto applies equally to both teams: no coach may join or communicate with either team's players during that match.
+
+- A team may call up a freelance coach, but it must inform the opposing team before the match. The opposing team may then exercise its coach veto.
+
+- A coach may coach multiple teams. A player may not play for multiple teams.
 
 ---
 
@@ -481,6 +487,8 @@ The banned-skip list includes, but is not limited to:
 - Wrong warping
 
 - Front-to-back skip
+
+- Using the Hand of Malenia, Sword Lance, or any Dragon Communion incantation (funny) to perform a skip, including the Sage's Cave skip or ADM skip
 
   
 
