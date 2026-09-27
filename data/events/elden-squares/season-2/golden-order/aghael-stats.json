@@ -1,0 +1,37 @@
+{
+   "Asym": {
+      "time": "3:05",
+      "weapon": "Grave Scythe",
+      "division": "Redmane"
+   },
+   "Shura": {
+      "time": "2:42",
+      "weapon": "Lordsworn's Straight Sword",
+      "division": "Recusants"
+   },
+   "Raa": {
+      "time": "4:29",
+      "weapon": "Hammer",
+      "division": "Redmane"
+   },
+   "Strump": {
+      "time": "2:56",
+      "weapon": "Weathered Straight Sword",
+      "division": "Redmane"
+   },
+   "Dino": {
+      "time": "2:51",
+      "weapon": "Lordsworn's Straight Sword",
+      "division": "Redmane"
+   },
+   "Playoff Helios": {
+      "time": "2:49",
+      "weapon": "Weathered Straight Sword",
+      "division": "Redmane"
+   },
+   "Playoffs Shura": {
+      "time": "3:12",
+      "weapon": "Noble's Slender Sword",
+      "division": "Recusants"
+   }
+}

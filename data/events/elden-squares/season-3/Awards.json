@@ -1,0 +1,57 @@
+[
+   {
+       "id": "kindling",
+       "title": "Kindling Award",
+       "subtitle": "Lifetime Achievement for Contributions to Bingo",
+       "recipients": ["rambler"],
+       "ceremonyUrl": ""
+   },
+   {
+       "id": "dawg",
+       "title": "DAWG Award",
+       "subtitle": "",
+       "recipients": ["nessonetta"],
+       "ceremonyUrl": ""
+   },
+   {
+       "id": "copypasta",
+       "title": "Best Copy Pasta",
+       "recipients": ["rambler"],
+       "copypasta": "COPYPASTA EXAMPLE",
+       "ceremonyUrl": ""
+   },
+   {
+       "id": "teamName",
+       "title": "Best Team Name",
+       "recipients": ["dino", "doitz"],
+       "teamName": "Bofa D's",
+       "ceremonyUrl": ""
+   },
+   {
+       "id": "worstEnemy",
+       "title": "Worst Enemy",
+       "boss": ["Rennalla"],
+       "bossPic": "",
+       "ceremonyUrl": ""
+   },
+   {
+       "id": "worstSquare",
+       "title": "Worst Square",
+       "square": ["Magma Wyrm / Theo"],
+       "squarePic": "",
+       "ceremonyUrl": ""
+   },
+   {
+       "id": "snipe",
+       "title": "Snipe of The Season",
+       "recipients": ["strump"],
+       "ceremonyUrl": ""
+   },
+   {
+       "id": "performance",
+       "title": "Team Performance of the Season",
+       "recipients": ["typin", "ironyeu"],
+       "teamName": "Baggarre FR",
+       "ceremonyUrl": ""
+   }
+]

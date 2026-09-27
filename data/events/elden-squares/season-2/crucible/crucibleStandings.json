@@ -1,0 +1,276 @@
+{
+    "CruciblePlayers": [
+        {
+            "standing": 0,
+            "name": "Cronys",
+            "wins": 7,
+            "losses": 2,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 43,
+            "opponentLoss": 35
+          },
+          {
+            "standing": 0,
+            "name": "Snowy",
+            "wins": 7,
+            "losses": 1,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 50,
+            "opponentLoss": 30
+          },
+          {
+            "standing": 0,
+            "name": "Fits",
+            "wins": 5,
+            "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 47,
+            "opponentLoss": 34
+          },
+          {
+            "standing": 0,
+            "name": "Seljuz",
+            "wins": 5,
+            "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 39,
+            "opponentLoss": 39
+          },
+          {
+            "standing": 0,
+            "name": "Maiorskills",
+            "wins": 5,
+            "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 47,
+            "opponentLoss": 31
+          },
+          {
+            "standing": 0,
+            "name": "Eldenwiki",
+            "wins": 5,
+            "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 37,
+            "opponentLoss": 38
+          },
+          {
+            "standing": 0,
+            "name": "PsiPhi",
+            "wins": 5,
+            "losses": 4,
+            "points": 0,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 52,
+            "opponentLoss": 27
+          },
+          {
+            "standing": 0,
+            "name": "Daggar",
+            "wins": 5,
+            "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 49,
+            "opponentLoss": 31
+          },
+          {
+            "standing": 0,
+            "name": "Loeless",
+            "wins": 6,
+            "losses": 3,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 48,
+            "opponentLoss": 30
+          },
+          {
+            "standing": 0,
+            "name": "Doitz",
+            "wins": 6,
+            "losses": 3,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 39,
+            "opponentLoss": 39
+          },
+          {
+            "standing": 0,
+            "name": "Noya",
+            "wins": 3,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 37,
+            "opponentLoss": 31
+          },
+          {
+            "standing": 0,
+            "name": "Jerzounek",
+            "wins": 6,
+            "losses": 2,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 44,
+            "opponentLoss": 34
+          },
+          {
+            "standing": 0,
+            "name": "Harv",
+            "wins": 6,
+            "losses": 3,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 47,
+            "opponentLoss": 32
+          },
+          {
+            "standing": 0,
+            "name": "Malte",
+            "wins": 6,
+            "losses": 3,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 42,
+            "opponentLoss": 36
+          },
+          {
+            "standing": 0,
+            "name": "Torsadz",
+            "wins": 4,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 35,
+            "opponentLoss": 41
+          },
+          {
+            "standing": 0,
+            "name": "Shaka",
+            "wins": 3,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 36,
+            "opponentLoss": 43
+          },
+          {
+            "standing": 0,
+            "name": "Lorian",
+            "wins": 6,
+            "losses": 3,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 37,
+            "opponentLoss": 40
+          },
+          {
+            "standing": 0,
+            "name": "AngryPhilosopher",
+            "wins": 2,
+            "losses": 7,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 32,
+            "opponentLoss": 45
+          },
+          {
+            "standing": 0,
+            "name": "Saetan",
+            "wins": 4,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 27,
+            "opponentLoss": 51
+          },
+          {
+            "standing": 0,
+            "name": "Burton",
+            "wins": 2,
+            "losses": 6,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 42,
+            "opponentLoss": 29
+          },
+          {
+            "standing": 0,
+            "name": "JLegacy",
+            "wins": 4,
+            "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 29,
+            "opponentLoss": 45
+          },
+          {
+            "standing": 0,
+            "name": "Androisius",
+            "wins": 4,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 27,
+            "opponentLoss": 47
+          },
+          {
+            "standing": 0,
+            "name": "Shawn",
+            "wins": 4,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 34,
+            "opponentLoss": 42
+          },
+          {
+            "standing": 0,
+            "name": "Astormyz",
+            "wins": 1,
+            "losses": 8,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 33,
+            "opponentLoss": 46
+          },
+          {
+            "standing": 0,
+            "name": "Kashmor",
+            "wins": 1,
+            "losses": 7,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 20,
+            "opponentLoss": 42
+          },
+          {
+            "standing": 0,
+            "name": "Champion",
+            "wins": 4,
+            "losses": 5,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 43,
+            "opponentLoss": 34
+          },
+          {
+            "standing": 0,
+            "name": "Wander",
+            "wins": 5,
+            "losses": 4,
+            "games": 0,
+            "wr": "0%",
+            "opponentWins": 40,
+            "opponentLoss": 36
+          }
+    ]
+
+}

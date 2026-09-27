@@ -1,0 +1,10 @@
+[
+   {
+        "title": "Upcoming Match",
+        "firstPlayer": "Jay",
+        "secondPlayer": "HooZher",
+        "scheduledAt": "08/10/2025 15:00:00 UTC",
+        "bracket": "Finals",
+        "matchType": 1
+    }
+]

@@ -1,0 +1,32 @@
+{
+   "Stocko": {
+      "time": "6:00",
+      "torrent": "Yes",
+      "division": "Recusants"
+   },
+   "Serious": {
+      "time": "6:04",
+      "torrent": "Yes",
+      "division": "Redmane"
+   },
+   "Asym": {
+      "time": "5:59",
+      "torrent": "Yes",
+      "division": "Redmane"
+   },
+   "Moody": {
+      "time": "6:49",
+      "torrent": "Yes",
+      "division": "Recusants"
+   },
+   "Nartock": {
+      "time": "6:24",
+      "torrent": "Yes",
+      "division": "Recusants"
+   },
+   "Playoff Helios": {
+      "time": "5:18",
+      "torrent": "No",
+      "division": "Redmane"
+   }
+}

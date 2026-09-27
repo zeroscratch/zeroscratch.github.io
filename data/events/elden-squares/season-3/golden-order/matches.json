@@ -1,0 +1,662 @@
+{
+  "season": "ESS3",
+  "league": "Golden Order",
+  "participantType": "team",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 9,
+  "playoffSlots": 6,
+  "matches": [
+    {
+      "id": "ess3-go-001",
+      "week": 1,
+      "participants": [
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 12 }
+      ],
+      "winner": "time-complexity-ESS3GO",
+      "method": "Bingo",
+      "duration": "01:03:53",
+      "media": {
+        "vod": "https://youtu.be/rrYy1XPrgcI?si=lPnh3PTcUX8P3Tfb",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-gold-week1.png"
+      }
+    },
+    {
+      "id": "ess3-go-002",
+      "week": 1,
+      "participants": [
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 10 }
+      ],
+      "winner": "bofa-ds-ESS3GO",
+      "method": "Majority",
+      "duration": "01:10:10",
+      "media": {
+        "vod": "https://youtu.be/0ILGaHe4Dmk?si=-RYQYT5CcYvgR1lt",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-expedition-week1.png"
+      }
+    },
+    {
+      "id": "ess3-go-003",
+      "week": 1,
+      "participants": [
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 4 }
+      ],
+      "winner": "wamp-wamp-ESS3GO",
+      "method": "Bingo",
+      "duration": "00:57:12",
+      "media": {
+        "vod": "https://youtu.be/W3Hl76x9cKg?si=qzS25nAPKtAzuhZq",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/asteroid-v-wamp-week1.png"
+      }
+    },
+    {
+      "id": "ess3-go-004",
+      "week": 1,
+      "participants": [
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 9 }
+      ],
+      "winner": "tank-and-top-ESS3GO",
+      "method": "Majority",
+      "duration": "01:09:40",
+      "media": {
+        "vod": "https://youtu.be/XnfjznPSfkM?si=EzH-QJspbNZ6e0nF",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-fr-week1.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-005",
+      "week": 2,
+      "participants": [
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "budget-team-hitless-ESS3GO", "score": 11 }
+      ],
+      "winner": "time-complexity-ESS3GO",
+      "method": "Majority",
+      "duration": "01:13:09",
+      "media": {
+        "vod": "https://youtu.be/Vkz3sytkC4Q?si=Hs29fieUR54LzxiB",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-hitless-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-006",
+      "week": 2,
+      "participants": [
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 6 }
+      ],
+      "winner": "wamp-wamp-ESS3GO",
+      "method": "Bingo",
+      "duration": "00:58:16",
+      "media": {
+        "vod": "https://youtu.be/uG4tPlt2JbM?si=OQYy_ToZph4FWTKS",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-wamp-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-007",
+      "week": 2,
+      "participants": [
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 12 }
+      ],
+      "winner": "expedition-25-ESS3GO",
+      "method": "Majority",
+      "duration": "01:13:17",
+      "media": {
+        "vod": "https://youtu.be/LY8GcCwx6WA?si=oqqXF_qvFmgU-0vX",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/expedition-v-gold-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-008",
+      "week": 2,
+      "participants": [
+        { "id": "tower-princesses-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 11 }
+      ],
+      "winner": "tower-princesses-ESS3GO",
+      "method": "Majority",
+      "duration": "01:20:56",
+      "media": {
+        "vod": "https://youtu.be/FPDNqm87zX0?si=6GHCPOgtqpv8tgi0",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tower-v-fr-week2.png"
+      }
+    },
+    {
+      "id": "ess3-go-009",
+      "week": 2,
+      "participants": [
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 10 }
+      ],
+      "winner": "tank-and-top-ESS3GO",
+      "method": "Majority",
+      "duration": "01:11:17",
+      "media": {
+        "vod": "https://youtu.be/SXWcCzAMGsY?si=yzzA0d8PESWjnSNU",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-asteroid-week2.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-010",
+      "week": 3,
+      "participants": [
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 10 }
+      ],
+      "winner": "time-complexity-ESS3GO",
+      "method": "Majority",
+      "duration": "01:04:28",
+      "media": {
+        "vod": "https://youtu.be/FLeVIQ4CFT4?si=Hy4S5OjGij-4JaIb",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-expedition-week3.png"
+      }
+    },
+    {
+      "id": "ess3-go-011",
+      "week": 3,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 5 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Bingo",
+      "duration": "00:57:25",
+      "media": {
+        "vod": "https://youtu.be/1crLKejPcbw?si=dJFZP8a00ISYqojt",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-hitless-week3.png"
+      }
+    },
+    {
+      "id": "ess3-go-012",
+      "week": 3,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 9 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Majority",
+      "duration": "01:09:33",
+      "media": {
+        "vod": "https://youtu.be/AlTC05_DgxA?si=EbsoYrmH6EuK4sUS",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-gold-week3.png"
+      }
+    },
+    {
+      "id": "ess3-go-013",
+      "week": 3,
+      "participants": [
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 7 }
+      ],
+      "winner": "time-complexity-ESS3GO",
+      "method": "Majority",
+      "duration": "01:01:22",
+      "media": {
+        "vod": "https://youtu.be/FWyNT8t1gqI?si=OqhIAZI6pJ5prQB6",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-princess-week3.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-014",
+      "week": 4,
+      "participants": [
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 8 }
+      ],
+      "winner": "bofa-ds-ESS3GO",
+      "method": "Majority",
+      "duration": "01:14:08",
+      "media": {
+        "vod": "https://youtu.be/lqS2kBpCR8M?si=C6wI-7xyonCfWPFo",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-tower-week4.png"
+      }
+    },
+    {
+      "id": "ess3-go-015",
+      "week": 4,
+      "participants": [
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "tank-and-top-ESS3GO", "score": 8 }
+      ],
+      "winner": "expedition-25-ESS3GO",
+      "method": "Majority",
+      "duration": "01:02:20",
+      "media": {
+        "vod": "https://youtu.be/Ps9aG3WfjU4?si=gyDmVMOzoZqQgprh",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-expedition-week4.png"
+      }
+    },
+    {
+      "id": "ess3-go-016",
+      "week": 4,
+      "participants": [
+        { "id": "bagarre-fr-ESS3GO", "score": 13 },
+        { "id": "time-complexity-ESS3GO", "score": 9 }
+      ],
+      "winner": "bagarre-fr-ESS3GO",
+      "method": "Majority",
+      "duration": "01:07:01",
+      "media": {
+        "vod": "https://youtu.be/uUBAqKGRMCw?si=yyXdCqZQony8llOY",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-fr-week4.png"
+      }
+    },
+    {
+      "id": "ess3-go-017",
+      "week": 4,
+      "participants": [
+        { "id": "tower-princesses-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 8 }
+      ],
+      "winner": "tower-princesses-ESS3GO",
+      "method": "Majority",
+      "duration": "01:10:48",
+      "media": {
+        "vod": "https://youtu.be/d88otCAZBlg?si=2-6OQlX3hFY5h-dL",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tower-v-destroyers-week4.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-018",
+      "week": 5,
+      "participants": [
+        { "id": "wamp-wamp-ESS3GO", "score": 15 },
+        { "id": "old-but-gold-ESS3GO", "score": 8 }
+      ],
+      "winner": "wamp-wamp-ESS3GO",
+      "method": "Bingo",
+      "duration": "01:04:16",
+      "media": {
+        "vod": "https://youtu.be/AMkNSmK1d4I?si=QZF2tp7oKijzSpj8",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-gold-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-019",
+      "week": 5,
+      "participants": [
+        { "id": "bagarre-fr-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 4 }
+      ],
+      "winner": "bagarre-fr-ESS3GO",
+      "method": "Bingo",
+      "duration": "00:46:42",
+      "media": {
+        "vod": "https://youtu.be/UtjrM8P0-FU?si=iiD75W5m0Iacucas",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/expedition-v-fr-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-020",
+      "week": 5,
+      "participants": [
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "time-complexity-ESS3GO", "score": 12 }
+      ],
+      "winner": "tank-and-top-ESS3GO",
+      "method": "Majority",
+      "duration": "01:27:04",
+      "media": {
+        "vod": "https://youtu.be/HZ-97Zya3gE?si=nVCHOuYPcy5xJkuP",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-tank-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-021",
+      "week": 5,
+      "participants": [
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 12 }
+      ],
+      "winner": "wamp-wamp-ESS3GO",
+      "method": "Majority",
+      "duration": "01:13:39",
+      "media": {
+        "vod": "https://youtu.be/JrayC3kkpXU?si=Fx6RK1AdkzaLRzqW",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-tower-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-022",
+      "week": 5,
+      "participants": [
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 10 }
+      ],
+      "winner": "tank-and-top-ESS3GO",
+      "method": "Majority",
+      "duration": "01:07:04",
+      "media": {
+        "vod": "https://youtu.be/_jT4KZw4AOw?si=MFB_u60UAvX0l4QD",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-bofa-week5.png"
+      }
+    },
+    {
+      "id": "ess3-go-023",
+      "week": 5,
+      "participants": [
+        { "id": "old-but-gold-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 10 }
+      ],
+      "winner": "old-but-gold-ESS3GO",
+      "method": "Majority",
+      "duration": "01:04:21",
+      "media": {
+        "vod": "https://youtu.be/JrzXRdj8uz8?si=Vskt4_5_jK3mrO1Q",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/gold-v-fr-week5.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-024",
+      "week": 6,
+      "participants": [
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "wamp-wamp-ESS3GO", "score": 10 }
+      ],
+      "winner": "time-complexity-ESS3GO",
+      "method": "Bingo",
+      "duration": "01:00:56",
+      "media": {
+        "vod": "https://youtu.be/c1EaFq0Qf-c?si=J-lPZE__fuxxBlVt",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-complex-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-025",
+      "week": 6,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "expedition-25-ESS3GO", "score": 10 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Majority",
+      "duration": "01:11:44",
+      "media": {
+        "vod": "https://youtu.be/hYzQCZMrUSU?si=YBSrIUhMMvrst-zo",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-expedition-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-026",
+      "week": 6,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 6 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Bingo",
+      "duration": "00:52:42",
+      "media": {
+        "vod": "https://youtu.be/Hzv0gfTXNcI?si=NQ0h43ISVlqE9goL",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-fr-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-027",
+      "week": 6,
+      "participants": [
+        { "id": "asteroid-destroyer-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 9 }
+      ],
+      "winner": "asteroid-destroyer-ESS3GO",
+      "method": "Majority",
+      "duration": "01:06:47",
+      "media": {
+        "vod": "https://youtu.be/BJSyI-lFNMM?si=VM2lxsl6J1Xxc4Y1",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-asteroid-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-028",
+      "week": 6,
+      "participants": [
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "bagarre-fr-ESS3GO", "score": 11 }
+      ],
+      "winner": "bofa-ds-ESS3GO",
+      "method": "Majority",
+      "duration": "01:09:08",
+      "media": {
+        "vod": "https://youtu.be/eHs9SkgNhX0?si=CF7V3zmA-JfHpcAn",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-fr-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-029",
+      "week": 6,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 12 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Majority",
+      "duration": "01:19:16",
+      "media": {
+        "vod": "https://youtu.be/YdQLD_KmOTQ?si=8Eu72mlTELHdHOn2",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-asteroid-week6.png"
+      }
+    },
+    {
+      "id": "ess3-go-030",
+      "week": 6,
+      "participants": [
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 9 }
+      ],
+      "winner": "tank-and-top-ESS3GO",
+      "method": "Majority",
+      "duration": "01:03:08",
+      "media": {
+        "vod": "https://youtu.be/u7uqpHQDfF0?si=51H9MONagEpR6Bfs",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-tower-week6.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-031",
+      "week": 7,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "wamp-wamp-ESS3GO", "score": 10 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Majority",
+      "duration": "01:05:28",
+      "media": {
+        "vod": "https://youtu.be/1vuUXOMgU24?si=-h810lJKEIygaUFb",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-hitless-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-032",
+      "week": 7,
+      "participants": [
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 12 }
+      ],
+      "winner": "expedition-25-ESS3GO",
+      "method": "Bingo",
+      "duration": "00:56:21",
+      "media": {
+        "vod": "https://youtu.be/zNoljFzfgRg ",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/expedition-v-asteriod-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-033",
+      "week": 7,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "tank-and-top-ESS3GO", "score": 7 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Bingo",
+      "duration": "01:02:06",
+      "media": {
+        "vod": "https://youtu.be/WS9SdhA4osA",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-tank-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-034",
+      "week": 7,
+      "participants": [
+        { "id": "wamp-wamp-ESS3GO", "score": 15 },
+        { "id": "bagarre-fr-ESS3GO", "score": 5 }
+      ],
+      "winner": "wamp-wamp-ESS3GO",
+      "method": "Bingo",
+      "duration": "01:02:13",
+      "media": {
+        "vod": "https://youtu.be/UJ2Aoi4CpKM ",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-fr-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-035",
+      "week": 7,
+      "participants": [
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 8 }
+      ],
+      "winner": "time-complexity-ESS3GO",
+      "method": "Majority",
+      "duration": "00:58:50",
+      "media": {
+        "vod": "https://youtu.be/SdOa1V5vRGk",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-asteroid-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-036",
+      "week": 7,
+      "participants": [
+        { "id": "bofa-ds-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 11 }
+      ],
+      "winner": "bofa-ds-ESS3GO",
+      "method": "Majority",
+      "duration": "01:10:31",
+      "media": {
+        "vod": "https://youtu.be/ALkRKPdx0dw",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/gold-v-bofa-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-037",
+      "week": 7,
+      "participants": [
+        { "id": "tank-and-top-ESS3GO", "score": 13 },
+        { "id": "old-but-gold-ESS3GO", "score": 8 }
+      ],
+      "winner": "tank-and-top-ESS3GO",
+      "method": "Majority",
+      "duration": "01:06:54",
+      "media": {
+        "vod": "https://youtu.be/kemvd09jH_E?si=rwkhEtzpqnI89u2m",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-gold-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-038",
+      "week": 7,
+      "participants": [
+        { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 11 }
+      ],
+      "winner": "budget-team-hitless-ESS3GO",
+      "method": "Majority",
+      "duration": "01:06:08",
+      "media": {
+        "vod": "https://youtu.be/swyGxA9zla0",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-tower-week7.png"
+      }
+    },
+    {
+      "id": "ess3-go-039",
+      "week": 7,
+      "participants": [
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "wamp-wamp-ESS3GO", "score": 10 }
+      ],
+      "winner": "expedition-25-ESS3GO",
+      "method": "Majority",
+      "duration": "01:06:46",
+      "media": {
+        "vod": "https://youtu.be/_Qq3Fh8bqX8",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-expedition-week7.png"
+      }
+    },
+
+    {
+      "id": "ess3-go-040",
+      "week": 8,
+      "participants": [
+        { "id": "time-complexity-ESS3GO", "score": 13 },
+        { "id": "bofa-ds-ESS3GO", "score": 7 }
+      ],
+      "winner": "time-complexity-ESS3GO",
+      "method": "Majority",
+      "duration": "01:03:39",
+      "media": {
+        "vod": "https://youtu.be/QNpM23dloIU",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-bofa-week8.png"
+      }
+    },
+    {
+      "id": "ess3-go-041",
+      "week": 8,
+      "participants": [
+        { "id": "wamp-wamp-ESS3GO", "score": 13 },
+        { "id": "tank-and-top-ESS3GO", "score": 9 }
+      ],
+      "winner": "wamp-wamp-ESS3GO",
+      "method": "Majority",
+      "duration": "00:57:38",
+      "media": {
+        "vod": "https://youtu.be/SejIe7NzQt0 ",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-wamp-week8.png"
+      }
+    },
+    {
+      "id": "ess3-go-042",
+      "week": 8,
+      "participants": [
+        { "id": "bagarre-fr-ESS3GO", "score": 13 },
+        { "id": "asteroid-destroyer-ESS3GO", "score": 11 }
+      ],
+      "winner": "bagarre-fr-ESS3GO",
+      "method": "Majority",
+      "duration": "01:16:22",
+      "media": {
+        "vod": "https://youtu.be/G_a8wS4Y20Q",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/asteroid-v-fr-week8.png"
+      }
+    },
+    {
+      "id": "ess3-go-043",
+      "week": 8,
+      "participants": [
+        { "id": "expedition-25-ESS3GO", "score": 13 },
+        { "id": "tower-princesses-ESS3GO", "score": 9 }
+      ],
+      "winner": "expedition-25-ESS3GO",
+      "method": "Majority",
+      "duration": "01:03:15",
+      "media": {
+        "vod": "https://youtu.be/0XLzurFeA04 ",
+        "image": "/img/events/elden-squares/season-3/golden-order/group-stage/tower-v-expedition-week8.png"
+      }
+    }
+  ]
+}

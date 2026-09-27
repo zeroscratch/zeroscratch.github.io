@@ -1,0 +1,152 @@
+{
+  "time-complexity-ESS3GO": {
+    "id": "time-complexity-ESS3GO",
+    "displayName": "Time Complexity",
+    "playoffsQualified": "yes"
+  },
+  "old-but-gold-ESS3GO": {
+    "id": "old-but-gold-ESS3GO",
+    "displayName": "Old But Gold",
+    "playoffsQualified": "no"
+  },
+  "bofa-ds-ESS3GO": {
+    "id": "bofa-ds-ESS3GO",
+    "displayName": "Bofa D's",
+    "playoffsQualified": "yes"
+  },
+  "tank-and-top-ESS3GO": {
+    "id": "tank-and-top-ESS3GO",
+    "displayName": "Tank & Top",
+    "playoffsQualified": "yes"
+  },
+  "wamp-wamp-ESS3GO": {
+    "id": "wamp-wamp-ESS3GO",
+    "displayName": "Wamp Wamp",
+    "playoffsQualified": "yes"
+  },
+  "asteroid-destroyer-ESS3GO": {
+    "id": "asteroid-destroyer-ESS3GO",
+    "displayName": "Asteroid Destroyer",
+    "playoffsQualified": "no"
+  },
+  "bagarre-fr-ESS3GO": {
+    "id": "bagarre-fr-ESS3GO",
+    "displayName": "Bagarre FR",
+    "playoffsQualified": "no"
+  },
+  "expedition-25-ESS3GO": {
+    "id": "expedition-25-ESS3GO",
+    "displayName": "Expedition 25",
+    "playoffsQualified": "yes"
+  },
+  "budget-team-hitless-ESS3GO": {
+    "id": "budget-team-hitless-ESS3GO",
+    "displayName": "Budget Team Hitless",
+    "playoffsQualified": "yes"
+  },
+  "tower-princesses-ESS3GO": {
+    "id": "tower-princesses-ESS3GO",
+    "displayName": "Tower Princesses",
+    "playoffsQualified": "no"
+  },
+  "base-mommy-and-daddy-ESS3Crucible": {
+    "id": "base-mommy-and-daddy-ESS3Crucible",
+    "displayName": "Base Mommy & Daddy",
+    "playoffsQualified": "no"
+  },
+  "corruption-ESS3Crucible": {
+    "id": "corruption-ESS3Crucible",
+    "displayName": "Corruption",
+    "playoffsQualified": "yes"
+  },
+  "nordic-thunder-ESS3Crucible": {
+    "id": "nordic-thunder-ESS3Crucible",
+    "displayName": "Nordic Thunder",
+    "playoffsQualified": "yes"
+  },
+  "gold-but-old-ESS3Crucible": {
+    "id": "gold-but-old-ESS3Crucible",
+    "displayName": "Gold But Old",
+    "playoffsQualified": "yes"
+  },
+  "kchewy-ESS3Crucible": {
+    "id": "kchewy-ESS3Crucible",
+    "displayName": "KChewy",
+    "playoffsQualified": "no"
+  },
+  "rick-fisters-ESS3Crucible": {
+    "id": "rick-fisters-ESS3Crucible",
+    "displayName": "Rick Fisters",
+    "playoffsQualified": "yes"
+  },
+  "falconsi-ESS3Crucible": {
+    "id": "falconsi-ESS3Crucible",
+    "displayName": "FalconSi",
+    "playoffsQualified": "no"
+  },
+  "niketwo-ESS3Crucible": {
+    "id": "niketwo-ESS3Crucible",
+    "displayName": "NikeTwo",
+    "playoffsQualified": "no"
+  },
+  "jarvis-ESS3Crucible": {
+    "id": "jarvis-ESS3Crucible",
+    "displayName": "Jarvis",
+    "playoffsQualified": "yes"
+  },
+  "crashout-carries-ESS3Crucible": {
+    "id": "crashout-carries-ESS3Crucible",
+    "displayName": "Crashout Carries",
+    "playoffsQualified": "yes"
+  },
+  "truthfulness-ESS3Crucible": {
+    "id": "truthfulness-ESS3Crucible",
+    "displayName": "TruthfulNess",
+    "playoffsQualified": "no"
+  },
+  "pandara-ESS3Crucible": {
+    "id": "pandara-ESS3Crucible",
+    "displayName": "Pandara",
+    "playoffsQualified": "no"
+  },
+  "tuffKnuckles-MC1": {
+    "id": "tuffKnuckles-MC1",
+    "displayName": "Tuff Knuckles",
+    "playoffsQualified": "no"
+  },
+  "the-MC1": {
+    "id": "the-MC1",
+    "displayName": "THE",
+    "playoffsQualified": "no"
+  },
+  "mog-MC1": {
+    "id": "mog-MC1",
+    "displayName": "MOG Right Now",
+    "playoffsQualified": "no"
+  },
+  "cliff-MC1": {
+    "id": "cliff-MC1",
+    "displayName": "Cliff JUMPers",
+    "playoffsQualified": "no"
+  },
+  "chima-MC1": {
+    "id": "chima-MC1",
+    "displayName": "Chima ne ff pas stp",
+    "playoffsQualified": "no"
+  },
+  "funjeff-MC1": {
+    "id": "funjeff-MC1",
+    "displayName": "Fff/Fuqed",
+    "playoffsQualified": "no"
+  },
+  "pig-MC1": {
+    "id": "pig-MC1",
+    "displayName": "Pig and The Chin",
+    "playoffsQualified": "no"
+  },
+  "animeFighters-MC1": {
+    "id": "animeFighters-MC1",
+    "displayName": "Anime Fighters",
+    "playoffsQualified": "no"
+  }
+}

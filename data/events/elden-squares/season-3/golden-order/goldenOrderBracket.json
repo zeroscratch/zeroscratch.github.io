@@ -1,0 +1,129 @@
+{
+   "Quarterfinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Tank & Top", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:10:56",
+         "vodLink": "https://www.twitch.tv/videos/2632920636?t=00h25m13s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/expedition-v-tank-playoffs-1.png",
+         "scheduledAt": "12/14/2025 01:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Tank & Top", "score": 9, "outcome": "Lost" },
+         "player2": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+         "matchTime": "00:58:18",
+         "vodLink": "https://www.twitch.tv/videos/2632920636?t=02h01m57s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/expedition-v-tank-playoffs-2.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Quarterfinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Bingo" },
+         "player2": { "name": "Bofa D's", "score": 9, "outcome": "Lost" },
+         "matchTime": "01:03:14",
+         "vodLink": "https://www.twitch.tv/videos/2631990292?t=04h36m12s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/bofa-v-wamp-playoffs-1.png",
+         "scheduledAt": "12/16/2025 01:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Wamp Wamp", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "Bofa D's", "score": 13, "outcome": "Bingo" },
+         "matchTime": "00:59:59",
+         "vodLink": "https://www.twitch.tv/videos/2631990292?t=06h02m25s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/bofa-v-wamp-playoffs-2.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 3,
+         "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Bofa D's", "score": 9, "outcome": "Lost" },
+         "matchTime": "01:05:50",
+         "vodLink": "https://www.twitch.tv/videos/2637022512?t=04h26m57s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/wamp-v-bofa-playoffs3.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Semifinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Expedition 25", "score": 11, "outcome": "Lost" },
+         "matchTime": "01:01:13",
+         "vodLink": "https://www.twitch.tv/videos/2637022512?t=00h29m40s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-expedition-playoffs1.png",
+         "scheduledAt": "12/16/2025 01:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Budget Team Hitless", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:02:03",
+         "vodLink": "https://www.twitch.tv/videos/2637022512?t=01h56m29s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-expedition-playoffs2.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 3,
+         "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Expedition 25", "score": 8, "outcome": "Lost" },
+         "matchTime": "00:57:55",
+         "vodLink": "https://www.twitch.tv/videos/2637819655?t=04h20m21s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-expedition-playoffs3.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Semifinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Time Complexity", "score": 12, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Bingo" },
+         "matchTime": "00:55:37",
+         "vodLink": "https://www.twitch.tv/videos/2641499881?t=00h26m05s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/complex-v-wamp-playoffs1.png",
+         "scheduledAt": "12/16/2025 01:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Time Complexity", "score": 12, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:14:47",
+         "vodLink": "https://www.twitch.tv/videos/2641499881?t=01h43m22s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/complex-v-wamp-playoffs2.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Finals": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Budget Team Hitless", "score": 12, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:11:42",
+         "vodLink": "https://www.twitch.tv/videos/2642790976?t=05h16m20s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-wamp-playoffs1.png",
+         "scheduledAt": "12/16/2025 01:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Wamp Wamp", "score": 8, "outcome": "Lost" },
+         "matchTime": "00:59:47",
+         "vodLink": "https://www.twitch.tv/videos/2642790976?t=06h57m29s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-wamp-playoffs2.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 3,
+         "player1": { "name": "Budget Team Hitless", "score": 8, "outcome": "Lost" },
+         "player2": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+         "matchTime": "00:58:13",
+         "vodLink": "https://www.twitch.tv/videos/2644950794?t=00h28m32s",
+         "imageLink": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-wamp-playoffs3.png",
+         "scheduledAt": ""
+      }
+   ]
+}

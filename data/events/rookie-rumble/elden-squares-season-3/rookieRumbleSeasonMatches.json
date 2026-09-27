@@ -1,0 +1,443 @@
+[
+   { 
+      "week": 1,
+      "matches":
+      [
+         {  "gameId": 1, 
+            "player1": { "name": "Psykg", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "Yosh", "score": 0, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/yosh-v-psykg-week1.png"
+         },
+         {  "gameId": 2, 
+            "player1": { "name": "Jam", "score": 10, "outcome": "Majority" }, 
+            "player2": { "name": "Avery", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/aves-v-jam-week1.png"
+         },
+         {  "gameId": 3, 
+            "player1": { "name": "Tarun", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Mixed", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:39:15", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/mixed-v-tarun-week1.png"
+         },
+         {  "gameId": 4,
+            "player1": { "name": "Arkham", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Magnitude", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:59:17", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/arkham-v-magnitude-week1.png"
+         },
+         {  "gameId": 5,
+            "player1": { "name": "Rony", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Bedhead", "score": 1, "outcome": "Lost" }, 
+            "matchTime": "01:37:45", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/rony-v-bedhead-week1.png"
+         },
+         {  "gameId": 6,
+            "player1": { "name": "Belbo", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "Azdomiel", "score": 10, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/belbo-v-azdomiel-week1.png"
+         },
+         {  "gameId": 7,
+            "player1": { "name": "TheMilkMan", "score": 9, "outcome": "Bingo" }, 
+            "player2": { "name": "Cubanmissle", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "01:53:13", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/milk-v-mac-week1.PNG"
+         },
+         {  "gameId": 7,
+            "player1": { "name": "TinyBobcat", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Krispy", "score": 1, "outcome": "Lost" }, 
+            "matchTime": "01:43:29", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/krispy-v-bobcat-week1.png"
+         }
+      ]
+   },
+   {
+      "week": 2,
+      "matches":
+      [
+         {  "gameId": 8, 
+            "player1": { "name": "TinyBobcat", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Belbo", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:40:10", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/belbo-v-bobcat-week2.png"
+         },
+         {  "gameId": 9, 
+            "player1": { "name": "Mixed", "score": 9, "outcome": "Bingo" }, 
+            "player2": { "name": "Magnitude", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "00:56:30", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/mixed-v-magnitude-week2.png"
+         },
+         {  "gameId": 10, 
+            "player1": { "name": "Cubanmissle", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "Bedhead", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/cuban-v-bedhead-week2.png"
+         },
+         {  "gameId": 11, 
+            "player1": { "name": "Azdomiel", "score": 6, "outcome": "Bingo" }, 
+            "player2": { "name": "Krispy", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "01:24:54", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/az-v-krispy-week2.PNG"
+         },
+         {  "gameId": 12, 
+            "player1": { "name": "TheMilkMan", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Avery", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "02:04:10",
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/milk-v-avery-week2.png"
+         },
+         {  "gameId": 13, 
+            "player1": { "name": "Rony", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Arkham", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:35:59",
+            "vodLink": "https://www.twitch.tv/videos/2589929755?t=00h15m35s", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/rony-v-arkham-week2.png"
+         },
+         {  "gameId": 14, 
+            "player1": { "name": "Tarun", "score": 8, "outcome": "Majority" }, 
+            "player2": { "name": "Jam", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "02:00:00",
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/tarun-v-jam-week2.png"
+         }
+      ]
+   },
+   {
+      "week": 3,
+      "matches":
+      [
+         {  "gameId": 15, 
+            "player1": { "name": "Magnitude", "score": 10, "outcome": "Majority" }, 
+            "player2": { "name": "Cubanmissle", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/cuban-v-magnitude-week3.png"
+         },
+         {  "gameId": 16, 
+            "player1": { "name": "Sciryn", "score": 8, "outcome": "Majority" }, 
+            "player2": { "name": "Tito", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/tito-v-sciryn-week3.png"
+         },
+         {  "gameId": 17, 
+            "player1": { "name": "Rony", "score": 10, "outcome": "Bingo" }, 
+            "player2": { "name": "TinyBobcat", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "01:01:53", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/rony-v-bobcat-week3.png"
+         },
+         {  "gameId": 18, 
+            "player1": { "name": "Mixed", "score": 10, "outcome": "Bingo" }, 
+            "player2": { "name": "Azdomiel", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "01:09:23", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/az-v-mixed-week3.png"
+         },
+         {  "gameId": 19, 
+            "player1": { "name": "Arkham", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Question Marks", "score": 11, "outcome": "Lost" }, 
+            "matchTime": "01:54:36", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/arkham-v-question-week3.png"
+         },
+         {  "gameId": 20, 
+            "player1": { "name": "Krispy", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "Yosh", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/yosh-v-krispy-week3.png"
+         },
+         {  "gameId": 21, 
+            "player1": { "name": "Belbo", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Goodietoshoes", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "01:14:10", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/belbo-v-goosh-week3.png"
+         },
+         {  "gameId": 22, 
+            "player1": { "name": "Jam", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "Psykg", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/jam-v-psykg-week3.JPG"
+         },
+         {  "gameId": 23, 
+            "player1": { "name": "Avery", "score": 8, "outcome": "Majority" }, 
+            "player2": { "name": "Bedhead", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/aves-v-bedhead-week3.png"
+         }
+      ]
+   },
+   {
+      "week": 4,
+      "matches":
+      [
+         {  "gameId": 24, 
+            "player1": { "name": "Mixed", "score": 10, "outcome": "Bingo" }, 
+            "player2": { "name": "Psykg", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "01:14:08", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/mixed-v-psykg-week4.png"
+         },
+         {  "gameId": 25, 
+            "player1": { "name": "Rony", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Tarun", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:29:37", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/rony-v-tarun-week4.png"
+         },
+         {  "gameId": 26, 
+            "player1": { "name": "Belbo", "score": 12, "outcome": "Bingo" }, 
+            "player2": { "name": "Tito", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:53:09", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/belbo-v-tito-week4.png"
+         },
+         {  "gameId": 27, 
+            "player1": { "name": "Magnitude", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Azdomiel", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "01:43:45", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/az-v-magnitude-week4.png"
+         },
+         {  "gameId": 28, 
+            "player1": { "name": "Question Marks", "score": 10, "outcome": "Majority" }, 
+            "player2": { "name": "Krispy", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/question-v-krispy-week4.png"
+         },
+         {  "gameId": 29, 
+            "player1": { "name": "Avery", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "Yosh", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/aves-v-yosh-week4.png"
+         },
+         {  "gameId": 30, 
+            "player1": { "name": "Goodietoshoes", "score": 11, "outcome": "Majority" }, 
+            "player2": { "name": "Bedhead", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/bedhead-v-goosh-week4.png"
+         },
+         {  "gameId": 31, 
+            "player1": { "name": "TinyBobcat", "score": 8, "outcome": "Majority" }, 
+            "player2": { "name": "TheMilkMan", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "02:00:00",
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/bobcat-v-milkman-week4.png"
+         },
+         {  "gameId": 32, 
+            "player1": { "name": "Arkham", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Cubanmissle", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:47:49",
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/arkham-v-cuban-week4.png"
+         }
+      ]
+   },
+   {
+      "week": 5,
+      "matches":
+      [
+         {  "gameId": 33, 
+            "player1": { "name": "Azdomiel", "score": 9, "outcome": "Bingo" }, 
+            "player2": { "name": "Cubanmissle", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "01:29:51", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/az-v-cuban-week5.png"
+         },
+         {  "gameId": 34, 
+            "player1": { "name": "Arkham", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "TinyBobcat", "score": 11, "outcome": "Lost" }, 
+            "matchTime": "02:10:55", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/arkham-v-bobcat-week5.png"
+         },
+         {  "gameId": 35, 
+            "player1": { "name": "Rony", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Psykg", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "01:42:07", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/rony-v-psykg-week5.png"
+         },
+         {  "gameId": 36, 
+            "player1": { "name": "Mixed", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Tito", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "01:14:53", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/mixed-v-tito-week5.png"
+         },
+         {  "gameId": 37, 
+            "player1": { "name": "Question Marks", "score": 11, "outcome": "Majority" }, 
+            "player2": { "name": "Goodietoshoes", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/marks-v-goosh-week5.png"
+         },
+         {  "gameId": 38, 
+            "player1": { "name": "Vixus", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Krispy", "score": 2, "outcome": "Lost" }, 
+            "matchTime": "01:02:23", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/vixus-v-krispy-week5.png"
+         },
+         {  "gameId": 39, 
+            "player1": { "name": "Belbo", "score": 8, "outcome": "Bingo" }, 
+            "player2": { "name": "Yosh", "score": 0, "outcome": "Lost" }, 
+            "matchTime": "01:05:43", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/belbo-v-yosh-week5.png"
+         },
+         {  "gameId": 40, 
+            "player1": { "name": "Tarun", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Avery", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "01:56:47", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/tarun-v-aves-week5.png"
+         },
+         {  "gameId": 41, 
+            "player1": { "name": "Bedhead", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "TheMilkMan", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/bedhead-v-milkman-week5.png"
+         },
+         {  "gameId": 42, 
+            "player1": { "name": "Jam", "score": 9, "outcome": "Majority" }, 
+            "player2": { "name": "Magnitude", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/jam-v-magnitude-week5.png"
+         }
+      ]
+   },
+   {
+      "week": 6,
+      "matches":
+      [
+         {  "gameId": 43, 
+            "player1": { "name": "Tarun", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Vixus", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:51:05", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/vixus-v-tarun-week6.png"
+         },
+         {  "gameId": 44, 
+            "player1": { "name": "Rony", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Magnitude", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "01:28:07", 
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/rony-v-magnitude-week6.png"
+         },
+         {  "gameId": 44, 
+            "player1": { "name": "Mixed", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Question Marks", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "01:14:04",
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/marks-v-mixed-week6.png"
+         },
+         {  "gameId": 45, 
+            "player1": { "name": "Bedhead", "score": 8, "outcome": "Bingo" }, 
+            "player2": { "name": "Azdomiel", "score": 8, "outcome": "Lost" }, 
+            "matchTime": "01:45:58",
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/bedhead-v-az-week6.png"
+         },
+         {  "gameId": 45, 
+            "player1": { "name": "TinyBobcat", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Jam", "score": 10, "outcome": "Lost" }, 
+            "matchTime": "01:53:42",
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/bobcat-v-jam-week6.png"
+         },
+         {  "gameId": 45, 
+            "player1": { "name": "Arkham", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Belbo", "score": 9, "outcome": "Lost" }, 
+            "matchTime": "01:26:21",
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/arkham-v-belbo-week6.png"
+         },
+         {  "gameId": 45, 
+            "player1": { "name": "TheMilkMan", "score": 8, "outcome": "Bingo" }, 
+            "player2": { "name": "Yosh", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "01:23:17",
+            "vodLink": "", 
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/milk-v-yosh-week6.png"
+         }
+      ]
+   },
+   {
+      "week": 7,
+      "matches":
+      [
+         {  "gameId": 46, 
+            "player1": { "name": "Yosh", "score": 6, "outcome": "Majority" }, 
+            "player2": { "name": "Cubanmissle", "score": 5, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/yosh-v-cuban-week7.png"
+         },
+         {  "gameId": 47, 
+            "player1": { "name": "Magnitude", "score": 12, "outcome": "Majority" }, 
+            "player2": { "name": "Bedhead", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "02:00:00", 
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/magnitude-v-bedhead-week7.png"
+         },
+         {  "gameId": 48, 
+            "player1": { "name": "Vixus", "score": 12, "outcome": "Bingo" }, 
+            "player2": { "name": "Avery", "score": 3, "outcome": "Lost" }, 
+            "matchTime": "01:18:30", 
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/vixus-v-aves-week7.png"
+         },
+         {  "gameId": 49, 
+            "player1": { "name": "TinyBobcat", "score": 10, "outcome": "Bingo" }, 
+            "player2": { "name": "Psykg", "score": 4, "outcome": "Lost" }, 
+            "matchTime": "01:37:25", 
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/bobcat-v-psykg-week7.png"
+         },
+         {  "gameId": 50, 
+            "player1": { "name": "Arkham", "score": 11, "outcome": "Bingo" }, 
+            "player2": { "name": "Tarun", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "01:03:57", 
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/arkham-v-tarun-week7.png"
+         },
+         {  "gameId": 51, 
+            "player1": { "name": "TheMilkMan", "score": 7, "outcome": "Bingo" }, 
+            "player2": { "name": "Question Marks", "score": 10, "outcome": "Lost" }, 
+            "matchTime": "01:32:34", 
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/milk-v-question-week7.png"
+         },
+         {  "gameId": 52, 
+            "player1": { "name": "Mixed", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Rony", "score": 7, "outcome": "Lost" }, 
+            "matchTime": "01:15:37", 
+            "vodLink": "",
+            "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/group-stage/mixed-v-rony-week7.png"
+         }
+      ]
+   }
+]

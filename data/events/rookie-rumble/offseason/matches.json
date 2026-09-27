@@ -1,0 +1,940 @@
+{
+  "season": "RookieRumbleOffseason",
+  "league": "Rookie Rumble",
+  "participantType": "player",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 11,
+  "playoffSlots": 6,
+  "matches": [
+    {
+      "id": "rookie-001",
+      "week": 1,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "exiyte", "score": 9 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:48:35",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-exiyte-week1.png"
+      }
+    },
+    {
+      "id": "rookie-002",
+      "week": 1,
+      "participants": [
+        { "id": "vicas", "score": 13 },
+        { "id": "alex", "score": 9 }
+      ],
+      "winner": "vicas",
+      "method": "Majority",
+      "duration": "01:37:48",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/vicas-v-alex-week1.png"
+      }
+    },
+    {
+      "id": "rookie-003",
+      "week": 1,
+      "participants": [
+        { "id": "chima", "score": 13 },
+        { "id": "exiyte", "score": 10 }
+      ],
+      "winner": "chima",
+      "method": "Majority",
+      "duration": "01:43:13",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/exiyte-v-chima-week1.png"
+      }
+    },
+    {
+      "id": "rookie-004",
+      "week": 1,
+      "participants": [
+        { "id": "maybeminnow", "score": 9 },
+        { "id": "bryan", "score": 4 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:13:29",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/maybe-v-bryan-week1.png"
+      }
+    },
+    {
+      "id": "rookie-005",
+      "week": 1,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "chima", "score": 11 }
+      ],
+      "winner": "jayce",
+      "method": "Majority",
+      "duration": "01:41:31",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-chima-week1.png"
+      }
+    },
+    {
+      "id": "rookie-006",
+      "week": 1,
+      "participants": [
+        { "id": "bogie", "score": 13 },
+        { "id": "elayne", "score": 9 }
+      ],
+      "winner": "bogie",
+      "method": "Majority",
+      "duration": "01:55:58",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/bogie-v-elayne-week1.png"
+      }
+    },
+    {
+      "id": "rookie-007",
+      "week": 1,
+      "participants": [
+        { "id": "daniel", "score": 13 },
+        { "id": "maybeminnow", "score": 9 }
+      ],
+      "winner": "daniel",
+      "method": "Majority",
+      "duration": "01:35:38",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-maybe-week1.png"
+      }
+    },
+    {
+      "id": "rookie-008",
+      "week": 1,
+      "participants": [
+        { "id": "bryan", "score": 11 },
+        { "id": "daniel", "score": 7 }
+      ],
+      "winner": "bryan",
+      "method": "Bingo",
+      "duration": "01:23:29",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/bryan-v-daniel-week1.png"
+      }
+    },
+    {
+      "id": "rookie-009",
+      "week": 1,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "vicas", "score": 12 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:33:18",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-vicas-week1.png"
+      }
+    },
+    {
+      "id": "rookie-010",
+      "week": 1,
+      "participants": [
+        { "id": "uncl", "score": 11 },
+        { "id": "bogie", "score": 8 }
+      ],
+      "winner": "uncl",
+      "method": "Majority",
+      "duration": "01:26:13",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/bogie-v-uncle-week1.png"
+      }
+    },
+    {
+      "id": "rookie-011",
+      "week": 1,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "alex", "score": 8 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:29:04",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-alex-week1.png"
+      }
+    },
+    {
+      "id": "rookie-012",
+      "week": 1,
+      "participants": [
+        { "id": "uncl", "score": 12 },
+        { "id": "elayne", "score": 6 }
+      ],
+      "winner": "uncl",
+      "method": "Bingo",
+      "duration": "01:42:39",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/uncle-v-elayne-week1.png"
+      }
+    },
+    {
+      "id": "rookie-013",
+      "week": 2,
+      "participants": [
+        { "id": "chima", "score": 9 },
+        { "id": "ilmarinen", "score": 0 }
+      ],
+      "winner": "chima",
+      "method": "Bingo",
+      "duration": "01:11:25",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/chima-v-ilmarinen-week2.png"
+      }
+    },
+    {
+      "id": "rookie-014",
+      "week": 2,
+      "participants": [
+        { "id": "bryan", "score": 7 },
+        { "id": "elayne", "score": 3 }
+      ],
+      "winner": "bryan",
+      "method": "Bingo",
+      "duration": "01:10:33",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/bryan-v-elayne-week2.png"
+      }
+    },
+    {
+      "id": "rookie-015",
+      "week": 2,
+      "participants": [
+        { "id": "daniel", "score": 11 },
+        { "id": "okami", "score": 5 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "01:19:55",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-okami-week2.png"
+      }
+    },
+    {
+      "id": "rookie-016",
+      "week": 2,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "uncl", "score": 4 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:15:29",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-uncl-week2.png"
+      }
+    },
+    {
+      "id": "rookie-017",
+      "week": 2,
+      "participants": [
+        { "id": "jayce", "score": 7 },
+        { "id": "uncl", "score": 4 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "00:49:22",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-uncl-week2.png"
+      }
+    },
+    {
+      "id": "rookie-018",
+      "week": 2,
+      "participants": [
+        { "id": "vicas", "score": 13 },
+        { "id": "chima", "score": 9 }
+      ],
+      "winner": "vicas",
+      "method": "Majority",
+      "duration": "01:50:44",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/vicas-v-chima-week2.png"
+      }
+    },
+    {
+      "id": "rookie-019",
+      "week": 2,
+      "participants": [
+        { "id": "maybeminnow", "score": 10 },
+        { "id": "elayne", "score": 3 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:18:55",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/maybe-v-elayne-week2.png"
+      }
+    },
+    {
+      "id": "rookie-020",
+      "week": 2,
+      "participants": [
+        { "id": "vicas", "score": 6 },
+        { "id": "ilmarinen", "score": 4 }
+      ],
+      "winner": "vicas",
+      "method": "Bingo",
+      "duration": "01:01:03",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/vicas-v-ilmarinen-week2.png"
+      }
+    },
+    {
+      "id": "rookie-021",
+      "week": 2,
+      "participants": [
+        { "id": "maybeminnow", "score": 12 },
+        { "id": "okami", "score": 8 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:01:03",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/maybe-v-okami-week2.png"
+      }
+    },
+    {
+      "id": "rookie-022",
+      "week": 2,
+      "participants": [
+        { "id": "daniel", "score": 11 },
+        { "id": "alex", "score": 3 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "01:08:02",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-alex-week2.png"
+      }
+    },
+    {
+      "id": "rookie-023",
+      "week": 2,
+      "participants": [
+        { "id": "gamegit", "score": 10 },
+        { "id": "jayce", "score": 12 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "01:23:45",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-game-week2.png"
+      }
+    },
+    {
+      "id": "rookie-024",
+      "week": 2,
+      "participants": [
+        { "id": "alex", "score": 10 },
+        { "id": "bryan", "score": 8 }
+      ],
+      "winner": "alex",
+      "method": "Bingo",
+      "duration": "01:13:10",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/alex-v-bryan-week2.png"
+      }
+    },
+    {
+      "id": "rookie-025",
+      "week": 3,
+      "participants": [
+        { "id": "jayce", "score": 9 },
+        { "id": "bryan", "score": 5 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:06:36",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/bryan-v-jayce-week3.png"
+      }
+    },
+    {
+      "id": "rookie-026",
+      "week": 3,
+      "participants": [
+        { "id": "jayce", "score": 7 },
+        { "id": "vicas", "score": 6 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:13:45",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-vicas-week3.png"
+      }
+    },
+    {
+      "id": "rookie-027",
+      "week": 3,
+      "participants": [
+        { "id": "gamegit", "score": 6 },
+        { "id": "maybeminnow", "score": 1 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "00:40:23",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-maybe-week3.png"
+      }
+    },
+    {
+      "id": "rookie-028",
+      "week": 3,
+      "participants": [
+        { "id": "elayne", "score": 7 },
+        { "id": "ilmarinen", "score": 2 }
+      ],
+      "winner": "elayne",
+      "method": "Bingo",
+      "duration": "01:05:14",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/elayne-v-ilmarinen-week3.png"
+      }
+    },
+    {
+      "id": "rookie-028",
+      "week": 3,
+      "participants": [
+        { "id": "maybeminnow", "score": 13 },
+        { "id": "chima", "score": 7 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:32:46",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/maybe-v-chima-week3.png"
+      }
+    },
+    {
+      "id": "rookie-029",
+      "week": 3,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "elayne", "score": 5 }
+      ],
+      "winner": "okami",
+      "method": "Bingo",
+      "duration": "01:41:51",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/okami-v-elayne-week3.png"
+      }
+    },
+    {
+      "id": "rookie-030",
+      "week": 3,
+      "participants": [
+        { "id": "chima", "score": 5 },
+        { "id": "alex", "score": 4 }
+      ],
+      "winner": "chima",
+      "method": "Bingo",
+      "duration": "00:42:24",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/chima-v-alex-week3.png"
+      }
+    },
+    {
+      "id": "rookie-031",
+      "week": 3,
+      "participants": [
+        { "id": "daniel", "score": 13 },
+        { "id": "vicas", "score": 11 }
+      ],
+      "winner": "daniel",
+      "method": "Majority",
+      "duration": "01:49:05",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-vicas-week3.png"
+      }
+    },
+    {
+      "id": "rookie-032",
+      "week": 3,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "daniel", "score": 7 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:14:38",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-daniel-week3.png"
+      }
+    },
+    {
+      "id": "rookie-033",
+      "week": 3,
+      "participants": [
+        { "id": "okami", "score": 10 },
+        { "id": "ilmarinen", "score": 5 }
+      ],
+      "winner": "okami",
+      "method": "Bingo",
+      "duration": "01:35:43",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/okami-v-ilmarinen-week3.png"
+      }
+    },
+    {
+      "id": "rookie-034",
+      "week": 4,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "maybeminnow", "score": 7 }
+      ],
+      "winner": "jayce",
+      "method": "Majority",
+      "duration": "01:24:40",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-maybe-week4.png"
+      }
+    },
+    {
+      "id": "rookie-035",
+      "week": 4,
+      "participants": [
+        { "id": "alex", "score": 13 },
+        { "id": "maybeminnow", "score": 11 }
+      ],
+      "winner": "alex",
+      "method": "Majority",
+      "duration": "01:58:17",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/maybe-v-alex-week4.png"
+      }
+    },
+    {
+      "id": "rookie-036",
+      "week": 4,
+      "participants": [
+        { "id": "daniel", "score": 13 },
+        { "id": "chima", "score": 12 }
+      ],
+      "winner": "daniel",
+      "method": "Majority",
+      "duration": "01:57:28",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-chima-week4.png"
+      }
+    },
+    {
+      "id": "rookie-037",
+      "week": 4,
+      "participants": [
+        { "id": "elayne", "score": 13 },
+        { "id": "alex", "score": 11 }
+      ],
+      "winner": "elayne",
+      "method": "Majority",
+      "duration": "01:41:30",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/elayne-v-alex-week4.png"
+      }
+    },
+    {
+      "id": "rookie-038",
+      "week": 4,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "daniel", "score": 9 }
+      ],
+      "winner": "jayce",
+      "method": "Majority",
+      "duration": "01:27:22",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-jayce-week4.png"
+      }
+    },
+    {
+      "id": "rookie-039",
+      "week": 4,
+      "participants": [
+        { "id": "vicas", "score": 9 },
+        { "id": "elayne", "score": 2 }
+      ],
+      "winner": "vicas",
+      "method": "Bingo",
+      "duration": "01:18:55",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/vicas-v-elayne-week4.png"
+      }
+    },
+    {
+      "id": "rookie-040",
+      "week": 4,
+      "participants": [
+        { "id": "gamegit", "score": 8 },
+        { "id": "bryan", "score": 5 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "01:01:10",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-bryan-week4.png"
+      }
+    },
+    {
+      "id": "rookie-041",
+      "week": 4,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "uncl", "score": 3 }
+      ],
+      "winner": "okami",
+      "method": "Bingo",
+      "duration": "00:59:04",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/okami-v-uncle-week4.png"
+      }
+    },
+    {
+      "id": "rookie-042",
+      "week": 4,
+      "participants": [
+        { "id": "vicas", "score": 13 },
+        { "id": "ilmarinen", "score": 2 }
+      ],
+      "winner": "vicas",
+      "method": "Majority",
+      "duration": "01:27:33",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/vicas-v-ilmarinen-week4.png"
+      }
+    },
+    {
+      "id": "rookie-043",
+      "week": 4,
+      "participants": [
+        { "id": "uncl", "score": 10 },
+        { "id": "ilmarinen", "score": 5 }
+      ],
+      "winner": "uncl",
+      "method": "Bingo",
+      "duration": "01:40:31",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/uncle-v-ilmarinen-week4.png"
+      }
+    },
+    {
+      "id": "rookie-044",
+      "week": 4,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "bryan", "score": 9 }
+      ],
+      "winner": "okami",
+      "method": "Majority",
+      "duration": "01:24:36",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/okami-v-bryan-week4.png"
+      }
+    },
+    {
+      "id": "rookie-045",
+      "week": 4,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "chima", "score": 8 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:12:34",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-chima-week4.png"
+      }
+    },
+    {
+      "id": "rookie-046",
+      "week": 5,
+      "participants": [
+        { "id": "daniel", "score": 9 },
+        { "id": "uncl", "score": 5 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "01:21:20",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-uncl-week5.png"
+      }
+    },
+    {
+      "id": "rookie-047",
+      "week": 5,
+      "participants": [
+        { "id": "daniel", "score": 5 },
+        { "id": "ilmarinen", "score": 1 }
+      ],
+      "winner": "daniel",
+      "method": "Bingo",
+      "duration": "00:48:01",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/daniel-v-ilmarinen-week5.png"
+      }
+    },
+    {
+      "id": "rookie-048",
+      "week": 5,
+      "participants": [
+        { "id": "gamegit", "score": 7 },
+        { "id": "ilmarinen", "score": 0 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "00:43:27",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-ilmarinen-week5.png"
+      }
+    },
+    {
+      "id": "rookie-049",
+      "week": 5,
+      "participants": [
+        { "id": "gamegit", "score": 13 },
+        { "id": "okami", "score": 10 }
+      ],
+      "winner": "gamegit",
+      "method": "Majority",
+      "duration": "01:39:45",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-okami-week5.png"
+      }
+    },
+    {
+      "id": "rookie-050",
+      "week": 5,
+      "participants": [
+        { "id": "maybeminnow", "score": 13 },
+        { "id": "vicas", "score": 11 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Bingo",
+      "duration": "01:59:40",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/maybe-v-vicas-week5.png"
+      }
+    },
+    {
+      "id": "rookie-051",
+      "week": 5,
+      "participants": [
+        { "id": "bryan", "score": 13 },
+        { "id": "vicas", "score": 10 }
+      ],
+      "winner": "bryan",
+      "method": "Majority",
+      "duration": "01:27:09",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/bryan-v-vicas-week5.png"
+      }
+    },
+    {
+      "id": "rookie-052",
+      "week": 5,
+      "participants": [
+        { "id": "chima", "score": 13 },
+        { "id": "bryan", "score": 9 }
+      ],
+      "winner": "chima",
+      "method": "Bingo",
+      "duration": "01:24:40",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/chima-v-bryan-week5.png"
+      }
+    },
+    {
+      "id": "rookie-053",
+      "week": 5,
+      "participants": [
+        { "id": "jayce", "score": 8 },
+        { "id": "elayne", "score": 2 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:00:58",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-elayne-week5.png"
+      }
+    },
+    {
+      "id": "rookie-054",
+      "week": 5,
+      "participants": [
+        { "id": "alex", "score": 13 },
+        { "id": "okami", "score": 8 }
+      ],
+      "winner": "alex",
+      "method": "Bingo",
+      "duration": "01:43:53",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/alex-v-okami-week5.png"
+      }
+    },
+    {
+      "id": "rookie-055",
+      "week": 5,
+      "participants": [
+        { "id": "chima", "score": 12 },
+        { "id": "elayne", "score": 11 }
+      ],
+      "winner": "chima",
+      "method": "Majority",
+      "duration": "01:59:57",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/chima-v-elayne-week5.png"
+      }
+    },
+    {
+      "id": "rookie-056",
+      "week": 5,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "alex", "score": 9 }
+      ],
+      "winner": "jayce",
+      "method": "Majority",
+      "duration": "01:35:07",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-alex-week5.png"
+      }
+    },
+    {
+      "id": "rookie-057",
+      "week": 5,
+      "participants": [
+        { "id": "maybeminnow", "score": 13 },
+        { "id": "uncl", "score": 10 }
+      ],
+      "winner": "maybeminnow",
+      "method": "Majority",
+      "duration": "01:55:40",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/maybe-v-uncl-week5.png"
+      }
+    },
+    {
+      "id": "rookie-058",
+      "week": 6,
+      "participants": [
+        { "id": "gamegit", "score": 12 },
+        { "id": "elayne", "score": 6 }
+      ],
+      "winner": "gamegit",
+      "method": "Bingo",
+      "duration": "01:32:15",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/game-v-elayne-week6.png"
+      }
+    },
+    {
+      "id": "rookie-059",
+      "week": 6,
+      "participants": [
+        { "id": "alex", "score": 13 },
+        { "id": "bryan", "score": 10 }
+      ],
+      "winner": "alex",
+      "method": "Majority",
+      "duration": "01:29:35",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/alex-v-bryan-week6.png"
+      }
+    },
+    {
+      "id": "rookie-060",
+      "week": 6,
+      "participants": [
+        { "id": "okami", "score": 13 },
+        { "id": "vicas", "score": 8 }
+      ],
+      "winner": "okami",
+      "method": "Majority",
+      "duration": "01:47:36",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/okami-v-vicas-week6.png"
+      }
+    },
+    {
+      "id": "rookie-061",
+      "week": 6,
+      "participants": [
+        { "id": "jayce", "score": 13 },
+        { "id": "ilmarinen", "score": 2 }
+      ],
+      "winner": "jayce",
+      "method": "Bingo",
+      "duration": "01:07:09",
+      "media": {
+        "vod": "",
+        "image": "/img/events/rookie-rumble/offseason/group-stage/jayce-v-ilmarinen-week6.png"
+      }
+    }
+  ]
+}

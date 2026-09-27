@@ -1,0 +1,439 @@
+{
+   "PhileyFinch": {
+      "standing": 0,
+      "wins": 3,
+      "losses": 5,
+      "squares": 60,
+      "lines": 1,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/phileyfinch",
+      "qualified": "no",
+      "opponentWins": 22,
+      "opponentLoss": 42,
+      "victory":
+      [
+         "Samantha Teapot",
+         "Chewy",
+         "Azdomiel"
+      ]
+   },
+   "Samantha Teapot": {
+      "standing": 0,
+      "wins": 0,
+      "losses": 8,
+      "squares": 16,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/samanthateapot",
+      "qualified": "no",
+      "opponentWins": 23,
+      "opponentLoss": 41,
+      "victory":
+      [
+         
+      ]
+   },
+   "TurtleBeard": {
+      "standing": 0,
+      "wins": 5,
+      "losses": 3,
+      "squares": 81,
+      "lines": 3,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/turtlebeard",
+      "qualified": "yes",
+      "opponentWins": 28,
+      "opponentLoss": 36,
+      "victory":
+      [
+         "Thomas",
+         "Chewy",
+         "Azdomiel",
+         "BlazeTheGible"
+      ]
+   },
+   "Dyrax": {
+      "standing": 0,
+      "wins": 5,
+      "losses": 3,
+      "squares": 53,
+      "lines": 3,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/dyrax999",
+      "qualified": "yes",
+      "opponentWins": 36,
+      "opponentLoss": 20,
+      "victory":
+      [
+         "TurtleBeard",
+         "AmplSi",
+         "Space Patrol Funk Machine",
+         "KC_Brazos"
+      ]
+   },
+   "KC_Brazos": {
+      "standing": 0,
+      "wins": 4,
+      "losses": 4,
+      "squares": 59,
+      "lines": 2,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/kc_brazos",
+      "qualified": "no",
+      "opponentWins": 32,
+      "opponentLoss": 24,
+      "victory":
+      [
+         "BlazeTheGible",
+         "Steakslyons",
+         "Belbo",
+         "Space Patrol Funk Machine"
+      ]
+   },
+   "BlazeTheGible": {
+      "standing": 0,
+      "wins": 3,
+      "losses": 5,
+      "squares": 74,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "opponentWins": 33,
+      "opponentLoss": 23,
+      "victory":
+      [
+         "PhileyFinch",
+         "FalconRaven",
+         "Thomas"
+      ]
+   },
+   "Jxxman": {
+      "standing": 0,
+      "wins": 4,
+      "losses": 4,
+      "squares": 78,
+      "lines": 2,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "opponentWins": 32,
+      "opponentLoss": 24,
+      "victory":
+      [
+         "Alenkor",
+         "Steakslyons",
+         "PhileyFinch",
+         "Vexphile"
+      ]
+   },
+   "Alenkor": {
+      "standing": 0,
+      "wins": 4,
+      "losses": 4,
+      "squares": 53,
+      "lines": 2,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/alenkor94",
+      "qualified": "no",
+      "opponentWins": 22,
+      "opponentLoss": 34,
+      "victory":
+      [
+         "PhileyFinch",
+         "Samantha Teapot",
+         "Steakslyons",
+         "Chewy"
+      ]
+   },
+   "AngryPhilosopher": {
+      "standing": 0,
+      "wins": 4,
+      "losses": 4,
+      "squares": 61,
+      "lines": 3,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "opponentWins": 36,
+      "opponentLoss": 20,
+      "victory":
+      [
+         "AmplSi",
+         "FalconRaven",
+         "Jxxman"
+      ]
+   },
+   "AmplSi": {
+      "standing": 0,
+      "wins": 4,
+      "losses": 4,
+      "squares": 54,
+      "lines": 1,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/amplsi",
+      "qualified": "no",
+      "opponentWins": 26,
+      "opponentLoss": 22,
+      "victory":
+      [
+         "Jxxman",
+         "TurtleBeard",
+         "BlazeTheGible"
+      ]
+   },
+   "Thomas": {
+      "standing": 0,
+      "wins": 5,
+      "losses": 3,
+      "squares": 79,
+      "lines": 3,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/pluryl",
+      "qualified": "yes",
+      "opponentWins": 33,
+      "opponentLoss": 31,
+      "victory":
+      [
+         "Alenkor",
+         "Vegard",
+         "Steakslyons",
+         "AmplSi",
+         "AngryPhilosopher"
+      ]
+   },
+   "Jibbe": {
+      "standing": 0,
+      "wins": 6,
+      "losses": 2,
+      "squares": 80,
+      "lines": 5,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/jibbebot",
+      "qualified": "yes",
+      "opponentWins": 31,
+      "opponentLoss": 25,
+      "victory":
+      [
+         "Thomas",
+         "Chewy",
+         "AmplSi",
+         "Space Patrol Funk Machine",
+         "AngryPhilosopher",
+         "Vegard"
+      ]
+   },
+   "Vord": {
+      "standing": 0,
+      "wins": 5,
+      "losses": 3,
+      "squares": 88,
+      "lines": 3,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/vord_sr",
+      "qualified": "yes",
+      "opponentWins": 39,
+      "opponentLoss": 25,
+      "victory":
+      [
+         "Alenkor",
+         "Vegard",
+         "BlazeTheGible",
+         "Steakslyons",
+         "FalconRaven"
+      ]
+   },
+   "Vexphile": {
+      "standing": 0,
+      "wins": 6,
+      "losses": 2,
+      "squares": 97,
+      "lines": 2,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/vexphile",
+      "qualified": "yes",
+      "opponentWins": 38,
+      "opponentLoss": 18,
+      "victory":
+      [
+         "Dyrax",
+         "Vord",
+         "Jibbe",
+         "Lemon",
+         "AngryPhilosopher"
+      ]
+   },
+   "Lemon": {
+      "standing": 0,
+      "wins": 7,
+      "losses": 1,
+      "squares": 84,
+      "lines": 3,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/l3m0_n",
+      "qualified": "yes",
+      "opponentWins": 39,
+      "opponentLoss": 25,
+      "victory":
+      [
+         "Chewy",
+         "Vakrash",
+         "Jibbe",
+         "KC_Brazos",
+         "AngryPhilosopher",
+         "Vord",
+         "Dyrax"
+      ]
+   },
+   "Chewy": {
+      "standing": 0,
+      "wins": 2,
+      "losses": 6,
+      "squares": 40,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "opponentWins": 27,
+      "opponentLoss": 29,
+      "victory":
+      [
+         "Samantha Teapot",
+         "Azdomiel"
+      ]
+   },
+   "Space Patrol Funk Machine": {
+      "standing": 0,
+      "wins": 3,
+      "losses": 5,
+      "squares": 61,
+      "lines": 1,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "",
+      "qualified": "no",
+      "opponentWins": 35,
+      "opponentLoss": 29,
+      "victory":
+      [
+         "Samantha Teapot",
+         "TurtleBeard",
+         "AmplSi"
+      ]
+   },
+   "Vakrash": {
+      "standing": 0,
+      "wins": 7,
+      "losses": 1,
+      "squares": 93,
+      "lines": 3,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/vakrash",
+      "qualified": "yes",
+      "opponentWins": 37,
+      "opponentLoss": 28,
+      "victory":
+      [
+         "Space Patrol Funk Machine",
+         "BlazeTheGible",
+         "Vord",
+         "KC_Brazos",
+         "Jxxman",
+         "Vexphile",
+         "Dyrax"
+      ]
+   },
+   "Steakslyons": {
+      "standing": 0,
+      "wins": 3,
+      "losses": 5,
+      "squares": 62,
+      "lines": 0,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/steakslyons",
+      "qualified": "no",
+      "opponentWins": 27,
+      "opponentLoss": 37,
+      "victory":
+      [
+         "Azdomiel",
+         "PhileyFinch",
+         "Samantha Teapot"
+      ]
+   },
+   "Azdomiel": {
+      "standing": 0,
+      "wins": 2,
+      "losses": 6,
+      "squares": 48,
+      "lines": 1,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/azdomiel",
+      "qualified": "no",
+      "opponentWins": 17,
+      "opponentLoss": 39,
+      "victory":
+      [
+         "Samantha Teapot"
+      ]
+   },
+   "Vegard": {
+      "standing": 0,
+      "wins": 4,
+      "losses": 4,
+      "squares": 56,
+      "lines": 2,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/vegarddddddd",
+      "qualified": "no",
+      "opponentWins": 27,
+      "opponentLoss": 29,
+      "victory":
+      [
+         "Alenkor",
+         "PhileyFinch",
+         "Samantha Teapot",
+         "KC_Brazos"
+      ]
+   },
+   "Falconraven": {
+      "standing": 0,
+      "wins": 4,
+      "losses": 4,
+      "squares": 76,
+      "lines": 1,
+      "games": 0,
+      "wr": "0%",
+      "twitch": "https://www.twitch.tv/falconraven",
+      "qualified": "no",
+      "opponentWins": 19,
+      "opponentLoss": 29,
+      "victory":
+      [
+         "Vegard",
+         "Azdomiel",
+         "Chewy",
+         "Space Patrol Funk Machine"
+      ]
+   }
+}

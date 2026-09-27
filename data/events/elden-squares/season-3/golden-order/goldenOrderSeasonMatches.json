@@ -1,0 +1,354 @@
+[
+   { 
+      "week": 1,
+      "matches":
+      [
+         {  "gameId": 1, 
+            "player1": { "name": "Time Complexity", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Old But Gold", "score": 12, "outcome": "Lost" }, 
+            "matchTime": "01:03:53", 
+            "vodLink": "https://youtu.be/rrYy1XPrgcI?si=lPnh3PTcUX8P3Tfb", 
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-gold-week1.png"
+         },
+         {
+            "gameId": 2,
+            "player1": { "name": "Bofa D's", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Expedition 25", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:10:10",
+            "vodLink": "https://youtu.be/0ILGaHe4Dmk?si=-RYQYT5CcYvgR1lt",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-expedition-week1.png"
+         },
+         {
+            "gameId": 3,
+            "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Asteroid Destroyer", "score": 4, "outcome": "Lost" },
+            "matchTime": "00:57:12",
+            "vodLink": "https://youtu.be/W3Hl76x9cKg?si=qzS25nAPKtAzuhZq",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/asteroid-v-wamp-week1.png"
+         },
+         {
+            "gameId": 4,
+            "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Bagarre FR", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:09:40",
+            "vodLink": "https://youtu.be/XnfjznPSfkM?si=EzH-QJspbNZ6e0nF",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-fr-week1.png"
+         }
+      ]
+   },
+   {
+      "week": 2,
+      "matches":
+      [
+         {  "gameId": 5, 
+            "player1": { "name": "Time Complexity", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Budget Team Hitless", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:13:09",
+            "vodLink": "https://youtu.be/Vkz3sytkC4Q?si=Hs29fieUR54LzxiB",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-hitless-week2.png"
+         },
+         {  "gameId": 6, 
+            "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Bingo" }, 
+            "player2": { "name": "Bofa D's", "score": 6, "outcome": "Lost" }, 
+            "matchTime": "00:58:16", 
+            "vodLink": "https://youtu.be/uG4tPlt2JbM?si=OQYy_ToZph4FWTKS", 
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-wamp-week2.png"
+         },
+         {  "gameId": 7,
+            "player1": { "name": "Expedition 25", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Old But Gold", "score": 12, "outcome": "Lost" }, 
+            "matchTime": "01:13:17", 
+            "vodLink": "https://youtu.be/LY8GcCwx6WA?si=oqqXF_qvFmgU-0vX", 
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/expedition-v-gold-week2.png"
+         },
+         {  "gameId": 8, 
+            "player1": { "name": "Tower Princesses", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Bagarre FR", "score": 11, "outcome": "Lost" }, 
+            "matchTime": "01:20:56", 
+            "vodLink": "https://youtu.be/FPDNqm87zX0?si=6GHCPOgtqpv8tgi0", 
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tower-v-fr-week2.png"
+         },
+         {  "gameId": 9, 
+            "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" }, 
+            "player2": { "name": "Asteroid Destroyer", "score": 10, "outcome": "Lost" }, 
+            "matchTime": "01:11:17", 
+            "vodLink": "https://youtu.be/SXWcCzAMGsY?si=yzzA0d8PESWjnSNU", 
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-asteroid-week2.png"
+         }
+      ]
+   },
+   {
+      "week": 3,
+      "matches":
+      [
+         {  "gameId": 10, 
+            "player1": { "name": "Time Complexity", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Expedition 25", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:04:28",
+            "vodLink": "https://youtu.be/FLeVIQ4CFT4?si=Hy4S5OjGij-4JaIb",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-expedition-week3.png"
+         },
+         {  "gameId": 11, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Bofa D's", "score": 5, "outcome": "Lost" },
+            "matchTime": "00:57:25",
+            "vodLink": "https://youtu.be/1crLKejPcbw?si=dJFZP8a00ISYqojt",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-hitless-week3.png"
+         },
+         {  "gameId": 12, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Old But Gold", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:09:33",
+            "vodLink": "https://youtu.be/AlTC05_DgxA?si=EbsoYrmH6EuK4sUS",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-gold-week3.png"
+         },
+         {  "gameId": 13, 
+            "player1": { "name": "Time Complexity", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tower Princesses", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:01:22",
+            "vodLink": "https://youtu.be/FWyNT8t1gqI?si=OqhIAZI6pJ5prQB6",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-princess-week3.png"
+         }
+      ]
+   },
+   {
+      "week": 4,
+      "matches":
+      [
+         {  "gameId": 14, 
+            "player1": { "name": "Bofa D's", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tower Princesses", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:14:08",
+            "vodLink": "https://youtu.be/lqS2kBpCR8M?si=C6wI-7xyonCfWPFo",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-tower-week4.png"
+         },
+         {  "gameId": 15, 
+            "player1": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tank & Top", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:02:20",
+            "vodLink": "https://youtu.be/Ps9aG3WfjU4?si=gyDmVMOzoZqQgprh",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-expedition-week4.png"
+         },
+         {  "gameId": 16, 
+            "player1": { "name": "Bagarre FR", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Time Complexity", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:07:01",
+            "vodLink": "https://youtu.be/uUBAqKGRMCw?si=yyXdCqZQony8llOY",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-fr-week4.png"
+         },
+         {  "gameId": 17, 
+            "player1": { "name": "Tower Princesses", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Asteroid Destroyer", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:10:48",
+            "vodLink": "https://youtu.be/d88otCAZBlg?si=2-6OQlX3hFY5h-dL",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tower-v-destroyers-week4.png"
+         }
+      ]
+   },
+   {
+      "week": 5,
+      "matches":
+      [
+         {  "gameId": 18, 
+            "player1": { "name": "Wamp Wamp", "score": 15, "outcome": "Bingo" },
+            "player2": { "name": "Old But Gold", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:04:16",
+            "vodLink": "https://youtu.be/AMkNSmK1d4I?si=QZF2tp7oKijzSpj8",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-gold-week5.png"
+         },
+         {  "gameId": 19, 
+            "player1": { "name": "Bagarre FR", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Expedition 25", "score": 4, "outcome": "Lost" },
+            "matchTime": "00:46:42",
+            "vodLink": "https://youtu.be/UtjrM8P0-FU?si=iiD75W5m0Iacucas",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/expedition-v-fr-week5.png"
+         },
+         {  "gameId": 20, 
+            "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Time Complexity", "score": 12, "outcome": "Lost" },
+            "matchTime": "01:27:04",
+            "vodLink": "https://youtu.be/HZ-97Zya3gE?si=nVCHOuYPcy5xJkuP",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-tank-week5.png"
+         },
+         {  "gameId": 21, 
+            "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tower Princesses", "score": 12, "outcome": "Lost" },
+            "matchTime": "01:13:39",
+            "vodLink": "https://youtu.be/JrayC3kkpXU?si=Fx6RK1AdkzaLRzqW",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-tower-week5.png"
+         },
+         {  "gameId": 22, 
+            "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Bofa D's", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:07:04",
+            "vodLink": "https://youtu.be/_jT4KZw4AOw?si=MFB_u60UAvX0l4QD",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-bofa-week5.png"
+         },
+         {  "gameId": 23,
+            "player1": { "name": "Old But Gold", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Bagarre FR", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:04:21",
+            "vodLink": "https://youtu.be/JrzXRdj8uz8?si=Vskt4_5_jK3mrO1Q",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/gold-v-fr-week5.png"
+         }
+      ]
+   },
+   {
+      "week": 6,
+      "matches":
+      [
+         {  "gameId": 24, 
+            "player1": { "name": "Time Complexity", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Wamp Wamp", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:00:56",
+            "vodLink": "https://www.twitch.tv/videos/2612310333?t=00h34m42s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-complex-week6.png"
+         },
+         {  "gameId": 25, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Expedition 25", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:11:44",
+            "vodLink": "https://www.twitch.tv/videos/2612310333?t=02h25m36s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-expedition-week6.png"
+         },
+         {  "gameId": 26, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Bagarre FR", "score": 6, "outcome": "Lost" },
+            "matchTime": "00:52:42",
+            "vodLink": "https://www.twitch.tv/videos/2613170230?t=02h30m57s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-fr-week6.png"
+         },
+         {  "gameId": 27, 
+            "player1": { "name": "Asteroid Destroyer", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Bofa D's", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:06:47",
+            "vodLink": "https://www.twitch.tv/videos/2613170230?t=04h20m44s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-asteroid-week6.png"
+         },
+         {  "gameId": 28, 
+            "player1": { "name": "Bofa D's", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Bagarre FR", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:09:08",
+            "vodLink": "https://www.twitch.tv/videos/2614077246?t=00h37m46s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/bofa-v-fr-week6.png"
+         },
+         {  "gameId": 29, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Asteroid Destroyer", "score": 12, "outcome": "Lost" },
+            "matchTime": "01:19:16",
+            "vodLink": "https://www.twitch.tv/videos/2614077246?t=02h27m53s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-asteroid-week6.png"
+         },
+         {  "gameId": 30,
+            "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tower Princesses", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:03:08",
+            "vodLink": "https://www.twitch.tv/videos/2614077246?t=04h28m04s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-tower-week6.png"
+         }
+      ]
+   },
+   {
+      "week": 7,
+      "matches":
+      [
+         {  "gameId": 31, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Wamp Wamp", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:05:28",
+            "vodLink": "https://www.twitch.tv/videos/2617619959?t=04h09m22s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-hitless-week7.png"
+         },
+         {  "gameId": 32, 
+            "player1": { "name": "Expedition 25", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Asteroid Destroyer", "score": 12, "outcome": "Lost" },
+            "matchTime": "00:56:21",
+            "vodLink": "https://www.twitch.tv/videos/2619865708",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/expedition-v-asteriod-week7.png"
+         },
+         {  "gameId": 33, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Bingo" },
+            "player2": { "name": "Tank & Top", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:02:06",
+            "vodLink": "https://www.twitch.tv/videos/2619198202?t=00h26m28s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-tank-week7.png"
+         },
+         {  "gameId": 34, 
+            "player1": { "name": "Wamp Wamp", "score": 15, "outcome": "Bingo" },
+            "player2": { "name": "Bagarre FR", "score": 5, "outcome": "Lost" },
+            "matchTime": "01:02:13",
+            "vodLink": "https://www.twitch.tv/videos/2619198202?t=02h25m27s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-fr-week7.png"
+         },
+         {  "gameId": 35, 
+            "player1": { "name": "Time Complexity", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Asteroid Destroyer", "score": 8, "outcome": "Lost" },
+            "matchTime": "00:58:50",
+            "vodLink": "https://www.twitch.tv/videos/2619198202?t=04h24m23s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-asteroid-week7.png"
+         },
+         {  "gameId": 36, 
+            "player1": { "name": "Bofa D's", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Old But Gold", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:10:31",
+            "vodLink": "https://www.twitch.tv/videos/2619198202?t=06h28m34s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/gold-v-bofa-week7.png"
+         },
+         {  "gameId": 37, 
+            "player1": { "name": "Tank & Top", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Old But Gold", "score": 8, "outcome": "Lost" },
+            "matchTime": "01:06:54",
+            "vodLink": "https://www.twitch.tv/videos/2620130787?t=00h24m32s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-gold-week7.png"
+         },
+         {  "gameId": 38, 
+            "player1": { "name": "Budget Team Hitless", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tower Princesses", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:06:08",
+            "vodLink": "https://www.twitch.tv/videos/2620130787?t=02h27m01s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/hitless-v-tower-week7.png"
+         },
+         {  "gameId": 39, 
+            "player1": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Wamp Wamp", "score": 10, "outcome": "Lost" },
+            "matchTime": "01:06:46",
+            "vodLink": "https://www.twitch.tv/videos/2620130787?t=04h22m23s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/wamp-v-expedition-week7.png"
+         }
+      ]
+   },
+   {
+      "week": 8,
+      "matches":
+      [
+         {  "gameId": 40, 
+            "player1": { "name": "Time Complexity", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Bofa D's", "score": 7, "outcome": "Lost" },
+            "matchTime": "01:03:39",
+            "vodLink": "https://www.twitch.tv/videos/2624294044?t=04h40m57s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/complex-v-bofa-week8.png"
+         },
+         {  "gameId": 41, 
+            "player1": { "name": "Wamp Wamp", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tank & Top", "score": 9, "outcome": "Lost" },
+            "matchTime": "00:57:38",
+            "vodLink": "https://www.twitch.tv/videos/2625204910?t=05h00m37s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tank-v-wamp-week8.png"
+         },
+         {  "gameId": 42, 
+            "player1": { "name": "Bagarre FR", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Asteroid Destroyer", "score": 11, "outcome": "Lost" },
+            "matchTime": "01:16:22",
+            "vodLink": "https://www.twitch.tv/videos/2626030816?t=07h13m54s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/asteroid-v-fr-week8.png"
+         },
+         {  "gameId": 43, 
+            "player1": { "name": "Expedition 25", "score": 13, "outcome": "Majority" },
+            "player2": { "name": "Tower Princesses", "score": 9, "outcome": "Lost" },
+            "matchTime": "01:03:15",
+            "vodLink": "https://www.twitch.tv/videos/2626030816?t=08h58m30s",
+            "imageLink": "/img/events/elden-squares/season-3/golden-order/group-stage/tower-v-expedition-week8.png"
+         }
+      ]
+   }
+]

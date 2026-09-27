@@ -1,0 +1,79 @@
+{
+   "Quarterfinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Doitz", "score": 11, "outcome": "Lost" },
+         "player2": { "name": "Strump", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:35:36",
+         "vodLink": "https://www.twitch.tv/videos/2516783757?t=00h04m49s",
+         "imageLink": "/img/events/scadubingo/moonwalk/playoffs/doitz-v-strump-quarterfinals-moonwalk.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Quarterfinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Jay", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Wander", "score": 6, "outcome": "Lost" },
+         "matchTime": "01:06:52",
+         "vodLink": "https://www.twitch.tv/videos/2516889086?t=00h03m33s",
+         "imageLink": "/img/events/scadubingo/moonwalk/playoffs/wander-v-j-quarterfinals-moonwalk.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Quarterfinals-3": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Asym", "score": 9, "outcome": "Lost" },
+         "player2": { "name": "Dino", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:10:47",
+         "vodLink": "https://www.twitch.tv/videos/2517609976?t=00h03m14s",
+         "imageLink": "/img/events/scadubingo/moonwalk/playoffs/Asym-v-Dino-quarterfinals-moonwalk.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Quarterfinals-4": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Elymis", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "HooZher", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:36:15",
+         "vodLink": "https://www.twitch.tv/videos/2517889333?t=00h03m07s",
+         "imageLink": "/img/events/scadubingo/moonwalk/playoffs/hoozher-v-elymis-quarterfinals-moonwalk.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Semifinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Strump", "score": 5, "outcome": "Lost" },
+         "player2": { "name": "Jay", "score": 7, "outcome": "Bingo" },
+         "matchTime": "00:00:00",
+         "vodLink": "https://www.twitch.tv/videos/2535478661?t=00h07m20s",
+         "imageLink": "/img/events/scadubingo/moonwalk/playoffs/strump-v-jay-semifinals-moonwalk.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Semifinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Dino", "score": 10, "outcome": "Lost" },
+         "player2": { "name": "HooZher", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:42:58",
+         "vodLink": "https://www.twitch.tv/videos/2534860997?t=00h05m08s",
+         "imageLink": "/img/events/scadubingo/moonwalk/playoffs/hoozher-v-dino-semifinals-moonwalk.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Finals": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Jay", "score": 8, "outcome": "Bingo" },
+         "player2": { "name": "HooZher", "score": 4, "outcome": "Lost" },
+         "matchTime": "00:56:36",
+         "vodLink": "https://www.twitch.tv/videos/2536403518?t=00h10m53s",
+         "imageLink": "/img/events/scadubingo/moonwalk/playoffs/hoozher-v-j-finals-moonwalk.png",
+         "scheduledAt": ""
+      }
+   ]
+}

@@ -1,0 +1,38 @@
+{
+   "Stocko": {
+      "time": "10:12",
+      "weapon": "Claymore",
+      "shield": "Spiral Horned Shield",
+      "division": "Recusants"
+   },
+   "Rambler": {
+      "time": "9:08",
+      "weapon": "Great Stars",
+      "shield": "Heater Shield",
+      "division": "Redmane"
+   },
+   "Nartock": {
+      "time": "11:22",
+      "weapon": "Stone Club",
+      "shield": "Spiral Horned Shield",
+      "division": "Recusants"
+   },
+   "NVCC Alex": {
+      "time": "6:52",
+      "weapon": "Grossmesser",
+      "shield": "Gilded Iron Shield",
+      "division": "Recusants"
+   },
+   "Ginger": {
+      "time": "10:36",
+      "weapon": "Noble Slender Sword",
+      "shield": "Pillory Shield",
+      "division": "Redmane"
+   },
+   "Playoff Nartock": {
+      "time": "08:49",
+      "weapon": "Longhaft Axe",
+      "shield": "Marred Wooden Shield",
+      "division": "Recusants"
+   }
+}

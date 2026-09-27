@@ -1,0 +1,366 @@
+{
+   "Agheel +0": [
+      {
+         "Asym": {
+            "time": "3:05",
+            "weapon": "Grave Scythe",
+            "division": "Redmane"
+         },
+         "Shura": {
+            "time": "2:42",
+            "weapon": "Lordsworn's Straight Sword",
+            "division": "Recusants"
+         },
+         "Raa": {
+            "time": "4:29",
+            "weapon": "Hammer",
+            "division": "Redmane"
+         },
+         "Strump": {
+            "time": "2:56",
+            "weapon": "Weathered Straight Sword",
+            "division": "Redmane"
+         },
+         "Dino": {
+            "time": "2:51",
+            "weapon": "Lordsworn's Straight Sword",
+            "division": "Redmane"
+         },
+         "Playoff Helios": {
+            "time": "2:49",
+            "weapon": "Weathered Straight Sword",
+            "division": "Redmane"
+         },
+         "Playoff Shura": {
+            "time": "3:12",
+            "weapon": "Noble's Slender Sword",
+            "division": "Recusants"
+         }
+      }
+   ],
+   "Consumables": [
+      {
+         "Dino": {
+            "time": "3:31",
+            "dexterity": "13",
+            "division": "Redmane"
+         },
+         "Helios": {
+            "time": "3:19",
+            "dexterity": "16",
+            "division": "Redmane"
+         },
+         "Derf": {
+            "time": "3:34",
+            "dexterity": "14",
+            "division": "Redmane"
+         },
+         "Shura": {
+            "time": "3:36",
+            "dexterity": "12",
+            "division": "Recusants"
+         },
+         "Elymis": {
+            "time": "3:24",
+            "dexterity": "13",
+            "division": "Recusants"
+         },
+         "Playoff Asym": {
+            "time": "3:20",
+            "dexterity": "16",
+            "division": "Redmane"
+         },
+         "Playoff Nexus": {
+            "time": "3:09",
+            "dexterity": "15",
+            "division": "Recusants"
+         }
+      }
+   ],
+   "Cracked Pots": [
+      {
+         "Rambler": {
+            "time": "10:20",
+            "division": "Redmane"
+         },
+         "Asym": {
+            "time": "10:05",
+            "division": "Redmane"
+         },
+         "Shura": {
+            "time": "8:22",
+            "division": "Recusants"
+         },
+         "Helios": {
+            "time": "8:14",
+            "division": "Redmane"
+         },
+         "Nexus": {
+            "time": "7:52",
+            "division": "Recusants"
+         },
+         "Playoff Shura": {
+            "time": "8:26",
+            "division": "Recusants"
+         }
+      }
+   ],
+   "Fallingstar": [
+         {
+         "Moody": {
+            "time": "8:40",
+            "weapon": "Morning Star",
+            "division": "Recusants"
+         },
+         "Helios": {
+            "time": "6:44",
+            "weapon": "Jawbone Axe",
+            "division": "Redmane"
+         },
+         "Playoff Nexus": {
+            "time": "6:16",
+            "weapon": "Broadsword",
+            "division": "Recusants"
+         },
+         "Playoff Nartock": {
+            "time": "8:57",
+            "weapon": "Broadsword",
+            "division": "Recusants"
+         }
+      }
+   ],
+   "Four Friendly NPCs": [
+      {
+         "Rambler": {
+            "time": "55:00",
+            "weapon": "Helphen's Steeple",
+            "division": "Redmane"
+         },
+         "Strump": {
+            "time": "8:29",
+            "weapon": "Weathered Straight Sword",
+            "division": "Redmane"
+         },
+         "Nexus": {
+            "time": "6:29",
+            "weapon": "Star Fist",
+            "division": "Recusants"
+         },
+         "RattyRy": {
+            "time": "9:39",
+            "weapon": "Club",
+            "division": "Recusants"
+         },
+         "Ginger":{  
+            "time":"6:10",
+            "weapon":"Sacrificial Axe",
+            "division":"Redmane"
+         }
+      }
+   ],
+   "Grafted Scion": [
+      {
+         "Ginger": {
+            "time": "1:02",
+            "weapon": "Broadsword",
+            "division": "Redmane"
+         },
+         "Elymis": {
+            "time": "1:03",
+            "weapon": "Lordsworn's Straight Sword",
+            "division": "Recusants"
+         },
+         "Asym": {
+            "time": "1:08",
+            "weapon": "Noble Slender Sword",
+            "division": "Redmane"
+         },
+         "RattyRy": {
+            "time": "1:09",
+            "weapon": "Noble Slender Sword",
+            "division": "Recusants"
+         },
+         "Strump": {
+            "time": "1:02",
+            "weapon": "Lordsworn's Straight Sword",
+            "division": "Redmane"
+         }
+      }
+   ],
+   "Margit 6+ Parries": [
+      {
+         "Stocko": {
+            "time": "10:12",
+            "weapon": "Claymore",
+            "shield": "Spiral Horned Shield",
+            "division": "Recusants"
+         },
+         "Rambler": {
+            "time": "9:08",
+            "weapon": "Great Stars",
+            "shield": "Heater Shield",
+            "division": "Redmane"
+         },
+         "Nartock": {
+            "time": "11:22",
+            "weapon": "Stone Club",
+            "shield": "Spiral Horned Shield",
+            "division": "Recusants"
+         },
+         "NVCC Alex": {
+            "time": "6:52",
+            "weapon": "Grossmesser",
+            "shield": "Gilded Iron Shield",
+            "division": "Recusants"
+         },
+         "Ginger": {
+            "time": "10:36",
+            "weapon": "Noble Slender Sword",
+            "shield": "Pillory Shield",
+            "division": "Redmane"
+         },
+         "Playoff Nartock": {
+            "time": "08:49",
+            "weapon": "Longhaft Axe",
+            "shield": "Marred Wooden Shield",
+            "division": "Recusants"
+         }
+      }
+   ],
+   "Millicent Invader": [
+      {
+         "Stocko": {
+            "time": "6:00",
+            "torrent": "Yes",
+            "division": "Recusants"
+         },
+         "Serious": {
+            "time": "6:04",
+            "torrent": "Yes",
+            "division": "Redmane"
+         },
+         "Asym": {
+            "time": "5:59",
+            "torrent": "Yes",
+            "division": "Redmane"
+         },
+         "Moody": {
+            "time": "6:49",
+            "torrent": "Yes",
+            "division": "Recusants"
+         },
+         "Nartock": {
+            "time": "6:24",
+            "torrent": "Yes",
+            "division": "Recusants"
+         },
+         "Playoff Helios": {
+            "time": "5:18",
+            "torrent": "No",
+            "division": "Redmane"
+         }
+      }
+   ],
+   "Rune Bear": [
+      {
+         "NVCC Alex": {
+            "time": "10:20",
+            "weapon": "Stone Club",
+            "division": "Recusants"
+         },
+         "Serious": {
+            "time": "8:05",
+            "weapon": "Lordsworn's Greatsword",
+            "division": "Redmane"
+         },
+         "Nartock": {
+            "time": "9:13",
+            "weapon": "Star Fist",
+            "division": "Recusants"
+         },
+         "Asym": {
+            "time": "7:56",
+            "weapon": "Noble Slender Sword",
+            "division": "Redmane"
+         },
+         "Playoff Nartock": {
+            "time": "6:16",
+            "weapon": "Weathered Straight Sword",
+            "division": "Recusants"
+         },
+         "Playoff Nexus": {
+            "time": "5:45",
+            "weapon": "Longsword",
+            "division": "Recusants"
+         }
+      }
+   ],
+   "Torrent Only": [
+      {
+         "Derf": {
+            "time": "4:28",
+            "weapon": "Flamberge",
+            "division": "Redmane"
+         },
+         "ChrisChrass": {
+            "time": "4:27",
+            "weapon": "Banished Knight's Halberd",
+            "division": "Recusants"
+         },
+         "Nartock": {
+            "time": "4:23",
+            "weapon": "Star Fist",
+            "division": "Recusants"
+         },
+         "Asym": {
+            "time": "4:36",
+            "weapon": "Stone Club",
+            "division": "Redmane"
+         },
+         "Elymis": {
+            "time": "4:27",
+            "weapon": "Vulgar Militia Saw",
+            "division": "Recusants"
+         },
+         "Playoff Nartock": {
+            "time": "4:22",
+            "weapon": "Grave Scythe",
+            "division": "Recusants"
+         }
+      }
+   ],
+   "Tree Sentinel +0": [
+      {
+         "Elymis": {
+            "time": "2:41",
+            "weapon": "Weathered Straight Sword",
+            "division": "Recusants"
+         },
+         "Stocko" : {
+            "time": "2:58",
+            "weapon": "Highland Axe",
+            "division": "Recusants"
+         },
+         "Ginger": {
+            "time": "2:45",
+            "weapon": "Longsword",
+            "division": "Redmane"
+         },
+         "Serious": {
+            "time": "2:56",
+            "weapon": "Lordsworn's Greatsword",
+            "division": "Redmane"
+         },
+         "Strump": {
+            "time": "2:30",
+            "weapon": "Broadsword",
+            "division": "Redmane"
+         },
+         "Playoff Helios": {
+            "time": "2:26",
+            "weapon": "Longsword",
+            "division": "Redmane"
+         }
+      }
+   ]
+}

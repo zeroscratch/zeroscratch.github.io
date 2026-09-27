@@ -1,0 +1,110 @@
+{
+   "Quarterfinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Mixed", "score": 13, "outcome": "Bingo" },
+         "player2": { "name": "TheMilkMan", "score": 0, "outcome": "Lost" },
+         "matchTime": "02:00:00",
+         "vodLink": "",
+         "imageLink": "",
+         "scheduledAt": "11/30/2025 09:00:00 UTC",
+         "seriesType": "bo1"
+      }
+   ],
+   "Quarterfinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Rony", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Vixus", "score": 11, "outcome": "Lost" },
+         "matchTime": "01:33:47",
+         "vodLink": "",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/rony-v-vixus-playoffs.png",
+         "scheduledAt": "11/30/2025 09:00:00 UTC",
+         "seriesType": "bo1"
+      }
+   ],
+   "Quarterfinals-3": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Arkham", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Belbo", "score": 9, "outcome": "Lost" },
+         "matchTime": "01:46:14",
+         "vodLink": "",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/belbo-v-arkham-playoffs.png",
+         "scheduledAt": "11/30/2025 09:00:00 UTC",
+         "seriesType": "bo1"
+      }
+   ],
+   "Quarterfinals-4": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Tarun", "score": 12, "outcome": "Majority" },
+         "player2": { "name": "TinyBobcat", "score": 11, "outcome": "Lost" },
+         "matchTime": "02:00:00",
+         "vodLink": "",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/tarun-v-bobcat-playoffs.png",
+         "scheduledAt": "11/30/2025 15:00:00 UTC",
+         "seriesType": "bo1"
+      }
+   ],
+   "Semifinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Mixed", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Tarun", "score": 7, "outcome": "Lost" },
+         "matchTime": "01:14:16",
+         "vodLink": "",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/mixed-v-tarun-playoffs1.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Mixed", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Tarun", "score": 8, "outcome": "Lost" },
+         "matchTime": "01:25:44",
+         "vodLink": "",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/mixed-v-tarun-playoffs2.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Semifinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Rony", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Arkham", "score": 11, "outcome": "Lost" },
+         "matchTime": "01:35:52",
+         "vodLink": "",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/rony-v-arkham-playoffs.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Rony", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Arkham", "score": 8, "outcome": "Lost" },
+         "matchTime": "01:23:29",
+         "vodLink": "",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/rony-v-arkham-playoffs2.png",
+         "scheduledAt": ""
+      }
+   ],
+   "Finals": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Rony", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Mixed", "score": 7, "outcome": "Lost" },
+         "matchTime": "01:31:35",
+         "vodLink": "https://www.twitch.tv/videos/2650163834?t=00h08m01s",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/rony-v-mixed-playoffs1.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Rony", "score": 10, "outcome": "Bingo" },
+         "player2": { "name": "Mixed", "score": 4, "outcome": "Lost" },
+         "matchTime": "00:57:38",
+         "vodLink": "https://www.twitch.tv/videos/2650163834?t=02h10m27s",
+         "imageLink": "/img/events/rookie-rumble/elden-squares-season-3/playoffs/rony-v-mixed-playoffs2.png",
+         "scheduledAt": ""
+      }
+   ]
+}

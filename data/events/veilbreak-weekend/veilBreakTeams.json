@@ -1,0 +1,58 @@
+{
+   "Team1":
+   {
+      "teamName": "Udderly Eloquent",
+      "player1": "Rambler",
+      "player2": "Strump",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 119, 0, 1) 50%)"
+   },
+   "Team2":
+   {
+      "teamName": "2Guys1Board",
+      "player1": "Lemon",
+      "player2": "Jay",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(79, 217, 0, 1) 50%)"
+   },
+   "Team3":
+   {
+      "teamName": "Blade of Mercy",
+      "player1": "Shura",
+      "player2": "Nexus",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(221, 0, 255, 1) 50%)"
+   },
+   "Team4":
+   {
+      "teamName": "Sleepy Piggies",
+      "player1": "Helios",
+      "player2": "Nartock",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 0, 0, 1) 50%)"
+   },
+   "Team5":
+   {
+      "teamName": "Psidomiel",
+      "player1": "Psiphicode",
+      "player2": "Azdomiel",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 92, 138, 1) 50%)"
+   },
+   "Team6":
+   {
+      "teamName": "Team 6",
+      "player1": "Josh",
+      "player2": "Vex",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(0, 194, 187, 1) 50%)"
+   },
+   "Team7":
+   {
+      "teamName": "Bagarre FR",
+      "player1": "Typin",
+      "player2": "Ironyeu",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(45, 0, 247, 1) 50%)"
+   },
+   "Team8":
+   {
+      "teamName": "Kindred's Forgotten Cookbook",
+      "player1": "Noya",
+      "player2": "Daggar97",
+      "teamColor": "linear-gradient(135deg,rgba(28, 28, 28, 1) 0%, rgba(255, 208, 0, 1) 50%)"
+   }
+}

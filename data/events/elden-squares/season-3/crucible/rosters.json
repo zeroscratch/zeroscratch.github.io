@@ -1,0 +1,50 @@
+{
+  "base-mommy-and-daddy-ESS3Crucible": {
+    "teamId": "base-mommy-and-daddy-ESS3Crucible",
+    "players": ["noya", "turtlebeard"]
+  },
+  "corruption-ESS3Crucible": {
+    "teamId": "corruption-ESS3Crucible",
+    "players": ["tony", "fits"]
+  },
+  "nordic-thunder-ESS3Crucible": {
+    "teamId": "nordic-thunder-ESS3Crucible",
+    "players": ["steakslyons", "champalampa"]
+  },
+  "gold-but-old-ESS3Crucible": {
+    "teamId": "gold-but-old-ESS3Crucible",
+    "players": ["nvcc-alex", "jerzounek"]
+  },
+  "kchewy-ESS3Crucible": {
+    "teamId": "kchewy-ESS3Crucible",
+    "players": ["kcbrazos", "chewy"]
+  },
+  "rick-fisters-ESS3Crucible": {
+    "teamId": "rick-fisters-ESS3Crucible",
+    "players": ["josh", "daggar97"]
+  },
+  "falconsi-ESS3Crucible": {
+    "teamId": "falconsi-ESS3Crucible",
+    "players": ["amplsi", "falconraven"]
+  },
+  "niketwo-ESS3Crucible": {
+    "teamId": "niketwo-ESS3Crucible",
+    "players": ["nikeeuro", "mewtwo"]
+  },
+  "jarvis-ESS3Crucible": {
+    "teamId": "jarvis-ESS3Crucible",
+    "players": ["harv", "jxxman"]
+  },
+  "crashout-carries-ESS3Crucible": {
+    "teamId": "crashout-carries-ESS3Crucible",
+    "players": ["saetansd", "aggronio"]
+  },
+  "truthfulness-ESS3Crucible": {
+    "teamId": "truthfulness-ESS3Crucible",
+    "players": ["thegraphictruth", "nessonetta"]
+  },
+  "pandara-ESS3Crucible": {
+    "teamId": "pandara-ESS3Crucible",
+    "players": ["kiofto", "madara"]
+  }
+}

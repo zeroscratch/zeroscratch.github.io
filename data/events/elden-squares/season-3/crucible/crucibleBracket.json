@@ -1,0 +1,102 @@
+{
+   "Quarterfinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Gold But Old", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Corruption", "score": 9, "outcome": "Lost" },
+         "matchTime": "01:06:43",
+         "vodLink": "https://www.twitch.tv/videos/2631990292?t=00h22m46s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/corruption-v-gold-playoff-1.png",
+         "scheduledAt": "11/30/2025 18:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Gold But Old", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Corruption", "score": 10, "outcome": "Lost" },
+         "matchTime": "01:24:49",
+         "vodLink": "https://www.twitch.tv/videos/2631990292?t=01h52m44s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/corruption-v-gold-playoff-2.png",
+         "scheduledAt": "11/30/2025 20:00:00 UTC"
+      }
+   ],
+   "Quarterfinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Crashout Carries", "score": 11, "outcome": "Lost" },
+         "player2": { "name": "Nordic Thunder", "score": 13, "outcome": "Bingo" },
+         "matchTime": "01:13:33",
+         "vodLink": "https://www.twitch.tv/videos/2637819655?t=00h26m28s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/nordic-v-crashout-playoffs-1.png",
+         "scheduledAt": "12/7/2025 15:30:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Crashout Carries", "score": 7, "outcome": "Lost" },
+         "player2": { "name": "Nordic Thunder", "score": 13, "outcome": "Majority" },
+         "matchTime": "01:04:05",
+         "vodLink": "https://www.twitch.tv/videos/2637819655?t=02h04m28s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/nordic-v-crashout-playoffs-2.png",
+         "scheduledAt": "12/7/2025 15:30:00 UTC"
+      }
+   ],
+   "Semifinals-1": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Jarvis", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Gold But Old", "score": 10, "outcome": "Lost" },
+         "matchTime": "01:16:33",
+         "vodLink": "https://www.twitch.tv/videos/2643848612?t=04h17m53s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/jarvis-v-gold-playoffs1.png",
+         "scheduledAt": "12/14/2025 22:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Jarvis", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Gold But Old", "score": 11, "outcome": "Lost" },
+         "matchTime": "01:18:37",
+         "vodLink": "https://www.twitch.tv/videos/2643848612?t=06h00m53s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/jarvis-v-gold-playoffs2.png",
+         "scheduledAt": "12/14/2025 24:00:00 UTC"
+      }
+   ],
+   "Semifinals-2": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Rick Fisters", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Nordic Thunder", "score": 11, "outcome": "Lost" },
+         "matchTime": "01:17:46",
+         "vodLink": "https://www.twitch.tv/videos/2643848612?t=00h19m32s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/nordic-v-rick-playoffs1.png",
+         "scheduledAt": "12/14/2025 18:00:00 UTC"
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Rick Fisters", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Nordic Thunder", "score": 11, "outcome": "Lost" },
+         "matchTime": "01:14:07",
+         "vodLink": "https://www.twitch.tv/videos/2643848612?t=02h03m25s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/nordic-v-rick-playoffs2.png",
+         "scheduledAt": "12/14/2025 20:00:00 UTC"
+      }
+   ],
+   "Finals": [
+      {
+         "gameid": 1,
+         "player1": { "name": "Jarvis", "score": 13, "outcome": "Majority" },
+         "player2": { "name": "Rick Fisters", "score": 12, "outcome": "Lost" },
+         "matchTime": "01:14:28",
+         "vodLink": "https://www.twitch.tv/videos/2648202394?t=00h10m36s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/jarvis-v-rick-playoffs1.png",
+         "scheduledAt": ""
+      },
+      {
+         "gameid": 2,
+         "player1": { "name": "Jarvis", "score": 15, "outcome": "Bingo" },
+         "player2": { "name": "Rick Fisters", "score": 6, "outcome": "Lost" },
+         "matchTime": "00:59:20",
+         "vodLink": "https://www.twitch.tv/videos/2648202394?t=01h49m46s",
+         "imageLink": "/img/events/elden-squares/season-3/crucible/playoffs/jarvis-v-rick-playoffs2.png",
+         "scheduledAt": ""
+      }
+   ]
+}

@@ -1,0 +1,27 @@
+{
+   "Rambler": {
+      "time": "55:00",
+      "weapon": "Helphen's Steeple",
+      "division": "Redmane"
+   },
+   "Strump": {
+      "time": "8:29",
+      "weapon": "Weathered Straight Sword",
+      "division": "Redmane"
+   },
+   "Nexus": {
+      "time": "6:29",
+      "weapon": "Star Fist",
+      "division": "Recusants"
+   },
+   "RattyRy": {
+      "time": "9:39",
+      "weapon": "Club",
+      "division": "Recusants"
+   },
+   "Ginger":{  
+      "time":"6:10",
+      "weapon":"Sacrificial Axe",
+      "division":"Redmane"
+   }
+}

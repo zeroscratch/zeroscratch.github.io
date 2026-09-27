@@ -1,0 +1,550 @@
+{
+  "season": "Anamnesis",
+  "league": "Scadubingo",
+  "participantType": "player",
+  "format": "regularSeason",
+  "individualMaxGamesPlayed": 5,
+  "playoffSlots": 6,
+  "matches": [
+    {
+      "id": "scadu-anamnesis-001",
+      "week": 1,
+      "participants": [
+        { "id": "jxxman", "score": 12 },
+        { "id": "turtlebeard", "score": 9 }
+      ],
+      "winner": "jxxman",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jxxman-v-bekineko-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-002",
+      "week": 1,
+      "participants": [
+        { "id": "noya", "score": 9 },
+        { "id": "fun", "score": 3 }
+      ],
+      "winner": "noya",
+      "method": "Bingo",
+      "duration": "01:07:39",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/noya-v-fun-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-003",
+      "week": 1,
+      "participants": [
+        { "id": "jibbe", "score": 10 },
+        { "id": "turtlebeard", "score": 6 }
+      ],
+      "winner": "jibbe",
+      "method": "Bingo",
+      "duration": "01:22:32",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jibbe-v-bekineko-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-004",
+      "week": 1,
+      "participants": [
+        { "id": "elymis", "score": 13 },
+        { "id": "chewy", "score": 5 }
+      ],
+      "winner": "elymis",
+      "method": "Majority",
+      "duration": "01:23:48",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/elymis-v-chewy-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-005",
+      "week": 1,
+      "participants": [
+        { "id": "rambler", "score": 13 },
+        { "id": "jeff", "score": 3 }
+      ],
+      "winner": "rambler",
+      "method": "Majority",
+      "duration": "01:14:05",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/rambler-v-jeff-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-006",
+      "week": 1,
+      "participants": [
+        { "id": "dino", "score": 8 },
+        { "id": "kcbrazos", "score": 5 }
+      ],
+      "winner": "dino",
+      "method": "Bingo",
+      "duration": "00:57:27",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/dino-v-kc-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-007",
+      "week": 1,
+      "participants": [
+        { "id": "jeff", "score": 4 },
+        { "id": "josh", "score": 9 }
+      ],
+      "winner": "josh",
+      "method": "Bingo",
+      "duration": "00:50:22",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jeff-v-josh-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-008",
+      "week": 1,
+      "participants": [
+        { "id": "jibbe", "score": 13 },
+        { "id": "rambler", "score": 9 }
+      ],
+      "winner": "jibbe",
+      "method": "Majority",
+      "duration": "01:36:28",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jibbe-v-rambler-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-009",
+      "week": 1,
+      "participants": [
+        { "id": "chewy", "score": 11 },
+        { "id": "blaze", "score": 5 }
+      ],
+      "winner": "chewy",
+      "method": "Majority",
+      "duration": "02:00:00",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/chewy-v-blaze-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-010",
+      "week": 1,
+      "participants": [
+        { "id": "elymis", "score": 10 },
+        { "id": "fun", "score": 13 }
+      ],
+      "winner": "fun",
+      "method": "Majority",
+      "duration": "01:47:58",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/elymis-v-fun-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-011",
+      "week": 1,
+      "participants": [
+        { "id": "josh", "score": 13 },
+        { "id": "jxxman", "score": 5 }
+      ],
+      "winner": "josh",
+      "method": "Majority",
+      "duration": "01:15:11",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/josh-v-jxxman-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-012",
+      "week": 1,
+      "participants": [
+        { "id": "dino", "score": 2 },
+        { "id": "noya", "score": 13 }
+      ],
+      "winner": "noya",
+      "method": "Bingo",
+      "duration": "00:50:44",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/dino-v-noya-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-013",
+      "week": 1,
+      "participants": [
+        { "id": "strump", "score": 13 },
+        { "id": "thomas", "score": 11 }
+      ],
+      "winner": "strump",
+      "method": "Majority",
+      "duration": "01:42:14",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/strump-v-thomas-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-014",
+      "week": 1,
+      "participants": [
+        { "id": "strump", "score": 13 },
+        { "id": "psiphicode", "score": 1 }
+      ],
+      "winner": "strump",
+      "method": "Bingo",
+      "duration": "00:39:14",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/strump-v-psi-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-015",
+      "week": 1,
+      "participants": [
+        { "id": "kcbrazos", "score": 2 },
+        { "id": "thomas", "score": 8 }
+      ],
+      "winner": "thomas",
+      "method": "Bingo",
+      "duration": "00:54:06",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/kc-v-thomas-week1.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-016",
+      "week": 2,
+      "participants": [
+        { "id": "kcbrazos", "score": 12 },
+        { "id": "turtlebeard", "score": 9 }
+      ],
+      "winner": "kcbrazos",
+      "method": "Bingo",
+      "duration": "01:46:38",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/kc-v-turtle-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-017",
+      "week": 2,
+      "participants": [
+        { "id": "jeff", "score": 9 },
+        { "id": "turtlebeard", "score": 4 }
+      ],
+      "winner": "jeff",
+      "method": "Bingo",
+      "duration": "01:07:13",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jeff-v-turtle-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-018",
+      "week": 2,
+      "participants": [
+        { "id": "fun", "score": 10 },
+        { "id": "rambler", "score": 4 }
+      ],
+      "winner": "fun",
+      "method": "Bingo",
+      "duration": "01:02:07",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/fun-v-rambler-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-019",
+      "week": 2,
+      "participants": [
+        { "id": "strump", "score": 13 },
+        { "id": "noya", "score": 12 }
+      ],
+      "winner": "strump",
+      "method": "Bingo",
+      "duration": "01:28:11",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/strump-v-noya-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-020",
+      "week": 2,
+      "participants": [
+        { "id": "jibbe", "score": 12 },
+        { "id": "josh", "score": 12 }
+      ],
+      "winner": "josh",
+      "method": "Majority",
+      "duration": "02:15:00",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jibbe-v-josh-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-021",
+      "week": 2,
+      "participants": [
+        { "id": "elymis", "score": 6 },
+        { "id": "jxxman", "score": 1 }
+      ],
+      "winner": "elymis",
+      "method": "Bingo",
+      "duration": "00:38:12",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/elymis-v-jxxman-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-022",
+      "week": 2,
+      "participants": [
+        { "id": "chewy", "score": 7 },
+        { "id": "fun", "score": 12 }
+      ],
+      "winner": "fun",
+      "method": "Bingo",
+      "duration": "01:18:12",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/fun-v-chewy-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-023",
+      "week": 2,
+      "participants": [
+        { "id": "dino", "score": 12 },
+        { "id": "thomas", "score": 10 }
+      ],
+      "winner": "dino",
+      "method": "Majority",
+      "duration": "01:16:30",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/dino-v-thomas-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-024",
+      "week": 2,
+      "participants": [
+        { "id": "jeff", "score": 13 },
+        { "id": "thomas", "score": 4 }
+      ],
+      "winner": "jeff",
+      "method": "Bingo",
+      "duration": "01:02:46",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jeff-v-thomas-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-025",
+      "week": 2,
+      "participants": [
+        { "id": "jxxman", "score": 12 },
+        { "id": "kcbrazos", "score": 13 }
+      ],
+      "winner": "kcbrazos",
+      "method": "Bingo",
+      "duration": "02:03:57",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/kc-v-jxxman-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-026",
+      "week": 2,
+      "participants": [
+        { "id": "dino", "score": 13 },
+        { "id": "chewy", "score": 5 }
+      ],
+      "winner": "dino",
+      "method": "Bingo",
+      "duration": "01:13:23",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/dino-v-chewy-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-027",
+      "week": 2,
+      "participants": [
+        { "id": "elymis", "score": 8 },
+        { "id": "rambler", "score": 10 }
+      ],
+      "winner": "rambler",
+      "method": "Bingo",
+      "duration": "01:23:39",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/rambler-v-elymis-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-028",
+      "week": 2,
+      "participants": [
+        { "id": "josh", "score": 9 },
+        { "id": "strump", "score": 13 }
+      ],
+      "winner": "strump",
+      "method": "Majority",
+      "duration": "01:11:33",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/strump-v-josh-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-029",
+      "week": 2,
+      "participants": [
+        { "id": "noya", "score": 7 },
+        { "id": "jibbe", "score": 13 }
+      ],
+      "winner": "jibbe",
+      "method": "Bingo",
+      "duration": "01:10:39",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/noya-v-jibbe-week2.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-030",
+      "week": 3,
+      "participants": [
+        { "id": "strump", "score": 13 },
+        { "id": "fun", "score": 4 }
+      ],
+      "winner": "strump",
+      "method": "Bingo",
+      "duration": "01:08:31",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/strump-v-fun-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-031",
+      "week": 3,
+      "participants": [
+        { "id": "josh", "score": 13 },
+        { "id": "noya", "score": 8 }
+      ],
+      "winner": "josh",
+      "method": "Majority",
+      "duration": "01:23:41",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/noya-v-josh-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-032",
+      "week": 3,
+      "participants": [
+        { "id": "jibbe", "score": 13 },
+        { "id": "dino", "score": 7 }
+      ],
+      "winner": "jibbe",
+      "method": "Majority",
+      "duration": "01:27:21",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/dino-v-jibbe-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-033",
+      "week": 3,
+      "participants": [
+        { "id": "thomas", "score": 11 },
+        { "id": "jxxman", "score": 6 }
+      ],
+      "winner": "thomas",
+      "method": "Bingo",
+      "duration": "01:20:02",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jxxman-v-thomas-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-034",
+      "week": 3,
+      "participants": [
+        { "id": "jeff", "score": 13 },
+        { "id": "elymis", "score": 4 }
+      ],
+      "winner": "jeff",
+      "method": "Bingo",
+      "duration": "00:49:01",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/jeff-v-elymis-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-035",
+      "week": 3,
+      "participants": [
+        { "id": "rambler", "score": 12 },
+        { "id": "kcbrazos", "score": 7 }
+      ],
+      "winner": "rambler",
+      "method": "Bingo",
+      "duration": "01:32:10",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/rambler-v-kc-week3.png"
+      }
+    },
+    {
+      "id": "scadu-anamnesis-036",
+      "week": 3,
+      "participants": [
+        { "id": "turtlebeard", "score": 13 },
+        { "id": "chewy", "score": 6 }
+      ],
+      "winner": "turtlebeard",
+      "method": "Bingo",
+      "duration": "01:22:53",
+      "media": {
+        "vod": "",
+        "image": "/img/events/scadubingo/anamnesis/group-stage/turtle-v-chewy-week3.png"
+      }
+    }
+  ]
+}

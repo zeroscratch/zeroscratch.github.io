@@ -1,0 +1,278 @@
+{
+  "season": "ESS3",
+  "league": "Golden Order",
+  "format": "single-elimination",
+  "rounds": [
+    {
+      "name": "Quarterfinals",
+      
+      "series": [
+        {
+          "id": "QF-1",
+          "bestOf": 3,
+          "participants": [
+            "tank-and-top-ESS3GO",
+            "expedition-25-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "QF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "tank-and-top-ESS3GO", "score": 10 },
+                { "id": "expedition-25-ESS3GO", "score": 13 }
+              ],
+              "winner": "expedition-25-ESS3GO",
+              "method": "Majority",
+              "duration": "01:10:56",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://youtu.be/gFScDGTWnuk?si=_KhTFN4UcDa4804h",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/expedition-v-tank-playoffs-1.png"
+              }
+            },
+            {
+              "id": "QF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "tank-and-top-ESS3GO", "score": 9 },
+                { "id": "expedition-25-ESS3GO", "score": 13 }
+              ],
+              "winner": "expedition-25-ESS3GO",
+              "method": "Majority",
+              "duration": "00:58:18",
+              "media": {
+                "vod": "https://youtu.be/gFScDGTWnuk?si=d6v0CNpjGz0SHQX2&t=5290",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/expedition-v-tank-playoffs-2.png"
+              }
+            }
+          ],
+          "winner": "expedition-25-ESS3GO"
+        },
+        {
+          "id": "QF-2",
+          "bestOf": 3,
+          "participants": [
+            "wamp-wamp-ESS3GO",
+            "bofa-ds-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "QF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "wamp-wamp-ESS3GO", "score": 13 },
+                { "id": "bofa-ds-ESS3GO", "score": 9 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Bingo",
+              "duration": "01:03:14",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://youtu.be/woG4DHcAce0?si=N_PujYPVulaWDLm-",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/bofa-v-wamp-playoffs-1.png"
+              }
+            },
+            {
+              "id": "QF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "wamp-wamp-ESS3GO", "score": 10 },
+                { "id": "bofa-ds-ESS3GO", "score": 13 }
+              ],
+              "winner": "bofa-ds-ESS3GO",
+              "method": "Bingo",
+              "duration": "00:59:59",
+              "media": {
+                "vod": "https://youtu.be/woG4DHcAce0?si=U3j6vveJ_AYW9M2r&t=4716",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/bofa-v-wamp-playoffs-2.png"
+              }
+            },
+            {
+              "id": "QF-2-G3",
+              "gameNumber": 3,
+              "participants": [
+                { "id": "wamp-wamp-ESS3GO", "score": 13 },
+                { "id": "bofa-ds-ESS3GO", "score": 9 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "01:05:50",
+              "media": {
+                "vod": "https://youtu.be/woG4DHcAce0?si=Fx8kJepGyQmXtFuq&t=9476",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/wamp-v-bofa-playoffs3.png"
+              }
+            }
+          ],
+          "winner": "wamp-wamp-ESS3GO"
+        }
+      ]
+    },
+    {
+      "name": "Semifinals",
+      "series": [
+        {
+          "id": "SF-1",
+          "bestOf": 3,
+          "participants": [
+            "budget-team-hitless-ESS3GO",
+            "expedition-25-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "SF-1-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+                { "id": "expedition-25-ESS3GO", "score": 11 }
+              ],
+              "winner": "budget-team-hitless-ESS3GO",
+              "method": "Majority",
+              "duration": "01:01:13",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://youtu.be/xJv090vOu6o?si=ovC4roJ3uTYyqoMS",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-expedition-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-1-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 10 },
+                { "id": "expedition-25-ESS3GO", "score": 13 }
+              ],
+              "winner": "expedition-25-ESS3GO",
+              "method": "Majority",
+              "duration": "01:02:03",
+              "media": {
+                "vod": "https://youtu.be/xJv090vOu6o?si=L_FwwfCtgRJxr97X&t=4506",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-expedition-playoffs2.png"
+              }
+            },
+            {
+              "id": "SF-1-G3",
+              "gameNumber": 3,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+                { "id": "expedition-25-ESS3GO", "score": 8 }
+              ],
+              "winner": "budget-team-hitless-ESS3GO",
+              "method": "Majority",
+              "duration": "00:57:55",
+              "media": {
+                "vod": "https://youtu.be/xJv090vOu6o?si=ZrrKBL65wgewTJzs&t=9224",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-expedition-playoffs3.png"
+              }
+            }
+          ],
+          "winner": "budget-team-hitless-ESS3GO"
+        },
+        {
+          "id": "SF-2",
+          "bestOf": 3,
+          "participants": [
+            "time-complexity-ESS3GO",
+            "wamp-wamp-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "SF-2-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "time-complexity-ESS3GO", "score": 12 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Bingo",
+              "duration": "00:55:37",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://youtu.be/c2cAXcfSvtQ?si=llCQkxqXH-2S1EY5",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/complex-v-wamp-playoffs1.png"
+              }
+            },
+            {
+              "id": "SF-2-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "time-complexity-ESS3GO", "score": 12 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "01:14:47",
+              "media": {
+                "vod": "https://youtu.be/c2cAXcfSvtQ?si=XJjqljlIxmpBBCAe&t=4152",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/complex-v-wamp-playoffs2.png"
+              }
+            }
+          ],
+          "winner": "wamp-wamp-ESS3GO"
+        }
+      ]
+    },
+    {
+      "name": "Finals",
+      "series": [
+        {
+          "id": "F",
+          "bestOf": 3,
+          "participants": [
+            "budget-team-hitless-ESS3GO",
+            "wamp-wamp-ESS3GO"
+          ],
+          "games": [
+            {
+              "id": "F-G1",
+              "gameNumber": 1,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 12 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "01:11:42",
+              "scheduledAt": "",
+              "media": {
+                "vod": "https://youtu.be/27hjCCcdhJA?si=9SLORVYQbInEXVDv",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-wamp-playoffs1.png"
+              }
+            },
+            {
+              "id": "F-G2",
+              "gameNumber": 2,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 13 },
+                { "id": "wamp-wamp-ESS3GO", "score": 8 }
+              ],
+              "winner": "budget-team-hitless-ESS3GO",
+              "method": "Majority",
+              "duration": "00:59:47",
+              "media": {
+                "vod": "https://youtu.be/27hjCCcdhJA?si=X9xiJEpZk-GRBWIy&t=5064",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-wamp-playoffs2.png"
+              }
+            },
+            {
+              "id": "F-G3",
+              "gameNumber": 3,
+              "participants": [
+                { "id": "budget-team-hitless-ESS3GO", "score": 8 },
+                { "id": "wamp-wamp-ESS3GO", "score": 13 }
+              ],
+              "winner": "wamp-wamp-ESS3GO",
+              "method": "Majority",
+              "duration": "00:58:13",
+              "media": {
+                "vod": "https://youtu.be/27hjCCcdhJA?si=ocdKHBRvFX13XGvx&t=9758",
+                "image": "/img/events/elden-squares/season-3/golden-order/playoffs/hitless-v-wamp-playoffs3.png"
+              }
+            }
+          ],
+          "winner": "wamp-wamp-ESS3GO"
+        }
+      ]
+    }
+  ]
+}

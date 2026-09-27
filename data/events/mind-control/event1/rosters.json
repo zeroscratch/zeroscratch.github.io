@@ -1,0 +1,34 @@
+{
+  "tuffKnuckles-MC1": {
+    "teamId": "tuffKnuckles-MC1",
+    "players": ["dino", "rony"]
+  },
+  "the-MC1": {
+    "teamId": "the-MC1",
+    "players": ["rambler", "kcbrazos"]
+  },
+  "mog-MC1": {
+    "teamId": "mog-MC1",
+    "players": ["shura", "thomas"]
+  },
+  "cliff-MC1": {
+    "teamId": "cliff-MC1",
+    "players": ["strump", "josh"]
+  },
+  "chima-MC1": {
+    "teamId": "chima-MC1",
+    "players": ["chima", "mixed"]
+  },
+  "funjeff-MC1": {
+    "teamId": "funjeff-MC1",
+    "players": ["jeff", "fun"]
+  },
+  "pig-MC1": {
+    "teamId": "pig-MC1",
+    "players": [ "nartock", "doitz" ]
+  },
+  "animeFighters-MC1": {
+    "teamId": "animeFighters-MC1",
+    "players": [ "elymis", "wander" ]
+  }
+}

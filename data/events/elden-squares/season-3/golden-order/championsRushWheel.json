@@ -1,0 +1,432 @@
+{
+   "Blood Tax": {
+      "KCBrazos" : {
+         "time": "13:55",
+         "seed": "1958420709",
+         "weapon": "Star Fist",
+         "vod": ""
+      },
+      "Champion" : {
+         "time": "10:47",
+         "seed": "1483946565",
+         "weapon": "Verteran's Prosthesis",
+         "vod": "https://youtu.be/1Iwxk5XCyR0"
+      },
+      "Helios" : {
+         "time": "8:14",
+         "seed": "144940978",
+         "weapon": "Dragonscale Blade",
+         "vod": "https://youtu.be/G95zNjX2hNs"
+      }
+   },
+   "Rykard": {
+      "Champion" : {
+         "time": "14:24",
+         "seed": "565033484",
+         "weapon": "Great Katana",
+         "vod": "https://youtu.be/wpHAfSlW7sU"
+      },
+      "Helios" : {
+         "time": "11:04",
+         "seed": "967052473",
+         "weapon": "Bloodhound Claws",
+         "vod": "https://youtu.be/m8mH4DgTkho"
+      }
+   },
+   "DLC Rush": {
+      "Champion" : {
+         "time": "15:35",
+         "seed": "1818487997",
+         "weapon": "Greataxe",
+         "vod": "https://youtu.be/tRlJjlrccKo"
+      },
+      "Jibbe": {
+         "time": "12:28",
+         "seed": "1688881331",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": "https://youtu.be/eKJG15QhyZU?si=Ye59Bsr3js4S6f01"
+      }
+   },
+   "Magma Wyrm Theo": {
+      "Champion" : {
+         "time": "13:10",
+         "seed": "1670932069",
+         "weapon": "Dragon-Hunter's Great Katana",
+         "vod": "https://youtu.be/hj202CfhD54?si=fn6PW7yhb_8EnJG6"
+      },
+      "Thomas" : {
+         "time": "11:45",
+         "seed": "1670932069",
+         "weapon": "Dragon-Hunter's Great Katana",
+         "vod": "https://www.youtube.com/watch?v=AL5g6Ng5rZc"
+      }
+   },
+   "Mohg Lord of Blood": {
+      "Champion" : {
+         "time": "18:34",
+         "seed": "667824166",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": "https://youtu.be/aAmfiKs-3bw"
+      },
+      "Lemon": {
+         "time": "17:09",
+         "seed": "667824166",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": "https://youtu.be/8K-vtFqqnjY"
+      }
+   },
+   "Maliketh": {
+      "Champion" : {
+         "time": "18:48",
+         "seed": "1194342897",
+         "weapon": "Banished Knight's Greatsword",
+         "vod": "https://youtu.be/C-bE-bToyME"
+      },
+      "Shura": {
+         "time": "18:26",
+         "seed": "1194342897",
+         "weapon": "Banished Knight's Greatsword",
+         "vod": ""
+      },
+      "Wander": {
+         "time": "16:12",
+         "seed": "1194342897",
+         "weapon": "Messmer's Soldier Axe",
+         "vod": ""
+      },
+      "Jxxman": {
+         "time": "16:40",
+         "seed": "1194342897",
+         "weapon": "Messmer's Soldier Axe",
+         "vod": ""
+      }
+   },
+   "Radahn": {
+      "Champion" : {
+         "time": "14:40",
+         "seed": "424538012",
+         "weapon": "Zamor Curved Sword",
+         "vod": "https://youtu.be/j036hIlx-ew?si=YKC6-VEqmie6-Jj3"
+      }
+   },
+   "Loretta": {
+      "Champion" : {
+         "time": "5:03",
+         "seed": "1351291920",
+         "weapon": "Falx",
+         "vod": "https://youtu.be/k-v1ADRTxmc?si=ee0lM-2sDSSqfDuC"
+      },
+      "Thomas" : {
+         "time": "4:50",
+         "seed": "675413084",
+         "weapon": "Stormhawk Axe",
+         "vod": "https://youtu.be/bYa1BfAlNao"
+      }
+   },
+   "Real Loretta": {
+      "Champion" : {
+         "time": "18:07",
+         "seed": "967052473",
+         "weapon": "Bloodhound Claws",
+         "vod": "https://youtu.be/tSCcHBcFtGE?si=4UdTFB06HY12j8bC"
+      }
+   },
+   "Deathrite Bird in Snowfield": {
+      "Champion" : {
+         "time": "14:08",
+         "seed": "1661606457",
+         "weapon": "Envoy's Horn",
+         "vod": "https://youtu.be/SmAvRlsVeO0?si=H63gH22PlGX7cPZz"
+      },
+      "Wander" : {
+         "time": "12:40",
+         "seed": "1396982300",
+         "weapon": "Envoy's Horn",
+         "vod": ""
+      }
+   },
+   "Fist/Dagger only": {
+      "Champion" : {
+         "time": "5:06",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/SBHThbF0K_4"
+      },
+      "Jibbe" : {
+         "time": "5:37",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/6SuXsXp1KVE"
+      },
+      "Doitz": {
+         "time": "5:46",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": ""
+      },
+      "Helios": {
+         "time": "5:04",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/WQ9mP3O6hKM"
+      },
+      "Nexus": {
+         "time": "5:04",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": ""
+      },
+      "Strump": {
+         "time": "4:55",
+         "seed": "2069793022",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/6e8ng3kjMjA?si=6S61gpoM5SNBeSAw"
+      }
+   },
+   "Colossal only": {
+      "Champion" : {
+         "time": "5:50",
+         "seed": "1164210091",
+         "weapon": "Watchdog Staff",
+         "vod": "https://youtu.be/h1UaCEKDKSE"
+      },
+      "KCBrazos" : {
+         "time": "7:43",
+         "seed": "1482448019",
+         "weapon": "Bloodfiend's Arm",
+         "vod": ""
+      },
+      "Helios" : {
+         "time": "5:53",
+         "seed": "1164210091",
+         "weapon": "Watchdog Staff",
+         "vod": "https://youtu.be/YzOEXo_Xf34"
+      }
+   },
+   "Morgott": {
+      "Champion" : {
+         "time": "19:56",
+         "seed": "1129868009",
+         "weapon": "Helphen's Steeple",
+         "vod": "https://youtu.be/9GuYaRoJZQY?si=_nP0zgtSungR0UY4"
+      },
+      "Lemon" : {
+         "time": "19:59",
+         "seed": "1129868009",
+         "weapon": "Helphen's Steeple",
+         "vod": "https://www.twitch.tv/videos/2599007104?t=4587s"
+      },
+      "Doitz" : {
+         "time": "20:55",
+         "seed": "1129868009",
+         "weapon": "Helphen's Steeple",
+         "vod": ""
+      }
+   },
+   "Flying Dragon Greyll": {
+      "Champion" : {
+         "time": "9:11",
+         "seed": "1157636179",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": "https://youtu.be/gce9zF3x72k?si=eseQCEKz39oWcZDI"
+      },
+      "Fits" : {
+         "time": "5:22",
+         "seed": "144940978",
+         "weapon": "Dragonscale Blade",
+         "vod": "https://youtu.be/OdL2KGhitlI"
+      },
+      "Helios" : {
+         "time": "4:52",
+         "seed": "144940978",
+         "weapon": "Dragonscale Blade",
+         "vod": "https://youtu.be/VViQoLX3XtU"
+      }
+   },
+   "Baby Dragons": {
+      "Champion" : {
+         "time": "5:53",
+         "seed": "1088673428",
+         "weapon": "Reduvia",
+         "vod": "https://youtu.be/ca62LgtmGHw?si=bcuEL9Ijm8_E3o8O"
+      },
+      "KCBrazos" : {
+         "time": "6:05",
+         "seed": "1883980094",
+         "weapon": "Star Fist",
+         "vod": ""
+      }
+   },
+   "Red bear": {
+      "Champion" : {
+         "time": "21:46",
+         "seed": "1128130358",
+         "weapon": "Greataxe",
+         "vod": "https://youtu.be/kdjsF6-2H_8"
+      }
+   },
+   "Astel membie": {
+      "Champion" : {
+         "time": "16:28",
+         "seed": "212135093",
+         "weapon": "Great Stars",
+         "vod": "https://youtu.be/3nR9O7AmMTw?si=ku9fy-fx_dbLQ7ie"
+      }
+   },
+   "Caelid Apostle": {
+      "Champion" : {
+         "time": "10:26",
+         "seed": "5924450",
+         "weapon": "Star Fist",
+         "vod": "https://youtu.be/Zj3bqBt708I?si=mXI_I9_yjfyI_qOy"
+      }
+   },
+   "Misbegoten Crusader": {
+      "Champion" : {
+         "time": "15:19",
+         "seed": "1698284846",
+         "weapon": "Pickaxe",
+         "vod": "https://youtu.be/_zt5LogCtuE?si=RXzMItL9nt9JynNZ"
+      }
+   },
+   "Gurranq": {
+      "Champion" : {
+         "time": "7:04",
+         "seed": "892825990",
+         "weapon": "Flamberge",
+         "vod": "https://youtu.be/YY-n0JPiVpI?si=cxAvwYlsx2l4rjxq"
+      }
+   },
+   "BBK": {
+      "Champion" : {
+         "time": "10:16",
+         "seed": "892825990",
+         "weapon": "Flamberge",
+         "vod": "https://youtu.be/4-sBECm2fJI?si=keil63AxWxo6JnRw"
+      },
+      "Psiphicode" : {
+         "time": "14:08",
+         "seed": "1",
+         "weapon": "Smithscript Greathammer",
+         "vod": ""
+      },
+      "Wander" : {
+         "time": "6:57",
+         "seed": "1124248761",
+         "weapon": "Great Stars",
+         "vod": ""
+      },
+      "Thomas" : {
+         "time": "7:30",
+         "seed": "1124248761",
+         "weapon": "Great Stars",
+         "vod": ""
+      },
+      "Helios" : {
+         "time": "7:32",
+         "seed": "929563870",
+         "weapon": "Nox Flowing Hammer",
+         "vod": ""
+      }
+   },
+   "Midra": {
+      "Doitz" : {
+         "time": "30:47",
+         "seed": "946371770",
+         "weapon": "Warped Axe",
+         "vod": ""
+      },
+      "Champion" : {
+         "time": "26:26",
+         "seed": "1338351607",
+         "weapon": "Great Stars",
+         "vod": "https://youtu.be/dqCVq8HzAeI"
+      }
+   },
+   "Rellana": {
+      "Champion" : {
+         "time": "24:48",
+         "seed": "139894825",
+         "weapon": "Milady",
+         "vod": "https://youtu.be/YSe3uB1Cr5M"
+      }
+   },
+   "Hippo": {
+      "Champion" : {
+         "time": "20:18",
+         "seed": "2016101341",
+         "weapon": "Great Katana",
+         "vod": "https://youtu.be/oBC-g-nsgqQ"
+      }
+   },
+   "Regal": {
+      "KCBrazos" : {
+         "time": "27:59",
+         "seed": "1173748046",
+         "weapon": "Great Omenkiller Cleaver",
+         "vod": ""
+      },
+      "Champion" : {
+         "time": "26:07",
+         "seed": "665355356",
+         "weapon": "Grave Scythe",
+         "vod": "https://youtu.be/R1iDrD9eWLA"
+      }
+   },
+   "Commander Niall": {
+      "Champion" : {
+         "time": "14:10",
+         "seed": "183055919",
+         "weapon": "Icerind Hatchet",
+         "vod": "https://youtu.be/LiJjD9mrVF8?si=bzABkmboEv5vVJZ9"
+      }
+   },
+   "Scion": {
+      "Champion" : {
+         "time": "3:26",
+         "seed": "288685812",
+         "weapon": "Uchigatana",
+         "vod": "https://youtu.be/jc3lPjDrpAg"
+      },
+      "Doitz" : {
+         "time": "3:23",
+         "seed": "288685812",
+         "weapon": "Uchigatana",
+         "vod": "https://www.youtube.com/watch?v=ZloYtW23oLc"
+      }
+   },
+   "Malenia": {
+      "Lemon" : {
+         "time": "21:12",
+         "seed": "1311292888",
+         "weapon": "Great Katana",
+         "vod": ""
+      },
+      "Shura" : {
+         "time": "22:26",
+         "seed": "1342163065",
+         "weapon": "Morning Star",
+         "vod": ""
+      },
+      "Psiphicode": {
+         "time": "32:15",
+         "seed": "1342163065",
+         "weapon": "Freya's Greatsword",
+         "vod": ""
+      },
+      "Thomas" : {
+         "time": "39:00",
+         "seed": "1311292888",
+         "weapon": "Great Katana",
+         "vod": ""
+      }
+   },
+   "Borealis": {
+      "Champion" : {
+         "time": "14:07",
+         "seed": "474619165",
+         "weapon": "Stone Club",
+         "vod": "https://youtu.be/aGBXpEW8PX8?si=PvxraJ6ixE1EzAKZ"
+      }
+   }
+}

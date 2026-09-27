@@ -1,0 +1,202 @@
+{
+   "Bedhead": {
+      "record": "2-5",
+      "squares": 35,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "TheMilkMan", "Azdomiel" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Rony": {
+      "record": "6-1",
+      "squares": 82,
+      "lines": 4,
+      "WR": 0,
+      "H2H": [ "Bedhead", "Arkham", "Tinybobcat", "Tarun", "Psykg", "Magnitude" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Arkham": {
+      "record": "6-1",
+      "squares": 82,
+      "lines": 2,
+      "WR": 0,
+      "H2H": [ "Magnitude", "Question Marks", "Cubanmissle", "Tinybobcat", "Belbo", "Tarun" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Magnitude": {
+      "record": "3-4",
+      "squares": 70,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Cubanmissle", "Azdomiel", "Bedhead" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Jam": {
+      "record": "4-3",
+      "squares": 61,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Avery", "Psykg", "Sciryn", "Magnitude" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Krispy": {
+      "record": "2-3",
+      "squares": 16,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Yosh" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "TinyBobcat": {
+      "record": "5-2",
+      "squares": 72,
+      "lines": 2,
+      "WR": 0,
+      "H2H": [ "Krispy", "Belbo", "TheMilkMan", "Jam", "Psykg" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Cubanmissle": {
+      "record": "2-5",
+      "squares": 38,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Bedhead" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "TheMilkMan": {
+      "record": "4-3",
+      "squares": 41,
+      "lines": 3,
+      "WR": 0,
+      "H2H": [ "Cubanmissle", "Avery", "Question Marks" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Psykg": {
+      "record": "3-4",
+      "squares": 40,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Yosh" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Yosh": {
+      "record": "2-5",
+      "squares": 29,
+      "lines": 1,
+      "WR": 0,
+      "H2H": [ "Goodietoshoes", "Cubanmissle" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Azdomiel": {
+      "record": "2-4",
+      "squares": 45,
+      "lines": 2,
+      "WR": 0,
+      "H2H": [ "Krispy", "Cubanmissle" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Belbo": {
+      "record": "5-2",
+      "squares": 71,
+      "lines": 4,
+      "WR": 0,
+      "H2H": [ "Azdomiel", "Goodietoshoes", "Tito", "Yosh", "Jam" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Mixed": {
+      "record": "6-1",
+      "squares": 74,
+      "lines": 3,
+      "WR": 0,
+      "H2H": [ "Magnitude", "Azdomiel", "Psykg", "Tito", "Question Marks", "Rony" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Tarun": {
+      "record": "5-2",
+      "squares": 73,
+      "lines": 2,
+      "WR": 0,
+      "H2H": [ "Mixed", "Jam", "TheMilkMan", "Avery", "Vixus" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Avery": {
+      "record": "3-4",
+      "squares": 45,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Bedhead", "Yosh" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Goodietoshoes": {
+      "record": "1-5",
+      "squares": 21,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Bedhead" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Question Marks": {
+      "record": "3-4",
+      "squares": 45,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "Krispy", "Goodietoshoes" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Tito": {
+      "record": "1-5",
+      "squares": 17,
+      "lines": 0,
+      "WR": 0,
+      "H2H": [ "" ],
+      "Playoffs": "no",
+      "twitch": "",
+      "profile-pic": ""
+   },
+   "Vixus": {
+      "record": "4-3",
+      "squares": 60,
+      "lines": 2,
+      "WR": 0,
+      "H2H": [ "Krispy", "Avery" ],
+      "Playoffs": "yes",
+      "twitch": "",
+      "profile-pic": ""
+   }
+}
