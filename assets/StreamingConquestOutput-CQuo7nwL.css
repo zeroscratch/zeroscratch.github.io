@@ -1,0 +1,1 @@
+html:has(.conquest-output),html:has(.conquest-output) body{margin:0;padding:0;background:transparent!important;overflow:hidden}.conquest-output{width:100vw;margin:0;padding:0;background:transparent}.conquest-output-wait{display:grid;place-items:center;height:100vh;background:#0a100c;color:#a1cbb0;font:20px Segoe UI,sans-serif}

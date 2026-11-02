@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Veilbreak — World Tour flask</title>
+  <g id="mark" transform="translate(3.1 0)" stroke-linecap="round" stroke-linejoin="round">
+    <defs>
+      <linearGradient id="veilbreak-glass" x1="3" y1="13" x2="14" y2="14" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#8ab4da"/>
+        <stop offset=".55" stop-color="#d9e5f0"/>
+        <stop offset=".78" stop-color="#ffffff"/>
+        <stop offset="1" stop-color="#f5f3df"/>
+      </linearGradient>
+      <path id="veilbreak-flask-shape" d="M9.1 1.3c-1.1-.1-1.9.1-2.2.4-.1 1.6.7 4.4.8 6.8 0 .7-.7 1.1-.8 1.5l.1 1.8c-3.1.6-5 2.8-5.1 5.5-.2 3.3 2.4 5.5 5.8 5.6 3.7.2 6.8-1.7 6.9-5.1.1-2.3-1-4.1-2.8-5.5-.2-.5.3-.9.5-1.3l-.1-1.1.4-1.7c.8-1.5 1.8-3.1 3.1-4.8.2-.3-.1-.6-.4-.8-1.5-.9-3.5-1.3-6.2-1.3Z"/>
+      <clipPath id="veilbreak-flask-clip"><use href="#veilbreak-flask-shape"/></clipPath>
+    </defs>
+    <use href="#veilbreak-flask-shape" fill="url(#veilbreak-glass)" stroke="#080709" stroke-width="1.3"/>
+    <g clip-path="url(#veilbreak-flask-clip)" fill="none">
+      <g stroke="var(--competition-icon-accent, #ead18b)" stroke-width=".34" opacity=".9">
+        <path d="M11.5 1.3c-2.1 1.7 4.8 2.2 1.4 3.7-4.5 1.6-1 5.1-2 6.2-2.5 1 4.1 3.4 1.1 3.6-4.8.2 2.7 4.4.3 6-1.9 1.5-5.5.8-5.2 2.5"/>
+        <path d="M14.1 2.2c-1.7 1.9-6.4 1.7-3.5 5.3 3 3.6-3.7 1.2-.4 4.3 2 1.9-1.3 1.5.7 3.7 2 2.3-3.8 1.4-2.5 4.2 1.4 3.1-3.7 1.8-1.6 4.1"/>
+        <path d="M10.6 8.4c1.7 2.6 2.8 4.4 2.3 6.5M9.3 16.9c3.9-1.7 3 4.1-1.1 4.8"/>
+      </g>
+      <g stroke="var(--competition-icon-shadow, #a75b67)" stroke-width=".42" opacity=".7">
+        <path d="M3 14c4.6 1.6 7.6 1.8 2.7-.7-2-1.3 2.1 4.1 4 5.4M2.5 16.4c4.7 6.5 2.4-5.8 1.4-.5-.7 4.4-1.4 5.1-1.6.9M5.5 13.5c.2 3.8 2.7 7.2 3.6 8.4M3.2 18.9l3.6 3.2"/>
+      </g>
+    </g>
+    <use href="#veilbreak-flask-shape" fill="none" stroke="var(--competition-icon-primary, #f3d76d)" stroke-width=".65"/>
+    <path d="M7.1 1.8c2.4 1.4 5.5 2.3 8.4 1.6M7.8 7.1c1.4 1 2.8 1.3 4.8 1.2M7 10.8c1.2.7 2.7 1.1 4.8.7" fill="none" stroke="var(--competition-icon-primary, #f3d76d)" stroke-width=".5"/>
+  </g>
+</svg>

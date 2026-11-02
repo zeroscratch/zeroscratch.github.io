@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="2048" viewBox="0 0 24 24" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Scadubingo — Miquella's Cross</title>
+  <g id="mark" fill="none" stroke="var(--competition-icon-primary, #f0d58c)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7.4 6.2c2.4-3.1 7-2.9 8.5.5 1.6 3.6-.8 7-4.2 8.1-2.8.9-5.5-.4-6-2.8" stroke-width="1.1"/>
+    <path d="m10.9 1.5 2.7 21M8.3 10.2l7.1-2.7" stroke-width="1.05"/>
+  </g>
+</svg>
