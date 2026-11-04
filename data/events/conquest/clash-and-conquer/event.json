@@ -9,8 +9,8 @@
       "groupStage": {
         "bestOf": 1,
         "winningMethods": [
-          "Points",
-          "Time Limit",
+          "Majority",
+          "Bingo",
           "Forfeit"
         ],
         "playoffSlotsPerGroup": 4
