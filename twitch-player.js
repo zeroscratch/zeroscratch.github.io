@@ -30,7 +30,7 @@ if (!/^[a-z0-9_]{1,25}$/i.test(channel) && !/^\d{1,20}$/.test(video)) {
         width: "100%",
         height: "100%",
         layout: "video",
-        autoplay: !startWithApi,
+        autoplay: true,
         muted: query.get("muted") !== "false",
         theme: "dark",
         parent: [window.location.hostname || "localhost"],
@@ -45,12 +45,17 @@ if (!/^[a-z0-9_]{1,25}$/i.test(channel) && !/^\d{1,20}$/.test(video)) {
           if (started) return;
           started = true;
           try {
+            if(query.get("muted")!=="false")embed.getPlayer().setMuted?.(true);
             embed.getPlayer().play();
           } catch {
             fail();
           }
         });
       }
+      window.addEventListener('message',event=>{
+        if(event.origin!==window.location.origin || event.source!==window.parent || event.data?.type!=='conquest-play-stream')return;
+        try{const player=embed.getPlayer();player.setMuted(true);player.play();}catch{/* The manual Twitch control remains available. */}
+      });
       status.hidden = true;
     } catch {
       fail();
