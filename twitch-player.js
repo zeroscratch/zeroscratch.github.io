@@ -1,3 +1,4 @@
+import { createTwitchViewerController } from "./twitch-viewer-controls.js";
 // Same Twitch.Embed setup as the World Tour director. This document's short URL
 // prevents the SDK from copying a complete broadcast snapshot into its referrer.
 const query = new URLSearchParams(window.location.search);
@@ -7,6 +8,13 @@ const startWithApi = query.get("start") === "api";
 const status = document.getElementById("status");
 const message = document.getElementById("message");
 const retry = document.getElementById("retry");
+let viewerController, viewerPreferences;
+window.addEventListener("message", event => {
+  if (event.origin !== window.location.origin || event.source !== window.parent ||
+      event.data?.type !== "conquest-viewer-preferences") return;
+  viewerPreferences = event.data;
+  try { viewerController?.update(viewerPreferences); } catch { /* Twitch may still be initializing. */ }
+});
 retry.addEventListener("click", () => window.location.reload());
 function fail() {
   status.hidden = false;
@@ -52,9 +60,14 @@ if (!/^[a-z0-9_]{1,25}$/i.test(channel) && !/^\d{1,20}$/.test(video)) {
           }
         });
       }
-      window.addEventListener('message',event=>{
-        if(event.origin!==window.location.origin || event.source!==window.parent || event.data?.type!=='conquest-play-stream')return;
-        try{const player=embed.getPlayer();player.setMuted(true);player.play();}catch{/* The manual Twitch control remains available. */}
+      viewerController = createTwitchViewerController(() => embed.getPlayer());
+      if (viewerPreferences) viewerController.update(viewerPreferences);
+      embed.addEventListener(window.Twitch.Embed.VIDEO_READY, () => {
+        try { viewerController.ready(); } catch { /* Native Twitch controls remain available. */ }
+        const player = embed.getPlayer();
+        player.addEventListener(window.Twitch.Player.PLAYING, () => {
+          try { viewerController.ready(); } catch { /* Qualities may change when a stream starts. */ }
+        });
       });
       status.hidden = true;
     } catch {
