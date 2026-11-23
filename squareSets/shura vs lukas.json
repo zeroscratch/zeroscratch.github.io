@@ -1,0 +1,201 @@
+{
+  "matchInfo": {
+    "lobbyName": "FIVEOH",
+    "admins": [
+      "Aljex"
+    ],
+    "players": [
+      {
+        "name": "Aljex",
+        "team": -1,
+        "teamName": "Spectator",
+        "isAdmin": true,
+        "isSpectator": true
+      },
+      {
+        "name": "madmanmoon93",
+        "team": -1,
+        "teamName": "Spectator",
+        "isAdmin": false,
+        "isSpectator": true
+      },
+      {
+        "name": "Shura",
+        "team": 1,
+        "teamName": "Blue Team",
+        "isAdmin": false,
+        "isSpectator": false
+      },
+      {
+        "name": "Lukas",
+        "team": 4,
+        "teamName": "Purple Team",
+        "isAdmin": false,
+        "isSpectator": false
+      }
+    ],
+    "squareSetJsonFileName": "Conquest v1.03.json",
+    "matchStartedAt": "2026-11-23T19:09:43.8477339Z",
+    "matchEndedAt": "2026-11-23T20:09:35.0866723Z",
+    "matchEndedAtSeconds": 3591,
+    "matchTimeSeconds": 3591,
+    "matchTime": "00:59:51",
+    "matchStatus": "Finished",
+    "paused": false
+  },
+  "markedSquares": [
+    {
+      "squareName": "Kill 3 Dragon Heart Bosses",
+      "markedBy": "Lukas",
+      "markedAt": 740,
+      "position": "C1R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill a Godskin Noble",
+      "markedBy": "Lukas",
+      "markedAt": 1151,
+      "position": "C3R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Acquire a Seedbed Curse",
+      "markedBy": "Lukas",
+      "markedAt": 1745,
+      "position": "C5R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill the Cleanrot Knight Duo",
+      "markedBy": "Shura",
+      "markedAt": 2040,
+      "position": "C1R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Acquire 3 unique Sorceries (no vendors)",
+      "markedBy": "Shura",
+      "markedAt": 1137,
+      "position": "C2R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Loretta (Blue Spirit)",
+      "markedBy": "Shura",
+      "markedAt": 1137,
+      "position": "C3R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Valiant Gargoyles",
+      "markedBy": "Shura",
+      "markedAt": 3567,
+      "position": "C4R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill the Giant Wormface in Farum Azula",
+      "markedBy": "Shura",
+      "markedAt": 2540,
+      "position": "C5R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Hoarah Loux",
+      "markedBy": "Lukas",
+      "markedAt": 2784,
+      "position": "C3R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Glintstone Dragon Smarag",
+      "markedBy": "Lukas",
+      "markedAt": 361,
+      "position": "C4R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill the Limgrave Tree Sentinel with a +0 Weapon only",
+      "markedBy": "Shura",
+      "markedAt": 70,
+      "position": "C5R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 3 NPC Invaders",
+      "markedBy": "Lukas",
+      "markedAt": 1598,
+      "position": "C2R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 3 NPC Bosses",
+      "markedBy": "Lukas",
+      "markedAt": 3265,
+      "position": "C4R5",
+      "pointValue": 1
+    }
+  ],
+  "remainingSquares": [
+    {
+      "squareName": "Complete Giants-Conquering Hero's Grave",
+      "position": "C2R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill both Bosses in Black Knife Catacombs",
+      "position": "C4R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Mohg, Lord of Blood",
+      "position": "C1R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 2 Omenkillers",
+      "position": "C2R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Full-Grown Fallingstar Beast",
+      "position": "C1R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Complete Consecrated Snowfield Catacombs",
+      "position": "C3R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Sewer Mohg",
+      "position": "C4R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Acquire 4 Non-Hermit Merchant Bell bearings",
+      "position": "C5R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Fell Twins",
+      "position": "C1R5",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Acquire 3 Named Spirit Ashes",
+      "position": "C2R5",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 3 Bosses with 'Spirit' in their name",
+      "position": "C3R5",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Acquire Latenna's Spirit Ash",
+      "position": "C5R5",
+      "pointValue": 1
+    }
+  ]
+}
