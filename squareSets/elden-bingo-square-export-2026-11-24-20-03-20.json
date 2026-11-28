@@ -1,0 +1,200 @@
+{
+  "matchInfo": {
+    "lobbyName": "ZGLPC",
+    "admins": [
+      "Aljex"
+    ],
+    "players": [
+      {
+        "name": "Jibbe",
+        "team": -1,
+        "teamName": "Spectator",
+        "isAdmin": false,
+        "isSpectator": true
+      },
+      {
+        "name": "Lukas",
+        "team": -1,
+        "teamName": "Spectator",
+        "isAdmin": false,
+        "isSpectator": true
+      },
+      {
+        "name": "Shura",
+        "team": -1,
+        "teamName": "Spectator",
+        "isAdmin": false,
+        "isSpectator": true
+      },
+      {
+        "name": "Chewy",
+        "team": 4,
+        "teamName": "Purple Team",
+        "isAdmin": false,
+        "isSpectator": false
+      },
+      {
+        "name": "Helios",
+        "team": 4,
+        "teamName": "Purple Team",
+        "isAdmin": false,
+        "isSpectator": false
+      },
+      {
+        "name": "Aljex",
+        "team": 6,
+        "teamName": "Pink Team",
+        "isAdmin": true,
+        "isSpectator": false
+      },
+      {
+        "name": "Gamegit",
+        "team": 6,
+        "teamName": "Pink Team",
+        "isAdmin": false,
+        "isSpectator": false
+      }
+    ],
+    "squareSetJsonFileName": "scaduquest.json",
+    "matchStartedAt": "2026-11-25T01:50:15.4370731Z",
+    "matchEndedAt": null,
+    "matchEndedAtSeconds": null,
+    "matchTimeSeconds": 786,
+    "matchTime": "00:13:06",
+    "matchStatus": "Running",
+    "paused": false
+  },
+  "markedSquares": [
+    {
+      "squareName": "Acquire 9 Cracked Pots",
+      "markedBy": "Gamegit",
+      "markedAt": 167,
+      "position": "C1R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill the Runebear Boss",
+      "markedBy": "Aljex",
+      "markedAt": 115,
+      "position": "C2R2",
+      "pointValue": 1
+    }
+  ],
+  "remainingSquares": [
+    {
+      "squareName": "Kill Queelign in Belurat",
+      "position": "C2R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill BOFA Duo",
+      "position": "C3R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Collect 4 DLC spirit ashes",
+      "position": "C4R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 4 Bloodhound Knights",
+      "position": "C5R1",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill an Ancient Dragon",
+      "position": "C1R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill both Bosses in Black Knife Catacombs",
+      "position": "C3R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Roundtable Knight Vyke",
+      "position": "C4R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Acquire 2 Unique Glovewort Bell Bearings",
+      "position": "C5R2",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Complete 3 Tunnels (Excl. Precipice)",
+      "position": "C1R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 2 Crystalian Bosses",
+      "position": "C2R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Placidusax",
+      "position": "C3R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Golden Hippopotamus",
+      "position": "C4R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill an Erdtree/Putrid Avatar in a Legacy Dungeon",
+      "position": "C5R3",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Return Latena to the Giant Albunaric (sic)",
+      "position": "C1R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 3 Putrid or Erdtree Avatars",
+      "position": "C2R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 2 Grafted Scions",
+      "position": "C3R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Acquire 3 Whetblades (No Whetstone Knife)",
+      "position": "C4R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Putrescent Knight",
+      "position": "C5R4",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill the Divine Bird Warrior by Verdigris Discus",
+      "position": "C1R5",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Collect 4 Unique Helms",
+      "position": "C2R5",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill 2 Black Knife Assassins",
+      "position": "C3R5",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Rykard, Lord of Blasphemy",
+      "position": "C4R5",
+      "pointValue": 1
+    },
+    {
+      "squareName": "Kill Scadutree Avatar",
+      "position": "C5R5",
+      "pointValue": 1
+    }
+  ]
+}
